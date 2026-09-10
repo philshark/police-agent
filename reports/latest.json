@@ -1,0 +1,8 @@
+{
+ "subject": "heypolo sitemap monitor FAILED",
+ "body_markdown": "heypolo monitor FAILED: cannot fetch sitemap https://heypolo.com/sitemap.xml: curl: (56) CONNECT tunnel failed, response 403\n\nTraceback (most recent call last):\n  File \"/home/user/police-agent/crawl.py\", line 362, in <module>\n    main()\n  File \"/home/user/police-agent/crawl.py\", line 192, in main\n    raw_urls = sitemap_urls(SITEMAP_URL)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/user/police-agent/crawl.py\", line 83, in sitemap_urls\n    raise RuntimeError(f\"cannot fetch sitemap {url}: {err}\")\nRuntimeError: cannot fetch sitemap https://heypolo.com/sitemap.xml: curl: (56) CONNECT tunnel failed, response 403\n",
+ "changed_count": -1,
+ "total": 0,
+ "baseline": false,
+ "error": "cannot fetch sitemap https://heypolo.com/sitemap.xml: curl: (56) CONNECT tunnel failed, response 403"
+}
