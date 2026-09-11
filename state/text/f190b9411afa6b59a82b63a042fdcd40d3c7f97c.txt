@@ -1,0 +1,183 @@
+Share Location Between iPhone and Android: Easy Guide
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Blog/
+Location sharing
+Share Location Between iPhone and Android: Easy Guide
+Sharing location between iPhone and Android is harder than it should be. Apple and Android don’t share location with each other natively, so there’s no signal built-in option that works seamlessly. This guide covers the three methods that work across both platforms.
+Sinead
+5 min read•June 2, 2026
+Can you share the location between an iPhone and an Android?
+Yes, you can. The only catch is that Apple and Android don't share location with each other natively, so you won't find a single built-in option that does the job seamlessly.
+But there are solutions that work on both  and depending on what you need, some are better suited than others.
+How to share location between iPhone and Android
+Three methods work reliably across both platforms. Which one makes sense depends on how and when you want to use it.
+1. HeyPolo
+HeyPolo works on both iPhone and Android, which makes it the most straightforward option if you've got a mixed household.
+It goes further than just compatibility. It's a privacy-first location-sharing app where every person controls exactly how, when, and with whom they share their location.
+Updates refresh continuously too, so you're seeing real-time location rather than a stale pin from ten minutes ago. If you just want to check where someone's been rather than watching live, HeyPolo also keeps a short location history you can glance back at.
+You can be visible to some people in your household and invisible to others, share your exact spot or just a general area, perfect for balancing security with wanting to stay connected with your family.
+You can also set place alerts: get notified when someone arrives at or leaves a location, without opening the app to check. And if someone needs help, they can send an SOS to their chosen emergency contacts directly from the app. And if someone needs help, they can send an SOS to their chosen emergency contacts directly from the app, the same kind of feature worth building into an emergency plan on paper that covers more than just severe weather.
+Location sharing instructions on HeyPolo
+Download HeyPolo on iPhone or Android. One person pays for the subscription. Everyone else joins for free.
+Create a group or invite all your contacts
+Set your location sharing preference, choose who sees you, how precisely, and when.
+Best for: Families, couples, and close friends who want to stay connected, including parents working through a back-to-school checklist for two on two different school schedules.
+Get HeyPolo
+One subscription covers everyone you care about
+2. WhatsApp
+If your group is already on WhatsApp, you don't need a separate app. WhatsApp lets you share your live location directly in any chat, one-on-one or in a group.
+Keep in mind that location sharing expires after a maximum of 8 hours, so it's better suited for one-off moments than staying connected long-term.
+Besides, there are no alerts, no privacy controls, and no way to share a general area instead of your exact spot.
+Location sharing instructions on WhatsApp
+On iPhone:
+Open a chat.
+Tap the "+" icon next to the text field on the left.
+Select Location.
+Tap Share Live Location.
+Choose a duration: 15 minutes, 1 hour, or 8 hours.
+Tap Send.
+On Android:
+Open a chat.
+Tap the paperclip icon.
+Select Location.
+Tap Share Live Location.
+Choose a duration: 15 minutes, 1 hour, or 8 hours.
+Tap Send.
+Best for: People who already use WhatsApp daily and need a quick, no-download solution for short-term sharing.
+3. Google Maps
+Most people already have Google Maps installed. It works across iPhone and Android, and you don't need to download anything new.  just a Google account on both sides.
+Before you start, make sure you're signed in to your Google account and that the person you're sharing with is saved in your Google Contacts.
+Location sharing instructions on Google Maps
+Open Google Maps.
+Tap your profile picture in the top right.
+Tap Location sharing, then Share location.
+Choose how long to share — set a duration or select Until you turn this off.
+Select a contact or copy a link to send via text or email.
+Tap Share.The recipient will see your location in their Google Maps app in real time.
+One thing to know: the person you're sharing with needs a Gmail account to see your location interactively. If they don't have one, they can still view it via a link, but only for up to 24 hours.
+Google Maps doesn't have place alerts or privacy controls beyond turning sharing on or off entirely. It's reliable, but it's not built around staying connected with a group long-term.
+Best for: Occasional sharing, meeting up, letting someone know you're on the way, or coordinating with someone you don't share location with regularly.
+Alternative ways to share location between iPhone and Android
+A few other apps let you share location across iPhone and Android, though location sharing is a side feature, not what they're built for (and it shows).
+Snapchat lets you share your location on Snap Map, either with all friends or select people. It works across iPhone and Android, but it's tied to the app — if someone doesn't use Snapchat regularly, it's not practical.
+Signal lets you share a live location for up to 24 hours in a one-on-one or group chat. Better for privacy than most, but still time-limited and not built for ongoing use.
+Facebook Messenger supports live location sharing in one-on-one chats for up to an hour.
+None of these apps are designed for staying connected with friends and family day to day. If you need a quick one-off share and already use the app, they'll do the job. Yet none offer place alerts or privacy controls beyond a basic location pin.
+Which method is right for you?
+All methods work — but they're built for different things.
+WhatsApp and Google Maps are convenient if you're already using them and just need a quick, one-time share. Neither is designed for staying connected long-term, and neither gives you much control over who sees what.
+HeyPolo is the only one built specifically for ongoing location sharing with privacy controls, place alerts, trip history and an SOS feature.
+If you've got a mixed iPhone and Android household and want something that actually works day to day, it's the most complete option.
+HeyPolo
+WhatsApp
+Google Maps
+Works across iPhone & Android
+✓
+✓
+✓
+Ongoing sharing
+✓
+✕
+✓
+Privacy controls (exact spot vs. general area)
+✓
+✕
+✕
+Arrival alerts
+✓
+✕
+✕
+SOS (Emergency contact) feature
+✓
+✕
+✕
+Recurring location sharing
+✓
+✕
+✕
+Driving speed monitoring
+✓
+✕
+✕
+Group sharing
+✓
+✓
+✓
+If all you need is a quick share, any of these will work. If you want something built for the long term, HeyPolo is the one. Free to download - one plan covers your whole family.
+Get HeyPolo
+One subscription covers all your loved ones. They always join for free.
+FAQ
+Can you share the location between an iPhone and an Android?
+Yes, you can share it, but not with the tools built into your phone. You need an app that works on both. The most convenient options are WhatsApp, Google Maps, and HeyPolo.
+Google Maps lets you share continuously, and WhatsApp caps out at 8 hours. Neither gives you much control over who sees what. HeyPolo works across both devices and gives you control over who sees you, how precisely, and when.
+Can Android users track iPhone location?
+Yes, but only with the right app. Find My is iPhone-only, so it won't work on your Android device. Google Maps, WhatsApp, and HeyPolo all let Android and iPhone users see each other's locations, as long as sharing is enabled.
+How to share a live location permanently from an iPhone to an Android?
+There are two most convenient options to achieve this. Google Maps and HeyPolo both support ongoing sharing with no set expiry.
+In Google Maps, select "Until you turn this off" when prompted. HeyPolo works the same way, but also lets you control visibility person by person, switch between sharing your exact location or just a general area, or share on a recurring schedule.
+How do I track my wife's iPhone with my Android?
+Location sharing works best when it goes both ways,  both people choose what they share and when.
+Google Maps and HeyPolo both work across iPhone and Android. Besides, HeyPolo gives each person control over their own visibility, so it feels like staying connected with your partner rather than being checked on.
+Can I share my location with a group of people?
+Yes. WhatsApp uses your existing group chats. Google Maps lets you share with multiple contacts at once. HeyPolo is designed specifically for groups and lets you control your visibility separately within each one.
+Can you track someone from an iPhone to a Samsung?
+Yes, as long as you're using a cross-platform app. Google Maps, WhatsApp, and HeyPolo support iPhone-to-Android tracking, including Samsung. Just note that they all require the other person to share their location with you first.
+Is there a free app to share location between iPhone and Android?
+Yes. HeyPolo, WhatsApp and Google Maps all let you share location across iPhone and Android for free. HeyPolo has a free trial. With one paid HeyPolo subscription, you can stay connected with all of your friends and family.
+On this page
+Can you share the location between an iPhone and an Android?
+How to share location between iPhone and Android
+1. HeyPolo
+2. WhatsApp
+3. Google Maps
+Alternative ways to share location between iPhone and Android
+Which method is right for you?
+FAQ
+Can you share the location between an iPhone and an Android?
+Can Android users track iPhone location?
+How to share a live location permanently from an iPhone to an Android?
+How do I track my wife's iPhone with my Android?
+Can I share my location with a group of people?
+Can you track someone from an iPhone to a Samsung?
+Popular articles
+FEATURES
+Real-time location sharing
+Group location sharing
+Location sharing history
+Location-Based Alerts
+SOS Alerts
+Car Crash Detection
+Severe Weather Alerts
+FOR WHO
+Parents of teens
+Families
+Carers of ageing parents
+Friend groups
+RESOURCES
+Blog
+Help center
+COMPANY
+Pricing
+Contact us
+About us
+Press
+SOCIAL
+Facebook
+Instagram
+LinkedIn
+TikTok
+Copyright © 2026 HeyPolo. All Rights Reserved
+Terms & ConditionsPrivacy Policy

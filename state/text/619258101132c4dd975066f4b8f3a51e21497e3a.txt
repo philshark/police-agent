@@ -1,0 +1,195 @@
+The Severe Weather Alert App for Your Whole Family | HeyPolo
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+The weather alert app that tells your people when it matters
+When an official warning covers someone in your group, the people who love them find out immediately.
+Notifies you when someone in your group is in a location with a severe weather warning
+See exactly which warning it is and how far it reaches, right on the map
+Off completely in Private Mode. Sharing is always the sender's call.
+USD 4.99USD 1.99 /moOne plan covers everyone
+Download on theApp Store Get it onGoogle Play
+🌪️Jordan is in a Tornado Warning ZoneJust now
+Families already using HeyPolo
+Thousands of users and a growing community around Heypolo means you join something proven. Built by the team behind Surfshark, trusted by over 4M users worldwide.
+4.9 ★on App Store
+4.9 ★on Google Play
+90.7%recommended on Mumsnet
+How HeyPolo works as a weather alert app for your whole group
+HeyPolo pulls from the same public warnings that official meteorological authorities already issue. When one of these agencies puts out a Warning, HeyPolo checks it against where the people in your group actually are, whether that's a precise location or a general area.
+A Warning doesn't always mean someone's in immediate danger. Sometimes it means the roads are about to flood, or cell service is about to get patchy, the kind of thing worth knowing even when everyone ends up fine. In extreme cases, it means real danger, and that's exactly when you want to already know.
+Warning sources
+NWS, ECCC, Met Office, Meteoalarm, BoM
+Alert trigger
+Official Warnings only
+Alert timing
+As soon as published
+Alert history
+7 days
+Platforms
+iOS, Android
+How severe weather alerts reach your group
+Four things happen without anyone opening the app. Warnings come straight from the official agencies, and matching happens in the background.
+1
+An agency issues a Warning
+NWS, ECCC, the Met Office, Meteoalarm and national EU services, or the Bureau of Meteorology publishes it publicly.
+2
+HeyPolo matches it to your group
+The warning area is checked against where your group members are, whether that's a precise pin or a general area.
+3
+Everyone who should know, knows
+The person inside the warning zone and everyone in their group are notified at the same time.
+4
+You decide what happens next
+Call, check in, or open the map to see which warning covers them and where.
+Warnings only, never Watches or Advisories, and off completely in Private Mode.
+Why HeyPolo is the emergency weather alert app families actually keep
+Only for real Warnings
+Watches and Advisories don't trigger anything. You'll hear from HeyPolo when a Warning is actually in effect, not every time one's possible.
+Built for the people who aren't there
+The person in the warning zone probably already got a government alert. This one's for everyone else in the group who wouldn't otherwise know.
+One plan, the whole family
+Weather alerts aren't a separate purchase. They come with the same HeyPolo subscription that covers everyone you invite.
+Respects Private Mode
+If someone's not sharing their location, HeyPolo doesn't know where they are, and it can't warn anyone about them.
+Where severe weather alerts help most
+Weather warnings land while people are out living their day. Here's how that plays out for four different groups.
+An elderly parent who lives alone
+An extreme heat warning covers her zip code, and she's not the type to call and mention it.
+You get notified the moment a Warning covers her location, whether she calls or not
+Per-group controls keep this alert going straight to you, not the whole family thread
+A hiker heading into patchy signal
+A flash flood warning covers the trail right around when their signal drops.
+You get notified based on their last shared location, even after signal goes
+General-area sharing is enough for a match, so a rough trail location still counts
+A grandparent who still drives long distances
+A winter storm warning covers three hundred miles of the interstate she's already on.
+Both of you get notified the moment the warning covers her stretch of road
+The map shows exactly where the warning starts and ends along her route
+A delivery driver working late routes
+A tornado warning goes up over the neighborhood he's mid-route through, after dark.
+Everyone in his group gets notified at once, not just him
+Arrival alerts confirm the moment he's back somewhere safe
+Privacy inside a weather warning app
+Weather alerts follow the same consent your family already set up. If someone is sharing their location, precisely or by general area, HeyPolo can match them against an active Warning.
+If they've turned on Private Mode, HeyPolo has no location to check, so it can't tell you anything, and it won't try.
+Turning weather alerts off for a specific group works the same way as turning off any other kind of sharing.
+Get StartedSecurity & Privacy page
+GDPRAES-256Independently verified
+Private Mode blocks it entirely
+No location shared means no warning can be matched. HeyPolo doesn't make exceptions for weather.
+General-area sharing is enough
+You don't need to share a precise pin. Knowing the county or region is enough to match a Warning.
+Per-group control
+Turn weather alerts off for one group without changing anything for another.
+Never sold
+Location and weather data are encrypted and never sold to advertisers, insurers, or data brokers. Never. Not now, not ever.
+Why families pick HeyPolo for weather alerts
+One HeyPolo plan covers your whole family. Weather warnings are one of the things it watches for.
+Real Warnings onlyWatches and Advisories stay quiet, so the alerts you do get are worth reading.No alert fatigue One subscription, however many peopleOne person pays, everyone else joins free, so the price doesn't climb as your group grows.From $1.99/mo Identical on iPhone and AndroidSame warnings, same timing, no platform gaps in a mixed-phone household.iOS + Android
+Know, before you have to ask
+You choose who's in your group, what they see, and for how long.
+Get HeyPolo
+Families using HeyPolo as their weather emergency app
+“Very nice app, looking beautiful.”
+RJRobJuz 🇵🇱
+“It's fun, very convenient, accurate. I love it. I would recommend it to anyone.”
+HQHis Queen89 🇺🇸
+“Simple, private and reliable.”
+DJdr.jofff 🇱🇹
+“It's a great family tracking app, love the features.”
+OCObsoleteCat 🇱🇹
+How HeyPolo compares as a severe weather alert app
+How HeyPolo lines up against patterns common across location sharing apps.
+HeyPolo
+Life360
+Find My
+Google Maps
+Update interval
+5 sec active / 30 sec background
+~30 sec
+1–5 min
+1–5 min
+Location accuracy
+~5 m
+~5 m
+~5 m
+~5 m
+Works on iPhone and Android
+Background battery use
+~4% / day
+8–12%
+~5%
+5–8%
+Location history retention
+7 days
+30 days
+Timeline, user-controlled
+Live sharing without a subscription
+Privacy controls for every member
+Auto-stop sharing with timers
+No data selling
+One price for the whole family
+Arrival and departure alerts
+SOS and emergency alerts
+Driving and speed alerts
+30-day money-back guarantee
+Weather alerts FAQ
+What is a dangerous weather condition app, exactly?
+It's an app that tells you when someone you care about is in an area under an official severe weather warning, not just an app that shows you the forecast. HeyPolo checks your group's locations against real public warnings and tells you when there's a match.
+What's the best severe weather alert app for a family, not just one phone?
+That depends on what your family actually needs, which usually isn't more forecasts. It's fewer false alarms and the right people finding out fast. HeyPolo only triggers on real Warnings, and it tells both the person in the warning zone and their group. Most weather apps built for a single phone don't do the second part.
+Is HeyPolo a free weather alert app?
+HeyPolo is free to download. Weather alerts come with your HeyPolo subscription, and one plan covers everyone you invite to your family, so the cost doesn't grow as your group does.
+Does HeyPolo work as a weather alert app for iPhone?
+Yes. HeyPolo is available on iOS, and weather alerts work the same way there as they do on Android.
+Does the weather alert app work on Android too?
+Yes. iOS and Android get the same warnings, at the same time, with no platform gaps.
+What counts as a severe weather warning app alert versus a regular forecast?
+A forecast is a prediction. A Warning is an official statement from an agency like the National Weather Service or the UK Met Office that severe conditions are happening or about to. HeyPolo only alerts on the second one.
+Is this a code red weather alert app?
+Some agencies label their most severe alerts "red," like the UK Met Office's Red Warning. HeyPolo doesn't rename or reinterpret any of this. Whatever the issuing agency calls a Warning is exactly what shows up in your app.
+How is HeyPolo different from a severe weather app I already have?
+Most severe weather apps are built to tell you about your own location. HeyPolo tells your group about each other's. If your mother is under a tornado warning three states away, she probably knows it already. You might not, until HeyPolo tells you.
+There's more in the app than weather alerts
+Every feature is included in the same plan, for everyone in your group.
+One-tap SOSFor when a warning turns into something someone needs help with right now.Learn more Arrival alertsKnow the moment someone gets somewhere safe, warning or not.Learn more General-area sharingShare enough for weather alerts to work without sharing an exact pin.Learn more Low battery alertsA heads-up before someone's phone dies mid-storm, right when you'd want to reach them most.Learn more
+FEATURES
+Real-time location sharing
+Group location sharing
+Location sharing history
+Location-Based Alerts
+SOS Alerts
+Car Crash Detection
+Severe Weather Alerts
+FOR WHO
+Parents of teens
+Families
+Carers of ageing parents
+Friend groups
+RESOURCES
+Blog
+Help center
+COMPANY
+Pricing
+Contact us
+About us
+Press
+SOCIAL
+Facebook
+Instagram
+LinkedIn
+TikTok
+Copyright © 2026 HeyPolo. All Rights Reserved
+Terms & ConditionsPrivacy Policy

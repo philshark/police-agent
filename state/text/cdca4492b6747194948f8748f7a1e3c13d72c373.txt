@@ -1,0 +1,198 @@
+Vehicle Data Transmission and Who Sees Your Driving Data
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Blog/
+Driving
+Vehicle Data Transmission, Who Sees It & What They Do With it
+Where your driving data goes after you park, who pays for it, and how to shut off the parts you never agreed to.
+Phil
+7 min read•August 10, 2026
+The first time I set up a car app on my phone, the permission screen asked for location, contacts, and the ability to run in the background. I tapped agree, because the alternative was standing in a parking lot reading a privacy policy on a 6-inch screen.
+No one’s got time for that.
+But that tap is where vehicle data transmission begins for most people, and almost nobody is told where the information goes next.
+Car data privacy concerns start with a screen you tap past
+A trip does not stop being a trip when you park. Details about where you went, how fast you drove, and what time you got home can leave the car, reach the manufacturer, and in some documented cases reach companies that impact your insurance.
+Drivers deserve a clear map of that route and real ways to shorten it.
+Consent should be an ongoing choice you can revisit, not a signature collected once at a dealership.
+What vehicle data transmission means
+Vehicle data transmission is information moving from a car or its connected service to another system, such as a manufacturer's platform, an app vendor, or a company that buys records.
+A car can generate plenty of information locally and keep it there. Transmission is the separate step where selected records travel somewhere else.
+Several paths carry that information. Many newer cars have their own cellular connection built in. Y
+our phone can carry data too, once you pair it or install the manufacturer's app.
+Connected-service accounts (roadside assistance, remote unlock, navigation) also have their own channel. The U.S. Government Accountability Office described connected cars as capable of wirelessly collecting and transmitting information about their internal and external environments, which is a plain way of saying the car has something to say and a way to say it.
+What matters for you is that generation, storage, and transmission are three different things, and the setting menus in most cars mix them together.
+How to tell whether vehicle data collection active in your car
+Before following where records travel, it helps to know which ones may exist. Availability of that flow varies by vehicle, service, country, and which settings someone switched on, so your car may produce a shorter list than this one.
+Location and routes, including saved destinations and recent trips.
+Driving events such as speed, acceleration, braking, cornering, seatbelt status, distance covered, and trip timing.
+Vehicle condition, including engine readings and tire pressure.
+Anything your phone hands over when paired, such as contacts, call logs, messages, voice input, and account details.
+The European Data Protection Board takes the view that movement and vehicle-condition information counts as personal data once it can be linked to an identifiable person, which is why tire pressure is alongside your home address.
+In the United States, the Texas Attorney General alleged in 2024 that GM technology collected detailed driving information from most 2015 model year or newer GM vehicles. That allegation has not been established as fact by a court.
+HeyPolo lets you choose between your exact location and a general area, and you can set sharing to run only for a school run or a night out. When the window closes, sharing stops on its own.
+Learn More
+How driving analytics turn a trip into a score
+Raw events on their own are dull. A time stamp, a speed reading, a note that a seatbelt was fastened. Driving analytics take thousands of those readings and compress them into a single number that someone (or something) else can act on.
+CompliancePoint reported in 2024 that the disputed GM data included speed, seatbelt status, distances, and times, and that partner companies used behaviors such as sharp turns, speeding, and hard braking to build what they called a Driving Score.
+A score like that carries the assumptions of whoever designed it.
+Hard braking looks the same in the data whether you were tailgating or whether a cyclist appeared from between two parked cars. The number records the event and loses the reason.
+Who receives transmitted data in the automotive industry
+The chain runs further than most drivers expect, and no two vehicles follow the same one. Reading a scoring system is one thing. Finding out who holds the score is harder, because the companies involved often have no direct relationship with you at all.
+Recipient
+Possible data
+Possible use
+Where to look
+Automaker or connected-service provider
+Location, driving events, vehicle condition, account details
+Running the service, product development, marketing where disclosed
+Manufacturer privacy statement and connected-services agreement
+Vendors and processors
+Whatever the contract covers
+Mapping, hosting, roadside support
+Third-party or service-provider section of the policy
+Data brokers
+Driving records or derived scores
+Resale to buyers who pay for risk information
+Sharing and sale disclosures, opt-out pages
+Insurers
+Scores or event summaries
+Underwriting, pricing, coverage decisions
+Insurer notices and any telematics program terms
+Advertisers, where disclosed
+Aggregated or behavioral segments
+Ad targeting
+Behavioral advertising settings
+Emergency responders
+Location during a crash or SOS call
+Sending help
+Emergency-services terms
+Government or law enforcement
+Varies by request and jurisdiction
+Investigations, where legally permitted
+Legal-requests section of the policy
+Retention is just as important as the recipient list.
+Security researcher Sam Curry documented a flaw in one manufacturer's connected service that would have exposed a year of location history, accurate to within 5 meters and updated each time the engine started.
+The flaw was fixed. The year of stored history was there because the system kept it, which tells you something about how long these records sit around.
+Car companies selling data to insurance, and what the record shows
+An insurer can receive driving information through several routes, and telling them apart changes what you can do about it.
+Records you hand over during a quote or a claim are one route. A telematics program you joined for a discount is another.
+The third route is the one that surprised people, where an automaker or an affiliated service passed driving records to a broker, and the broker sold them onward.
+The Federal Trade Commission alleged in January 2025 that GM failed to clearly disclose that precise location and driving behavior data would be sold to consumer reporting agencies, and it described the case as its first connected vehicle case.
+The proposed order would ban GM and OnStar for five years from disclosing sensitive geolocation and driver behavior data to those agencies. Separately, the Texas Attorney General alleged in 2024 the unlawful sale of more than 1.5 million Texans' driving data to insurance companies.
+One documented case is not proof about every brand.
+It does show the route exists, and that a driver following the money would have had no way to trace it from the dashboard.
+How to manage car data privacy without guessing
+Limiting collection, opting out of sharing, and requesting deletion are three separate actions you can take. But it's worth remembering that turning off a collection toggle today may leave last year's records sitting with a company you have never contacted.
+It may pay to speak to the previous owner of your car to see if they're willing to share details of their insurer with you to further opt out.
+Here is a sequence you can adapt to your own car, here and now:
+Find your vehicle identification number and list which connected services are attached to the car.
+Run that number through Privacy4Cars' Vehicle Privacy Report, which the Electronic Frontier Foundation recommends as a starting point.
+Open the manufacturer app and the infotainment menus, looking for headings such as Data Privacy or Data Usage.
+Review any insurance program, driving-score, behavioral-advertising, and third-party-sharing options one at a time.
+Submit separate requests where they are available, one to limit use, one to opt out of sharing, and one to delete records already held.
+Check what permissions your paired phone granted, and withdraw the ones you do not need.
+Consumer Reports treats those requests as distinct actions for good reason, because completing one does not complete the others. Switching off collection may also disable connected functions you use, and the manufacturer should tell you which ones before you decide.
+Stopping location sharing is a common sticking point in family apps too, where people turn sharing on for one evening and forget it for a year, exactly the kind of habit worth fixing with a family emergency plan you actually review twice a year.
+With HeyPolo, sharing runs for as long as you chose and then stops. Private mode pauses it at any point, without leaving the group.
+Learn More
+Privacy checks for passengers and used cars
+Everything above assumes one owner and one phone. Cars change hands, and infotainment systems have long memories of more than just that playlist you had driving down the coast on that warm summer evening.
+Before you sell or return a car
+Remove every paired device and delete user profiles.
+Clear saved destinations, including home and work.
+Remove garage door codes and any stored payment details.
+Unlink the connected-service account from your name.
+Run the manufacturer's factory reset and deletion process, which is separate from the menu clearing above.
+After you buy a used car
+Reset the system before you pair anything.
+Remove accounts belonging to the previous owner.
+Change any access credentials the car uses.
+Confirm with the manufacturer that the app account is now yours and not the seller's.
+Passengers have a choice here too. Pairing a phone to a friend's car copies contacts and call history into a system you do not control, and a Bluetooth audio connection alone often does the job without that transfer.
+What regulators require and where rights differ
+Your options depend heavily on where you live.
+In the United States, the Federal Trade Commission's action against GM was its first involving connected vehicle data, and rights beyond that vary state by state, with some states offering deletion and opt-out rights that others do not. Federal auditors flagged the oversight question years earlier, when the Government Accountability Office recommended in 2017 that the National Highway Traffic Safety Administration define and communicate its role in vehicle data privacy.
+In the European Union, the rules are different entirely.
+Companies collect only what a stated purpose requires, they use it only for that purpose, and they obtain consent in advance where the law calls for it. The European Data Protection Board also says connected-vehicle systems should apply data protection by design and by default, meaning the privacy-respecting configuration is the one the car ships with.
+None of that is legal advice, and rules change. Your national regulator and the manufacturer's privacy portal will have the current position.
+What meaningful consent looks like
+Stopping transmission going forward does nothing about records already held elsewhere, which is why deletion is is a completely different part of a larger process.
+European guidance summarized by Bird & Bird in 2021 goes further, saying drivers should be able to stop certain collection temporarily or permanently at any moment, including where a usage-based insurance contract is in place.
+I used to think an opt-out toggle was the whole answer, but being able to be forgotten is what's most ikportant.
+Reversibility only counts when it reaches the records that already left.
+HeyPolo gives everyone in the group control over what they share, how precisely, and when it stops. One subscription covers the whole family.
+Get Started
+FAQ
+What is vehicle data transmission?
+Vehicle data transmission is the movement of information from a vehicle or its connected service to another system. That system might be a manufacturer's platform, a vendor working under contract, a data broker, or an insurer. A car can also generate and store information without transmitting it, so collection and transmission are separate steps worth checking separately.
+How to manage car data privacy
+Managing car data privacy takes several separate actions. A driver can check which collection settings are switched on in the manufacturer app and infotainment menus, review sharing and advertising permissions, submit a deletion request for records already held, and reset the system during a vehicle sale or purchase. Completing one of those actions does not complete the others.
+Do insurance companies share information?
+Insurers may exchange information with each other for underwriting or claims purposes where local law and policy terms allow, including claims history held in industry databases. Vehicle telematics reaches insurers by a different route, through a manufacturer, an affiliated service, or a data broker, subject to contracts, disclosures, and consent requirements that vary by country and state.
+How can I tell if vehicle data collection active settings are enabled?
+The manufacturer app and the infotainment privacy menu are the first places to look, often under headings such as Data Privacy or Data Usage. The connected-service account page lists which services are attached to the vehicle. A vehicle identification number lookup can add detail. Labels differ by manufacturer, so the same setting carries different names across brands.
+Can driving analytics affect insurance prices?
+Driving analytics can influence underwriting, pricing, or coverage decisions when an insurer receives a driving score and uses it, subject to local law and the terms of the specific program. The Federal Trade Commission alleged in 2025 that GM sold precise location and driving behavior data to consumer reporting agencies without clear disclosure.
+Should I reset a connected car before selling it?
+Resetting before a sale removes profiles, paired phones, saved destinations, payment details, and stored access codes from the system. The manufacturer's own reset and deletion process is a separate step from clearing individual menus, and unlinking the connected-service account keeps the previous owner's name off the vehicle going forward.
+On this page
+Car data privacy concerns start with a screen you tap past
+What vehicle data transmission means
+How to tell whether vehicle data collection active in your car
+How driving analytics turn a trip into a score
+Who receives transmitted data in the automotive industry
+Car companies selling data to insurance, and what the record shows
+How to manage car data privacy without guessing
+Privacy checks for passengers and used cars
+Before you sell or return a car
+After you buy a used car
+What regulators require and where rights differ
+What meaningful consent looks like
+FAQ
+What is vehicle data transmission?
+How to manage car data privacy
+Do insurance companies share information?
+How can I tell if vehicle data collection active settings are enabled?
+Can driving analytics affect insurance prices?
+Should I reset a connected car before selling it?
+Popular articles
+FEATURES
+Real-time location sharing
+Group location sharing
+Location sharing history
+Location-Based Alerts
+SOS Alerts
+Car Crash Detection
+Severe Weather Alerts
+FOR WHO
+Parents of teens
+Families
+Carers of ageing parents
+Friend groups
+RESOURCES
+Blog
+Help center
+COMPANY
+Pricing
+Contact us
+About us
+Press
+SOCIAL
+Facebook
+Instagram
+LinkedIn
+TikTok
+Copyright © 2026 HeyPolo. All Rights Reserved
+Terms & ConditionsPrivacy Policy

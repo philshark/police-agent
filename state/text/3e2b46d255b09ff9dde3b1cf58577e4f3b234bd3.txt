@@ -1,0 +1,182 @@
+Location Not Working? How To Fix It on iPhone, Android or Windows | HeyPolo
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Blog/
+App tips & guides
+Fix Location Permissions Fast on Any Device: 5 Quick Checks
+A location pin from six hours ago looks identical to one from thirty seconds ago, which is why most "why isn't this working" problems get misdiagnosed. The usual fixes are small, one permission toggle, a VPN overriding GPS, or Low Power Mode pausing updates. Full walkthrough for iPhone, Android and Windows.
+Phil
+5 min read•August 27, 2026
+Start with the two settings that cause most location failures: the device's master location switch and the specific app's permission level.
+Turn Location Services (iOS) or Location (Android) on at the system level, then open the app itself and set it to While Using or Always, enabling Precise Location if the app needs an exact position.
+Confirm you have a working Wi-Fi or cellular connection.
+That combination resolves the majority of location problems in under two minutes.
+Quick Checklist: The Fastest Fixes To Try Right Now
+Before you touch anything advanced, run through this sequence in order.
+Most location breakdowns come from one of these five things, roughly in the order they turn out to be the actual cause.
+Check the master switch. On iOS, go to Settings → Privacy & Security → Location Services. On Android, go to Settings → Location. Both need to read "On."
+Open the app's own permission. Set it to While Using the App or Always, depending on what the app needs to function.
+Toggle Precise Location on if the app needs an exact pin rather than a general area.
+Restart the app, then the device. Flip Airplane Mode on and off to reset the radio connection, and confirm you actually have signal or Wi-Fi.
+Check date and time are set to automatic, install any pending OS updates, and step outside for a clean GPS test.
+If you've done all five and the pin still won't move, the problem is likely deeper than a toggle.
+If that's the case, move on to the device-specific steps below.
+GPS accuracy drops indoors and near tall buildings, so test outdoors before deciding anything's broken. A "stuck" pin sometimes just means a weak signal, nothing to do with permissions.
+How Do You Fix Location Permissions On An iPhone?
+Apple keeps every location control in one place, so this is the shortest fix on the list.
+Open Settings → Privacy & Security → Location Services and confirm the master toggle at the top is on. Without it, no app on the phone can access location, no matter what its individual setting says.
+From there, scroll to the specific app and tap it.
+You'll see three or four options depending on the app: Never, Ask Next Time, While Using the App, and sometimes Always. Family location apps and fitness trackers usually need Always to keep working when the screen is off. Below that, toggle Precise Location on for any app that needs an exact address, not just a neighborhood.
+If you're troubleshooting Find My or a family sharing app, check which device is set as the "From" option in Share My Location. Location sharing apps often break because the wrong device (an old iPad in a drawer, for example) is set as the reporting source.
+Test the fix in order: toggle the permission, fully close and reopen the app, restart the phone, then test outdoors.
+If none of that works, go to Settings → General → Transfer or Reset iPhone → Reset → Reset Location & Privacy.
+That last option resets every location and privacy permission to Apple's defaults without erasing photos, messages, or app data. Every app will need to ask for permission again the next time it opens. That's the goal, a clean slate instead of hunting for the one setting that's actually wrong.
+It's the digital equivalent of clearing a jammed lock rather than replacing the whole door.
+How Do You Fix Location Permissions On Android?
+Android's location settings live in more places than iOS, which is why this is usually the platform with the most confusion. Start at Settings → Location and confirm "Use location" (sometimes labeled "Access to my location") is switched on.
+Everything else depends on that one switch.
+Next, dig into the individual app. Go to Settings → Apps → [app name] → Permissions → Location, and set it to Allowed only while in use or Allowed all the time, depending on whether the app needs to track in the background.
+A family safety app or delivery tracker typically needs the "all the time" setting to send alerts when the screen is off.
+Android also separates Approximate location, which covers roughly 3 square kilometers, from Precise, which usually narrows to around 50 meters. If an app shows you in the wrong neighborhood entirely, check whether it's stuck on Approximate when it needs Precise.
+Turn on Location Accuracy in your location settings menu.
+This lets the phone supplement GPS with Wi-Fi and mobile network data, which fixes a lot of "spinning wheel, no signal" situations, especially indoors.
+If an app never asked for permission properly the first time, you can often force the prompt again by using a feature that requires location, like refreshing a map or triggering an SOS alert. Android's runtime permission model is built to reissue that dialog when a location-dependent action actually happens.
+If the permission dialog refuses to reappear, uninstall and reinstall the app. That clears whatever permission state got stuck and forces a fresh request.
+Why Won't Location Work On Windows?
+Windows location problems are usually simpler than they look. Nine times out of ten it's one overlooked setting.
+Go to Settings → Privacy & security → Location and confirm the toggle at the top is on.
+Scroll down to see which apps have location access, and flip on "Let apps access your location" for anything that needs it, including your browser.
+Check whether "Notify when apps request location" is enabled, so you can catch new requests instead of missing them silently.
+If your laptop keeps reporting an old address, such as a previous home or office, look for the Default location setting under the same menu and clear it. Windows can cache a manual location and keep using it instead of pulling live GPS or Wi-Fi data, which is the most common cause of a Windows device showing a stale address.
+Restart any affected app after making changes, and give it a minute to pull a fresh position.
+Is The Problem Your Phone Or The Other Person's?
+Before you touch a single setting, look at the timestamp on the location pin.
+A pin that says "5 hours ago" is a completely different problem than one that says "just now" but sits in the wrong place. Stale data almost always traces back to the other device, not yours.
+Common culprits on the other person's end: Low Power Mode (which throttles background location updates on iOS), no cellular or Wi-Fi connection, Share My Location switched off, or the wrong device selected as the reporting source.
+If your teenager's phone shows an old location, don't reset your own settings first. Parents of teens run into this constantly, and the fix is usually on their end: ask them to check theirs.
+Have the other person open Settings and confirm Location Services (or Location) is on.
+Ask them to disable Low Power Mode or any battery saver mode, since these commonly pause background location updates.
+Have them restart the device and confirm they're signed in to the correct account.
+Remember: you can't remotely change permissions on someone else's phone. You can only guide them through it.
+Save this checklist as a text message template. When a family member's location freezes, send the four steps above instead of troubleshooting your own phone for something that isn't broken.
+When Should You Reset Location Settings Entirely?
+Save resets for last. They clear more than just the one thing that's actually broken.
+Use them once the basics have failed and the problem clearly isn't limited to one app.
+Reset Location & Privacy (iOS): found in Settings → General → Transfer or Reset iPhone → Reset. This wipes every app's location and privacy permission back to factory defaults. Nothing else on the phone is touched, but every app will ask for permission again, so budget a few minutes to preapprove the ones you actually use.
+Reset network settings: useful when Wi-Fi, Bluetooth, or cellular configurations seem corrupted alongside location issues. This clears saved Wi-Fi passwords and custom network configs, so make sure you know your Wi-Fi password before you do it.
+Check for OS and carrier updates first, and test outdoors for a clean GPS signal before assuming hardware is the issue.
+Back up your device before either reset, just in case.
+If location still fails after all of that, especially if GPS never locks even outdoors, the issue may be a hardware fault.
+At that point, it's worth calling the manufacturer's support line or a repair technician.
+Preventive Settings That Stop This From Happening Again
+Do this once and you probably won't be back here next month.
+Set most apps to While Using the App. Save Always for the handful that genuinely need background access, a family safety app or a fitness tracker.
+Turn on Precise Location only for apps where exact positioning actually matters, like navigation or geofenced alerts. Leaving it off for everything else saves battery and limits how much detail apps collect.
+Keep your OS and apps updated. Old software is a common, boring cause of permission bugs.
+Make sure background cellular data is allowed for apps that need to report location without Wi-Fi.
+Walk family members through sharing their location between iPhone and Android once, together, so nobody's stuck guessing later.
+If an app offers "Send Last Known Location" or arrival alerts, turn those on, especially if your kids get themselves home from school. They give you a usable data point even when live tracking briefly drops.
+Which Apps Are Quietly Using Your Location In The Background?
+Most people have no idea how many apps are pulling their location while the screen is off. The check itself takes about a minute.
+On iPhone, go to Settings → Privacy & Security → Location Services and look at the icon next to each app.
+A solid purple arrow means an app used your location recently, a hollow gray arrow means it's used location in the past 24 hours, and an outlined arrow means the app has geofencing set up to trigger by location.
+Android shows something similar under Settings → Location → App location permissions, where each app is labeled by its current permission tier. You can also check Settings → Privacy → Permission manager → Location to see a chronological list of which apps requested access recently and how often.
+Scroll through this list at least once a season.
+It's common to find an app you barely use, like an old shopping app or a game, still set to Always allow. Background access does more than improve accuracy. It lets an app quietly build a history of everywhere you go, even when you're not using it.
+If you find an app you don't recognize requesting frequent background access, that's worth investigating before you assume it's harmless. Revoke access for anything that doesn't need it, and only keep Always enabled for apps whose entire purpose depends on it, like family location sharing or delivery tracking.
+Could A VPN Or Spoofing App Be Breaking Your Location?
+If your location suddenly shows a city you're not in, or an app insists you're somewhere you left hours ago, a VPN or a spoofing app is a common overlooked cause.
+VPNs route your internet traffic through a different server, and some apps use IP-based location as a fallback when GPS is weak or blocked, which means a VPN can override an accurate GPS reading with a location based on the VPN server instead.
+Spoofing apps are more direct.
+They exist specifically to fake GPS coordinates, often for gaming or app-testing purposes, and they can leave a phone reporting a fixed fake location even after you've closed the spoofing tool. If your location seems frozen in a place you've never been, check whether a developer or mock-location app is still active.
+To check which one it is:
+Temporarily disable your VPN and see if the location corrects itself. If it does, the VPN's server was the problem, and your permissions were fine all along.
+On Android, go to Settings → System → Developer options and confirm "Select mock location app" is off. If you don't remember enabling Developer options, it's worth checking whether someone else set it up on a shared or teen device.
+On iOS, spoofing typically requires third-party tools or jailbreaking, which is less common, but worth ruling out if the phone has been modified.
+If you rely on a family location app, an active VPN or spoofing tool on a teenager's phone can look identical to a settings problem. Rule this out before assuming the app itself is broken.
+How Do You Control Location Access In Your Browser?
+Browsers ask for location separately from your operating system, which means a website can be blocked from your location even when every app on your phone works fine, and vice versa.
+Each major browser handles this in a similar spot, usually under site settings or privacy settings.
+In Chrome, go to Settings → Privacy and security → Site settings → Location.
+You'll see a list of sites you've allowed or blocked, and you can remove any site to reset its permission so it asks again. Safari on iOS and Mac handles this under Settings → Safari → Location, with an option to set access per website or block it entirely. Firefox keeps a similar list under Settings → Privacy & Security → Permissions → Location.
+If a website that used to know your location suddenly stops working, check two things: whether you accidentally blocked it in the past (browsers remember that choice indefinitely) and whether your browser's location access is enabled at the OS level in the first place.
+A browser can only request what the operating system allows it to have.
+Clear a mistaken "block" by finding the site in your browser's permission list and removing it, which prompts a fresh request next visit.
+Remember that incognito or private browsing sessions often ask for location again even on sites you've previously allowed, since that mode doesn't carry saved permissions.
+If a site works on one device but not another, compare both the browser's site permission and the device's master location switch.
+What Do The Location Icons In Your Status Bar Actually Mean?
+The icon at the top of your screen tells you whether an app is actively using your location, before you even open Settings.
+On iPhone, a solid arrow icon in the status bar means an app is actively using your location right now. If you see that arrow and don't recognize why, swipe down and check which app triggered it.
+Android shows a similar location pin icon in the status bar or notification shade when an app is actively requesting your position.
+Newer Android versions also show a small green dot in the top corner when the camera or microphone is active, but the location icon specifically is the pin or arrow symbol.
+Both platforms also log a history you can check later.
+On iPhone, that's the arrow types described earlier (solid purple, gray outline, geofence outline) inside Location Services settings.
+On Android, the Privacy dashboard under Settings shows a timeline of exactly which apps accessed location, camera, or microphone over the past 24 hours, which is worth a glance if you ever wonder what's been running in the background.
+If you notice the location icon appearing constantly for an app you rarely open, go check its permission level and dial it back to While Using the App instead of Always.
+What Actually Matters Most When You're Troubleshooting Location
+Check the timestamp before you touch a single setting.
+A location pin from six hours ago and a location pin from thirty seconds ago look identical on a map, but they're completely different problems, and treating a stale-data issue like a broken permission wastes time and sometimes breaks things that weren't broken in the first place.
+Check the other person's device before you touch your own.
+Most "my family location app stopped working" situations trace back to Low Power Mode or a dead connection on the other person's phone. Your own settings are usually fine.
+It's why HeyPolo's permission prompts are built to be explicit, and arrival alerts depend on getting Always access right the first time, so families aren't left guessing.
+Want Location Sharing That Just Works For Your Family?
+HeyPolo is built around the problem covered above, location sharing that actually stays reliable instead of freezing, lagging, or quietly losing background access after an update.
+Real-time location sharing, arrival alerts when someone reaches home or school, low battery notifications, and an SOS feature that sends your precise location in an emergency all depend on one thing working correctly: permissions set up right from the start.
+HeyPolo asks for Always location access and Precise Location, the same settings covered in the iOS and Android sections above, so arrival alerts and SOS signals trigger accurately without you having to babysit the app.
+Unlike many location sharing apps, HeyPolo doesn't sell or share location data with advertisers, and one subscription covers your whole family group on both iOS and Android.
+If today's troubleshooting reminded you how fragile ad hoc location sharing can be, visit the HeyPolo landing page and see whether a dedicated, privacy-first setup fits your family better.
+On this page
+Quick Checklist: The Fastest Fixes To Try Right Now
+How Do You Fix Location Permissions On An iPhone?
+How Do You Fix Location Permissions On Android?
+Why Won't Location Work On Windows?
+Is The Problem Your Phone Or The Other Person's?
+When Should You Reset Location Settings Entirely?
+Preventive Settings That Stop This From Happening Again
+Which Apps Are Quietly Using Your Location In The Background?
+Could A VPN Or Spoofing App Be Breaking Your Location?
+How Do You Control Location Access In Your Browser?
+What Do The Location Icons In Your Status Bar Actually Mean?
+What Actually Matters Most When You're Troubleshooting Location
+Want Location Sharing That Just Works For Your Family?
+Popular articles
+FEATURES
+Real-time location sharing
+Group location sharing
+Location sharing history
+Location-Based Alerts
+SOS Alerts
+Car Crash Detection
+Severe Weather Alerts
+FOR WHO
+Parents of teens
+Families
+Carers of ageing parents
+Friend groups
+RESOURCES
+Blog
+Help center
+COMPANY
+Pricing
+Contact us
+About us
+Press
+SOCIAL
+Facebook
+Instagram
+LinkedIn
+TikTok
+Copyright © 2026 HeyPolo. All Rights Reserved
+Terms & ConditionsPrivacy Policy

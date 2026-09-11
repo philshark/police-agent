@@ -1,0 +1,323 @@
+HeyPolo | Privacy Policy
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Safety Features
+Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
+Who It's For
+Parents with teenagers Families Carers of ageing parents Friend groups
+Blog
+Pricing
+Log in
+Privacy Policy
+Last updated 2026-08-28
+Table of content:
+Personal data HeyPolo collects
+Retention of personal data
+Your data protection rights
+Personal data recipients
+International personal data transfers
+Cookies
+Your personal data security
+Children’s privacy
+Third party links and services
+Contact us
+Additional terms you should know
+General information
+HeyPolo believes you should be in control of your privacy and personal data. That is why our privacy policy (“Privacy Policy”) explains exactly how we handle your personal data – from collection, usage to protection – and gives you clear choices about it when you use our HeyPolo website (“Website”) and mobile app (all together “Services”).
+This Privacy Policy applies to Services operated by HeyPolo Inc., established in 25910 ACERO, MISSION VIEJO, CA 92691 (“we”, “us”, or “our”).
+This Privacy Policy, along with our Terms of Service, forms a legally binding agreement that governs your relationship with us. We urge you to read it carefully to understand how we manage your personal data.
+As a data controller, we process your personal data in compliance with relevant privacy regulations, including the General Data Protection Regulation (GDPR).
+Your continued use of our Website and Services signifies your acceptance of this Privacy Policy. If you do not agree with its terms, please refrain from using our Services, including the Website.
+We may make changes to this Policy. We will inform you of any major updates in advance through our Website or by email. The "Last Updated" date at the top of the policy will always reflect the most recent version.
+1. Personal data HeyPolo collects
+We want you to know that your privacy is a top priority for us. We only collect a limited amount of personal data – the information that helps us identify you – so we can provide our services, make them better, and fulfill our legal obligations. We're committed to handling your data responsibly.
+Here’s a simple breakdown of the purposes we gather your information and the data we collect data:
+1.1. For you to be able to create your HeyPolo account:
+Data collected
+Legal basis
+How long we keep it
+Email address, your name, your group code or group name, your role in the group.
+Legal basis for the processing of your personal data is to conclude a service agreement with you.
+We will retain your personal data while your account is active and for 2 years after your last login.
+To create an account, you must first verify your email address. A unique verification code will be sent to the email address you provide, and you must enter this code to finalize your registration.
+Please be aware that account creation is not possible without a group code. If you do not possess a group code, you have the option to create your own group by providing a group name and specifying your role. Upon creation, you will receive a group code that can be shared with friends or family you wish to include.
+1.2. For your friend or family member to be able to join the group:
+Data collected
+Legal basis
+How long we keep it
+Email address, name, group code, role in the group.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will retain your personal data while your account is active and for 2 years after your last login.
+Your friends or family members will be able to join the group by entering the group code you’ve shared with them.
+1.3. To provide you with HeyPolo Services
+Data collected
+Legal basis
+How long we keep it
+Your email address, your name, your role in the group, group code, group name, your added places, your familiar area, , name of other members in the group, other information they decide to share with you.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will retain your personal data while your account is active and for 2 years after your last login.
+Information about trips, including information about arrival and departure.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will process your personal data for 30 days or until you withdraw your consent, whichever occurs first.
+Geolocation data
+Legal basis for the processing of personal data is your consent
+We will process your personal data until you withdraw your consent.
+Motion and fitness activity data
+Legal basis for the processing of personal data is your consent
+We will process your personal data for 30 days or until you withdraw your consent, whichever occurs first.
+For the purpose of processing your payments and refunds, we rely on trusted payment partners. These partners collect essential transaction details, which may include the transaction date, your IP address, credit card number, and the cardholder’s name. Please be aware that depending on your location, they may also require further identification, such as a personal ID, passport, or address. For a complete understanding of the personal data they process and store, please review their individual privacy policies.
+To ensure the full-Service functionality and proper operation, we ask for your separate consent for the collection of certain data. This includes precise geolocation data, which we collect from your mobile device using GPS coordinates and latitude/longitude.
+With your separate consent, we will collect motion and fitness activity data, such as information on your speed and direction, as well as accuracy readings for both metrics. This data is used to provide a more reliable method for determining your method of transportation.
+You can control the collection of your location and movement data directly from your device settings. You can disable location services entirely, which will restrict HeyPolo from accessing your location. Alternatively, you have a right to revoke permission for HeyPolo to access your device's location and motion data. Nevertheless, please note that changing these settings will impact the functionality of the app and its ability to provide Services
+In addition, to ensure you receive the best possible Services, we will ask for your separate consent to send you push notifications. These notifications will be related to your use of the Services or that of your group members. You can always control push notifications in your device settings.
+Please note that we will use your data to make our Services unique to you. This processing is based on contractual necessity because the core function of the Service you purchased is to continuously learn your personal usage patterns. Simply put, data analysis is essential – without this learning, we cannot fulfill our contractual obligation to provide the personalized experience you expect.
+1.4. For you to be able to manage your account preferences and sharing data with other group members:
+Data collected
+Legal basis
+How long we keep it
+Added places
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will retain your personal data while your account is active and for 2 years after your last login.
+Information about trips, arrival at or departure from the places, the exact time of arrivals and departures, dates of your trips, duration of each trip.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will process your personal data for 30 days or until you withdraw your consent, whichever occurs first.
+You can add multiple familiar places, such as your home or school. These places become a shared asset for your group, meaning all group members can view the name and full address of each place you add. All group members will receive a push notification when you arrive at or depart from these places, including the exact times of your arrivals and departures. If you give other group members permission to see your exact location in real time, be aware that they will also have access to the history of your trips. This includes the full details of your journeys – when and where you started, the route you followed, and where you ended up.
+You have full control over your privacy settings. You can choose whether to share your precise location in real time or a general one (such as the neighborhood you are in) with each group member. Your contacts can ask for more specific access to your location, like moving from seeing your general area to your exact location. It's always up to you to approve or deny these requests.
+Additionally, you can customize your notification preferences for each individual group member, allowing you to choose which group members' location changes you receive alerts for.
+1.5. To add your emergency contacts and / or to activate the SOS feature
+Data collected
+Legal basis
+How long we keep it
+Emergency contact number, emergency contact name, date and time emergency contact was activated.
+Legal basis for the processing of personal data is your consent.
+We will retain your personal data while your account is active, unless you delete your emergency contact data earlier.
+You can add one or more emergency contacts to your account. If you activate the SOS feature, we will send a text message to each person on your emergency contact list informing them of your request and the time the request was issued. You can add anyone you like as an emergency contact, and these people don't have to be part of your family group.
+1.6 To send you transactional emails, such as important updates and announcements related to your account or use of the Services and Website:
+Data collected
+Legal basis
+How long we keep it
+Your email address, the content of the email address, date and time of email sent.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We keep your personal data for as long as you use the services and for 2 years after the last login.
+While you are in control of your marketing preferences, we will still send you certain transactional and service-related emails These emails are essential for the proper functioning of the Services you have requested. Therefore, you cannot opt out of receiving them.
+1.7 To send you special offers, surveys, newsletters, and other marketing material we believe may interest you:
+Data collected
+Legal basis
+How long we keep it
+Your email address, the content of the email letter, the date and time of the email letter sent.
+Legal basis for the processing of personal data is your consent or our legitimate interest to conduct marketing activities.
+We will process your information until we receive your opt-out request.
+To stop receiving our marketing emails, you can either click the "unsubscribe" link at the bottom of any email or send an opt-out request to support@heypolo.com. If you have more than one email address in our system, you will need to unsubscribe each one to be fully removed.
+To ensure you receive our Services properly, we will ask for your separate consent to send you push notifications. These notifications will be related to your use of the Service or that of your group members. You can always turn off push notifications in your device settings.
+1.8. To facilitate your communication with our customer support team and handle any inquiries you submit:
+Data collected
+Legal basis
+How long we keep it
+Your email address, the content of inquiry, including any information that you share with our customer support team that is necessary to resolve the query, date and time of inquiry.
+We process your personal data with your consent or in our legitimate interest to provide you with the necessary information.
+We keep personal data used for communication and customer support for as long as your subscription is valid and up to 2 years after your last contact.
+To ensure the security and privacy of your account, we require your identity verification before we can assist with your customer support inquiry. This process helps us protect your data and provide you with the most accurate and personalized support.
+1.9. To fix bugs or errors, and provide technical support for our Services:
+Data collected
+Legal basis
+How long we keep it
+Email address, group name, OS and mobile app version, device model.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We keep your personal data for as long as you use the services and for 2 years after the last login.
+To ensure a seamless and reliable experience, we use your personal data identify and fix bugs or errors within our Services, so we can effectively troubleshoot and resolve your technical issues.
+1.10. To carry out market research and perform internal analytics
+Data collected
+Legal basis
+How long we keep it
+We aggregate and anonymize the data we collect for this purpose. We then maintain and use this data only in its anonymized form.
+Legal basis for the processing of this deidentified data is our legitimate interest.
+Since the data is anonymized, we will process it indefinitely.
+To improve our services and operate our business more effectively, we conduct market research and analysis using aggregated and/or inferred non-personal information. This helps us understand customer needs, analyze sales, and identify key business trends.
+1.11. To improve our analytics and optimize advertising
+Data collected
+Legal basis
+How long we keep it
+Cookie ID, mobile device identifiers, device specification, operating system, IP address, browser information, advertising IDs.
+Legal basis for the processing of personal data is your consent to deliver relevant ads and promotional messages to you, and to attribute sales.
+We will process your personal data until you withdraw your consent.
+When you use our Services, we only collect information about your activity with cookies and other technologies if you’ve given us your permission. We may also receive some information from our advertising partners for analytical and advertising purposes. Our advertising partners help us attribute sales, deliver more relevant ads and promotional messages to you, which may include interest-based advertising and account-based advertising.
+You are always in control of your cookie settings. You can manage them directly in your browser. For more information, including how to turn off cookies, please see Section 6 of this Privacy Policy.
+1.12. To comply with legal requirements, exercise or defend legal claims
+Data collected
+Legal basis
+How long we keep it
+Email address, your account information, and / or other information that is necessary to fulfill the purpose.
+The legal basis for processing your personal data is twofold: it may be a legal obligation to which we are subject (e.g., when statutory data collection is required), or it may be our legitimate interest to defend our rights and interests in the event of any legal process involving you.
+We may retain personal data for as long as we need to comply with legal obligations, respond to government requests, or enforce our contracts and Terms of Service, including investigating potential violations.
+1.13. To collect applicable tax, solve payment related issues, prevent fraud, and ensure accounting
+Data collected
+Legal basis
+How long we keep it
+Part of the credit card number, payment amount, currency, date of payment and card expiry date, residence country, state.
+Legal basis for the processing of personal data is a legal obligation to which we are subject.
+We will retain payment-related information for 10 years from the receipt of this information.
+To calculate applicable VAT/sales tax, we collect your country and, where applicable, state of residence. Should you opt to receive an invoice for the services rendered, we may also retain the necessary data to generate and issue that invoice
+2. Retention of personal data
+Unless specified differently in this Privacy Policy, we retain your personal data until it is no longer necessary for the reasons we initially collected it for, or until we receive a valid request to remove it, with some exceptions. However, there may be instances where we need to use and store your personal data beyond the timeframes mentioned above for purposes such as compliance with our legal obligations and / or exercising and defending legal claims.
+3. Your data protection rights
+We respect your privacy and have implemented measures to comply with major privacy laws like the GDPR and CCPA. These laws give you certain rights over your personal information. We want to make it as easy as possible for you to use those rights.
+You can ask us to delete your personal data or exercise other privacy rights at any time by emailing us at support@heypolo.com .
+Subject to certain legal limitation, you have the following rights:
+Right to Access: You have the right to access your personal data and can request a copy of it by contacting us.
+Right to Correct: If you find that some of your personal data is inaccurate or incomplete, you can ask us to correct it.
+Right to Delete: You have the right to ask us to delete your personal data, unless we are legally required or we have a legal basis to maintain certain personal data.
+Right to Portability: You can request your personal data in a portable, machine-readable format or, where it is technically feasible, ask us to transmit it to another controller. This right applies to automated data processing that relies on your consent
+Right to Object: If we are using your personal data for our legitimate business interests, you can object to that use.
+Right to Withdraw Consent: If you previously gave us your consent to use your personal data, you could withdraw that consent at any time. When you do, we will stop using your data for that specific purpose. However, please know that withdrawing your consent won't affect any data processing we did before you withdrew it, nor will it impact how we handle your data if we have another legal ground to do so (for example, to fulfill a contract with you).
+Right to Complain:  If you are located in the UK, you have the right to lodge a complaint with the Information Commissioner’s Office.  If you are located in the EU, you have the right to lodge a complaint with the relevant Supervisory Authority.
+In addition to the above rights, the following rights (which may be subject to certain exemptions or derogations) shall also apply to individuals covered by the CCPA:
+Right to Opt Out of Sale/Sharing: You have the right to opt out of us selling or sharing your personal information with third parties. However, we want to be clear that we do not sell, rent, lease, or trade your personal data.
+Right to Non-Discrimination: You have the right to not receive discriminatory treatment when you exercise your privacy rights under the CCPA.
+Right to Limit Use of Sensitive Personal Information: You have a right to control how your sensitive personal information is used, restricting it to only what's essential for providing our services or for other specific, lawful purposes like fraud prevention.
+4. Personal data recipients
+We will only share your personal data with others when it is necessary for the purposes, we've already described in this Privacy Policy and when it's legally required. We never sell or trade your data.
+We will share your personal data with the following categories of third parties:
+Data recipients
+Purpose of transfer
+Country of the data recipient
+Marketing, application analytics service providers, such as Iterable, Firebase Analytics (by Google Inc.), Appsflyer (by AppsFlyer Ltd.)
+We use them to manage our contacts and automate our marketing. These providers receive basic account details and usage event data, but never receive your precise location or trip history.
+United States, EEA, United Kingdom.
+Transactional email service providers, such as Mailgun Technologies, Inc., AWS SES (by Amazon Inc.)
+We use them to send you transactional emails.
+United States.
+Storage and infrastructure service providers, such as BigQuery (by Google)
+They help us to store, analyze and manage data.
+United States.
+Third-party payment providers, such as Stripe, Adyen, Checkout, and similar
+They help us to process payments together with our own authorized payment processing companies.
+United States, Ireland
+Group companies.
+We share limited account information and technical usage data with our group companies solely as necessary to maintain shared infrastructure, ensure system security, and support fraud prevention. We do not share your location or trip data with group companies for marketing purposes.
+EEA, United States, United Kingdom.
+Third parties (in case of corporate reorganization, bankruptcy or liquidation proceedings).
+If we undergo a corporate reorganization (like a merger, acquisition, or sale of our business), we may share personal data with the involved third parties (e.g., the buyer, their agents, and advisors) to help complete the transaction.
+United States, EEA or other relevant country.
+Authorities
+We will only disclose personal data to law enforcement authorities or courts of competent jurisdiction when we are asked and legally obliged to do so.
+United States, EEA or other relevant country.
+Other parties
+We'll only disclose your personal data with others if you give us permission or if there's a legal reason to do so (e.g., we might share it with a legal representative).
+United States, EEA or other relevant country.
+5. International personal data transfers
+Your personal data, as described in this Privacy Policy, may be stored and processed in any country where we have facilities or where we use third-party service providers. Regardless of the location, we implement robust safeguards to ensure that your data remains protected in accordance with this policy.
+For data transfers outside the European Economic Area (EEA), we rely on specific legal mechanisms to ensure a high level of data protection. We primarily use Standard Contractual Clauses (SCCs), which are legally binding agreements approved by the European Commission to ensure your personal data is protected to a standard equivalent to that in the EU. Alternatively, we may transfer data to countries that the European Commission has formally recognized as providing an adequate level of data protection, meaning their national laws offer a comparable standard of security.
+6. Cookies
+6.1. What is a cookie?
+HeyPolo uses cookies, pixels, and other similar technologies (collectively referred to as “cookies”). These are small pieces of data that your device stores for various purposes.
+We use cookies to enhance your experience and ensure the security of our Services by:
+Maintaining the efficient and secure functioning of our Services.
+Remembering your preferences and recognizing you as a returning user to personalize your experience.
+Gathering statistical information on traffic to improve our Services.
+Displaying customized advertisements that are more relevant to your interests.
+6.2. What cookies does HeyPolo use?
+HeyPolo uses several categories of cookies, each with a specific purpose. Necessary cookies are crucial for our Website's basic operation and are placed automatically without your consent. We also use analytic cookies to understand your browsing habits, identify errors, and improve our Services. Marketing cookies track your activity to deliver a more personalized service and show you relevant ads from our third-party partners. Finally, affiliate cookies help us identify customers who were referred by our partners so we can grant them a commission.
+More information about the internal cookies HeyPolo uses could be found in the table below:
+Cookie name
+Cookie expiry
+Provenance
+Purpose
+Cookie Category
+Heypolo-consent-state
+13 months
+HeyPolo
+Used to store user cookie consent
+Functional
+heypolo-locale
+29 days
+HeyPolo
+Used to store user selected website language
+Functional
+nv_tri
+13 months
+HeyPolo
+Used to store user information across multiple sessions
+Analytic
+nv_trs
+13 months
+HeyPolo
+Used to store user information across a single session
+Analytic
+Heypolo uses third-party cookies to help our Website run smoothly and improve your experience. Please note that the service providers we partner with may change over time or vary depending on which of our sites you are visiting. Our current third-party providers include:
+Service Provider
+Purpose
+Link to Privacy Policy
+How to disable
+CloudFlare
+Security
+https://www.cloudflare.com/privacypolicy/
+Cannot be turned off
+Meta Platforms
+Advertising
+https://www.facebook.com/privacy/center/
+Facebook opt-out page
+Google
+Advertising
+https://business.safety.google/privacy/
+Google Ads opt-out page
+AppsFlyer
+Analytics, advertising
+https://www.appsflyer.com/legal/services-privacy-policy/
+AppsFlyer opt-out page
+6.3. How to control cookies?
+You have a right to control the cookies used on your devices. Most cookies can be managed or deleted through the settings in your web browser. However, please be aware that rejecting cookies might limit the functionality of our website and cause you to lose access to some of its features.
+For detailed instructions on how to adjust cookie preferences in popular browsers, please refer to the following links:
+Google Chrome
+Apple Safari
+Microsoft Edge
+Mozilla Firefox
+Opera
+If you wish to disable advertising cookies, you can find more information on  Network Advertising Initiative’s opt-out page, the Digital Advertising Alliance’s opt-out page, or http://youronlinechoices.eu.
+7. Your personal data security
+We are deeply committed to protecting your security and privacy. We have implemented a variety of measures, including SSL/TLS encryption for data transfers, firewalls, and regular security audits, to ensure your information is treated securely.
+However, it is important to understand that no online service can guarantee 100% security. By using our Service, you acknowledge this inherent risk and agree that all information you provide is done so at your own risk.
+8. Children's privacy
+We do not knowingly collect personal data from anyone under the age of 16. Our Services are not intended for, and we do not offer them to, anyone under this age.
+If we learn that we have received personal data from a child under 16, we will delete it immediately. If you believe we might have any such data, please contact us at support@heypolo.com.
+9. Third party links and services
+Our Services may include links to external websites, applications, and services that are owned or operated by third parties. You acknowledge and agree that any information you provide to or that is collected by such third-party services is subject to their respective privacy policies and terms of use, and not this Privacy Policy.
+We do not control, endorse, or make any representations about these third-party services. We shall not be held responsible or liable for the privacy practices or the content of these third-party sites. We encourage you to review the privacy policy of any third-party service before providing them with any personal information.
+10. Contact us
+If you have any questions or concerns about this Privacy Policy or our Services, or if you wish to exercise your privacy rights, please contact our 24/7 Customer Support Team.
+You can reach us by email at support@heypolo.com. We're here to help you as soon as possible.
+11. Additional terms you should know
+The official and binding version of this Privacy Policy is the English one.
+While we may offer translations of this document in other languages for your convenience, these versions may not be as current or comprehensive as the English one. Therefore, if there is ever a difference or conflict between the English version and a translated version, the English version will always take precedence.
+FEATURES
+Real-time location sharing
+Group location sharing
+Location sharing history
+Location-Based Alerts
+SOS Alerts
+Car Crash Detection
+Severe Weather Alerts
+FOR WHO
+Parents of teens
+Families
+Carers of ageing parents
+Friend groups
+RESOURCES
+Blog
+Help center
+COMPANY
+Pricing
+Contact us
+About us
+Press
+SOCIAL
+Facebook
+Instagram
+LinkedIn
+TikTok
+Copyright © 2026 HeyPolo. All Rights Reserved
+Terms & ConditionsPrivacy Policy

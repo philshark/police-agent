@@ -1,0 +1,12 @@
+{
+ "subject": "Baseline established - 75 URLs captured on heypolo.com",
+ "body_markdown": "heypolo.com sitemap change report - 2026-09-11T04:12:53Z\n\nFirst run: captured 75 URLs as the baseline. No comparison yet - real change reports start on the next run.\n\n## Fetch errors (0)\n_None._\n\nSitemap: https://heypolo.com/sitemap.xml  |  URLs in sitemap: 75",
+ "changed_count": 0,
+ "total": 75,
+ "changed_urls": [],
+ "added": [],
+ "removed": [],
+ "errors": [],
+ "baseline": true,
+ "generated_at": "2026-09-11T04:12:53Z"
+}
