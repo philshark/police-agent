@@ -103,7 +103,7 @@ def visible_text(h):
     h = html.unescape(h)
     lines = []
     for ln in h.splitlines():
-        ln = re.sub(r"[ \t ]+", " ", ln).strip()
+        ln = re.sub(r"[ \t ]+", " ", ln).strip()
         if ln:
             lines.append(ln)
     return "\n".join(lines)
@@ -203,7 +203,7 @@ def main():
         body, status, err = fetch(u)
         if body is None:
             errors.append((u, err or f"HTTP {status}"))
-            if u in prev_pages:
+            if u in prev_pages:            # keep old entry: transient error != change
                 pages[u] = prev_pages[u]
             continue
 
@@ -234,7 +234,7 @@ def main():
 
         p = prev_pages.get(u)
         if not p:
-            continue
+            continue                       # brand-new URL -> handled as "added"
 
         reasons = []
         if p.get("text_hash") != entry["text_hash"]:
@@ -301,6 +301,13 @@ def main():
         subject = f"Baseline established - {total} URLs captured on heypolo.com"
     else:
         subject = f"{c}/{total} URLs changed {window_label(prev_date, today)}"
+        extras = []
+        if added:
+            extras.append(f"+{len(added)} new")
+        if removed:
+            extras.append(f"-{len(removed)} removed")
+        if extras:
+            subject += " (" + ", ".join(extras) + ")"
 
     L = [f"heypolo.com sitemap change report - {now_iso}"]
     if baseline:
@@ -310,6 +317,10 @@ def main():
     else:
         L += [f"Compared against the snapshot from {prev_date or 'unknown'}.",
               f"{c} of {total} sitemap URLs changed."]
+        if added:
+            L.append(f"{len(added)} new URL(s) appeared in the sitemap.")
+        if removed:
+            L.append(f"{len(removed)} URL(s) were removed from the sitemap.")
     if errors:
         L.append(f"{len(errors)} URL(s) could not be fetched - NOT counted as changes.")
     L.append("")
@@ -324,9 +335,20 @@ def main():
             if detail:
                 L.append(detail)
         L += ["", f"## Added to sitemap ({len(added)})"]
-        L += [f"- {u}" for u in added] or ["_None._"]
+        if added:
+            for u in added:
+                title = pages.get(u, {}).get("title", "")
+                fetch_note = "" if u in pages else "  [could not be fetched yet - see Fetch errors]"
+                L.append(f'- {u}: "{title}"{fetch_note}' if title else f"- {u}{fetch_note}")
+        else:
+            L.append("_None._")
         L += ["", f"## Removed from sitemap ({len(removed)})"]
-        L += [f"- {u}" for u in removed] or ["_None._"]
+        if removed:
+            for u in removed:
+                title = prev_pages.get(u, {}).get("title", "")
+                L.append(f'- {u}: "{title}"' if title else f"- {u}")
+        else:
+            L.append("_None._")
         L.append("")
 
     L.append(f"## Fetch errors ({len(errors)})")
