@@ -20,16 +20,16 @@ A location pin from six hours ago looks identical to one from thirty seconds ago
 Phil
 5 min read•August 27, 2026
 Start with the two settings that cause most location failures: the device's master location switch and the specific app's permission level.
-Turn Location Services (iOS) or Location (Android) on at the system level, then open the app itself and set it to While Using or Always, enabling Precise Location if the app needs an exact position.
+Turn Location Services (iOS) or Location (Android) on at the system level, then open the app itself and set it to While Using or Always, enabling Precise Location if the app needs an exact position.
 Confirm you have a working Wi-Fi or cellular connection.
 That combination resolves the majority of location problems in under two minutes.
 Quick Checklist: The Fastest Fixes To Try Right Now
 Before you touch anything advanced, run through this sequence in order.
 Most location breakdowns come from one of these five things, roughly in the order they turn out to be the actual cause.
-Check the master switch. On iOS, go to Settings → Privacy & Security → Location Services. On Android, go to Settings → Location. Both need to read "On."
-Open the app's own permission. Set it to While Using the App or Always, depending on what the app needs to function.
-Toggle Precise Location on if the app needs an exact pin rather than a general area.
-Restart the app, then the device. Flip Airplane Mode on and off to reset the radio connection, and confirm you actually have signal or Wi-Fi.
+Check the master switch. On iOS, go to Settings → Privacy & Security → Location Services. On Android, go to Settings → Location. Both need to read "On."
+Open the app's own permission. Set it to While Using the App or Always, depending on what the app needs to function.
+Toggle Precise Location on if the app needs an exact pin rather than a general area.
+Restart the app, then the device. Flip Airplane Mode on and off to reset the radio connection, and confirm you actually have signal or Wi-Fi.
 Check date and time are set to automatic, install any pending OS updates, and step outside for a clean GPS test.
 If you've done all five and the pin still won't move, the problem is likely deeper than a toggle.
 If that's the case, move on to the device-specific steps below.
@@ -38,19 +38,19 @@ How Do You Fix Location Permissions On An iPhone?
 Apple keeps every location control in one place, so this is the shortest fix on the list.
 Open Settings → Privacy & Security → Location Services and confirm the master toggle at the top is on. Without it, no app on the phone can access location, no matter what its individual setting says.
 From there, scroll to the specific app and tap it.
-You'll see three or four options depending on the app: Never, Ask Next Time, While Using the App, and sometimes Always. Family location apps and fitness trackers usually need Always to keep working when the screen is off. Below that, toggle Precise Location on for any app that needs an exact address, not just a neighborhood.
+You'll see three or four options depending on the app: Never, Ask Next Time, While Using the App, and sometimes Always. Family location apps and fitness trackers usually need Always to keep working when the screen is off. Below that, toggle Precise Location on for any app that needs an exact address, not just a neighborhood.
 If you're troubleshooting Find My or a family sharing app, check which device is set as the "From" option in Share My Location. Location sharing apps often break because the wrong device (an old iPad in a drawer, for example) is set as the reporting source.
 Test the fix in order: toggle the permission, fully close and reopen the app, restart the phone, then test outdoors.
 If none of that works, go to Settings → General → Transfer or Reset iPhone → Reset → Reset Location & Privacy.
-That last option resets every location and privacy permission to Apple's defaults without erasing photos, messages, or app data. Every app will need to ask for permission again the next time it opens. That's the goal, a clean slate instead of hunting for the one setting that's actually wrong.
+That last option resets every location and privacy permission to Apple's defaults without erasing photos, messages, or app data. Every app will need to ask for permission again the next time it opens. That's the goal, a clean slate instead of hunting for the one setting that's actually wrong.
 It's the digital equivalent of clearing a jammed lock rather than replacing the whole door.
 How Do You Fix Location Permissions On Android?
 Android's location settings live in more places than iOS, which is why this is usually the platform with the most confusion. Start at Settings → Location and confirm "Use location" (sometimes labeled "Access to my location") is switched on.
 Everything else depends on that one switch.
-Next, dig into the individual app. Go to Settings → Apps → [app name] → Permissions → Location, and set it to Allowed only while in use or Allowed all the time, depending on whether the app needs to track in the background.
+Next, dig into the individual app. Go to Settings → Apps → [app name] → Permissions → Location, and set it to Allowed only while in use or Allowed all the time, depending on whether the app needs to track in the background.
 A family safety app or delivery tracker typically needs the "all the time" setting to send alerts when the screen is off.
-Android also separates Approximate location, which covers roughly 3 square kilometers, from Precise, which usually narrows to around 50 meters. If an app shows you in the wrong neighborhood entirely, check whether it's stuck on Approximate when it needs Precise.
-Turn on Location Accuracy in your location settings menu.
+Android also separates Approximate location, which covers roughly 3 square kilometers, from Precise, which usually narrows to around 50 meters. If an app shows you in the wrong neighborhood entirely, check whether it's stuck on Approximate when it needs Precise.
+Turn on Location Accuracy in your location settings menu.
 This lets the phone supplement GPS with Wi-Fi and mobile network data, which fixes a lot of "spinning wheel, no signal" situations, especially indoors.
 If an app never asked for permission properly the first time, you can often force the prompt again by using a feature that requires location, like refreshing a map or triggering an SOS alert. Android's runtime permission model is built to reissue that dialog when a location-dependent action actually happens.
 If the permission dialog refuses to reappear, uninstall and reinstall the app. That clears whatever permission state got stuck and forces a fresh request.
@@ -59,13 +59,13 @@ Windows location problems are usually simpler than they look. Nine times out of 
 Go to Settings → Privacy & security → Location and confirm the toggle at the top is on.
 Scroll down to see which apps have location access, and flip on "Let apps access your location" for anything that needs it, including your browser.
 Check whether "Notify when apps request location" is enabled, so you can catch new requests instead of missing them silently.
-If your laptop keeps reporting an old address, such as a previous home or office, look for the Default location setting under the same menu and clear it. Windows can cache a manual location and keep using it instead of pulling live GPS or Wi-Fi data, which is the most common cause of a Windows device showing a stale address.
+If your laptop keeps reporting an old address, such as a previous home or office, look for the Default location setting under the same menu and clear it. Windows can cache a manual location and keep using it instead of pulling live GPS or Wi-Fi data, which is the most common cause of a Windows device showing a stale address.
 Restart any affected app after making changes, and give it a minute to pull a fresh position.
 Is The Problem Your Phone Or The Other Person's?
 Before you touch a single setting, look at the timestamp on the location pin.
 A pin that says "5 hours ago" is a completely different problem than one that says "just now" but sits in the wrong place. Stale data almost always traces back to the other device, not yours.
 Common culprits on the other person's end: Low Power Mode (which throttles background location updates on iOS), no cellular or Wi-Fi connection, Share My Location switched off, or the wrong device selected as the reporting source.
-If your teenager's phone shows an old location, don't reset your own settings first. Parents of teens run into this constantly, and the fix is usually on their end: ask them to check theirs.
+If your teenager's phone shows an old location, don't reset your own settings first. Parents of teens run into this constantly, and the fix is usually on their end: ask them to check theirs.
 Have the other person open Settings and confirm Location Services (or Location) is on.
 Ask them to disable Low Power Mode or any battery saver mode, since these commonly pause background location updates.
 Have them restart the device and confirm they're signed in to the correct account.
@@ -76,8 +76,8 @@ Save resets for last. They clear more than just the one thing that's actually br
 Use them once the basics have failed and the problem clearly isn't limited to one app.
 Reset Location & Privacy (iOS): found in Settings → General → Transfer or Reset iPhone → Reset. This wipes every app's location and privacy permission back to factory defaults. Nothing else on the phone is touched, but every app will ask for permission again, so budget a few minutes to preapprove the ones you actually use.
 Reset network settings: useful when Wi-Fi, Bluetooth, or cellular configurations seem corrupted alongside location issues. This clears saved Wi-Fi passwords and custom network configs, so make sure you know your Wi-Fi password before you do it.
-Check for OS and carrier updates first, and test outdoors for a clean GPS signal before assuming hardware is the issue.
-Back up your device before either reset, just in case.
+Check for OS and carrier updates first, and test outdoors for a clean GPS signal before assuming hardware is the issue.
+Back up your device before either reset, just in case.
 If location still fails after all of that, especially if GPS never locks even outdoors, the issue may be a hardware fault.
 At that point, it's worth calling the manufacturer's support line or a repair technician.
 Preventive Settings That Stop This From Happening Again
@@ -95,7 +95,7 @@ A solid purple arrow means an app used your location recently, a hollow gray arr
 Android shows something similar under Settings → Location → App location permissions, where each app is labeled by its current permission tier. You can also check Settings → Privacy → Permission manager → Location to see a chronological list of which apps requested access recently and how often.
 Scroll through this list at least once a season.
 It's common to find an app you barely use, like an old shopping app or a game, still set to Always allow. Background access does more than improve accuracy. It lets an app quietly build a history of everywhere you go, even when you're not using it.
-If you find an app you don't recognize requesting frequent background access, that's worth investigating before you assume it's harmless. Revoke access for anything that doesn't need it, and only keep Always enabled for apps whose entire purpose depends on it, like family location sharing or delivery tracking.
+If you find an app you don't recognize requesting frequent background access, that's worth investigating before you assume it's harmless. Revoke access for anything that doesn't need it, and only keep Always enabled for apps whose entire purpose depends on it, like family location sharing or delivery tracking.
 Could A VPN Or Spoofing App Be Breaking Your Location?
 If your location suddenly shows a city you're not in, or an app insists you're somewhere you left hours ago, a VPN or a spoofing app is a common overlooked cause.
 VPNs route your internet traffic through a different server, and some apps use IP-based location as a fallback when GPS is weak or blocked, which means a VPN can override an accurate GPS reading with a location based on the VPN server instead.

@@ -61,7 +61,7 @@ The catch is real: this only works if you configured it beforehand, the phone ha
 Pro Tip: Pick a keyword nobody would guess from your name or birthday, and double check autostart is enabled. Many phones kill background apps after a reboot unless you whitelist them in battery settings.
 Do Bluetooth And UWB Trackers Help Find a Lost Phone?
 Bluetooth tags and UWB trackers shine at short range, not long distance.
-UWB precision finding works best under about 10 meters, giving you directional arrows and distance readouts once you’re close. Bluetooth relays can occasionally report a location if someone else’s device happens to pick up your tag’s signal in passing.
+UWB precision finding works best under about 10 meters, giving you directional arrows and distance readouts once you’re close. Bluetooth relays can occasionally report a location if someone else’s device happens to pick up your tag’s signal in passing.
 That makes them ideal for keys, wallets, or bags lost between the couch cushions, not for a phone left behind three towns over. Think of tags as a supplement to your offline toolkit, not a replacement for an SMS locator or platform offline finding when the distance is unknown.
 What To Do Right Now If Your Phone Is Lost and Offline
 Work through these steps in order, starting with whatever you already have configured:

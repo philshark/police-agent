@@ -70,7 +70,7 @@ Poor lighting, farm traffic, and patchy service all make forty minutes late mean
 A plan agreed in advance covers four things: who can see the location, how precise that view is, how long it lasts, and when somebody reaches out. It works best as one part of the wider plan your family already keeps for emergencies, rather than something invented for this drive.
 General-area visibility is enough for most trips, since the point is knowing the drive is going roughly as expected.
 In HeyPolo, sharing set to a trip window switches off when the window ends, so nobody has to remember to turn it off later. Two honest limits belong in the conversation as well. Updates pause where coverage drops, and no app calls an ambulance for you.
-With HeyPolo, sharing runs for the trip window you choose, shows a general area rather than an exact pin if you prefer, and private mode pauses it whenever you want. Get Started.
+With HeyPolo, sharing runs for the trip window you choose, shows a general area rather than an exact pin if you prefer, and private mode pauses it whenever you want. Get Started.
 Rural roads reward a plan that covers the whole trip
 The tractor still pulls out from behind the trees. No plan stops that. What changes is how much road you have left when it happens, and whether anyone knows to call if you never arrive.
 An alert when you arrive marks the end of a trip, so nobody sends a third message asking where you are. Sharing set to a window covers the drive and stops itself afterward. Neither one grades how you drove, reaches an ambulance, or updates through a dead spot with no signal.

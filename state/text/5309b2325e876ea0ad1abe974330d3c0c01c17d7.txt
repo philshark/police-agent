@@ -1,4 +1,4 @@
-HeyPolo vs. Zenly: Compare Fees, Features & Pricing 2026
+Zenly Shut Down in 2023: What to Use Instead | HeyPolo
 Safety Features
 Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
@@ -13,49 +13,29 @@ Parents with teenagers Families Carers of ageing parents Friend groups
 Blog
 Pricing
 Log in
+Zenly shut down in February 2023
 HeyPolo vs. Zenly
-HeyPolo vs. Zenly
-The same everyday location sharing. One big difference: HeyPolo never sells your location data to advertisers, brokers or insurers, and one flat plan covers anyone you invite.
-Make the switch
-Pick a Life360 plan
-silvergoldplatinum
-HeyPolo has no tiers: you choose monthly or annual billing, and every paid account gets every feature.
-How long you'll use it
-1 year
-1mo2mo3mo6mo1yr2yr3yr4yr5yr
-monthly billingannual billing
-Life360 · gold
-$203.88 total
-for 1 year
-Per month
-$16.99
-Billing
-Billed monthly
-HeyPolo
-$71.88 total
-for 1 year
-Per month
-$5.99
-Billing
-Billed monthly
-You save $132.00 over 1 year with HeyPolo
-Both apps charge one flat price per group, not per person. HeyPolo's flat rate covers unlimited members at no extra cost; Life360's Silver, Gold and Platinum memberships cover everyone in your Circle (up to 99 members) at one price too. Life360 annual pricing shown here is estimated from their advertised discount and should be verified at checkout.
-The map your friends loved, from a company it's actually the product for
-Not a side project inside someone else's company
-HeyPolo is built by the team behind Surfshark, a privacy company where location sharing is the actual product, not a growth experiment.
-Zenly lived inside Snap and was closed in early 2023 with under two months' notice, while downloads were at an all-time high.
-Your data is yours, not a shutdown scramble
-Location history clears itself after seven days, and you can withdraw consent and remove your data whenever you like.
-Zenly users had to request a data export inside a narrow window before shutdown, and most never did.
-Friend groups, kept separate
-Private groups for the flat, the group chat, the hiking crew, each with their own sharing rules and timers.
-Zenly's replacement for most people, Snap Map, ties your location to a social feed rather than a private group.
-Precision control, per person
-Exact position, general area, or nothing at all, changed any time without a notification going out.
-Social-first maps tend to be exact-location or invisible, with ghost mode as the only middle ground.
-Grown-up safety, not just a social map
-SOS alerts, crash notifications, severe weather warnings and arrival alerts, all on one flat plan for everyone you invite.
-Zenly was a beautiful social map. Safety features were never really the point of it.
+Zenly is gone. HeyPolo keeps the part people miss: a live map of the people you choose, private, with no feed attached.
+Try HeyPolo free for 30 daysSee how sharing works
+What you got from Zenly, and what you get now
+A live map you can still open
+Real-time location with the people you invite, on iPhone and Android, with the same features on both.
+Zenly was switched off in February 2023 and cannot be downloaded or used.
+Private groups, not one shared blob
+The flat, the group chat, the hiking crew, each with their own sharing rules and timers.
+Zenly put everyone on one friend map, with no separate circles.
+No feed, no audience
+Nobody sees your map except the people in your group, and nothing you do gets posted anywhere.
+The usual fallback, Snap Map, sits next to stories and a social feed.
+Precision you choose, per person
+Exact position, general area, or nothing at all, switched any time without notifying anyone.
+Zenly was exact location or ghost mode, with little in between.
+History that clears itself
+Seven days of routes and arrival times, then it is gone. Your location is never sold to advertisers, brokers or insurers.
+Zenly kept a long friend history, and getting an export before shutdown meant catching a narrow window.
+Safety features built in
+SOS alerts, crash notifications, severe weather warnings and arrival alerts on one flat plan for everyone you invite.
+Zenly was a social map. Safety was never really the point of it.
 Who HeyPolo is built for
 Carers of neurodiverse people
 Sharing only happens with consent, SOS is one tap away, and nobody's day turns into surveillance.
@@ -78,29 +58,15 @@ Explore
 Anyone who misses Zenly
 The shared map, without the social feed. Try HeyPolo free for 30 days.
 Explore
-What Zenly had, and what replaced it
-Zenly closed in February 2023, so there is no live product to compare against. It was a friend map: real-time location and chat, and little else. This is what you get instead.
-FeatureHeyPoloGet startedZenly
-Everyday location
+What a shared map looks like now
 Real-time location sharing
-In-app chat
-Location-based notifications
-Location history
+A live shared map with the people you choose, for as long as you choose.
 Private groups
-Safety
+The flat, the group chat, the hiking crew, each with their own rules.
+Location history
+Seven days of routes and arrival times, then it clears itself.
 SOS alerts
-Car crash notifications
-Severe weather warnings
-Speed alerts
-Privacy
-Exact or general-area precision control
-Location data never sold to advertisers
-Plain-English privacy policy (Grade 8)
-Still here tomorrow
-Still running as a live productZenly was discontinued by Snap in February 2023
-iOS and Android
-Support included on every plan
-Try HeyPolo free for 30 days
+One tap tells your group where you are and that you need them.
 Got Questions?
 What happened to Zenly?
 Snap acquired Zenly in 2017 and shut it down in early 2023 with under two months' notice, while downloads were at an all-time high. Millions of friend groups lost their shared map with no migration path.
