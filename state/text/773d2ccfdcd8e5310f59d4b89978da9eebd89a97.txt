@@ -17,16 +17,16 @@ Terms of Service
 Last updated 2026-01-12
 Thank you for visiting HeyPolo! Please read the following information carefully. PLEASE PAY CLOSE ATTENTION TO THE PROVISIONS COVERING AUTOMATIC RENEWALS OF SUBSCRIPTIONS AND THE REFUND POLICY.
 ‍These Terms of Service ("Terms") govern your access to and use of the HeyPolo website ("Website"), the HeyPolo mobile application ("App"), and all related features and functionality (collectively, the "Service"). The Service is provided by HeyPolo Inc., a company with its registered address at 25910 Acero, Suite 240, Mission Viejo, CA 92691, United States of America (referred to as "we", "us", or "HeyPolo").
-This is a binding agreement between you and HeyPolo . IF YOU DO NOT AGREE TO ALL OF THE TERMS, PLEASE DO NOT ACCESS OR USE OUR SERVICE. BY ACCESSING AND/OR USING OUR WEBSITE OR APP, YOU AGREE TO BE BOUND BY THESE TERMS. References to ‘you’ in these Terms indicate any person who visits our Website or creates a HeyPolo account.
+This is a binding agreement between you and HeyPolo . IF YOU DO NOT AGREE TO ALL OF THE TERMS, PLEASE DO NOT ACCESS OR USE OUR SERVICE. BY ACCESSING AND/OR USING OUR WEBSITE OR APP, YOU AGREE TO BE BOUND BY THESE TERMS. References to ‘you’ in these Terms indicate any person who visits our Website or creates a HeyPolo account.
 We may change these Terms from time to time. We will provide you with notice within the App or via email any time these Terms have been amended or updated. It is your responsibility to review these Terms periodically, and if at any time you find them unacceptable, you must immediately cease all use of our Service. You should also read our Privacy Policy, which explains how we handle your data.
 The Gist
-‍Since nobody enjoys reading these things, we’re including short blurbs of text to help you understand what each section is about. You should still read the whole thing since this is only a comment and the Terms are the binding document you’re agreeing to if you are using HeyPolo Service.
+‍Since nobody enjoys reading these things, we’re including short blurbs of text to help you understand what each section is about. You should still read the whole thing since this is only a comment and the Terms are the binding document you’re agreeing to if you are using HeyPolo Service.
 ‍
-This is a Binding Contract. Your use of the HeyPolo Service, including the Website and App, is subject to these Terms.
-Subscriptions & Refunds. The Service offers paid plans with a 30-day money-back guarantee for initial purchases, unless you have already been granted a free trial of 30 days or longer.
-Friends & Family Groups. Paying users create groups; invited members can join for free.
-‍HeyPolo Is Not an Emergency Service. The Service is an informational tool for peace of mind, not a foolproof safety system.‍
-‍Our Liability is Limited. We provide the Service "as is" and cannot be held liable for certain damages.
+This is a Binding Contract. Your use of the HeyPolo Service, including the Website and App, is subject to these Terms.
+Subscriptions & Refunds. The Service offers paid plans with a 30-day money-back guarantee for initial purchases, unless you have already been granted a free trial of 30 days or longer.
+Friends & Family Groups. Paying users create groups; invited members can join for free.
+‍HeyPolo Is Not an Emergency Service. The Service is an informational tool for peace of mind, not a foolproof safety system.‍
+‍Our Liability is Limited. We provide the Service "as is" and cannot be held liable for certain damages.
 1. What is the HeyPolo Service?
 A tool designed to provide an additional layer of safety and peace of mind.
 ‍The HeyPolo Service consists of our informational Website and a personal safety service accessible through our App. The core functionality of the Service utilizes algorithms to analyze location data to learn a user's regular routines, such as frequently visited places and typical hours of activity. Based on this learned behavior, the Service is designed to identify significant deviations from established patterns. When such a deviation is detected, the Service may send a notification to other members of the user's designated group (e.g., family, friends, or colleagues).
@@ -35,9 +35,17 @@ Privacy is at the core of what we do. The data we collect is strictly necessary 
 2. Service Features and Limitations
 A clear look at what our app does and what can affect its performance.
 The HeyPolo Service relies on data from your mobile device to function correctly. The performance and accuracy of our features are entirely dependent on factors outside our control. You acknowledge and agree to the following limitations:
-‍Routine Learning & Alerts: Our algorithms learn routines over time to detect unusual activity. This process is not instant and can be affected by irregular schedules. The accuracy of alerts depends entirely on a consistent stream of data.
-‍Service Requirements: For the App's core functionality to work, the device must be turned on, have sufficient battery power, and have a stable connection to a cellular or Wi-Fi network. The App must be correctly installed with all necessary permissions granted (e.g., Location set to "Always Allow," Background App Refresh enabled).
-‍External Factors: The Service can be negatively impacted by a weak GPS signal, the device's own location service inaccuracies, or battery optimization settings on the device that may limit or disable the App's background functionality. We are not responsible for these external factors.
+‍Routine Learning & Alerts: Our algorithms learn routines over time to detect unusual activity. This process is not instant and can be affected by irregular schedules. The accuracy of alerts depends entirely on a consistent stream of data.
+‍Service Requirements: For the App's core functionality to work, the device must be turned on, have sufficient battery power, and have a stable connection to a cellular or Wi-Fi network. The App must be correctly installed with all necessary permissions granted (e.g., Location set to "Always Allow," Background App Refresh enabled).
+‍External Factors: The Service can be negatively impacted by a weak GPS signal, the device's own location service inaccuracies, or battery optimization settings on the device that may limit or disable the App's background functionality. We are not responsible for these external factors.
+Safe Driving Features
+General. The Service offers a set of Safe Driving Features, including detection of driving events, a personal and group Driving Score, trip replay, and crash detection. These features work by using your phone's motion and location data, in part through third-party providers, and this data is collected whenever your phone is moving - even if you are not in a vehicle or are not the driver. The following applies to all Safe Driving Features: (i) their outputs are automated estimates and may be inaccurate, incomplete, or wrong, including detecting something that did not happen or missing something that did; (ii) they depend on your phone, its settings, permissions, battery, and connection, as described above; (iii) they are for information and personal awareness only, do not make driving safe, and are not a substitute for careful driving or your own judgment; and (iv) they are not a factual record of anyone's conduct and must not be used as evidence or to make decisions about any person. When you use these features in a vehicle, you confirm that you are the driver, or that the driver has agreed to this data being collected - if not, you must turn these features off.
+Driving Events and Driving Score. The Service detects driving events (such as overspeeding, harsh braking, rapid acceleration, harsh cornering, and distracted driving) and calculates a Driving Score from the number, severity, and duration of these events. The Service attempts to detect automatically whether you were the driver or a passenger, and you can change this manually for a trip. You are responsible for correctly identifying your trips, and we do not guarantee that automatic detection is correct or that changing a trip will fully correct or remove its effect on any score.
+Group Driving Score and Sharing. Where enabled, the Service may show a group Driving Score and each group member's individual score and events to other members of the same group. By using these features, you acknowledge that your driving information may be visible to your group, and you are responsible for ensuring that anyone whose driving information is collected or shared through your group has consented, as also required by Section 6.
+Trip Replay. The Service may let group members replay a trip, showing speed and mode of transport along the route.
+Crash Detection and Emergency Alerts. The Service may attempt to detect certain vehicle crashes by identifying abnormal acceleration from your device's sensors and, if you do not dismiss the alert within the time provided, notify the members of your group. This feature is not an emergency response service: it does not contact emergency responders, does not dispatch help, and does not replace emergency services. IN THE EVENT OF A SERIOUS CRASH OR ANY INJURY, ALWAYS IMMEDIATELY CALL THE EMERGENCY SERVICES NUMBER FOR YOUR COUNTRY. To the fullest extent permitted by law, we disclaim all liability for any injury, death, loss, or damage arising from the Service detecting or failing to detect a crash, or sending, delaying, or failing to send any alert.
+Chat and User Content
+The Service includes a chat that lets group members send messages and other content to each other. You are responsible for the content you send, and it reflects the views of its author, not HeyPolo. You must not use chat to send unlawful, abusive, or harassing content. Chat is for everyday communication within your group: it is not monitored, message delivery depends on your device, permissions, and connection, and it may be delayed or fail. Do not rely on chat to reach anyone in an emergency - always contact emergency services directly.
 3. Do I have to create an account?
 Yes, and you’re responsible for it.
 To use the core functionality of the Service, you need to set up an account within the App. You are solely responsible for all activity on your account, including use by any person with or without your authorization. You may not sell or trade your account to any other person. You agree to notify us immediately of any unauthorized use of your account, email address, or password. We are not liable for any loss that you or any third party incur as a result of someone else using your password.
@@ -45,12 +53,12 @@ To use the core functionality of the Service, you need to set up an account with
 Adults pay and manage groups; friends and family over 16 can join for free.
 To maintain the integrity and safety of our community, we have specific age and usage requirements.
 The Subscriber (Group Creator)
-To create a primary account, purchase a subscription, and act as the creator and administrator of a Group ("Subscriber"), you must be 18 years of age or older (or the age of legal majority in your jurisdiction). A Group shall mean an entity established, maintained, and administered by a Subscriber via the App or a shareable link, to which the Group Creator may issue invitations to other users (the "Invited Members"). Subscriber is responsible for managing the Group and the people they invite.
+To create a primary account, purchase a subscription, and act as the creator and administrator of a Group ("Subscriber"), you must be 18 years of age or older (or the age of legal majority in your jurisdiction). A Group shall mean an entity established, maintained, and administered by a Subscriber via the App or a shareable link, to which the Group Creator may issue invitations to other users (the "Invited Members"). Subscriber is responsible for managing the Group and the people they invite.
 Invited Members
 Individuals who are invited to join a Group created by a Subscriber ("Invited Members") may use the Service for free, subject to the following conditions:
-Age Requirement: Invited Members must be 16 years of age or older. By accepting an invitation and creating an account, you represent and warrant that you are at least 16 years old.
-Limited Scope: Invited Members act within the specific Group(s) they were invited to. While Invited Members can invite other people to join the Group they are part of, their usage and data sharing are confined to that specific Group created by the Subscriber.
-Registration: All Invited Members must complete the registration process and agree to these Terms of Service and Privacy Policy to participate.
+Age Requirement: Invited Members must be 16 years of age or older. By accepting an invitation and creating an account, you represent and warrant that you are at least 16 years old.
+Limited Scope: Invited Members act within the specific Group(s) they were invited to. While Invited Members can invite other people to join the Group they are part of, their usage and data sharing are confined to that specific Group created by the Subscriber.
+Registration: All Invited Members must complete the registration process and agree to these Terms of Service and Privacy Policy to participate.
 General Age Limitation
 The Service is not intended for use by individuals under the age of 16. If we discover that an account has been created by a user under 16, we will take steps to delete that account and the associated data.
 5. Subscriptions, Billing, and Refunds
@@ -67,10 +75,10 @@ HeyPolo reserves the right to verify the validity of your account information, a
 Reseller and App Store Purchases
 We are not able to grant you a refund if you obtained your HeyPolo subscription via resellers other than Google Play or our Website (e.g., Apple App Store). In the scenarios when your subscription was purchased through a reseller (specifically the Apple App Store), it is necessary for you to consult with the original seller to understand their specific refund procedures and potentially obtain your refund through them. However, if your purchase was made through Google Play or our direct billing, we can facilitate a refund for you in accordance with our policies. Please check with the individual reseller's terms for more information.
 Additional Refund Conditions
-Prepaid/Gift Cards: Payments made using prepaid cards or gift cards are not refunded.
-Cryptocurrency: For payments made in cryptocurrency, the equivalent amount in US Dollars is refunded in the same cryptocurrency (based on the rate of exchange at the moment of refund).
-Deleted Accounts: You have a right to delete your account at any time; however, deleted accounts will not be refunded for the unused part of the ongoing service period unless falling within the 30-day guarantee window.
-Free Trials: The refunds are also not applicable if you have been granted a free trial to use our Services for 30 days or longer. Users who have benefited from such extended trial periods are deemed to have had sufficient opportunity to evaluate the Services, and therefore, are excluded from exercising the right to refund.
+Prepaid/Gift Cards: Payments made using prepaid cards or gift cards are not refunded.
+Cryptocurrency: For payments made in cryptocurrency, the equivalent amount in US Dollars is refunded in the same cryptocurrency (based on the rate of exchange at the moment of refund).
+Deleted Accounts: You have a right to delete your account at any time; however, deleted accounts will not be refunded for the unused part of the ongoing service period unless falling within the 30-day guarantee window.
+Free Trials: The refunds are also not applicable if you have been granted a free trial to use our Services for 30 days or longer. Users who have benefited from such extended trial periods are deemed to have had sufficient opportunity to evaluate the Services, and therefore, are excluded from exercising the right to refund.
 6. What activities are prohibited?
 Don’t do anything that can get you in trouble. Please.
 By using our Service, you shall not:
@@ -103,13 +111,13 @@ The Service is an informational tool, not a foolproof safety system. It is not a
 TO THE FULLEST EXTENT PERMITTED BY LAW, HEYPOLO AND ITS AFFILIATES SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OF THE SERVICE. OUR TOTAL AGGREGATE LIABILITY IN ANY CASE SHALL NOT EXCEED THE TOTAL AMOUNT YOU PAID TO US (IF ANY) IN THE SIX MONTHS PRIOR TO THE CLAIM.
 10. Notice and Action Mechanism for Alleged Illegal Content
 We respect the law and require the same from all our users.
-You cannot use HeyPolo Services to generate, upload, or share content that violates applicable law. In the context of HeyPolo services, “Illegal Content” explicitly includes:
-Non-consensual location data: Sharing, viewing, or processing the location of a person who has not consented or has withdrawn consent (e.g., stalking or unauthorized tracking).
-Abusive Text: Circle names, "Place" names, or chat messages that contain hate speech, threats, or harassment.
-Other violations: Any other data or material that is illegal under applicable laws.
+You cannot use HeyPolo Services to generate, upload, or share content that violates applicable law. In the context of HeyPolo services, “Illegal Content” explicitly includes:
+Non-consensual location data: Sharing, viewing, or processing the location of a person who has not consented or has withdrawn consent (e.g., stalking or unauthorized tracking).
+Abusive Text: Circle names, "Place" names, or chat messages that contain hate speech, threats, or harassment.
+Other violations: Any other data or material that is illegal under applicable laws.
 Notices
 If any individual or entity (“Notifier”) considers that you are generating or exploiting Illegal Content on or through HeyPolo Services (e.g., by tracking them without consent), the Notifier may reach out to you directly, if possible.
-Alternatively, the Notifier may submit a notice (“Notice”) to us via dsa@heypolo.com (for EU related notices) or to our legal team at legal@heypolo.com (for all other notices).
+Alternatively, the Notifier may submit a notice (“Notice”) to us via dsa@heypolo.com (for EU related notices) or to our legal team at legal@heypolo.com (for all other notices).
 Private nature of HeyPolo Services
 The Notifier shall bear in mind the private nature of HeyPolo Services. We generally do not monitor, access, or review the location data or private group interactions of our users unless we are provided with valid evidence of a violation.
 Due to the private design of our Services, we may be unable to access, review and/or evaluate the allegedly Illegal Content (especially location history) even upon receipt of the Notice without specific identifiers. Therefore, the Notifier shall provide us with sufficient evidence pertaining to the allegedly Illegal Content (including, where applicable, screenshots, user identifiers, or police reports) for us to be able to access, review and evaluate the allegedly Illegal Content concerned.
@@ -140,24 +148,24 @@ If you have an issue, let’s chat. But you have other options, too.
 If you have any issues, please contact us first at support@heypolo.com. If we can't resolve the dispute informally, we both agree to bring any legal claims or disputes exclusively in the state or federal courts located in Wilmington, Delaware. By agreeing to these Terms, you consent to the personal jurisdiction of these courts.
 14. How to Contact Us
 We’re always happy to chat with you via email!
-You can contact our customer support by sending an email to support@heypolo.com or by accessing the customer support section within our app. For general legal inquiries, please contact legal@heypolo.com.
+You can contact our customer support by sending an email to support@heypolo.com or by accessing the customer support section within our app. For general legal inquiries, please contact legal@heypolo.com.
 For Users (Digital Services Act)
-HeyPolo has designated a single point of contact for HeyPolo users for the purposes of the Digital Services Act (“DSA”). Please direct requests to: dsa@heypolo.com. For notices of alleged illegal content, please see Section 10 “NOTICE AND ACTION MECHANISM FOR ALLEGED ILLEGAL CONTENT” above.
+HeyPolo has designated a single point of contact for HeyPolo users for the purposes of the Digital Services Act (“DSA”). Please direct requests to: dsa@heypolo.com. For notices of alleged illegal content, please see Section 10 “NOTICE AND ACTION MECHANISM FOR ALLEGED ILLEGAL CONTENT” above.
 For Authorities (Digital Services Act)
 HeyPolo has designated a single point of contact for EU Member States' authorities to contact us for the purposes of the DSA. Please direct requests to: dsa@heypolo.com. Please ensure that all requests meet the requirements of the DSA and are made in English (or, at a minimum, an English translation is provided).
 HeyPolo Legal Representative
 HeyPolo's legal representative for purposes of the DSA is: Surfshark B.V. Kabelweg 57, 1014BA Amsterdam, the Netherlands KvK number: 81967985 VAT number: NL862287339B01
 dsa@heypolo.com
 Internal Complaint Handling (EU Users)
-Users in the EU who disagree with our decision to restrict or ban their account have the right to appeal free of charge for a period of six months following the decision. To initiate an appeal, simply reply to the notification email you received or contact us directly at dsa@heypolo.com with the subject line "Appeal". Your complaint will be reviewed by our internal team under our complaint-handling system, and we will respond to you without undue delay. EU users may also select a certified out-of-court dispute settlement body to resolve the issue.
+Users in the EU who disagree with our decision to restrict or ban their account have the right to appeal free of charge for a period of six months following the decision. To initiate an appeal, simply reply to the notification email you received or contact us directly at dsa@heypolo.com with the subject line "Appeal". Your complaint will be reviewed by our internal team under our complaint-handling system, and we will respond to you without undue delay. EU users may also select a certified out-of-court dispute settlement body to resolve the issue.
 15. Other Legal Terms
 The fine print that makes our lawyers happy.
-Entire Agreement: These Terms, together with our Privacy Policy, constitute the entire agreement between you and us concerning your use of the Service and supersede all prior agreements and understandings, whether written or oral.
-‍Assignment: We may assign or transfer our rights and obligations under these Terms to another organization, but this will not affect your rights or our obligations. You may not assign or transfer your rights or obligations under these Terms to another person without our prior written consent.
-‍Severability: If any provision of these Terms is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions will continue in full force and effect. The invalid provision will be replaced with a valid provision that most closely reflects the original intent.
-‍No Waiver: Our failure to enforce any provision of these Terms shall not be considered a waiver of our right to do so at a later time.
-‍Language: While translations of these Terms may be provided, they may not be fully up-to-date. In case of any conflict between the English version and a translated version, the English version shall take precedence.
-‍Force Majeure: We will not be liable for any failure or delay in performance of our obligations under these Terms arising out of any event or circumstance beyond our reasonable control, including but not limited to, acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, or strikes.
+Entire Agreement: These Terms, together with our Privacy Policy, constitute the entire agreement between you and us concerning your use of the Service and supersede all prior agreements and understandings, whether written or oral.
+‍Assignment: We may assign or transfer our rights and obligations under these Terms to another organization, but this will not affect your rights or our obligations. You may not assign or transfer your rights or obligations under these Terms to another person without our prior written consent.
+‍Severability: If any provision of these Terms is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions will continue in full force and effect. The invalid provision will be replaced with a valid provision that most closely reflects the original intent.
+‍No Waiver: Our failure to enforce any provision of these Terms shall not be considered a waiver of our right to do so at a later time.
+‍Language: While translations of these Terms may be provided, they may not be fully up-to-date. In case of any conflict between the English version and a translated version, the English version shall take precedence.
+‍Force Majeure: We will not be liable for any failure or delay in performance of our obligations under these Terms arising out of any event or circumstance beyond our reasonable control, including but not limited to, acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, or strikes.
 FEATURES
 Real-time location sharing
 Group location sharing

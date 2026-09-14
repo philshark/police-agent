@@ -104,7 +104,7 @@ Review any insurance program, driving-score, behavioral-advertising, and third-p
 Submit separate requests where they are available, one to limit use, one to opt out of sharing, and one to delete records already held.
 Check what permissions your paired phone granted, and withdraw the ones you do not need.
 Consumer Reports treats those requests as distinct actions for good reason, because completing one does not complete the others. Switching off collection may also disable connected functions you use, and the manufacturer should tell you which ones before you decide.
-Stopping location sharing is a common sticking point in family apps too, where people turn sharing on for one evening and forget it for a year, exactly the kind of habit worth fixing with a family emergency plan you actually review twice a year.
+Stopping location sharing is a common sticking point in family apps too, where people turn sharing on for one evening and forget it for a year, exactly the kind of habit worth fixing with a family emergency plan you actually review twice a year.
 With HeyPolo, sharing runs for as long as you chose and then stops. Private mode pauses it at any point, without leaving the group.
 Learn More
 Privacy checks for passengers and used cars

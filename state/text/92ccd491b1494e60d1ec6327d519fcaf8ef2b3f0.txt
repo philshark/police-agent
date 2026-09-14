@@ -21,37 +21,37 @@ This guide explains what actually causes battery drain, how to manage it on both
 Sinead
 2 min read•June 3, 2026
 HeyPolo and Battery Life
-Most location-sharing apps are built for constant, always-on tracking which means they're also constantly working in the background, using GPS, sending data, and running processes your battery has to pay for.
+Most location-sharing apps are built for constant, always-on tracking  which means they're also constantly working in the background, using GPS, sending data, and running processes your battery has to pay for.
 HeyPolo is built differently. Rather than defaulting to maximum frequency, it gives you control over how your location is shared: exact location or a general area, always-on or time-limited windows, full group visibility or selective sharing. Less precision and less frequency means less work for your phone.
 Battery optimisation is something the HeyPolo team actively works on. The app is continuously updated with performance improvements, so the experience gets better over time rather than staying static.
 One feature that reflects this thinking: when someone in your group has low battery, HeyPolo notifies the rest of the group. It's a small detail, but it matters if someone goes quiet unexpectedly, you'll know whether it's a battery issue rather than being left to wonder.
 How Location Sharing Apps Affect Battery Life
 Not all location sharing is equal when it comes to battery consumption. Several factors determine how much drain you'll actually see.
-Background activity is the biggest contributor. When a location-sharing app runs in the background which most do, constantly it keeps your device's processor and radio hardware active. The more frequently the app checks and reports your location, the more battery it uses.
+Background activity is the biggest contributor. When a location-sharing app runs in the background which most do, constantly  it keeps your device's processor and radio hardware active. The more frequently the app checks and reports your location, the more battery it uses.
 GPS vs. network-based location makes a significant difference. GPS is the most accurate method but also the most battery-intensive, because it requires your device to communicate directly with satellites. Many apps use a combination of GPS, Wi-Fi positioning, and mobile network data to estimate location. This hybrid approach tends to be more battery-friendly than GPS alone without sacrificing much accuracy.
 If you're picking an app for a mixed iPhone-and-Android household specifically, our guide on how to share location across devices covers the options side by side.
-Update frequency is directly tied to drain. An app that pings your location every few seconds will consume considerably more battery than one that updates every few minutes. This is one of the most important things to check when choosing a location-sharing app and one of the least visible to the average user. HeyPolo's real-time location sharing is tuned for this trade-off, refreshing often enough to be useful without checking in constantly
-An IEEE study found GPS apps depleted 13% of battery on average in good signal areas and up to 38% in weak signal zones. The impact varies widely by device, settings, and how often the app updates your location.
+Update frequency is directly tied to drain. An app that pings your location every few seconds will consume considerably more battery than one that updates every few minutes. This is one of the most important things to check when choosing a location-sharing app  and one of the least visible to the average user. HeyPolo's real-time location sharing is tuned for this trade-off, refreshing often enough to be useful without checking in constantly
+An IEEE study found GPS apps depleted 13% of battery on average in good signal areas  and up to 38% in weak signal zones. The impact varies widely by device, settings, and how often the app updates your location.
 How to Reduce Battery Drain While Using Location Sharing Apps
 A few practical changes can make a meaningful difference without giving up location sharing entirely.
 Android
-Enable Battery Saver mode when your charge drops low this typically reduces location update frequency automatically.
+Enable Battery Saver mode when your charge drops low  this typically reduces location update frequency automatically.
 Check Settings → Battery → Battery usage to see which apps are consuming the most. If a location app is near the top, review its update frequency settings.
 Turn off Bluetooth scanning and Wi-Fi scanning under Location settings if you don't need them. These run in the background to assist location accuracy but add to overall drain.
 Use Adaptive Battery (available on Android 9 and above), which learns your usage patterns and restricts background activity for apps you use infrequently.
 iPhone
-Under Settings → Battery, enable Low Power Mode when charge is running low this reduces background refresh, including location updates, across all apps.
+Under Settings → Battery, enable Low Power Mode when charge is running low  this reduces background refresh, including location updates, across all apps.
 Check Settings → Battery → Battery usage by app to identify which apps are consuming the most. A high percentage from a location app is a signal to review its settings.
-Disable Precise Location for apps that don't need your exact coordinates available per app under Location Services, and uses less battery than full GPS precision.
+Disable Precise Location for apps that don't need your exact coordinates  available per app under Location Services, and uses less battery than full GPS precision.
 Turn off Background App Refresh for location apps under Settings → General → Background App Refresh if you don't need real-time updates when the app isn't open.
 Choosing a Location Sharing App That's Mindful of Battery
 Beyond your device settings, the app you choose matters. Some apps are built with battery efficiency in mind; others prioritise constant accuracy over everything else.
 HeyPolo gives users control over how frequently and precisely their location is shared. You can share an exact location or just a general area, and set sharing to run only during specific time windows rather than always-on. You can also lean on location history for a look back at where someone's been, instead of leaving live tracking running all day.
-These controls aren't just privacy features they directly affect how much battery the app uses.
-Battery performance varies by device, operating system version, and individual usage patterns. Rather than making blanket claims about battery consumption, it's more useful to look at what controls an app gives you. The more granular the settings, the more you can optimise for your own situation.
+These controls aren't just privacy features  they directly affect how much battery the app uses.
+Battery performance varies by device, operating system version, and individual usage patterns. Rather than making blanket claims about battery consumption, it's more useful to look at what controls an app gives you. The more granular the settings, the more you can optimise for your own situation.
 If you're deciding between specific apps rather than just settings, we've also compared HeyPolo versus Find My directly.
 Conclusion
-Location sharing will always use some battery that's the nature of keeping a live connection between devices. But how much it uses depends largely on the app's update frequency, your device settings, and how much control the app gives you over its behaviour.
+Location sharing will always use some battery  that's the nature of keeping a live connection between devices. But how much it uses depends largely on the app's update frequency, your device settings, and how much control the app gives you over its behaviour.
 And if you're choosing an app from scratch, it's worth looking beyond the feature list at how the app handles background activity and what settings it puts in your hands.
 Battery life is one of several things worth weighing when picking an app, alongside privacy and cost, our Life360 alternatives roundup covers the rest.
 HeyPolo is free to try, and lets you adjust sharing preferences to find the right balance between staying connected and preserving your battery. Explore the features →

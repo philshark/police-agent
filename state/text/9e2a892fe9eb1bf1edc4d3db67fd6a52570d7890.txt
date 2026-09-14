@@ -29,12 +29,12 @@ Contact us
 Additional terms you should know
 General information
 HeyPolo believes you should be in control of your privacy and personal data. That is why our privacy policy (“Privacy Policy”) explains exactly how we handle your personal data – from collection, usage to protection – and gives you clear choices about it when you use our HeyPolo website (“Website”) and mobile app (all together “Services”).
-This Privacy Policy applies to Services operated by HeyPolo Inc., established in 25910 ACERO, MISSION VIEJO, CA 92691 (“we”, “us”, or “our”).
+This Privacy Policy applies to Services operated by HeyPolo Inc., established in 25910 ACERO, MISSION VIEJO, CA 92691 (“we”, “us”, or “our”).
 This Privacy Policy, along with our Terms of Service, forms a legally binding agreement that governs your relationship with us. We urge you to read it carefully to understand how we manage your personal data.
 As a data controller, we process your personal data in compliance with relevant privacy regulations, including the General Data Protection Regulation (GDPR).
 Your continued use of our Website and Services signifies your acceptance of this Privacy Policy. If you do not agree with its terms, please refrain from using our Services, including the Website.
 We may make changes to this Policy. We will inform you of any major updates in advance through our Website or by email. The "Last Updated" date at the top of the policy will always reflect the most recent version.
-1. Personal data HeyPolo collects
+1. Personal data HeyPolo collects
 We want you to know that your privacy is a top priority for us. We only collect a limited amount of personal data – the information that helps us identify you – so we can provide our services, make them better, and fulfill our legal obligations. We're committed to handling your data responsibly.
 Here’s a simple breakdown of the purposes we gather your information and the data we collect data:
 1.1. For you to be able to create your HeyPolo account:
@@ -64,8 +64,9 @@ We will retain your personal data while your account is active and for 2 years a
 Information about trips, including information about arrival and departure.
 Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
 We will process your personal data for 30 days or until you withdraw your consent, whichever occurs first.
-Geolocation data
-Legal basis for the processing of personal data is your consent
+Date of the payment, amount paid, currency, payment status, payer residence country (and state), coupon used (if any), part of the credit card number, credit card expiry date.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+Legal basis for the processing of personal data is a legal obligation to which we are subject.
 We will process your personal data until you withdraw your consent.
 Motion and fitness activity data
 Legal basis for the processing of personal data is your consent
@@ -75,7 +76,7 @@ To ensure the full-Service functionality and proper operation, we ask for your s
 With your separate consent, we will collect motion and fitness activity data, such as information on your speed and direction, as well as accuracy readings for both metrics. This data is used to provide a more reliable method for determining your method of transportation.
 You can control the collection of your location and movement data directly from your device settings. You can disable location services entirely, which will restrict HeyPolo from accessing your location. Alternatively, you have a right to revoke permission for HeyPolo to access your device's location and motion data. Nevertheless, please note that changing these settings will impact the functionality of the app and its ability to provide Services
 In addition, to ensure you receive the best possible Services, we will ask for your separate consent to send you push notifications. These notifications will be related to your use of the Services or that of your group members. You can always control push notifications in your device settings.
-Please note that we will use your data to make our Services unique to you. This processing is based on contractual necessity because the core function of the Service you purchased is to continuously learn your personal usage patterns. Simply put, data analysis is essential – without this learning, we cannot fulfill our contractual obligation to provide the personalized experience you expect.
+Please note that we will use your data to make our Services unique to you. This processing is based on contractual necessity because the core function of the Service you purchased is to continuously learn your personal usage patterns. Simply put, data analysis is essential – without this learning, we cannot fulfill our contractual obligation to provide the personalized experience you expect.
 1.4. For you to be able to manage your account preferences and sharing data with other group members:
 Data collected
 Legal basis
@@ -168,16 +169,16 @@ Unless specified differently in this Privacy Policy, we retain your personal dat
 We respect your privacy and have implemented measures to comply with major privacy laws like the GDPR and CCPA. These laws give you certain rights over your personal information. We want to make it as easy as possible for you to use those rights.
 You can ask us to delete your personal data or exercise other privacy rights at any time by emailing us at support@heypolo.com .
 Subject to certain legal limitation, you have the following rights:
-Right to Access: You have the right to access your personal data and can request a copy of it by contacting us.
-Right to Correct: If you find that some of your personal data is inaccurate or incomplete, you can ask us to correct it.
-Right to Delete: You have the right to ask us to delete your personal data, unless we are legally required or we have a legal basis to maintain certain personal data.
-Right to Portability: You can request your personal data in a portable, machine-readable format or, where it is technically feasible, ask us to transmit it to another controller. This right applies to automated data processing that relies on your consent
-Right to Object: If we are using your personal data for our legitimate business interests, you can object to that use.
-Right to Withdraw Consent: If you previously gave us your consent to use your personal data, you could withdraw that consent at any time. When you do, we will stop using your data for that specific purpose. However, please know that withdrawing your consent won't affect any data processing we did before you withdrew it, nor will it impact how we handle your data if we have another legal ground to do so (for example, to fulfill a contract with you).
-Right to Complain: If you are located in the UK, you have the right to lodge a complaint with the Information Commissioner’s Office. If you are located in the EU, you have the right to lodge a complaint with the relevant Supervisory Authority.
+Right to Access: You have the right to access your personal data and can request a copy of it by contacting us.
+Right to Correct: If you find that some of your personal data is inaccurate or incomplete, you can ask us to correct it.
+Right to Delete: You have the right to ask us to delete your personal data, unless we are legally required or we have a legal basis to maintain certain personal data.
+Right to Portability: You can request your personal data in a portable, machine-readable format or, where it is technically feasible, ask us to transmit it to another controller. This right applies to automated data processing that relies on your consent
+Right to Object: If we are using your personal data for our legitimate business interests, you can object to that use.
+Right to Withdraw Consent: If you previously gave us your consent to use your personal data, you could withdraw that consent at any time. When you do, we will stop using your data for that specific purpose. However, please know that withdrawing your consent won't affect any data processing we did before you withdrew it, nor will it impact how we handle your data if we have another legal ground to do so (for example, to fulfill a contract with you).
+Right to Complain:  If you are located in the UK, you have the right to lodge a complaint with the Information Commissioner’s Office.  If you are located in the EU, you have the right to lodge a complaint with the relevant Supervisory Authority.
 In addition to the above rights, the following rights (which may be subject to certain exemptions or derogations) shall also apply to individuals covered by the CCPA:
 Right to Opt Out of Sale/Sharing: You have the right to opt out of us selling or sharing your personal information with third parties. However, we want to be clear that we do not sell, rent, lease, or trade your personal data.
-Right to Non-Discrimination: You have the right to not receive discriminatory treatment when you exercise your privacy rights under the CCPA.
+Right to Non-Discrimination: You have the right to not receive discriminatory treatment when you exercise your privacy rights under the CCPA.
 Right to Limit Use of Sensitive Personal Information: You have a right to control how your sensitive personal information is used, restricting it to only what's essential for providing our services or for other specific, lawful purposes like fraud prevention.
 4. Personal data recipients
 We will only share your personal data with others when it is necessary for the purposes, we've already described in this Privacy Policy and when it's legally required. We never sell or trade your data.
@@ -211,7 +212,7 @@ We'll only disclose your personal data with others if you give us permission or 
 United States, EEA or other relevant country.
 5. International personal data transfers
 Your personal data, as described in this Privacy Policy, may be stored and processed in any country where we have facilities or where we use third-party service providers. Regardless of the location, we implement robust safeguards to ensure that your data remains protected in accordance with this policy.
-For data transfers outside the European Economic Area (EEA), we rely on specific legal mechanisms to ensure a high level of data protection. We primarily use Standard Contractual Clauses (SCCs), which are legally binding agreements approved by the European Commission to ensure your personal data is protected to a standard equivalent to that in the EU. Alternatively, we may transfer data to countries that the European Commission has formally recognized as providing an adequate level of data protection, meaning their national laws offer a comparable standard of security.
+For data transfers outside the European Economic Area (EEA), we rely on specific legal mechanisms to ensure a high level of data protection. We primarily use Standard Contractual Clauses (SCCs), which are legally binding agreements approved by the European Commission to ensure your personal data is protected to a standard equivalent to that in the EU. Alternatively, we may transfer data to countries that the European Commission has formally recognized as providing an adequate level of data protection, meaning their national laws offer a comparable standard of security.
 6. Cookies
 6.1. What is a cookie?
 HeyPolo uses cookies, pixels, and other similar technologies (collectively referred to as “cookies”). These are small pieces of data that your device stores for various purposes.
@@ -277,7 +278,7 @@ Apple Safari
 Microsoft Edge
 Mozilla Firefox
 Opera
-If you wish to disable advertising cookies, you can find more information on Network Advertising Initiative’s opt-out page, the Digital Advertising Alliance’s opt-out page, or http://youronlinechoices.eu.
+If you wish to disable advertising cookies, you can find more information on  Network Advertising Initiative’s opt-out page, the Digital Advertising Alliance’s opt-out page, or http://youronlinechoices.eu.
 7. Your personal data security
 We are deeply committed to protecting your security and privacy. We have implemented a variety of measures, including SSL/TLS encryption for data transfers, firewalls, and regular security audits, to ensure your information is treated securely.
 However, it is important to understand that no online service can guarantee 100% security. By using our Service, you acknowledge this inherent risk and agree that all information you provide is done so at your own risk.
