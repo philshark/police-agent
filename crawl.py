@@ -88,6 +88,14 @@ def sitemap_urls(url, seen=None):
     return locs
 
 
+def strip_links(h):
+    """Remove <a>...</a> elements (tag + their text) entirely, so link text -
+    internal or external, new or edited - never counts toward a content change.
+    Only used for the page-body text that feeds change detection; H1/title
+    extraction (via visible_text() elsewhere) is untouched."""
+    return re.sub(r"<a\b[^>]*>.*?</a>", " ", h, flags=re.S | re.I)
+
+
 def visible_text(h):
     h = re.sub(r"<!--.*?-->", " ", h, flags=re.S)
     h = re.sub(r"<(script|style|noscript|svg|template|iframe)\b[^>]*>.*?</\1>",
@@ -430,7 +438,7 @@ def main():
                 pages[u] = prev_pages[u]
             continue
 
-        vt = visible_text(body)
+        vt = visible_text(strip_links(body))
         seo = extract_seo(body)
         entry = {
             "text_hash": sha(vt),
