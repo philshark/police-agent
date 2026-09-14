@@ -1,19 +1,9 @@
 Creating A Family Emergency Plan Built on Your Phone and Paper
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 Family safety
 Creating A Family Emergency Plan Built on Your Phone and Paper
 A household that reviews a printed page twice a year and keeps a shared group running in between is not preparing for disaster so much as making sure nobody has to guess.
@@ -46,7 +36,7 @@ Hurricane. Find out whether your address sits in an evacuation zone, and write t
 Flood. Ready.gov advises learning and practicing evacuation routes, and never walking, swimming, or driving through flood water. Higher ground, and the car stays out of it.
 Chemical incident. The CDC's shelter-in-place instruction is to seal all windows, doors, and air vents with thick plastic sheeting and duct tape. Pick the room in advance and note which one has the fewest openings.
 With the hazards named, figure out how you find out.
-Wireless Emergency Alerts are geo-targeted official messages sent to compatible phones through FEMA's Integrated Public Alert and Warning System, or IPAWS. The Federal Communications Commission describes them as text-like messages warning of imminent threats.
+Wireless Emergency Alerts are geo-targeted official messages sent to compatible phones through FEMA's Integrated Public Alert and Warning System, or IPAWS. The Federal Communications Commission describes them as  of imminent threats.
 Check that those alerts are switched on in your phone's notification settings, because plenty of people turned them off years ago after a test and forgot.
 Add the FEMA App, which sends real-time weather and emergency alerts from the National Weather Service and shows open shelters. Then consider a NOAA Weather Radio for the house, which can be programmed to alarm only for your county and only for the threats you select.
 On the paper copy, this section is four lines. Hazard, protective action, where the alert comes from, and who in the household is responsible for checking the radio batteries.
@@ -58,28 +48,27 @@ That number goes into every phone in the household and onto a wallet card for ea
 Agree on texting as the default after a disaster, unless someone is in immediate danger. Text messages may get through more reliably than calls when networks are stressed. A text also queues and delivers later, which a dropped call does not.
 Ready.gov's fillable communication plan form covers the fields worth copying: household roster, work and school numbers, childcare contacts, and meeting places. Simply put, this is a form you complete and email to yourself as a PDF. Print one copy and put a photo of it in your phone.
 TPhone calls and texts cover most of it, but not everyone will be reachable the moment something happens. A real-time location sharing app like HeyPolo can help you see where everyone actually is if they're not with you when disaster strikes, without you having to get through on a jammed line first.
-Plenty of apps promise a family check-in feature, but the best location sharing apps let each person control what gets shared and for how long, which matters more during a real evacuation than any single feature on a list.
+Plenty of apps promise a family check-in feature, but the let each person control what gets shared and for how long, which matters more during a real evacuation than any single feature on a list.
 HeyPolo groups let each person set their own sharing window and switch to general-area only, so a check-in during a severe storm warning takes one look instead of six unanswered texts.
-Try it now
 Set meeting places your kids can find and your parents can drive to
 Pick two spots. One close to home, like a specific neighbor's porch or the mailbox at the end of the driveway, for a house fire where everyone gets out separately. One regional, like a library, office or a place of worship in a different part of town, for the days a whole neighborhood is told to leave. Convenience stores and gas stations don't make good meeting points, because people will scrable for food and fuel in the lead up to and in the wake of a disaster.
-Write the exact street addresses, not descriptions. "Grandma's" means nothing to a police officer helping your nine-year-old. Put the addresses on paper, drop pins in shared maps on the phones, and say them out loud to the kids in words they will repeat back. The same problem turns up on a drive, where stopping on a rural road often leaves you with no address to give at all.
+Write the exact street addresses, not descriptions. "Grandma's" means nothing to a police officer helping your nine-year-old. Put the addresses on paper, drop pins in shared maps on the phones, and say them out loud to the kids in words they will repeat back. The same problem turns up on a drive, where often leaves you with no address to give at all.
 FEMA's post-disaster reunification framework for children uses family templates with dedicated sections for meeting places and evacuation locations, which tells you those two fields belong on the page rather than in someone's memory.
-Ready.gov's materials for kids teach routes through mapping activities and a two-exits exercise, and children remember a route they have walked far better than one they have been told about. That practice is also what decides when kids go out alone on an ordinary day.
+Ready.gov's materials for kids teach routes through mapping activities and a two-exits exercise, and children remember a route they have walked far better than one they have been told about. That practice is also what decides  on an ordinary day.
 Households that split across two addresses need one more line. When kids move between a co-parent's house and yours, both households hold the same paper copy, with the same meeting places and the same out-of-state contact.
 Two plans that disagree are worse than one plan nobody printed. A location-sharing app switched on for a set window, like the handover drive on a Friday evening, covers the stretch where a child is between two homes and neither adult can see them.
-The car itself is usually already sending some of that same information, speed, route, timing, back to the manufacturer on its own, a separate flow worth understanding as vehicle data transmission before you assume your phone is the only thing tracking the drive.
+The car itself is usually already sending some of that same information, speed, route, timing, back to the manufacturer on its own, a separate flow worth understanding as before you assume your phone is the only thing tracking the drive.
 Decide what makes you leave and what makes you stay
 Write your triggers as sentences with a place and a route in them. "If the county issues a mandatory evacuation for Zone B, we take Route 9 north to my sister's in Jonestown" beats "we'll leave if it gets bad."
 The second version turns into an argument in a driveway at 6 a.m.
 Reasons to go usually include hurricane evacuation orders, fast-rising water, wildfire smoke, and a gas leak. Reasons to stay inside include severe thunderstorms and certain chemical releases, where the CDC's sealed-room guidance applies and going outside puts you in the plume.
 Identify at least two exit routes from your neighborhood, because the obvious one floods or backs up.
 Inside the house, the fire plan is separate and more urgent.
-The National Fire Protection Association points out that a fire can leave as little as one or two minutes to escape safely once the smoke alarm sounds, and recommends practicing your escape plan twice a year. Draw two ways out of every room, mark the outside meeting spot, and tape the diagram somewhere the kids see it rather than filing it.
+The National Fire Protection Association points out that a fire can leave  or two minutes to escape safely once the smoke alarm sounds, and recommends practicing your escape plan twice a year. Draw two ways out of every room, mark the outside meeting spot, and tape the diagram somewhere the kids see it rather than filing it.
 Ready.gov's flood guidance asks households to practice evacuation routes to higher ground rather than only reading them, and hurricane planning guidance from the National Weather Service asks you to know your evacuation zone before the season starts. Both of those happen on a calm weekend or not at all.
 Stock supplies that match your routes, your outlets, and your pantry
 Build in two tiers. The home kit aims for up to two weeks of essentials where you have the space. The go-bag covers at least three days and lives near the door you would actually leave through.
-Water sets the floor. The CDC advises storing at least 1 gallon of water per person, per day for 3 days, and to try to store a 2-week supply if possible. For a family of four, three days is 12 gallons, which is two cases of bottled water and a shelf.
+Water sets the floor. The CDC advises storing of water per person, per day for 3 days, and to try to store a 2-week supply if possible. For a family of four, three days is 12 gallons, which is two cases of bottled water and a shelf.
 Food, tools, and power fill in around it:
 Nonperishable food and a manual can opener that is not the electric one on the counter
 A first-aid kit stocked to the Red Cross list, which includes adhesive bandages, antibiotic ointment packets, and an emergency blanket
@@ -106,9 +95,9 @@ Backup power for a medical device needs testing before you need it, and a writte
 For infants and pregnant household members, remember the feeding supplies, diapering, and medications, with planning that accounts for limited water, sanitation, and power. Formula preparation without safe tap water is the detail that catches people out, so store what you would need to prepare a feed with bottled water only.
 Pets come with a flat rule. The CDC states that if it is not safe for you to stay home, it is not safe for your pet, and recommends identifying pet-friendly destinations in advance and assembling a pet go-kit with food, water, carrier, leash, and vaccination records. Shelters that turn animals away have turned families away with them.
 For an ageing parent in another town, the useful setting is the low-effort one. HeyPolo has general-area sharing and time-boxed trip sharing, so a parent driving to a clinic can switch it on for the drive and off when they get home.
-A HeyPolo group with an ageing parent or a new driver runs on their consent, with general-area sharing and arrival alerts instead of a call they have to answer.
+A HeyPolo group with an ageing parent or a new driver runs on their consent, with general-area sharing and instead of a call they have to answer.
 Protect your documents, your money, and your recovery path
-Recovery is where the paper half of the plan earns everything. FEMA's Emergency Financial First Aid Kit is designed to help individuals and families at all income levels collect and secure the documentation they would need to get on the road to recovery.
+Recovery is where the paper half of the plan earns everything. FEMA's Emergency Financial First Aid Kit is and families at all income levels collect and secure the documentation they would need to get on the road to recovery.
 Work through its worksheets once, keep one copy in a waterproof folder at home, and keep an encrypted digital copy you can open from your phone.
 Add a home inventory.
 Guidance published by the Oregon Division of Financial Regulation notes that creating a list when you're dealing with a tragedy is nearly impossible, and urges households to build the inventory every year. Photos of each room, receipts for the expensive items, and serial numbers on electronics take an hour and settle claims faster.
@@ -116,17 +105,17 @@ Know what an application will ask for before you are filling one out on a phone 
 One more number belongs on the paper copy. Dialing 211 connects you to a live, highly trained service professional who can point you toward local shelter, food, legal aid, and counseling in the weeks after an event.
 The 211 line is the part of recovery most households discover three weeks late.
 Turn the plan into a habit your household actually keeps
-Pick two dates a year and put them in the calendar app with a reminder. The start of the school year and a mid-winter weekend work well because both already come with a household reset, and the school-year one folds into the back to school safety plan you are writing anyway.
+Pick two dates a year and put them in the calendar app with a reminder. The start of the school year and a mid-winter weekend work well because both already come with a household reset, and the school-year one folds into the plan you are writing anyway.
 On each of those dates, run a short home fire escape drill, drive or walk one evacuation route, send a family check-in text to make sure everyone still has the right numbers, and read the paper copy out loud for anything that has gone stale.
-Moves, new schools, a new driver, a health change, a pet, a phone number that changed. A new school schedule moves more of those lines than people expect, since it changes who is where at 4 p.m.
+Moves, new schools, a new driver, a health change, a pet, a phone number that changed. A new  moves more of those lines than people expect, since it changes who is where at 4 p.m.
 Between those dates, test smoke alarms monthly and replace them at least every 10 years. Alarms have a date printed on the back, and most people have never looked.
 Your phone can carry the maintenance load if you let it.
 Calendar reminders for the drills, arrival alerts for the places that matter, and a low-battery alert that reads as a prompt to plug in before a storm rather than a reason to text someone.
-None of that works if the phone's already dead by the time the storm alert lands, so it's worth knowing how location sharing affects your battery on an ordinary day, not just an emergency one. That last one is small, and it is the setting I would keep if I could only keep one.
+None of that works if the phone's already dead by the time the storm alert lands, so it's worth knowing how on an ordinary day, not just an emergency one. That last one is small, and it is the setting I would keep if I could only keep one.
 The plan you build this month will not be the plan you need in three years, and that is fine. A household that reviews a printed page twice a year and keeps a shared group running in between is not preparing for disaster so much as making sure nobody has to guess.
 Your kids know where to go. Your parent knows you will see the arrival alert without calling. The paper copy in the drawer says the same thing your phone does.
 HeyPolo shows where the people in your group are when they have chosen to share, sends arrival alerts for home and school, flags a low battery before it becomes silence, and puts one-tap SOS with live location in front of anyone who needs it. Consent is the default, and the person sharing can pause it whenever they want.
-Download HeyPolo and set up your household group as the check-in layer of your plan.
+Download HeyPolo and as the check-in layer of your plan.
 Frequently asked questions
 How often should a family emergency plan be reviewed?
 Twice a year is the standard cadence, and it pairs naturally with the twice-yearly home fire drill the National Fire Protection Association recommends. Households should also review after any move, school change, new driver, health change, or new phone number.
@@ -147,42 +136,10 @@ The CDC advises at least 1 gallon of water per person, per day for 3 days, with 
 Should children have their own copy of the plan?
 Yes, in wallet-card form. Ready.gov's family communication materials for children use wallet-size cards with the out-of-state contact and meeting place, which works for kids who do not yet carry a phone.
 On this page
-Key takeaways
-Map your real risks and set your phone to warn you
-Build your hybrid family emergency plan for communication and check-ins
-Set meeting places your kids can find and your parents can drive to
-Decide what makes you leave and what makes you stay
-Stock supplies that match your routes, your outlets, and your pantry
-Don't forget the people and animals who need more than a go-bag
-Protect your documents, your money, and your recovery path
-Turn the plan into a habit your household actually keeps
-Frequently asked questions
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

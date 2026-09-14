@@ -1,24 +1,13 @@
 Car Crash Detection With No Extra Steps | HeyPolo
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Crash detection that reaches your family fast
 If your phone senses a crash, your family finds out before you have to say a word.
 Automatic alert if your phone senses an impact
 Live location is sent with that alert
 One tap clears a false alarm
-Get Started
 30 day money back guarantee
 🚗Impact detected, are you okay?Just now
 Families already using HeyPolo
@@ -177,7 +166,7 @@ From $1.99/mo
 Identical on iPhone and Android
 It works the same on both, so a mixed-phone household doesn't need a workaround.
 iOS + Android
-Get Started30-day money-back guarantee
+30-day money-back guarantee
 What people say
 “Very nice app, looking beautiful.”
 RJRobJuzPoland
@@ -187,11 +176,8 @@ HQHis Queen89United States
 DJdr.jofffLithuania
 “It's a great family tracking app, love the features.”
 OCObsoleteCatLithuania
-Download on the App StoreGet it on Google Play
 Nobody gets tracked without agreeing to it first
-Try HeyPolo free for 30 days
 30 day money back guarantee
-Download on App StoreDownload on Google Play
 Crash detection FAQ
 Is there an app that detects car crashes automatically?
 Yes. HeyPolo reads impact forces through sensors already built into a phone, then asks the driver whether they're okay. Silence after that prompt sends an emergency alert with live location to whichever group that person chose. Nothing gets launched before a drive, so it works while a handset sits in a cupholder or pocket.
@@ -210,39 +196,13 @@ Any time, in one tap, and per group if that suits you better. Pausing everything
 How much battery does it use?
 Running in the background with sharing on, HeyPolo typically uses about as much battery as a messaging app left open, around 4% a day. That climbs in weak signal areas, and drops if you share a general area instead of an exact location, or limit sharing to set time windows.
 Related features
-Real-time location sharing
 Share an exact spot or a general area, for as long as you choose.
-SOS emergency alerts
 One tap sends help your way, with live location attached.
-Speed alerts
 Quiet reassurance that a young driver reached where they were going.
-Location sharing history
 Look back at shared trips from the past 7 days, then watch them delete themselves.
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

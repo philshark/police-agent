@@ -1,19 +1,9 @@
 The Back to School Checklist for Managing Two Kids at Once | HeyPolo
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 Family safety
 The Back to School Checklist for Managing Two Kids at Once
 Two kids means two of everything, unless you stop treating it that way. This is the checklist for building one source of truth, instead of two.
@@ -56,14 +46,14 @@ Note which school each item belongs to as you file it. Two kids in different bui
 The calendar entry that says "form due" without naming the school is the one you will get wrong.
 Special education and disability supports
 If either child has an IEP, keep the current version and the procedural safeguards notice in the hub.
-The Department of Education's family guidance on IDEA states that the cornerstone of the IDEA is the entitlement of each eligible child with a disability to a free appropriate public education that emphasizes special education and related services designed to meet the child's unique needs.
+The Department of Education's states that the cornerstone of the IDEA is the entitlement of each eligible child with a disability to a free appropriate public education that emphasizes special education and related services designed to meet the child's unique needs.
 The same guidance states that a copy of the procedural safeguards available to parents must be provided to the parents one time per school year. Knowing that copy is owed to you once a year makes it easier to ask for it rather than wonder whether asking is reasonable.
 A 504 plan for one child belongs in the same place as an IEP for the other. Filing them together saves you from hunting through two different systems when a teacher emails in November asking what accommodations are in place.
 If one of your kids is currently being evaluated, keep the evaluation timeline and every piece of correspondence in the hub too. Requests move faster when you can quote a date.
 The privacy sub checklist
 Two items here that most parents skip, mostly because the notices arrive buried in the enrollment packet.
 Your school's annual FERPA notice explains what it treats as directory information, which can include photos, activities, and honors. You can decide, per child, whether to opt out, and the deadline is usually early in the fall.
-The Student Privacy Policy Office's overview of survey rights states that PPRA affords parents certain rights regarding the conduct of surveys, collection and use of information for marketing purposes, and certain physical exams.
+The Student Privacy Policy Office's states that PPRA affords parents certain rights regarding the conduct of surveys, collection and use of information for marketing purposes, and certain physical exams.
 Those rights include consent before surveys on eight protected areas. Scan those notices for both kids when they come home. Your middle schooler and your third grader may be offered very different things.
 What a back to school checklist for supplies actually needs
 Start at home. Walk through both kids' rooms and the drawer where last year's supplies went to die, and write down what already exists before you buy anything.
@@ -80,23 +70,23 @@ Art supplies and locker gear, only where the school actually asks for them
 Big ticket items deserve a rotation. Household back to school spending can get pricey, and buying two of everything new every August is how it gets away from you.
 Decide which child gets the new backpack this year and which one gets a good one handed down, then swap next year.
 Backpack fit and weight
-The AAP's guidance on school bags advises choosing a backpack with wide, padded shoulder straps and a padded back.
+The AAP's advises choosing a backpack with wide, padded shoulder straps and a padded back.
 The same page states that the backpack should never weigh more than 10% to 15% of your child's body weight. For a 70 pound fourth grader, that ceiling is around 7 to 10 pounds, which a full water bottle and three textbooks will clear without much effort.
 Have each child put the loaded pack on and use both straps, plus the chest or waist strap if it has one. A pack that hangs below the lower back pulls the shoulders forward, and kids will keep wearing it that way unless somebody adjusts it.
 Labeling, without adding to your load
 Label the things that disappear: lunchboxes, water bottles, jackets, and instrument cases. But also accept that some of them will go missing.
 Give each child a color rather than writing full names on everything, so a glance sorts the pile at the door. A roll of colored tape and a marker does the job for a year.
 Two drop offs, two routes, one plan
-Write down how each child gets to and from school on each day of the week. Bus on Monday and Wednesday, walking with a neighbor on Tuesday, carpool on Thursday, and whatever Friday looks like when the after school club runs. The bus days carry their own preparation, since the routine at the stop is where most of it happens rather than on the ride. Seeing it laid out is usually how you find the conflict, and the conflict is almost always a pickup at 3:15 in one place and 3:20 in another.
-For the child who walks or bikes, the NHTSA's route assessment tool invites families to take a walk with your children, friends or family and complete the walkability checklist.
-Families decide whether to assess a single location or full routes. Walking the route together once, before the first day, tends to surface things a map does not, like the crossing where the parked cars block the view. That same walk-through is most of what it takes to prepare kids for school who haven't done this particular commute solo before.
-If one child's route feels worse than the other's, changing that route is easier in August than in October, and worth walking again once darker evenings push the trip home past sunset.
-For car travel and carpools, children should ride in the back seat through age 12, and the restraint each child needs may have changed since last year. Safe Kids Worldwide's child restraint guidance states that most kids need to ride in a booster seat until they are between 8 and 12 years old and reach 4 feet 9 inches. Measure your younger one before you assume they have outgrown it, and tell any adult who drives your kids what each child needs.
+Write down how each child gets to and from school on each day of the week. Bus on Monday and Wednesday, walking with a neighbor on Tuesday, carpool on Thursday, and whatever Friday looks like when the after school club runs. The bus days carry their own preparation, since is where most of it happens rather than on the ride. Seeing it laid out is usually how you find the conflict, and the conflict is almost always a pickup at 3:15 in one place and 3:20 in another.
+For the child who walks or bikes, the NHTSA's invites families to take a walk with your children, friends or family and complete the walkability checklist.
+Families decide whether to assess a single location or full routes. Walking the route together once, before the first day, tends to surface things a map does not, like the crossing where the parked cars block the view. That same walk-through is most of what it takes to who haven't done this particular commute solo before.
+If one child's route feels worse than the other's, changing that route is easier in August than in October, and worth walking again once push the trip home past sunset.
+For car travel and carpools, children should ride in the back seat through age 12, and the restraint each child needs may have changed since last year. Safe Kids Worldwide's states that most kids need to ride in a booster seat until they are between 8 and 12 years old and reach 4 feet 9 inches. Measure your younger one before you assume they have outgrown it, and tell any adult who drives your kids what each child needs.
 The gap between the last bell and the front door is where most parents end up checking their phone for a message. School arrival alerts and a check in when one child walks to a friend's house cover that stretch without anyone having to text a status update.
-HeyPolo sends a place alert when each child arrives at school or gets home, so you can see both kids landed safely without messaging either of them. Learn more about how HeyPolo works for families
+HeyPolo sends a place alert when each child arrives at school or gets home, so you can see both kids landed safely without messaging either of them.
 Accounts, devices, and what the school can consent to
 List every school issued account and device for each child, then read your district's acceptable use and privacy policies. Two schools often means two sets of rules, and the middle school policy is usually stricter than the elementary one in ways worth knowing before a device comes home.
-The FTC's guidance for schools and vendors states that COPPA is meant to give parents control over the online collection, use, or disclosure of personal information from children. In schools, the FTC says consent can be given on parents' behalf only when the collection is solely for educational purposes.
+The FTC's states that COPPA is meant to give parents control over the online collection, use, or disclosure of personal information from children. In schools, the FTC says consent can be given on parents' behalf only when the collection is solely for educational purposes.
 Your school can agree to a reading app on your behalf for classroom use. It cannot hand over your child's information for commercial marketing under that same consent. When a tool looks more like advertising than learning, ask the teacher which vendor it is and what it collects. Staff usually have the answer or can get it.
 Screen free times and places work better when the rule covers the household rather than one child. The times can differ by age. A high schooler doing homework on a laptop and a fourth grader on a tablet do not need the same shutoff time. "No devices at the table" applies to everyone, including you, the parent.
 Health appointments, so you only call once
@@ -114,7 +104,7 @@ If either child has a food allergy, the school needs a written plan and epinephr
 Walk your child through what to do if a reaction starts and who to tell, in language that matches their age.
 Sleep targets you can actually aim at
 Sleep is where the two kid problem gets concrete, because the right answer differs by age and the household only has one evening.
-The American Academy of Sleep Medicine's consensus statement on sleep duration recommends that children 6 to 12 years of age should sleep 9 to 12 hours per 24 hours. Teenagers 13 to 18 years of age should sleep 8 to 10 hours per 24 hours. Sleeping the recommended number of hours on a regular basis is associated with better health outcomes including improved attention, behavior, learning, memory, emotional regulation, quality of life, and mental and physical health. CDC Youth Risk Behavior Survey analyses have linked at least 8 hours of sleep with lower mental health and suicide risk indicators among high school students.
+The American Academy of Sleep Medicine's recommends that children 6 to 12 years of age should sleep 9 to 12 hours per 24 hours. Teenagers 13 to 18 years of age should sleep 8 to 10 hours per 24 hours. Sleeping the recommended number of hours on a regular basis is associated with better health outcomes including improved attention, behavior, learning, memory, emotional regulation, quality of life, and mental and physical health. CDC Youth Risk Behavior Survey analyses have linked at least 8 hours of sleep with lower mental health and suicide risk indicators among high school students.
 Working backward from a 7:00 a.m. wake time, a ten year old needs to be asleep somewhere between 7:00 and 10:00 p.m., and a fifteen year old between 9:00 and 11:00 p.m. Those windows overlap enough that one wind down routine can serve both, with the younger child's lights out earlier.
 Start the shift a week or two before the first day. Moving wake time and lights out by fifteen or twenty minutes every couple of days gets both kids close to their range without a single painful night. Screens off at a set time helps more than the bedtime itself does, and it is the rule most families give up on first.
 A few habits that carry the weight:
@@ -127,11 +117,11 @@ You will miss something. One child's first day assembly will happen at the same 
 What helps more than being present at everything is your kids feeling connected at their schools. CDC Youth Risk Behavior Survey findings show that students who feel connected at school have a lower prevalence of poor mental health and suicide risk indicators than students who do not feel connected. Small things build that: one open house per child, learning the name of a teacher and the front office staff in each building, and one club or team each kid picked themselves.
 Keep the 988 Suicide & Crisis Lifeline where the family can find it. Calling, texting, or chatting all reach the same service, and it runs 24 hours a day. Putting it on the fridge alongside the pediatrician's number treats it as ordinary, which is how you want an older child to see it.
 Checking in and checking up feel different to a teenager, and the difference is mostly about who initiates. A nightly "high and low" at dinner gives both kids a slot to say something without being interrogated. A family group chat that carries jokes and not only logistics gets read. Arrival alerts tell you the eleven year old got home from the bus stop.
-The same principles that make a latchkey kid feel less alone during the summer gap apply just as much to the stretch between the last bell and someone getting home during term time.
+The same principles that make a  feel less alone during the summer gap apply just as much to the stretch between the last bell and someone getting home during term time.
 You can save your attention for the conversation at dinner rather than the map.
 You started this with a counter full of paper and two children with different schedules, and that does not change. One folder, one calendar, and two sleep windows that overlap will not make either of them remember the gym shoes.
-HeyPolo's location alerts tell you when each child arrives somewhere, and sharing is switched on by the person being shared, so your teenager keeps a say in it. It does not tell you how they are doing, which is still your job at dinner.
-Try HeyPolo to see when each child arrives at school and gets home, with sharing that each family member controls.
+tell you when each child arrives somewhere, and sharing is switched on by the person being shared, so your teenager keeps a say in it. It does not tell you how they are doing, which is still your job at dinner.
+to see when each child arrives at school and gets home, with sharing that each family member controls.
 FAQ
 When should I start a back to school checklist?
 Two to three weeks before the first day gives you enough room to actually get through it without a scramble the night before. School supplies and paperwork can wait until the last week if you need to, but anything involving new routines, like a new walk to school or a new bus stop, is worth practicing while there's still time to adjust.
@@ -150,47 +140,10 @@ Enrollment forms, emergency contacts, authorized pickup lists, immunization reco
 Can schools consent to educational apps on a parent's behalf?
 Under COPPA, schools can consent to online services for children under 13 only when the data collection is solely for educational purposes. Consent given by a school does not extend to commercial marketing uses.
 On this page
-Key takeaways
-Kids will break the system you built
-Build one hub instead of two piles
-Special education and disability supports
-The privacy sub checklist
-What a back to school checklist for supplies actually needs
-Backpack fit and weight
-Labeling, without adding to your load
-Two drop offs, two routes, one plan
-Accounts, devices, and what the school can consent to
-Health appointments, so you only call once
-Lunch, allergies, and who eats what
-Sleep targets you can actually aim at
-When you cannot be in two places
-FAQ
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

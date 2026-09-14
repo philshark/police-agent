@@ -1,23 +1,12 @@
 HeyPolo: Real-Time Location-Sharing App - Private, No Always-On Tracking
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Real-time location sharing built for families
 One person pays, everyone else joins
 Share exact or general location
 See real-time location and trip history
-Get Started
 What is real-time location sharing?
 Real-time location sharing lets the people you choose see exactly where you are, right now — not an hour ago, not an approximation.
 With HeyPolo, you decide who sees your location, how precisely, and for how long. When the time is up, sharing stops automatically. No ghost tracking, no forgetting to turn it off.
@@ -101,7 +90,6 @@ Available on
 By the creators of Surfshark, trusted by over 4M + users worldwide
 Real-time location sharing that feels like connection, not surveillance.
 Try HeyPolo free for 30 days — no commitment needed.
-Get Started
 Frequently asked questions
 Can I share my location in real time?
 Yes. HeyPolo shows the people you choose exactly where you are, with your location refreshing every 5 seconds. You stay in control of who can see you, how precisely, and for how long.
@@ -114,30 +102,8 @@ HeyPolo is built around sharing, not surveillance. Everyone controls their own l
 How do I stop real-time location sharing on HeyPolo?
 Stop any time with a single tap, or set a timer so sharing ends automatically. When the time is up, sharing stops on its own — no ghost tracking and nothing left running without you knowing.
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

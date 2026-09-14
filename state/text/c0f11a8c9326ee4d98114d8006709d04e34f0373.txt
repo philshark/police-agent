@@ -1,19 +1,9 @@
 After School Routine for Working Parents That Actually Runs
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 Family safety
 An after-school routine any working parent can run
 Most advice about after-school routines assumes an adult is standing in the kitchen when the bell rings, which is the one thing plenty of families can't arrange. The hours between dismissal and everyone being home usually pass through somebody else: aftercare, a sitter, a co-parent, or a kid with a key.
@@ -24,18 +14,18 @@ I used to think the fix was better calendar work, and it turned out to be the ha
 Why children need recovery time before homework
 A school day asks for sustained attention and steady social effort, and both are spent by dismissal. Children often push back on the first request made in the first ten minutes at home, even a small one, which is why a snack and a low-demand stretch work better in that slot than a worksheet does.
 Speaking to Fox61, Dr. Raza recommends allowing children 30 minutes to one hour to decompress after school. Dr. Rob Keder, a developmental pediatrician at Connecticut Children's Medical Center, adds that unstructured time lets children tap into creativity and understand themselves. Neither of them prescribes an activity, and that's the useful part: lying on the floor counts, so does kicking a ball at a wall.
-Children with attention or sensory differences may want a longer, quieter transition, and Dr. Keder describes how hard those kids work through a school day. Whatever length you land on, the order is what your child learns to expect. A systematic review of family routines published in the Journal of Family Theory & Review in 2024 reports that structured family routines, especially around mealtimes, support positive parenting, family bonds, and children's attachment styles.
+Children with attention or sensory differences may want a longer, quieter transition, and Dr. Keder describes how hard those kids work through a school day. Whatever length you land on, the order is what your child learns to expect. A published in the Journal of Family Theory & Review in 2024 reports that structured family routines, especially around mealtimes, support positive parenting, family bonds, and children's attachment styles.
 Start with the handoff your family actually has
-Before you write a single time on a schedule, it helps to write down the route your child takes between the school gate and the moment you're together again. Aftercare until 5:30 pm, then a co-parent. A sitter on Tuesdays and Thursdays. You at your desk upstairs with a headset on. Or a 12-year-old with a key, a snack, and 90 minutes on their own, which is the arrangement most of this article has to survive.
+Before you write a single time on a schedule, it helps to write down the route your child takes between the school gate and the moment you're together again. Aftercare until 5:30 pm, then a co-parent. A sitter on Tuesdays and Thursdays. You at your desk upstairs with a headset on. Or , a snack, and 90 minutes on their own, which is the arrangement most of this article has to survive.
 Each of those routes has a different person holding the first anchor, and that person can only run the routine if they know what it is. A short handoff record does most of the work here. Four lines, written where everyone can see them: arrival confirmed, snack eaten or skipped, any school paperwork that needs an adult tonight, and the next fixed commitment with its leaving time. A sitter can fill that in on a notepad. A teenager can send it as one message.
 The part that tends to nag at parents is the first line, arrival, because it's the one you can't see from work. An agreed arrival alert can replace a manual "I'm home" message when a phone-age child reaches a trusted place, which suits kids who forget to text and parents who then can't concentrate. HeyPolo sends one when they get there.
 Build an after school routine for working parents around four anchors
 Four anchors in order carry the whole afternoon, and any household can run them at different times. Arrival comes first: backpack emptied, lunch container by the sink, school papers into one tray. Recovery comes second, with a snack and a quiet stretch. Third is the next responsibility, which might be homework, one chore, or getting kit into a bag for practice.
-Four anchors in order carry the whole afternoon, and any household can run them at different times. Arrival comes first: backpack emptied, lunch container by the sink, school papers into one tray. Recovery comes second, with a snack and a quiet stretch. Third is the next responsibility, which might be homework, one chore, or getting kit into a bag for practice. Fourth is reunion, when your household comes together and tomorrow's plan gets confirmed. The order is the durable part, and it slots into the school schedule you run without needing times of its own.
+Four anchors in order carry the whole afternoon, and any household can run them at different times. Arrival comes first: backpack emptied, lunch container by the sink, school papers into one tray. Recovery comes second, with a snack and a quiet stretch. Third is the next responsibility, which might be homework, one chore, or getting kit into a bag for practice. Fourth is reunion, when your household comes together and tomorrow's plan gets confirmed. The order is the durable part, and it slots into  without needing times of its own.
 Penn State Thrive recommends much the same opening moves, unpacking school items and offering snack-sized options, alongside a workspace that's ready before it's needed. Where families differ is the clock. Dismissal at 2:45 pm and a parent home at 6:15 pm produces a very different set of times from a 3:30 pm finish with aftercare until 5 pm, and the order survives both.
 Set up the afternoon before it starts
 Every decision you leave in the afternoon is a decision a tired child or a stand-in adult has to make without you. Supplies in one box, snack options on a labeled shelf, and a written note of which assignments can wait for adult help all remove a question before it gets asked. Understood.org suggests making the routine visible and fitting it to the child, which is why a card on the fridge beats a plan that lives in your head.
-Older children can start the work they already understand and write down the questions they'd otherwise guess at. A short list of flagged questions is easier to answer at 6:40 pm than a whole worksheet nobody attempted, and it takes some of the school pressure kids carry home out of the evening.
+Older children can start the work they already understand and write down the questions they'd otherwise guess at. A short list of flagged questions is easier to answer at 6:40 pm than a whole worksheet nobody attempted, and it takes some of the out of the evening.
 Backpack and lunch container emptied, container left by the sink
 School papers in the one tray an adult checks
 Snack from the labeled shelf
@@ -43,10 +33,10 @@ Quiet stretch, timer set to whatever length suits your child
 One task started, with questions written down rather than guessed
 Choose the next responsibility around the day you have
 Homework doesn't have to hold the third anchor every day. A child who has soccer at 5 pm and dinner at 7 pm may do better with movement first and reading after the table is cleared. A child who fades by 7:30 pm may want the hard subject at 4 pm and nothing demanding afterward.
-Movement belongs in the wider day rather than crammed into one after-school block. The US Centers for Disease Control and Prevention recommends that children and adolescents ages 6–17 do 60 minutes of daily activity or more at moderate-to-vigorous intensity. Recess, walking home, and 20 minutes on a bike all count toward it, so the afternoon slot doesn't have to carry the full hour.
+Movement belongs in the wider day rather than crammed into one after-school block. The US Centers for Disease Control and Prevention recommends that children and adolescents ages 6–17 do or more at moderate-to-vigorous intensity. Recess, walking home, and 20 minutes on a bike all count toward it, so the afternoon slot doesn't have to carry the full hour.
 Keep chores literal. Emptying the lunch container, putting the recycling out, or setting the dinner things on the counter are tasks a child can finish and tick. When you're weighing up another activity, the honest questions are about transport, and about whether there's still room for recovery and a meal that isn't eaten in the car.
 Adapt the anchors to your work pattern
-Try a set shift pattern where possible, because it gives both parent and child a sense of routine. Where shifts rotate anyway, the child's sequence can stay put while the adult holding it changes, which is the part most families working shifts end up leaning on.
+Try a set shift pattern where possible, because it gives both parent and child a sense of routine. Where shifts rotate anyway, the child's sequence can stay put while the adult holding it changes, which is the part end up leaning on.
 The times below are illustrations to edit, not a schedule to adopt.
 Arrangement
 Arrival handoff
@@ -78,9 +68,9 @@ Snack, then 30 minutes of their choosing
 Homework they understand, questions flagged
 Ten minutes when you walk in at 6:15 pm
 Agreed adult nearby, plus a plan for a lost key
-The independent-arrival row is the one families rewrite most, usually around the journey itself, and it sits downstream of a bigger question about whether a child is ready to stay home alone at all. A walk home or a ride from aftercare is a defined stretch of time, so sharing that covers only that window and then stops matches what's actually being asked. Teenagers who'd refuse an open-ended arrangement will often agree to 20 minutes of their choosing, or to showing a general area instead of an exact doorstep.
+The independent-arrival row is the one families rewrite most, usually around the journey itself, and it sits downstream of a bigger question about whether a child is at all. A walk home or a ride from aftercare is a defined stretch of time, so sharing that covers only that window and then stops matches what's actually being asked. Teenagers who'd refuse an open-ended arrangement will often agree to 20 minutes of their choosing, or to showing a general area instead of an exact doorstep.
 Give screens a start time and something to follow
-When you're working upstairs and your child is downstairs at 4 pm, media is going to be part of the afternoon. Naming its slot works better than deciding about it every day at the point everyone is tired. The American Academy of Pediatrics says it helps to have a plan about when and where media is used every day.
+When you're working upstairs and your child is downstairs at 4 pm, media is going to be part of the afternoon. Naming its slot works better than deciding about it every day at the point everyone is tired. The American Academy of Pediatrics says about when and where media is used every day.
 So the plan can be as small as this: screens start after the timer ends, they happen in the front room, and they stop when the next thing begins. Educational content is fine, and calling it educational doesn't turn 90 minutes into a good idea. Sitting beside the screen slot, put two or three things your child can start alone without asking, like drawing supplies already out, a book left on the arm of the chair, or the yard if the weather and your street allow it.
 Reconnect when your household comes together
 Reunion is the anchor most likely to get skipped, because it lands exactly when dinner needs starting. Happy You Happy Family describes a five-minute routine of sitting together and talking before the evening rush pulls everyone in different directions, and five minutes is a realistic ask on a Tuesday.
@@ -92,7 +82,7 @@ Ask your child which change to try, and ask the sitter or aftercare worker too. 
 What changes in the messages
 Go back to that stack of unread messages. With four anchors written down and a handoff record on the fridge, the aftercare note is a reminder rather than a scramble, the form is already in the tray, and the question about who's home has an answer nobody had to type. You'll still get the evening where practice runs late and dinner is toast. You'll be reading about it, rather than piecing it together from three half-replies.
 HeyPolo sends arrival alerts for the places that matter, sets sharing to a time window that switches off on its own, and includes private mode so your kid can pause sharing. It confirms that someone reached a familiar place, and it doesn't tell you how their day went. That part is still the five minutes before dinner.
-One HeyPolo subscription covers everyone you invite, with arrival alerts, time-limited sharing, and private mode included. Your family agrees what gets shared, and it can stop on its own.
+One HeyPolo subscription covers everyone you invite, , time-limited sharing, and private mode included. Your family agrees what gets shared, and it can stop on its own.
 FAQ
 What is a good after-school routine for working parents?
 A workable routine follows four anchors in order: arrival and unpacking, a snack with recovery time, one next responsibility such as homework or a chore, then reunion when the household comes together. Another trusted adult or an older child can begin the sequence before the parent gets home, which is what lets the same routine work across aftercare, a sitter, or an independent arrival.
@@ -111,51 +101,10 @@ The practical test is whether transport, recovery time, dinner, and homework fit
 Is screen time okay while a parent finishes work?
 It can work when it has a defined slot. The American Academy of Pediatrics says it helps to have a plan about when and where media is used every day. Naming a start point, a place, and the activity that follows gives a child a clear transition cue, while sleep, movement, and time together stay in view.
 On this page
-Why children need recovery time before homework
-Start with the handoff your family actually has
-Build an after school routine for working parents around four anchors
-Set up the afternoon before it starts
-Choose the next responsibility around the day you have
-Adapt the anchors to your work pattern
-Give screens a start time and something to follow
-Reconnect when your household comes together
-Run it for a week, then change one thing
-What changes in the messages
-FAQ
-What is a good after-school routine for working parents?
-What can my child do after school while I'm still working?
-Should children do homework as soon as they get home?
-How can I manage after school when no parent is home?
-How long should children decompress after school?
-How can I make an after-school routine easier for a child with ADHD?
-How can working parents handle after-school activities?
-Is screen time okay while a parent finishes work?
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

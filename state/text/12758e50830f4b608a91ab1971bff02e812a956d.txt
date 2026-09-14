@@ -1,19 +1,9 @@
 Back to School Safety Plan for Walking, Buses and Cars
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 Family safety
 The Back-to-School Safety Plan: Kids Walking, Bus/Car Routines, and Mental Health
 The first week of term is half an hour of not knowing, repeated every weekday until the routine settles.
@@ -32,8 +22,8 @@ CDC links school connectedness to better mental health and lower risk behaviors 
 Save 988 in an older child's phone before there is a reason to, and ask the school for its reunification plan.
 Backpacks belong on both shoulders, tightened close to the back, at or under roughly 15% of body weight.
 Back to school safety basics for daily routines
-A calmer school year starts before anyone leaves the house, with health basics that shape how your child copes on the road and in the classroom. The rest of that groundwork sits in preparing kids for school, from the countdown to the first day to the goodbye at the gate.
-Routine vaccines are the plain first step. CDC's 2026 immunization schedule states that following the recommended schedule provides children and teens with the best protection from potentially serious diseases. You may want to check whether your child is due for anything before the first week gets busy.
+A calmer school year starts before anyone leaves the house, with health basics that shape how your child copes on the road and in the classroom. The rest of that groundwork sits in , from the countdown to the first day to the goodbye at the gate.
+Routine vaccines are the plain first step. CDC's 2026 immunization schedule states that provides children and teens with the best protection from potentially serious diseases. You may want to check whether your child is due for anything before the first week gets busy.
 Flu shots are worth planning for as soon as the fall 2026 vaccines land. Everyone 6 months and older is recommended for annual vaccination, and AAP's 2023 policy statement notes that historically about 85% of children who died of flu were not vaccinated. If you have an infant or toddler at home, you can ask your child's clinician about RSV protection at the same visit, since nirsevimab and clesrovimab are recommended for eligible infants (CDC, current as of 2026).
 The sick-day rule is simpler than most families treat it. CDC's guidance suggests a child can return once they have been fever-free without fever-reducing medicine for at least 24 hours and symptoms are improving (CDC, 2024 guidance).  A child who is still foggy is a child who steps into a driveway without looking, so the 24-hour rule buys you more than infection control.
 Sleep does similar work. School-age children 6 to 12 often need 9 to 12 hours a night, and teens 13 to 18 often need 8 to 10 (HealthyChildren.org sleep guidance). Tired kids miss cars. They also handle a bad lunch table worse than rested kids do.
@@ -42,18 +32,18 @@ Practicing the route and road rules together
 Walking the route together a few times before school starts teaches your child more than any conversation about it will. Go at the real school-day time, when the light and the traffic match what they will actually meet. You notice the driveway where a van backs out blind. They notice it too, which is the point.
 NHTSA's pedestrian guidance is worth saying out loud on that walk: always walk, do not run, across the road, and keep looking left-right-left for cars while crossing (NHTSA, 2023). The other half of that guidance is the line kids remember best. If your child cannot see the driver's face, the driver cannot see them.
 Headphones are where most families argue. One ear free on the sidewalk, both out at a crossing, framed as staying present rather than as a rule you enforce from home. Most kids accept it because it sounds like a reason instead of a punishment.
-For older kids walking alone, you might find it helps to agree in advance on what they do if something feels off on the route. That conversation gets more urgent once the clocks change and darker evenings walking home put the route in full dark.
+For older kids walking alone, you might find it helps to agree in advance on what they do if something feels off on the route. That conversation gets more urgent once the clocks change and put the route in full dark.
 Going into a shop, calling you, texting a neighbor, using an SOS button. Say plainly that using any of those never gets them in trouble, because a child who is worried about the consequences will not use them.
 What your child carries: backpack, phone, and simple safety info
-The backpack is the boring part of the walk that quietly makes it worse. AAOS advises to use both shoulder straps when carrying the backpack, tightened so the load stays close to the back and the weight is distributed evenly (AAOS, 2018). Keeping the load at or under roughly 15% of your child's body weight, with the heaviest books nearest the spine, keeps them steadier on a curb.
+The backpack is the boring part of the walk that quietly makes it worse. AAOS advises to when carrying the backpack, tightened so the load stays close to the back and the weight is distributed evenly (AAOS, 2018). Keeping the load at or under roughly 15% of your child's body weight, with the heaviest books nearest the spine, keeps them steadier on a curb.
 Saving your address, your number, and a backup adult's number in your child's contacts covers the ordinary problems, which are the common ones. A plan changed, a phone died, a pickup fell through. None of that needs a stranger-danger speech attached.
 Most kids on the route are carrying a phone anyway. The workable expectation is that the phone stays in the bag while they are crossing, and that any location sharing is something you both agreed to and either of you can pause.
-Real-time location sharing in HeyPolo is switched on by the person being shared, and they can switch it off.
+in HeyPolo is switched on by the person being shared, and they can switch it off.
 On volume, AAP's 2023 noise policy states that the standard of 85 dB over 8 hours used in occupational settings does not mean that this is safe for young listeners. Worth a quick check of the volume limit setting on their phone before the year starts.
 School bus routines from curb to classroom
 Waiting, loading, and the danger zone
 Arriving a few minutes early takes most of the risk out of a bus stop, because the dangerous version is the child sprinting toward a bus that is already there. Standing well back from the curb, no shoving games near the street, and holding loose papers rather than chasing them into the road covers the rest.
-The danger zone is the 10 feet around the bus, and it is worst directly in front and along the sides, where the driver's view drops away. Kids stay outside that ring until the bus stops, the door opens, and the driver waves them forward. Getting on, they use the handrail, go straight to a seat, and stay seated with the aisle clear while the bus moves. Most of school bus safety is decided before any of that, in whether your child knows where to stand and what to do when the bus has already gone.
+The danger zone is the 10 feet around the bus, and it is worst directly in front and along the sides, where the driver's view drops away. Kids stay outside that ring until the bus stops, the door opens, and the driver waves them forward. Getting on, they use the handrail, go straight to a seat, and stay seated with the aisle clear while the bus moves. Most of is decided before any of that, in whether your child knows where to stand and what to do when the bus has already gone.
 Crossing goes in front of the bus, never behind it, and far enough ahead that your child can see the driver's face.
 How drivers around the bus should behave
 NHTSA's 2024 school bus guidance is unambiguous: in every state it is illegal to pass a school bus while the stop-arm is extended and the red lights are flashing. That applies whichever direction you are traveling, with narrow exceptions on roads where a physical median separates opposing lanes in that state. NHTSA also notes that school buses are the most regulated vehicles on the road and are designed to be safer than passenger vehicles.
@@ -65,23 +55,22 @@ Younger kids stay in each stage until they properly fit the next one, moving fro
 If you are unsure about your installation, many fire stations and hospitals run free inspection events, and NHTSA keeps a locator for them.
 Three habits take the heat out of a drop-off line: kids get out on the sidewalk side only, backpacks are zipped and on laps before the car stops, and nobody passes in the lane. Heavy packs ride on the floor rather than on laps, where they become projectiles in a crash. The morning that ends without shouting also sends your child into the building in better shape than the morning that does not.
 Teen driver agreements and reassurance on the road
-A written parent-teen driving agreement does more for a new driver than checking their location every twenty minutes. The first 1,500 solo miles are where teen driver safety is decided, and the agreement works best phased to match them.
-You write it together, covering seat belts, speed, how many passengers, phones out of reach, nothing after drinking, and where the line sits on night driving. Several of those lines describe what ends a road test as well, which is worth pointing out to a driver who only passed in June. Then you review it, because the version you agree in September will not fit by March.
+A written parent-teen driving agreement does more for a new driver than checking their location every twenty minutes. The first 1,500 solo miles are where is decided, and the agreement works best phased to match them.
+You write it together, covering seat belts, speed, how many passengers, phones out of reach, nothing after drinking, and where the line sits on night driving. Several of those lines describe as well, which is worth pointing out to a driver who only passed in June. Then you review it, because the version you agree in September will not fit by March.
 CHOP's guidance states that creating a written driving contract may help a family decide on rules for using the family car, and the approach has been effective by helping teen drivers gain experience first in lower-risk situations.  Written down, it reads as a shared set of rules. Held in your head and enforced on the spot, it reads as a verdict on their driving, and teenagers can tell the difference immediately.
-Location tools fit inside that agreement rather than replacing it, which is what an app for parents and teens has to get right. Your teen and you can agree to share during a specific drive, with sharing ending when the trip does.
+Location tools fit inside that agreement rather than replacing it, which is what an has to get right. Your teen and you can agree to share during a specific drive, with sharing ending when the trip does.
 Speed alerts tell you when a pattern is worth a calm conversation later, not a phone call mid-drive. Your teen sees when sharing is on, can use private mode, and can pick general-area sharing when they want more room.
 HeyPolo's family subscription lets you and your teen set agreed driving windows and speed alerts together, with one subscription covering everyone you invite.
-See how it works
 Mental health, bullying, and digital life during the school year
 First-week nerves, school connectedness, and when to worry
-Stomachaches on Sunday night, trouble falling asleep, worrying out loud about who to sit with, all of that is ordinary in the first weeks. It shows up hardest in a transition year or after a school move, when your child has no idea yet where they fit, which is why back to school anxiety runs highest at the jump into middle school.
+Stomachaches on Sunday night, trouble falling asleep, worrying out loud about who to sit with, all of that is ordinary in the first weeks. It shows up hardest in a transition year or after a school move, when your child has no idea yet where they fit, which is why runs highest at the jump into middle school.
 CDC's Whole School, Whole Community, Whole Child framework links school connectedness, meaning students feeling that adults and peers at school care about them, with better mental health and lower risk behaviors. You cannot manufacture that from home, but a Sunday evening look at the week ahead and a regular walk-and-talk after school give your child a place to say the small things before they turn into big ones.
 Asking your child to name the adults at school they would go to, a teacher, a counselor, a coach, is worth doing early. Write the names down together. Most kids have never been asked and have to think about it, which is itself useful information.
-Where the pattern is specifically about getting through the school door, school anxiety has its own graded return plan. Patterns matter more than bad days. Withdrawal that lasts, appetite or sleep that shifts and stays shifted, or anything that sounds like hopelessness is a reason to call your child's clinician or the school counselor.
+Where the pattern is specifically about getting through the school door, has its own graded return plan. Patterns matter more than bad days. Withdrawal that lasts, appetite or sleep that shifts and stays shifted, or anything that sounds like hopelessness is a reason to call your child's clinician or the school counselor.
 Making that call is not an overreaction, and you do not need to wait until you are certain.
 Bullying, online harm, 988, and back to school safety
 StopBullying.gov's 2021 prevention guidance states that parents, school staff, and other adults in the community can help kids prevent bullying by talking about it and building a safe school climate. In practice, that gives you specific things to ask the school: what the reporting options are, whether there is an anonymous route, who follows up, and how fast.
-Crisis support is worth naming before you need it. SAMHSA states that the 988 Lifeline is confidential, free, and available 24/7/365 (SAMHSA, 2022). You might introduce it to an older child the way you would introduce any number worth having, saved in their phone, mentioned once, not attached to a lecture about how they seem lately.
+Crisis support is worth naming before you need it. SAMHSA states that the , free, and available 24/7/365 (SAMHSA, 2022). You might introduce it to an older child the way you would introduce any number worth having, saved in their phone, mentioned once, not attached to a lecture about how they seem lately.
 The start of the school year is also the natural moment to reset digital rules. AAP's Family Media Plan advises families to revisit and revise the plan often, noting that the beginning of each school year is a good time to review it (AAP, 2016 tool, current). Screen-free zones, a bedtime for devices, what counts as okay on social media, and the one that families skip: what your child does when something upsetting arrives on their phone. Agreeing in advance that they can show you without losing the phone is what makes them show you.
 On data, FTC's guidance explains that the primary goal of COPPA is to place parents in control over what information is collected from their young children online, covering services directed to children under 13.  Going through the privacy settings on school apps together takes twenty minutes and teaches more than any of it.
 NCMEC's NetSmartz resources, including the CyberTipline and Take It Down, are where to go if your child is being threatened online or an image has been shared without their consent. Tell them plainly that reporting it does not get them in trouble.
@@ -90,11 +79,10 @@ Family check-in plan and consent-based location sharing
 Agreeing how you will check in on school days
 Deciding together when you check in beats messaging whenever the worry surfaces. Something like a text when they reach school, a message from you when you leave work, and a Sunday call about the week is enough for most families. Predictable check-ins mean nobody reads a quiet phone as bad news.
 Write down who the school calls first, who is allowed to collect your child, and where you would meet if the school day ended somewhere other than the school. Keep it in a folder at home and as a photo on everyone's phone, since a photo survives a dead laptop. CDC's 2020 emergency kit checklist suggests families keep child-focused information, including contacts and medical needs, in one place.
-Many districts now use the Standard Response Protocol, with five shared terms: Hold, Secure, Lockdown, Evacuate, Shelter. The I Love U Guys Foundation describes it as an action-based, flexible, easy-to-learn set of responses using standardized vocabulary, and states that a uniform, planned, and practiced response to any incident is the foundation of a safe school (I Love U Guys, 2021). Asking your school for its parent handout and reunification plan means the words arrive in a letter rather than in an alert.
+Many districts now use the Standard Response Protocol, with five shared terms: Hold, Secure, Lockdown, Evacuate, Shelter. The I Love U Guys Foundation describes it as an action-based, flexible, easy-to-learn set of responses using standardized vocabulary, and states that to any incident is the foundation of a safe school (I Love U Guys, 2021). Asking your school for its parent handout and reunification plan means the words arrive in a letter rather than in an alert.
 Schools are expected to have this in place. FEMA's CPG 101 provides guidelines on developing emergency operations plans and promotes a common understanding of community-based, risk-informed planning (FEMA, 2013), and CISA's K-12 School Security Guide sets out a systems-based methodology for vulnerability assessments (CISA, 2022).  Asking whether your child's plan is current and reviewed with local responders is a fair question at a parents' evening.
 None of this means rehearsing disasters at the dinner table. Knowing what the words mean is what stops you from having to work it out in the moment.
 HeyPolo has arrival alerts for the places that matter, so you get a notification when your child reaches school instead of watching for a text.
-Download the app and set your first place in a couple of minutes.
 Where this leaves your school year
 Your child getting to school safely and your child still telling you things are the same project, and the plan only holds if they had a hand in writing it. The walk you practiced together, the driving agreement you both signed, the check-in time you picked as a pair, all of that survives October. Rules imposed in the first week rarely do.
 HeyPolo shares location only when the person sharing turns it on, with arrival alerts for school and home, one-tap SOS, and speed alerts for a new driver. It does not tell you whether your child had a good day, and it will not stop a car. What it does is end the half hour of not knowing, so the conversation you have when they walk in is about something other than where they were.
@@ -110,55 +98,10 @@ Sharing that a child has not agreed to tends to end with a disabled app or a pho
 What should a child do if they feel unsafe on the walk home?
 Having two or three named options ready matters more than any single instruction: going into a specific shop or a known neighbor's house, calling a parent, or using an SOS button that sends location to the whole family group. The option only works if the child is certain they will not be in trouble for using it, so saying that part out loud is worth doing before the first week.
 On this page
-Key takeaways
-Back to school safety basics for daily routines
-Kids walking to and from school
-Practicing the route and road rules together
-What your child carries: backpack, phone, and simple safety info
-School bus routines from curb to classroom
-Waiting, loading, and the danger zone
-How drivers around the bus should behave
-Car and carpool routines, including teen drivers
-Car seats, boosters, and calm drop-off lines
-Teen driver agreements and reassurance on the road
-Mental health, bullying, and digital life during the school year
-First-week nerves, school connectedness, and when to worry
-Bullying, online harm, 988, and back to school safety
-Family check-in plan and consent-based location sharing
-Agreeing how you will check in on school days
-Where this leaves your school year
-FAQ
-When is a child ready to walk to school alone?
-What should a parent do if a child is scared of school after a drill or lockdown?
-How can a parent set back to school safety rules with a teen without starting a fight?
-Is it okay to use a location app if a child is uncomfortable with it?
-What should a child do if they feel unsafe on the walk home?
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

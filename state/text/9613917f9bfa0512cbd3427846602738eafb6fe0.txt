@@ -1,24 +1,13 @@
 Tap & Slide SOS Alerts That Reach The Right People | HeyPolo
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Emergency alert app with one tap SOS for families
 Tap SOS, slide to confirm, and your group knows where you are.
 Slide to send an alert with your live location
 Everyone in your group is notified together
 Works on iPhone and Android
-Get Started
 30 day money back guarantee
 🆘Mia sent an SOS, live location attachedJust now
 Families already using HeyPolo
@@ -184,7 +173,7 @@ From $1.99/mo
 Same experience on iPhone and Android
 A dad on Android and a daughter on iPhone see matching options and matching alerts. Nobody gets a lesser version, and nobody sits outside the group because of hardware.
 iOS + Android
-Get Started30-day money-back guarantee
+30-day money-back guarantee
 What people say
 “It's more flexible than Find My and supported on Android as well. Great app.”
 BRblackrainplPoland
@@ -194,11 +183,8 @@ RJRobJuzPoland
 DJdr.jofffLithuania
 “I think this app is excellent and really recommend it. It's perfect for a family or a friend group on a trip.”
 YBYeahBunneeIreland
-Download on the App StoreGet it on Google Play
 Care should not feel like surveillance
-Free for 30 days
 30 day money back guarantee
-Download on App StoreDownload on Google Play
 SOS alerts FAQ
 What does an SOS alert do in HeyPolo?
 Tapping once sends an emergency alert with your live position to everyone in your chosen group. All members are notified together, and your position keeps updating every five seconds while you're sharing. Whoever sent that alert can see which contacts received it, so nothing travels anywhere unseen.
@@ -219,39 +205,13 @@ Judge candidates on three things: whether the person sharing keeps control, whet
 How much battery does it use?
 Running in the background with sharing on, HeyPolo typically uses about as much battery as a messaging app left open, around 4% a day. Position refreshes every 5 seconds while you're watching the map and every 30 seconds when the app is closed, which is the deliberate part: constant polling is what drains most location apps.
 Related features
-Real-time location sharing
 See where your people are right now, refreshing every five seconds, at exact or general precision.
-Arrival alerts
 Know somebody reached home, school, or work without sending a single “where are you?” message.
-Speed alerts
 Quiet reassurance for parents of young drivers, focused on arriving rather than grading anybody's driving.
-Location sharing history
 Look back at shared trips from the past seven days, then watch that record delete itself.
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

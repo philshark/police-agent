@@ -1,32 +1,11 @@
 HeyPolo | Privacy Policy
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Privacy Policy
 Last updated 2026-08-28
 Table of content:
-Personal data HeyPolo collects
-Retention of personal data
-Your data protection rights
-Personal data recipients
-International personal data transfers
-Cookies
-Your personal data security
-Children’s privacy
-Third party links and services
-Contact us
-Additional terms you should know
 General information
 HeyPolo believes you should be in control of your privacy and personal data. That is why our privacy policy (“Privacy Policy”) explains exactly how we handle your personal data – from collection, usage to protection – and gives you clear choices about it when you use our HeyPolo website (“Website”) and mobile app (all together “Services”).
 This Privacy Policy applies to Services operated by HeyPolo Inc., established in 25910 ACERO, MISSION VIEJO, CA 92691 (“we”, “us”, or “our”).
@@ -67,14 +46,23 @@ We will process your personal data for 30 days or until you withdraw your consen
 Date of the payment, amount paid, currency, payment status, payer residence country (and state), coupon used (if any), part of the credit card number, credit card expiry date.
 Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
 Legal basis for the processing of personal data is a legal obligation to which we are subject.
-We will process your personal data until you withdraw your consent.
-Motion and fitness activity data
+We will retain payment-related information for 10 years from the receipt of this information
+Geolocation data
 Legal basis for the processing of personal data is your consent
 We will process your personal data for 30 days or until you withdraw your consent, whichever occurs first.
+Motion and fitness activity data
+Legal basis for the processing of personal data is your consent
+We will process your personal data until you withdraw your consent.
+Personal and group driving scores, transportation type, safety event details – including potential crash alerts, counts of risky behaviors such as speeding, harsh braking, rapid acceleration, harsh cornering, distracted driving,  and trip metrics such as driving speed, total drives, total safety events, distance, duration, and associated timestamps.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will process your personal data for 30 days from its receipt.
+Chat communication data,  timestamps.
+Processing your personal data is essential for us to provide you a service and carry out the terms of our service agreement.
+We will retain your personal data while your account is active and for 2 years after your last login.
 For the purpose of processing your payments and refunds, we rely on trusted payment partners. These partners collect essential transaction details, which may include the transaction date, your IP address, credit card number, and the cardholder’s name. Please be aware that depending on your location, they may also require further identification, such as a personal ID, passport, or address. For a complete understanding of the personal data they process and store, please review their individual privacy policies.
 To ensure the full-Service functionality and proper operation, we ask for your separate consent for the collection of certain data. This includes precise geolocation data, which we collect from your mobile device using GPS coordinates and latitude/longitude.
 With your separate consent, we will collect motion and fitness activity data, such as information on your speed and direction, as well as accuracy readings for both metrics. This data is used to provide a more reliable method for determining your method of transportation.
-You can control the collection of your location and movement data directly from your device settings. You can disable location services entirely, which will restrict HeyPolo from accessing your location. Alternatively, you have a right to revoke permission for HeyPolo to access your device's location and motion data. Nevertheless, please note that changing these settings will impact the functionality of the app and its ability to provide Services
+Please note that Heypolo reads data from your device's built-in sensors – such as the gyroscope, accelerometer, compass, and Bluetooth – to recognize your movement and your mode of transportation. To support key features like safety events, we share information (e.g., movement and device data) with our driving behavior analytics partner who evaluates this data, including your speed, acceleration, and general travel patterns – solely to assess road risk and generate personalized driving scores for you and your group. Your data is used exclusively for service delivery and operation – it is never sold, leased, shared with third parties for reasons unrelated to our services, or otherwise exploited for commercial gain. You can control the collection of your location and movement data directly from your device settings. You can disable location services entirely, which will restrict HeyPolo from accessing your location. Alternatively, you have a right to revoke permission for HeyPolo to access your device's location and motion data. Nevertheless, please note that changing these settings will impact the functionality of the app and its ability to provide Services
 In addition, to ensure you receive the best possible Services, we will ask for your separate consent to send you push notifications. These notifications will be related to your use of the Services or that of your group members. You can always control push notifications in your device settings.
 Please note that we will use your data to make our Services unique to you. This processing is based on contractual necessity because the core function of the Service you purchased is to continuously learn your personal usage patterns. Simply put, data analysis is essential – without this learning, we cannot fulfill our contractual obligation to provide the personalized experience you expect.
 1.4. For you to be able to manage your account preferences and sharing data with other group members:
@@ -175,7 +163,7 @@ Right to Delete: You have the right to ask us to delete your personal data, unl
 Right to Portability: You can request your personal data in a portable, machine-readable format or, where it is technically feasible, ask us to transmit it to another controller. This right applies to automated data processing that relies on your consent
 Right to Object: If we are using your personal data for our legitimate business interests, you can object to that use.
 Right to Withdraw Consent: If you previously gave us your consent to use your personal data, you could withdraw that consent at any time. When you do, we will stop using your data for that specific purpose. However, please know that withdrawing your consent won't affect any data processing we did before you withdrew it, nor will it impact how we handle your data if we have another legal ground to do so (for example, to fulfill a contract with you).
-Right to Complain:  If you are located in the UK, you have the right to lodge a complaint with the Information Commissioner’s Office.  If you are located in the EU, you have the right to lodge a complaint with the relevant Supervisory Authority.
+Right to Complain:  If you are located in the UK, you have the right to lodge a complaint with the Information .  If you are located in the EU, you have the right to lodge a complaint with the relevant .
 In addition to the above rights, the following rights (which may be subject to certain exemptions or derogations) shall also apply to individuals covered by the CCPA:
 Right to Opt Out of Sale/Sharing: You have the right to opt out of us selling or sharing your personal information with third parties. However, we want to be clear that we do not sell, rent, lease, or trade your personal data.
 Right to Non-Discrimination: You have the right to not receive discriminatory treatment when you exercise your privacy rights under the CCPA.
@@ -195,6 +183,9 @@ United States.
 Storage and infrastructure service providers, such as BigQuery (by Google)
 They help us to store, analyze and manage data.
 United States.
+Sentiance NV
+They help us to provide driving insights.
+Belgium
 Third-party payment providers, such as Stripe, Adyen, Checkout, and similar
 They help us to process payments together with our own authorized payment processing companies.
 United States, Ireland
@@ -212,7 +203,7 @@ We'll only disclose your personal data with others if you give us permission or 
 United States, EEA or other relevant country.
 5. International personal data transfers
 Your personal data, as described in this Privacy Policy, may be stored and processed in any country where we have facilities or where we use third-party service providers. Regardless of the location, we implement robust safeguards to ensure that your data remains protected in accordance with this policy.
-For data transfers outside the European Economic Area (EEA), we rely on specific legal mechanisms to ensure a high level of data protection. We primarily use Standard Contractual Clauses (SCCs), which are legally binding agreements approved by the European Commission to ensure your personal data is protected to a standard equivalent to that in the EU. Alternatively, we may transfer data to countries that the European Commission has formally recognized as providing an adequate level of data protection, meaning their national laws offer a comparable standard of security.
+For data transfers outside the European Economic Area (EEA), we rely on specific legal mechanisms to ensure a high level of data protection. We primarily use Standard Contractual Clauses ( ), which are legally binding agreements approved by the European Commission to ensure your personal data is protected to a standard equivalent to that in the EU. Alternatively, we may transfer data to  that the European Commission has formally recognized as providing an adequate level of data protection, meaning their national laws offer a comparable standard of security.
 6. Cookies
 6.1. What is a cookie?
 HeyPolo uses cookies, pixels, and other similar technologies (collectively referred to as “cookies”). These are small pieces of data that your device stores for various purposes.
@@ -256,35 +247,23 @@ Link to Privacy Policy
 How to disable
 CloudFlare
 Security
-https://www.cloudflare.com/privacypolicy/
 Cannot be turned off
 Meta Platforms
 Advertising
-https://www.facebook.com/privacy/center/
-Facebook opt-out page
 Google
 Advertising
-https://business.safety.google/privacy/
-Google Ads opt-out page
 AppsFlyer
 Analytics, advertising
-https://www.appsflyer.com/legal/services-privacy-policy/
-AppsFlyer opt-out page
 6.3. How to control cookies?
 You have a right to control the cookies used on your devices. Most cookies can be managed or deleted through the settings in your web browser. However, please be aware that rejecting cookies might limit the functionality of our website and cause you to lose access to some of its features.
 For detailed instructions on how to adjust cookie preferences in popular browsers, please refer to the following links:
-Google Chrome
-Apple Safari
-Microsoft Edge
-Mozilla Firefox
-Opera
-If you wish to disable advertising cookies, you can find more information on  Network Advertising Initiative’s opt-out page, the Digital Advertising Alliance’s opt-out page, or http://youronlinechoices.eu.
+If you wish to disable advertising cookies, you can find more information on   , , or .
 7. Your personal data security
 We are deeply committed to protecting your security and privacy. We have implemented a variety of measures, including SSL/TLS encryption for data transfers, firewalls, and regular security audits, to ensure your information is treated securely.
 However, it is important to understand that no online service can guarantee 100% security. By using our Service, you acknowledge this inherent risk and agree that all information you provide is done so at your own risk.
 8. Children's privacy
 We do not knowingly collect personal data from anyone under the age of 16. Our Services are not intended for, and we do not offer them to, anyone under this age.
-If we learn that we have received personal data from a child under 16, we will delete it immediately. If you believe we might have any such data, please contact us at support@heypolo.com.
+If we learn that we have received personal data from a child under 16, we will delete it immediately. If you believe we might have any such data, please contact us at .
 9. Third party links and services
 Our Services may include links to external websites, applications, and services that are owned or operated by third parties. You acknowledge and agree that any information you provide to or that is collected by such third-party services is subject to their respective privacy policies and terms of use, and not this Privacy Policy.
 We do not control, endorse, or make any representations about these third-party services. We shall not be held responsible or liable for the privacy practices or the content of these third-party sites. We encourage you to review the privacy policy of any third-party service before providing them with any personal information.
@@ -295,30 +274,8 @@ You can reach us by email at support@heypolo.com. We're here to help you as soon
 The official and binding version of this Privacy Policy is the English one.
 While we may offer translations of this document in other languages for your convenience, these versions may not be as current or comprehensive as the English one. Therefore, if there is ever a difference or conflict between the English version and a translated version, the English version will always take precedence.
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

@@ -1,24 +1,13 @@
 Location-Based Alerts for Arrivals & Departures | HeyPolo
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Real-time location sharing that actually feels real-time
 See where your people are the moment they move, not five minutes later.
 Live position updates every few seconds
 Battery-friendly background tracking
 Share with one person or a whole circle
-Get Started
 30 day money back guarantee
 What is real-time location sharing?
 Real-time location sharing is a continuous, consent-based stream of a person's position between people who have agreed to see each other. Instead of pinging someone for a one-off pin, both phones publish position updates on a schedule and HeyPolo draws them on a shared map.
@@ -127,9 +116,7 @@ A visible indicator whenever sharing is active.
 Works on every device
 iOS, Android and web see the same live map.
 Start sharing your location in under a minute
-Get HeyPolo
 30 day money back guarantee
-Download on App StoreDownload on Google Play
 Frequently asked questions
 How often does the map update?
 Every 3–10 seconds while you're moving, and less often when you're stationary to save battery.
@@ -146,39 +133,13 @@ Yes, choose 1 hour, 8 hours, or until you stop it manually.
 Do both people need Premium?
 No. Real-time sharing works between any two HeyPolo accounts.
 Related features
-Group location sharing
 Put a whole circle on one map when you're coordinating more than one person.
-Arrival alerts
 Get told when someone reaches home or school instead of watching the map.
-SOS and check-ins
 The safety layer that sits on top of live sharing when something goes wrong.
-Location history
 Look back at the last 30 days when live position isn't the question.
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

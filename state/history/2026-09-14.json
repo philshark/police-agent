@@ -1,9 +1,9 @@
 {
- "captured_at": "2026-09-14T09:26:41Z",
+ "captured_at": "2026-09-14T09:59:52Z",
  "pages": {
   "https://heypolo.com/": {
    "canonical": "https://heypolo.com",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Reach them when it matters"
    ],
@@ -12,13 +12,13 @@
    "meta_description": "HeyPolo is a smart location-sharing app that helps you stay connected with the people who matter most — with complete transparency and consent.",
    "robots": "",
    "seo_hash": "deb9755d7a7e3aafd4aee03a67bff3340c9d6b63411730fbef2def4c7879140e",
-   "text_hash": "ef8d7ee9c60ab1535172d26188c704465040790d3165ccd64cf4780ea9759ded",
-   "text_len": 7406,
+   "text_hash": "62478c9485a828b9bcafd96d5903baa90595d9d5123465f93400d77a6b936f43",
+   "text_len": 6294,
    "title": "HeyPolo | Privacy Oriented Location Sharing App for Family & Friends"
   },
   "https://heypolo.com/about-us": {
    "canonical": "https://heypolo.com/about-us",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location sharing shouldn't feel like surveillance"
    ],
@@ -27,13 +27,13 @@
    "meta_description": "HeyPolo is built around one idea: staying connected should feel like care, not control. Learn why we built HeyPolo and meet the team behind it.",
    "robots": "",
    "seo_hash": "4ff583ab7c2345d92506d5f360452eac8f5d3abea6681a2d2abe27b242c2e6ed",
-   "text_hash": "207d35b653b0ab904b3d4e6e245c76015d58d9dbb5e5cb136e8ee729345b8171",
-   "text_len": 6824,
+   "text_hash": "d41309f413d477de81dfe989ed0ee7917099ad8e976abb06dba40ff53b7dcad7",
+   "text_len": 5977,
    "title": "About HeyPolo: The Privacy-First Location Sharing App"
   },
   "https://heypolo.com/blog": {
    "canonical": "https://heypolo.com/blog",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Blog"
    ],
@@ -42,13 +42,13 @@
    "meta_description": "Location sharing guides for real life. How-tos, privacy tips, family safety advice, and app comparisons — written for parents, couples, and caregivers.",
    "robots": "",
    "seo_hash": "3d493746d6af1d6c1a195e58a84690e4d4bb79212dcdc2f0fb09cf1c9ed2b29a",
-   "text_hash": "466d60bffb1cc732af6dfec4694b0485618cd09b83defabf684ea289fd3e575c",
-   "text_len": 285813,
+   "text_hash": "187124633406d7b4a5f81f57e5e30829f596c53a457b6275c0054e2fca93966e",
+   "text_len": 964,
    "title": "HeyPolo Blog: location Sharing Tips, Privacy Guides & Family Safety"
   },
   "https://heypolo.com/blog/after-school-routine": {
    "canonical": "https://heypolo.com/blog/after-school-routine",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "An after-school routine any working parent can run"
    ],
@@ -57,13 +57,13 @@
    "meta_description": "Build an after school routine for working parents that starts without you, with four anchors, sample schedules for aftercare, remote work, and shift work.",
    "robots": "",
    "seo_hash": "bc293ed105931fd86ea23fc306952cc67db669cacb22f92b3feb96ced19bc1ad",
-   "text_hash": "3f7fa5617e98466c1d2287940e6fb65eba4862f9ccd938c12bae41a4452127dc",
-   "text_len": 18064,
+   "text_hash": "da5f988d36a6ffdb52eb1e869adbc031d2cc1b3db9a118d2d7bbeba88253c9c1",
+   "text_len": 16090,
    "title": "After School Routine for Working Parents That Actually Runs"
   },
   "https://heypolo.com/blog/automatic-fails-on-a-driving-test": {
    "canonical": "https://heypolo.com/blog/automatic-fails-on-a-driving-test",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Automatic Fails on a Driving Test You Can Prepare For"
    ],
@@ -72,13 +72,13 @@
    "meta_description": "Automatic fails on driving test sheets differ by authority, though they punish the same things. See what examiners watch for and what to rehearse this week.",
    "robots": "",
    "seo_hash": "1fa7c546cf096037494a0618dc319872e83a1f6246231878815ba56237a1f005",
-   "text_hash": "1afa544970f8fbd894d9c0398cd45ed429f952eb4869d388cb3b53b14fbd82d8",
-   "text_len": 17497,
+   "text_hash": "931345c47b58783061ad01efd478d32ee95c5204a7aec1684aeb39c270c98f0d",
+   "text_len": 15413,
    "title": "Automatic Fails on Driving Test and How to Prepare"
   },
   "https://heypolo.com/blog/back-to-school-anxiety": {
    "canonical": "https://heypolo.com/blog/back-to-school-anxiety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Back to School Anxiety and the Middle School Jump"
    ],
@@ -87,13 +87,13 @@
    "meta_description": "Back to school anxiety climbs at the middle school move because so much changes at once. See what the research says and how to prepare the first week.",
    "robots": "",
    "seo_hash": "67581ab555b427b4c1fbb3fad5b4eb0715339dbd426a35c4af18fb39fd02168d",
-   "text_hash": "e6ae604994c4b4c7a477b06fb674f373482ff89ffdc9065dc0ce0376be7e3244",
-   "text_len": 17541,
+   "text_hash": "5607b70c00103a78529cd340e22f9640bf8b4d890476749090ee94ecf0d898e3",
+   "text_len": 15242,
    "title": "Back to School Anxiety and the Middle School Jump"
   },
   "https://heypolo.com/blog/back-to-school-checklist": {
    "canonical": "https://heypolo.com/blog/back-to-school-checklist",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "The Back to School Checklist for Managing Two Kids at Once"
    ],
@@ -102,13 +102,13 @@
    "meta_description": "A back to school checklist built for two kids in different grades, covering forms, health, sleep targets, supplies and two different drop offs.",
    "robots": "",
    "seo_hash": "275988956c89908b4bcf6fd2f92294fc53596332f76776abe67edd0f55e7d1b6",
-   "text_hash": "93e9be8769d2672fb0ff4db20c84e0fe1fa31e201dfebf61a63ab2f7dd22427a",
-   "text_len": 22148,
+   "text_hash": "c10fdbc00f5462887e67d946a8e2a49b8fc3f0a34c89c89ffe14b9dfb364728c",
+   "text_len": 20462,
    "title": "The Back to School Checklist for Managing Two Kids at Once | HeyPolo"
   },
   "https://heypolo.com/blog/best-life360-alternatives-in-2026": {
    "canonical": "https://heypolo.com/blog/best-life360-alternatives-in-2026",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Best Life360 Alternatives - 5 Options For Families in 2026"
    ],
@@ -117,13 +117,13 @@
    "meta_description": "Looking for the best Life360 alternatives in 2026? Honest comparison of top apps for families, couples, and friends, including privacy, cost, and ease of use.",
    "robots": "",
    "seo_hash": "2a59643b911927dc99297bae13859b79e29d843c38bb4d8225e85e5c8ccd852b",
-   "text_hash": "802ed02aca9179c3f962c5de71f8c0dd4eb24ec6bb16aeef3611ab713c4ff47f",
-   "text_len": 22942,
+   "text_hash": "73ccd93303e926d5a91bf0f0787a9ee8eea2aa07cce62a0eb4b8181dcae38b5f",
+   "text_len": 20854,
    "title": "Best Life360 Alternatives - 5 Options For Families in 2026"
   },
   "https://heypolo.com/blog/best-location-sharing-apps-in-2026": {
    "canonical": "https://heypolo.com/blog/best-location-sharing-apps-in-2026",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Best Location-Sharing Apps For iOS and Android in 2026"
    ],
@@ -132,13 +132,13 @@
    "meta_description": "We tested the best location-sharing app for your family, partner, or friends so you don't have to. See how these mobile apps help you in your specific situation.",
    "robots": "",
    "seo_hash": "a9ee23330d783ec1eabee14f983d91932e32b5f41b5e747bcfb62a00ed9cf825",
-   "text_hash": "2b9c73f18f98c268902a6df3ddd42a259b9bc2c8fb12b28e33cb298e6b0485da",
-   "text_len": 24847,
+   "text_hash": "9ec8a77191ea8682195c0c7aac8de1c3060f653c0a3604f3f7f8ec10d83514e0",
+   "text_len": 23023,
    "title": "Best Location-Sharing Apps For iOS and Android in 2026"
   },
   "https://heypolo.com/blog/child-independence-safety": {
    "canonical": "https://heypolo.com/blog/child-independence-safety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Child Independence & Safety When You Can't Be There"
    ],
@@ -147,13 +147,13 @@
    "meta_description": "Child independence & safety comes down to real risk data, your child's skills, and the law on your side. See what actually keeps them safe when you're apart.",
    "robots": "",
    "seo_hash": "a6db0578d4cabc55a1ff348feb1d4ed46f56d88c4a4c0e7fa7b5c034b69f86c2",
-   "text_hash": "a1b8ccef56c4205de6166fb204ad271f6044dbca39bd9961ef23717a06e371c5",
-   "text_len": 22109,
+   "text_hash": "e8af1afe8a7a433281552a603100ee48f238d39f52b74d6da97db0213943eda3",
+   "text_len": 20221,
    "title": "Child Independence Safety When You Can't Be There"
   },
   "https://heypolo.com/blog/family-emergency-plan": {
    "canonical": "https://heypolo.com/blog/family-emergency-plan",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Creating A Family Emergency Plan Built on Your Phone and Paper"
    ],
@@ -162,13 +162,13 @@
    "meta_description": "Build a family emergency plan that works on your phone and on paper, covering alerts, check-ins, meeting places, supplies, and recovery. Start yours today.",
    "robots": "",
    "seo_hash": "480155511e8f460325e667880e31ca3522f47f00314a907417cf455c51666bb8",
-   "text_hash": "fd7a119eee07cc52ebddc1b2e9de20694d05056b7c12e28773b0890772e90bff",
-   "text_len": 21592,
+   "text_hash": "caafc5adb9a7e13b159c332a6e37c62c690b0e0f774f629ce92c783023c583fa",
+   "text_len": 19929,
    "title": "Creating A Family Emergency Plan Built on Your Phone and Paper"
   },
   "https://heypolo.com/blog/family-safety-apps-are-tearing-families-apart": {
    "canonical": "https://heypolo.com/blog/family-safety-apps-are-tearing-families-apart",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Family Safety Apps Are Tearing Families Apart"
    ],
@@ -177,13 +177,13 @@
    "meta_description": "",
    "robots": "",
    "seo_hash": "cc44fe1d8387c4471507581afe47cb41c6a9dfdc27b44fc074580a5bfbe9d454",
-   "text_hash": "bc14fb28baa134dbcd41b0eb822f5ea4ce0a22d5b9b4e8fb19f902a8d7381842",
-   "text_len": 5040,
+   "text_hash": "bbf454375f9f1f8b80c529f6f8f7e62306a89633a780199636a6fe845213d6ca",
+   "text_len": 3926,
    "title": "Family Tracking Apps: When Safety Becomes Surveillance"
   },
   "https://heypolo.com/blog/fix-location-permissions": {
    "canonical": "https://heypolo.com/blog/fix-location-permissions",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Fix Location Permissions Fast on Any Device: 5 Quick Checks"
    ],
@@ -192,13 +192,13 @@
    "meta_description": "Dead location pins, GPS that won't lock, family sharing that quietly stops working. A permission-by-permission fix for iPhone, Android and Windows.",
    "robots": "",
    "seo_hash": "a9283f063159eba5495b16cade2400e5380ab5de2b2b3990090ee8dedfb670b0",
-   "text_hash": "cb796b5136c414e3621839e16850eb0e8890d05c73049fb82e58e17ecc4916e3",
-   "text_len": 19181,
+   "text_hash": "ae7df5c1764a7b8239a16967047868ba3f20f48caf3751327bd6dc30c29d7d54",
+   "text_len": 17433,
    "title": "Location Not Working? How To Fix It on iPhone, Android or Windows | HeyPolo"
   },
   "https://heypolo.com/blog/heypolo-mumsnet": {
    "canonical": "https://heypolo.com/blog/heypolo-mumsnet",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Family safety app HeyPolo earns Mumsnet Rated badge, with 92% of parent testers saying it gave them greater peace of mind"
    ],
@@ -207,13 +207,13 @@
    "meta_description": "",
    "robots": "",
    "seo_hash": "0737967761e4ae6e05d6485a79c6d6578937d6ad7b972a8a90cfe34e424e4993",
-   "text_hash": "a3ac5ca2e73ec22887d45c2f815607ab4a684455131d9b187ba7e9e4022d025a",
-   "text_len": 4969,
+   "text_hash": "2c9297870cb21fdce14a016172c7c7af349ee434ce44647ed293fd7c6ecc1d86",
+   "text_len": 4061,
    "title": "Family safety app HeyPolo earns Mumsnet Rated badge, with 92% of parent testers saying it gave them greater peace of mind"
   },
   "https://heypolo.com/blog/heypolo-vs-find-my-which-location-sharing-app-is-better": {
    "canonical": "https://heypolo.com/blog/heypolo-vs-find-my-which-location-sharing-app-is-better",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs Find My: Which Location-Sharing App Is Better?"
    ],
@@ -222,13 +222,13 @@
    "meta_description": "Thinking of switching from Find My? See how HeyPolo compares in terms of compatibility, features, and price. Find out which app is right for your family.",
    "robots": "",
    "seo_hash": "984cb42e6231ea167dc8770d04c8c8a98a13565e8c48798888148c556c02c214",
-   "text_hash": "ec691a971c064e8c234f2aa7339d37d21bf1f87e0f1cc21c6be4ea6f0ab4fabe",
-   "text_len": 12275,
+   "text_hash": "9705c6dc3636dfc9cd37ad1ac00068914a4e3858d5908f0b9250a87adbe133bf",
+   "text_len": 11007,
    "title": "HeyPolo vs Find My: Which Location Sharing App Is Better?"
   },
   "https://heypolo.com/blog/heypolo-vs-life360-which-app-better-protects-your-privacy": {
    "canonical": "https://heypolo.com/blog/heypolo-vs-life360-which-app-better-protects-your-privacy",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs Life360: Which App Better Protects Your Privacy?"
    ],
@@ -237,13 +237,13 @@
    "meta_description": "Compare HeyPolo vs Life360 on privacy, features, pricing, and data sharing to see which app keeps your location data safer.",
    "robots": "",
    "seo_hash": "70a4788160526cb5710adc578ff52806f0118b29cb1b08d14681be4e513d0767",
-   "text_hash": "f372fdeb74b52e5a70903578a367d6b70618c11a406106421176755e6e23f730",
-   "text_len": 11377,
+   "text_hash": "8ebe1853bac7bbd56b727c1cdc70f1e5434d049ea4edf33eac61415b20bb876a",
+   "text_len": 9997,
    "title": "HeyPolo vs Life360: Which Location-Sharing App Protects Your Privacy Better?"
   },
   "https://heypolo.com/blog/how-does-location-sharing-affect-your-battery": {
    "canonical": "https://heypolo.com/blog/how-does-location-sharing-affect-your-battery",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How Does Location Sharing Affect Your Battery?"
    ],
@@ -252,13 +252,13 @@
    "meta_description": "Learn what causes battery drain in location-sharing apps and how to reduce it on iPhone and Android — without giving up family safety features.",
    "robots": "",
    "seo_hash": "78d0ed04c1eac63d0afa88f4f8ee42e569dcd298b5f3a8c65305545d19c610b4",
-   "text_hash": "82ac9eaa73141807e1bf7526e5f6c28564d8e7739a914535c84ea8d169fb30e5",
-   "text_len": 9092,
+   "text_hash": "acdf9bf9a02aa211ada8386f7d59b1e25ce253506a6b3a966c1b93bb764246eb",
+   "text_len": 7880,
    "title": "How Does Location Sharing Affect Your Battery? | HeyPolo"
   },
   "https://heypolo.com/blog/how-to-deal-with-school-anxiety": {
    "canonical": "https://heypolo.com/blog/how-to-deal-with-school-anxiety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How To Deal With School Anxiety Rooted In Bullying of Performance"
    ],
@@ -267,13 +267,13 @@
    "meta_description": "Learn how to deal with school anxiety caused by bullying or performance fear, with home scripts, graded return plans, 504 rights, and when to get help.",
    "robots": "",
    "seo_hash": "c9060191751a65b724a2dc1a46edace505d4985433528f3f375481f14276207b",
-   "text_hash": "6c589634d334449c919b7f7883bf551aace84dc97ecb6ca3090c84818e33e7e2",
-   "text_len": 47157,
+   "text_hash": "a520834da065a8f001431b60041272102ba017ec04bfbcc32845fbd079a440cc",
+   "text_len": 45454,
    "title": "How To Deal With School Anxiety Rooted In Bullying of Performance"
   },
   "https://heypolo.com/blog/how-to-deal-with-school-pressure": {
    "canonical": "https://heypolo.com/blog/how-to-deal-with-school-pressure",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How to Deal with School Pressure: Tips That Help Ages 6–15"
    ],
@@ -282,13 +282,13 @@
    "meta_description": "How to deal with school pressure at ages 6 to 15, with sleep targets, study methods, and calm-down tools that work. Start with one small change tonight.",
    "robots": "",
    "seo_hash": "7f06885c012d2db76bcd23fe066dd27da60efec312d95b548cbdd38714ac062c",
-   "text_hash": "568ed636eacb529be5556ffa1e9af40ed0687be81826c7c2b4b29ab9d892a243",
-   "text_len": 26249,
+   "text_hash": "997e4b4f1cf0b7ed03cbe808126431a56ff6a12f8e280ff46a5f80953c85a693",
+   "text_len": 23936,
    "title": "How to Deal with School Pressure (Ages 6 to 15)"
   },
   "https://heypolo.com/blog/how-to-know-when-your-child-is-ready-to-go-out-alone": {
    "canonical": "https://heypolo.com/blog/how-to-know-when-your-child-is-ready-to-go-out-alone",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How to Know When Your Child Is Ready to Go Out Alone"
    ],
@@ -297,13 +297,13 @@
    "meta_description": "When should kids go out alone? Age 10 is only the floor. Weigh your child's skills, your route, and your state law, then start with one short trip.",
    "robots": "",
    "seo_hash": "55ce9ae2ac4adb9273ef2bf9e44095eddaf94235d054c15e5e8d4be3f5db4075",
-   "text_hash": "c008a706c42cb13f721585a7de91b0c1a9e855a6ccdceb65086935885fc18076",
-   "text_len": 21195,
+   "text_hash": "5ef46329cd5f9c7f3b7c48b4d28e9efd7b3641ba22b4b9e4a21c35728285c945",
+   "text_len": 19431,
    "title": "When Should Kids Go Out Alone? A Parent's Readiness Guide"
   },
   "https://heypolo.com/blog/how-to-make-a-school-schedule": {
    "canonical": "https://heypolo.com/blog/how-to-make-a-school-schedule",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How to Make a School Schedule & Build a Calm Weekday Routine"
    ],
@@ -312,13 +312,13 @@
    "meta_description": "How to make a school schedule that protects sleep, fits real study hours, and leaves buffer in the week. Nine steps, a worked example, and weekly resets.",
    "robots": "",
    "seo_hash": "9bebf9f0f75afcc12894a7dffe3ad13f95440f93ba0cccf7745b20eeb9e3a0c2",
-   "text_hash": "abfc98e2c802d1d18ef5b2e6a006fd71b5d55a674f8c36f15bf769af2a76baa4",
-   "text_len": 20620,
+   "text_hash": "58398f23f6c4a6b3418d16936dfb30dc79d95aaeb3f8cc0770e2e4f74b3d110d",
+   "text_len": 18564,
    "title": "How to Make a School Schedule for a Calmer Week"
   },
   "https://heypolo.com/blog/how-to-prepare-kids-for-school": {
    "canonical": "https://heypolo.com/blog/how-to-prepare-kids-for-school",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How to Prepare Kids for School Before the First Day"
    ],
@@ -327,13 +327,13 @@
    "meta_description": "Rehearse the school day instead of cramming for a readiness test. Get a countdown, skills to practice, and a goodbye plan your child helps decide.",
    "robots": "",
    "seo_hash": "dfa173e3eb81f35f7267617ceada233545de535e4a5a1449f511d9b844a68ab7",
-   "text_hash": "21ac862824aa5a99fa1898376a8ad2ffb33f54963a0c125ea107f2f55b19e270",
-   "text_len": 15994,
+   "text_hash": "da3c7a86a904eb83ad22c47e84befb54178a6f0f77864346dceef80ec2089eaf",
+   "text_len": 14059,
    "title": "How to Prepare Kids for School Before Day One"
   },
   "https://heypolo.com/blog/kids-walking-to-school": {
    "canonical": "https://heypolo.com/blog/kids-walking-to-school",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Kids walking to school safely: texting/phone rules while walking"
    ],
@@ -342,13 +342,13 @@
    "meta_description": "Kids walking to school need clear phone rules, not a ban. Set screen-free crossings, stop-and-text check-ins, and a sharing window that ends on arrival.",
    "robots": "",
    "seo_hash": "86152b1eaf1a11814e081cbdc3d49b1bf60462d9a0f9a1dc8838f6d50529cc13",
-   "text_hash": "8c25f72de75e7af9554b6fe2915972f2e4195cd5d140561b10543360c2d3d222",
-   "text_len": 19220,
+   "text_hash": "2280da4f3ce384c199d44530a2792a7374ae1508918a027df35f1f2bbe72552f",
+   "text_len": 17390,
    "title": "Kids walking to school: phone and texting rules that work"
   },
   "https://heypolo.com/blog/knowing-when-your-child-is-ready-to-stay-home-alone": {
    "canonical": "https://heypolo.com/blog/knowing-when-your-child-is-ready-to-stay-home-alone",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Knowing when your child is ready to stay home alone"
    ],
@@ -357,13 +357,13 @@
    "meta_description": "What age can a child stay home alone? No single number settles it. See what the law says where you live, plus readiness signs you can watch for before the first trial.",
    "robots": "",
    "seo_hash": "115685f9894047c81bf6a451c3c43c3724889072ccdc0d23f9c27619daeee562",
-   "text_hash": "6303daeed0610bee6f3cd1a5cb25cc96e89fcc5593b7ca105888ff3ea185a523",
-   "text_len": 19621,
+   "text_hash": "355c9146fe06b40c109c3eebed7e520c076ae11f918689a3dedaa621a42a9ed3",
+   "text_len": 17428,
    "title": "What Age Can a Child Stay Home Alone? A Parent's Guide"
   },
   "https://heypolo.com/blog/latchkey-kid": {
    "canonical": "https://heypolo.com/blog/latchkey-kid",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Helping Your Latchkey Kid Feel Less Alone After School"
    ],
@@ -372,13 +372,13 @@
    "meta_description": "Latchkey kid afternoons go better when the routine is predictable and help is close by. See how families check readiness, agree on rules, and stay reachable.",
    "robots": "",
    "seo_hash": "29504919c6a9b5187de2dbd768bd8f01ec9f13f728424a116f0597bd921778d6",
-   "text_hash": "0385798325ba2a5cd41e3484b01742bba1edb792cc15d01318b78796a9ddab9a",
-   "text_len": 16406,
+   "text_hash": "e9078692017433f7a295442d2273410ee1dc3b19cb9adace7db0bc0dbd599c18",
+   "text_len": 14486,
    "title": "Latchkey Kid Afternoons That Feel Less Lonely"
   },
   "https://heypolo.com/blog/parents-draw-the-line-59-would-quit-a-location-tracking-app-if-it-sold-their-data": {
    "canonical": "https://heypolo.com/blog/parents-draw-the-line-59-would-quit-a-location-tracking-app-if-it-sold-their-data",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Parents draw the line: 59% would quit a location-tracking app if it sold their data"
    ],
@@ -387,13 +387,13 @@
    "meta_description": "Parents value privacy as much as safety, with most saying they would delete or switch location-tracking apps that sell family data, while also preferring continuous tracking that protects trust and relationships.",
    "robots": "",
    "seo_hash": "89ebe10dc4b1217867ab43b699949ae20535417e690046f62fd7e043d01eefa7",
-   "text_hash": "7137e3b7b69b628b4f47d0440266a5434536797666a95c6ad64701a44ea43792",
-   "text_len": 5500,
+   "text_hash": "b6e46c224b15343bea69c090e770a58391d809196b3a816d861e0c4d96a46f81",
+   "text_len": 4516,
    "title": "59% parents would quit a location-tracking app if it sold their data"
   },
   "https://heypolo.com/blog/questions-to-ask-kids-after-school": {
    "canonical": "https://heypolo.com/blog/questions-to-ask-kids-after-school",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Questions to ask kids after school when they go quiet"
    ],
@@ -402,13 +402,13 @@
    "meta_description": "Questions to ask kids after school that work on a quiet teen, plus what the research says about timing, listening, and answers that worry you. Read on.",
    "robots": "",
    "seo_hash": "f970aba64a27648393fb8e20b758147d3d35d5c995bc75709ddbe8b87501a9f0",
-   "text_hash": "4ef288722ba4920fdf656e0225a0361e578d95a9eee587238a4ba7dd15f1a1ad",
-   "text_len": 15717,
+   "text_hash": "1d3aa04ed47d4adb031648206e058181fe67534b88847b1f349877a77c993e2b",
+   "text_len": 13816,
    "title": "Questions to Ask Kids After School When They Go Quiet"
   },
   "https://heypolo.com/blog/remove-life360": {
    "canonical": "https://heypolo.com/blog/remove-life360",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Want To Remove Life360? Follow These Steps"
    ],
@@ -417,13 +417,13 @@
    "meta_description": "Deleting your account is just the last step. To actually clear your data from Life360, you'll need to back up what you need, cut off data collection, unlink your devices, cancel your subscription, and file a deletion request first.",
    "robots": "",
    "seo_hash": "5fab2d97fcc4f4af3e26b0247f7f08e74d5f866e8a208236d6920a5ece80feff",
-   "text_hash": "99b52017d6344c92474fcbd992f6fbee7270fcde992b90c7c354cf28ba3ec228",
-   "text_len": 21866,
+   "text_hash": "58b9d41ce6b10eecc4d7955c1c162d944e221d66c44e98401de29d3cab2ec1b0",
+   "text_len": 19659,
    "title": "Want To Remove Life360? Follow These Steps"
   },
   "https://heypolo.com/blog/rural-roads-safety": {
    "canonical": "https://heypolo.com/blog/rural-roads-safety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Why Rural Roads Should Make You Rethink How You Drive"
    ],
@@ -432,13 +432,13 @@
    "meta_description": "Rural driving hides its risk in an empty road. See what shrinks your margin for error, what to change before you leave, and how your family knows you arrived.",
    "robots": "",
    "seo_hash": "dfded02b38ecda2e6da75592c01aadca4df3a8baa77bd71884288830e0098587",
-   "text_hash": "fde382273b44ff89dc7e24106dd9a9f204c3e2a445d6617d080d49e4039118f2",
-   "text_len": 15460,
+   "text_hash": "6489537107b61915c061fd1bf149d70d57fe1472ec8ca92b90a4b38c169ef910",
+   "text_len": 13346,
    "title": "Rural Driving Leaves Less Room for Error Than You Think"
   },
   "https://heypolo.com/blog/school-bus-safety": {
    "canonical": "https://heypolo.com/blog/school-bus-safety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "School bus safety habits that start before the bus arrives"
    ],
@@ -447,13 +447,13 @@
    "meta_description": "School bus safety starts at the curb, not on the ride. Use behavior-based readiness checks, a stop rehearsal, and a plan for late buses and changed stops.",
    "robots": "",
    "seo_hash": "75b5adc195a1e62e9e6895466abba624388ab0b963775bbd6cdf46247481879e",
-   "text_hash": "e327083850ec3730b7d982571be1cc5179dc9dea253649385c281ece1c88b779",
-   "text_len": 15468,
+   "text_hash": "6c8244b84a5d999667ca4171f639a8a510e4860989a80ac5c41357bfb223caf7",
+   "text_len": 13319,
    "title": "School Bus Safety Habits That Start Before the Bus"
   },
   "https://heypolo.com/blog/share-location-between-iphone-and-android-easy-guide": {
    "canonical": "https://heypolo.com/blog/share-location-between-iphone-and-android-easy-guide",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Share Location Between iPhone and Android: Easy Guide"
    ],
@@ -462,13 +462,13 @@
    "meta_description": "Discover 3 simple methods to share your location between iPhone and Android and stay connected with family and friends, regardless of device.",
    "robots": "",
    "seo_hash": "07aeb728723a92cbc2dc799adbb2b9b1a12a20c3261c660085008c91c4e0a3a2",
-   "text_hash": "e24bdff54de454b66a6c068ffa4bfe182c7e6e96ffb1328261aab25335fa2051",
-   "text_len": 10806,
+   "text_hash": "dd636071d694385ffcef2f2adb572fca13f32cb774c6b5473884261754565445",
+   "text_len": 9208,
    "title": "Share Location Between iPhone and Android: Easy Guide"
   },
   "https://heypolo.com/blog/teen-driver-safety": {
    "canonical": "https://heypolo.com/blog/teen-driver-safety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Teen Driver Safety: Getting Their First 1,500 Solo Miles In Safely"
    ],
@@ -477,13 +477,13 @@
    "meta_description": "See our teen driver safety guidance for the first 1,500 solo miles, with phased rules for passengers, curfews, and night driving.",
    "robots": "",
    "seo_hash": "27b05a2cb601fe989ed9490d985bcae50414a905fb10351e56087d42fcbd7c5f",
-   "text_hash": "3e9829c26acd157cf989cd256f53b64245d9d009788a9adeb5b24e884d6201eb",
-   "text_len": 35825,
+   "text_hash": "b7041b9500e6281724b351deaae14b324fcb3490bff708358af3b4095f26c355",
+   "text_len": 34033,
    "title": "Teen Driver Safety: Your Teen's First 1,500 Solo Miles | HeyPolo"
   },
   "https://heypolo.com/blog/teens-walking-home-on-darker-evenings": {
    "canonical": "https://heypolo.com/blog/teens-walking-home-on-darker-evenings",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "A Parent's Guide for Teens Walking Home on Darker Evenings"
    ],
@@ -492,13 +492,13 @@
    "meta_description": "Darker evenings walking home from school raise real risk for teens. See what the crash data says, which gear works after dark, and how to check in without hovering.",
    "robots": "",
    "seo_hash": "95379970dc1fa56adbf528234e9ac6b1b3e97bd01d936dafc40db885d1326595",
-   "text_hash": "027685397d88b701b9f506ba680e9ba78a51fe889e22a5b19039afd17e3012d3",
-   "text_len": 18175,
+   "text_hash": "fa2a21525506da49462bef9e8abfa82f6c4db7f27057aeaf52e475a2381b15ba",
+   "text_len": 16444,
    "title": "A Parent's Guide for Teens Walking Home on Darker Evenings"
   },
   "https://heypolo.com/blog/the-back-to-school-safety-plan": {
    "canonical": "https://heypolo.com/blog/the-back-to-school-safety-plan",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "The Back-to-School Safety Plan: Kids Walking, Bus/Car Routines, and Mental Health"
    ],
@@ -507,13 +507,13 @@
    "meta_description": "Back to school safety that covers the walk, the bus, teen drivers and your child's first weeks, with CDC and NHTSA guidance and check-ins you agree together.",
    "robots": "",
    "seo_hash": "8a21ea1d14b51dfd353353901c1b33f61edc6196b7740126a1a12cf3fb579d7b",
-   "text_hash": "f90bc11bc97fa286eee1ac2f83852a200fffe21110d02d1b9c8b352fec23730a",
-   "text_len": 22401,
+   "text_hash": "4c7e4bf158a0711b6de5da0ea56825c6753cad601b2968e80e1662395627b2dd",
+   "text_len": 20034,
    "title": "Back to School Safety Plan for Walking, Buses and Cars"
   },
   "https://heypolo.com/blog/the-guilt-of-living-far-from-your-parents": {
    "canonical": "https://heypolo.com/blog/the-guilt-of-living-far-from-your-parents",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "The Guilt of Living Far From Your Parents"
    ],
@@ -522,13 +522,13 @@
    "meta_description": "Living far from ageing parents can be stressful. Learn how to stay connected, reduce anxiety, and help elderly parents stay safe while maintaining their independence.",
    "robots": "",
    "seo_hash": "cf05f83d363cdd6844770a3323ee18e17dfc9e9d2367a9a3cf8a3dee33338ba4",
-   "text_hash": "dc1ffed12660f72362d1a510c3eff6152198e9b1d14ff2f168fef1e15ef3cff9",
-   "text_len": 4731,
+   "text_hash": "2086f947e818a444fe856ba69dd0fc64e28a5e956fe3b72de1a2d067638ce477",
+   "text_len": 3690,
    "title": "How to Stay Connected to Elderly Parents When You Live Far Away"
   },
   "https://heypolo.com/blog/the-worry-every-parent-of-a-teenager-knows": {
    "canonical": "https://heypolo.com/blog/the-worry-every-parent-of-a-teenager-knows",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "The Worry Every Parent of a Teenager Knows"
    ],
@@ -537,13 +537,13 @@
    "meta_description": "Letting teenagers become independent is hard. Learn how parents can balance safety, trust, and peace of mind without constant monitoring.",
    "robots": "",
    "seo_hash": "b307fd9c44b02f0b3420c71aa9abb531ac0bb7b668c1545e5322f93f5272d29e",
-   "text_hash": "13d479fb82e72a3f2983d5bfcf4ea5b32af0f8c2471e43e79fc4c56fecf2239a",
-   "text_len": 5213,
+   "text_hash": "9c7685571dba507e219bfce26ea4d9288df4595271303f9652d9681e10085871",
+   "text_len": 4091,
    "title": "How to Give Teenagers Independence Without Constant Worry"
   },
   "https://heypolo.com/blog/track-a-phone-offline": {
    "canonical": "https://heypolo.com/blog/track-a-phone-offline",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "SMS Ping: Track a Phone Offline in Two Texts With Find Hub"
    ],
@@ -552,13 +552,13 @@
    "meta_description": "A phone with no internet connection can still be found, if you set it up in advance. SMS locators, offline network tracking, and what to do the moment it's missing.",
    "robots": "",
    "seo_hash": "e01da299cc5c37abeab23b96ba4ea34f04ab5dd83123159375ee36a8de1a294e",
-   "text_hash": "f9c73a0d6d9ab58b7133c0511299c7d0c610d15176bd334c6c51f069f8b4f3ea",
-   "text_len": 14891,
+   "text_hash": "4f5b78747956455add42e0aa42862b9e03b4fc1a1370e8a54ce104bcee9f87f5",
+   "text_len": 13279,
    "title": "How to find a phone with no internet connection | HeyPolo"
   },
   "https://heypolo.com/blog/vehicle-data-transmission": {
    "canonical": "https://heypolo.com/blog/vehicle-data-transmission",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Vehicle Data Transmission, Who Sees It & What They Do With it"
    ],
@@ -567,13 +567,13 @@
    "meta_description": "Vehicle data transmission sends your trips to automakers, brokers, and sometimes insurers. See the full chain, then take back control of what your car shares.",
    "robots": "",
    "seo_hash": "bd23135f349f90a435b8d37b2e3259dbd6aabc68bf6541904c870ce4fb5727ab",
-   "text_hash": "a300758c3cc1237d658750a9283362b0144c986ec488cad674bc435066462ed1",
-   "text_len": 16406,
+   "text_hash": "a072b3d9fc6dd8b9748fd48fec2e3793c3e5a29544391a3e84c65253bdb07005",
+   "text_len": 14639,
    "title": "Vehicle Data Transmission and Who Sees Your Driving Data"
   },
   "https://heypolo.com/blog/what-age-can-a-child-walk-to-school-alone": {
    "canonical": "https://heypolo.com/blog/what-age-can-a-child-walk-to-school-alone",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "What age can a child walk to school alone"
    ],
@@ -582,13 +582,13 @@
    "meta_description": "What age can a child walk to school alone? Pediatric guidance says 10, but your child's crossing habits and your actual route decide it. Assess both today.",
    "robots": "",
    "seo_hash": "0708591a42469bc2d42046227b028ebc293502437539fe1086e5eb3fa5cde3c5",
-   "text_hash": "9ac648105d620f28302e719d333dc8e75b886792f2f3ffb840e6786ff42cfffd",
-   "text_len": 20587,
+   "text_hash": "0a516de70533c2f9252a0f586c8f6b1dd2cf8023b820887b7d0e29a765a2e188",
+   "text_len": 17988,
    "title": "What Age Can a Child Walk to School Alone"
   },
   "https://heypolo.com/checkout": {
    "canonical": "",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [],
    "http_status": 200,
    "jsonld_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -601,7 +601,7 @@
   },
   "https://heypolo.com/comparisons": {
    "canonical": "https://heypolo.com/comparisons",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "How HeyPolo compares with the other location sharing apps"
    ],
@@ -610,13 +610,13 @@
    "meta_description": "Side-by-side comparisons of HeyPolo against the best known location sharing apps, covering price, privacy and the features families actually use.",
    "robots": "",
    "seo_hash": "21b968b0c1b97cd9e2cd0979aa5540f3ce5a03c9e94ad7faccd335b21b48d307",
-   "text_hash": "37b39be67b18f625dd71513835f7f8f5b5f0d1c0af0bf9223d72bce9a618dd6e",
-   "text_len": 2285,
+   "text_hash": "c0d377c4c0a381e473acc8482df61bc7a80b3a0d159fa4a3443b4216fd31c5fe",
+   "text_len": 442,
    "title": "HeyPolo Compared With Life360, Zenly, iSharing and More"
   },
   "https://heypolo.com/comparisons/findmyfriends": {
    "canonical": "https://heypolo.com/comparisons/findmyfriends",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs. FindMyFriends"
    ],
@@ -625,13 +625,13 @@
    "meta_description": "HeyPolo is the dynamic and modern alternative to FindMyFriends. Compare fees, features and migration time, and see how much more you keep.",
    "robots": "",
    "seo_hash": "cbd4f115e22b20ba0466406292d91224ed6a2934cb0c784b4840d7c30d6a7228",
-   "text_hash": "618c9406c91af6706279e8f7161b55b952045bd2c2991b52e8d0cb408dcf4ce1",
-   "text_len": 8375,
+   "text_hash": "2a4e32e304ec2c5fb7aecae6d9bfa4c19803da279105e2bf641bfbdb9d3f1ac8",
+   "text_len": 6964,
    "title": "HeyPolo vs. FindMyFriends: Compare Fees, Features & Pricing 2026"
   },
   "https://heypolo.com/comparisons/geozilla": {
    "canonical": "https://heypolo.com/comparisons/geozilla",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs. GeoZilla"
    ],
@@ -640,13 +640,13 @@
    "meta_description": "HeyPolo is the dynamic and modern alternative to GeoZilla. Compare fees, features and migration time, and see how much more you keep.",
    "robots": "",
    "seo_hash": "6764b60569df7a3c2593ff07386e080904fa443af918f48ea29997e64bcb0808",
-   "text_hash": "471f570b13ac1c70e190f8bcd9af9b5af5cf89ea1c34c567d09761372922390e",
-   "text_len": 8889,
+   "text_hash": "73a9ada96e8cc224c58fd3beb9777665198d06c3ae21fdc3ba474595acacc1cb",
+   "text_len": 7465,
    "title": "HeyPolo vs. GeoZilla: Compare Fees, Features & Pricing 2026"
   },
   "https://heypolo.com/comparisons/isharing": {
    "canonical": "https://heypolo.com/comparisons/isharing",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs. iSharing"
    ],
@@ -655,13 +655,13 @@
    "meta_description": "HeyPolo is the dynamic and modern alternative to iSharing. Compare fees, features and migration time, and see how much more you keep.",
    "robots": "",
    "seo_hash": "00f30d2c1814357a58cbc007f27a5c1509bb71147baddbe0242ab8f3e6cac770",
-   "text_hash": "f019f7b694f4fd1f261694153a216ff1732b42569b43c711252d9c03a39001f7",
-   "text_len": 8785,
+   "text_hash": "d2a38324934e5a929ffbe72680e14ea124b93667614f11c69ac91ca329abed7f",
+   "text_len": 7361,
    "title": "HeyPolo vs. iSharing: Compare Fees, Features & Pricing 2026"
   },
   "https://heypolo.com/comparisons/life-360": {
    "canonical": "https://heypolo.com/comparisons/life-360",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs. Life360"
    ],
@@ -670,13 +670,13 @@
    "meta_description": "HeyPolo is the dynamic and modern alternative to Life360. Compare fees, features and migration time, and see how much more you keep.",
    "robots": "",
    "seo_hash": "b42c81582ecde0d418de344891917ab908da41bc5d8951330ca3cb6146fb6c79",
-   "text_hash": "94152bd4cba574c407db0bd58e81420b704b891689b1da869f8b9067c516c39f",
-   "text_len": 8622,
+   "text_hash": "e628717047a3abf0c91549c754f4a429d126d2053edd8cbf91037c47e224612b",
+   "text_len": 7224,
    "title": "HeyPolo vs. Life360: Compare Fees, Features & Pricing 2026"
   },
   "https://heypolo.com/comparisons/life360-free-vs-paid": {
    "canonical": "https://heypolo.com/comparisons/life360-free-vs-paid",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Life360 free vs paid"
    ],
@@ -685,13 +685,13 @@
    "meta_description": "Life360's free plan gives you 2 days of history and 2 place alerts. Here is exactly what Silver, Gold and Platinum add, what they cost, and whether the upgrade is worth it.",
    "robots": "",
    "seo_hash": "d3a5243fb9cad65bd6fd11eee4c35d42ea4bcacf62a6c47c42a29c7c32b830e8",
-   "text_hash": "e327259e6ffecbf5fa2bab3b6a8c77ac8a054218df423c1b4e1779f2b85ffbd9",
-   "text_len": 16417,
+   "text_hash": "d909b08ab79c9610ad3c2951ed70d210168fe552572fc2e66a38c26d216dd24f",
+   "text_len": 14957,
    "title": "Life360 Free vs Paid: What You Actually Get in 2026"
   },
   "https://heypolo.com/comparisons/zenly": {
    "canonical": "https://heypolo.com/comparisons/zenly",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo vs. Zenly"
    ],
@@ -700,13 +700,13 @@
    "meta_description": "Zenly closed in February 2023. Here is what happened, and how HeyPolo gives friend groups the same live shared map without the social feed.",
    "robots": "",
    "seo_hash": "448f7dc35cec9a672ee7ed0e24a205c4ba58ad870220ed01c66b238e14b95b24",
-   "text_hash": "0ae4c77741fffce56a086f6eaed6cd86a14bd4f19e30b359c843e63625440921",
-   "text_len": 5979,
+   "text_hash": "a63f8ca6eea1b70ca37fa4d6babb589fbdfe11bf042f4c7a9dbafc30d5e84394",
+   "text_len": 4234,
    "title": "Zenly Shut Down in 2023: What to Use Instead | HeyPolo"
   },
   "https://heypolo.com/download": {
    "canonical": "https://heypolo.com/download",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Download HeyPolo and Share Your Location on Android and iOS"
    ],
@@ -715,13 +715,13 @@
    "meta_description": "Install the HeyPolo app in a few easy steps and share your real-time location with your close ones.",
    "robots": "",
    "seo_hash": "498d16332124b245d80fc7ae5a92ffdb9d4cbdfb085e23c9c0bb771de3ccc6b1",
-   "text_hash": "bb1c1fb5f49d0de1ec9630cfd9f3687a5a8606d2ea0f1e62307223efb521d883",
-   "text_len": 7308,
+   "text_hash": "0acbfc71038eb2d79a65e96ae3f8f726bcd6ebae97f08036d069b6629c83c4a5",
+   "text_len": 6437,
    "title": "Download HeyPolo – Location-Sharing App for Android and iOS"
   },
   "https://heypolo.com/feature-hub": {
    "canonical": "https://heypolo.com/feature-hub",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo's family safety app features"
    ],
@@ -730,13 +730,13 @@
    "meta_description": "See all HeyPolo features in one place. Real-time location, alerts, and SOS, all under one family subscription.",
    "robots": "",
    "seo_hash": "1de5f78cb9cdb04616be41c9eb3183463f445ca1c68f0f37842350715468f159",
-   "text_hash": "b075c28a08dcb1aa27963e9757a7540e4a8d63c6f068514a63938aa3c104c914",
-   "text_len": 6321,
+   "text_hash": "2f2b3578dfc2658969e82659b778083f5fc156d7280d5a680fac3aabce7982a0",
+   "text_len": 3768,
    "title": "HeyPolo Features Built for Everyday Family Safety"
   },
   "https://heypolo.com/features": {
    "canonical": "https://heypolo.com/features",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo location-sharing app features"
    ],
@@ -745,13 +745,13 @@
    "meta_description": "Explore HeyPolo location-sharing app features that make it a perfect choice for real-time sharing that does not invade your privacy.",
    "robots": "",
    "seo_hash": "3990fc62a69c9f7b9fbed8e4b0cc6b2fbd32e9379f331a8997cb8c6137ea5bc5",
-   "text_hash": "04dc6eccbd25f14f9981f146d5f368c07e81980bd47271ecea9946f6909a8d07",
-   "text_len": 6998,
+   "text_hash": "399d1984b4f5deed82a56fd11c5d50e5c71cc1f8c4cec5307409803081a3eda5",
+   "text_len": 6127,
    "title": "HeyPolo Features—Location-Sharing App Explained"
   },
   "https://heypolo.com/features/crash-detection": {
    "canonical": "https://heypolo.com/features/crash-detection",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Crash detection that reaches your family fast"
    ],
@@ -760,13 +760,13 @@
    "meta_description": "HeyPolo crash detection checks in after a hard impact. No response after a certain time sends your location to your family instantly.",
    "robots": "",
    "seo_hash": "de5a6afb30890e0df36fd79ee9c52ef872ecb934e839a3b17f1a4fbda1b3030b",
-   "text_hash": "ca0d5bc8cc710b5cdb3f043c0d9a58e3c58e86b24960fc98c581c8863f734fd2",
-   "text_len": 12190,
+   "text_hash": "b42f84c7766894807f93259317efda8ce1688d256c73d67677fecba85703858c",
+   "text_len": 11152,
    "title": "Car Crash Detection With No Extra Steps | HeyPolo"
   },
   "https://heypolo.com/features/group-location-sharing": {
    "canonical": "https://heypolo.com/features/group-location-sharing",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Group location sharing to keep everyone connected"
    ],
@@ -775,13 +775,13 @@
    "meta_description": "Share your location with family, friends, or travel companions all at once. HeyPolo's group location sharing app is private, simple, and free for everyone you invite.",
    "robots": "",
    "seo_hash": "324990b612f24be2d9df755b8d7759ebb222d2a6d338f00d9ab2695ddc5a6ee1",
-   "text_hash": "3d97c4230824b4e4867c438f4edc66794932e4cb2f2c151537ea7d238a7ab1ee",
-   "text_len": 6098,
+   "text_hash": "1169cd7ed684d7019672e8f5c799c83f21d5b77eb2c8a28c7bde4b42b8fec7a2",
+   "text_len": 5266,
    "title": "HeyPolo: Group Location Sharing App — Unlimited Groups, One Plan"
   },
   "https://heypolo.com/features/groups": {
    "canonical": "https://heypolo.com/features/groups",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Group location sharing app built for families"
    ],
@@ -790,13 +790,13 @@
    "meta_description": "HeyPolo groups let you set different sharing rules for family, friends, or a work group, all under one plan.",
    "robots": "",
    "seo_hash": "4ef46facbdfa1c9b3bb108c91501381fb811510a20a50461e6b4bbf22031c4bd",
-   "text_hash": "68ee43599c3a897139e52b56aa4c742d096d96efa717663c4cc089a918239e4f",
-   "text_len": 12835,
+   "text_hash": "59a088d73720733dee19c1d386b9ca37f0f24eca6374343c176fb65303d1b7ff",
+   "text_len": 11815,
    "title": "Groups in HeyPolo: Your Rules, Per Circle, Family & Friends."
   },
   "https://heypolo.com/features/location-based-alerts": {
    "canonical": "https://heypolo.com/features/location-based-alerts",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Real-time location sharing that actually feels real-time"
    ],
@@ -805,13 +805,13 @@
    "meta_description": "HeyPolo's location-based alerts tell you the moment someone arrives or leaves a place you're both watching.",
    "robots": "",
    "seo_hash": "5c1975273ed199aac5493855ca23b2f6b204c31eabb73d7a7ed5fc2aa25dbb83",
-   "text_hash": "f0a5b6e99160928ce9cefad6f8ccbf4718497a89a5fe96a0c9099f115c257f5f",
-   "text_len": 6354,
+   "text_hash": "25a5d39d68ad24613a23f8e32ffd9bc37443345bef296248dc16935159af2480",
+   "text_len": 5404,
    "title": "Location-Based Alerts for Arrivals & Departures | HeyPolo"
   },
   "https://heypolo.com/features/location-history": {
    "canonical": "https://heypolo.com/features/location-history",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location history app that shares on your terms"
    ],
@@ -820,13 +820,13 @@
    "meta_description": "HeyPolo's location history shows a week of routes and arrival times, then clears itself automatically. See how it works for your family.",
    "robots": "",
    "seo_hash": "0f392f1d0a7f16d494f76b7d11804d321324b2f53048853d6b428624b2908234",
-   "text_hash": "bef09ddf19c95e6a97f913041b537a1c2023e5445519469b8d393e42e0ec30f2",
-   "text_len": 13845,
+   "text_hash": "2fc7dc8335d9e97aecd5b64b4df88d01f446db192d5ca96c137cc791f5b081bd",
+   "text_len": 12825,
    "title": "Past Location History for Families, Kept for Just 7 Days"
   },
   "https://heypolo.com/features/location-sharing": {
    "canonical": "https://heypolo.com/features/location-sharing",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "A location sharing app your whole family agrees to use"
    ],
@@ -835,13 +835,13 @@
    "meta_description": "HeyPolo's real-time location sharing shows where your family is, without turning it into surveillance.",
    "robots": "",
    "seo_hash": "812cf2d144375f9aba689984c14d2a44e9902434d5441286d82f4701b85ca3c5",
-   "text_hash": "8b808a79e3dc299e1da63a625dc36255b0a97f226b8ca1a19ff96e961d1fcc42",
-   "text_len": 13287,
+   "text_hash": "09f0e1a44bc42811f57782a8e5f404cffa5542cae8ded4ab61e47cdc4b6a4e22",
+   "text_len": 12263,
    "title": "The Location Sharing App That Respects Privacy | HeyPolo"
   },
   "https://heypolo.com/features/location-sharing-history": {
    "canonical": "https://heypolo.com/features/location-sharing-history",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location history - know where they’ve been"
    ],
@@ -850,13 +850,13 @@
    "meta_description": "Review past routes, confirm arrivals, and get extra peace of mind with HeyPolo's location sharing history. Automatically deleted after 7 days. Your privacy, always protected.",
    "robots": "",
    "seo_hash": "ba37d9cee48eb2cfadea4c1b7f2d8cdde8de5fde48c94c36c6ba9d2b60276cbd",
-   "text_hash": "d12f344a064b2c6fa94fd35e1b8652150bcffbdd548da96bd11e91908c9bdec3",
-   "text_len": 7443,
+   "text_hash": "9e5ec6c3571953bb132eacf03670fb9dd9f998bef7c9d3e557612ca453fd5ba0",
+   "text_len": 6572,
    "title": "HeyPolo: Location Sharing History - See Where Your Family Has Been"
   },
   "https://heypolo.com/features/real-time-location-sharing": {
    "canonical": "https://heypolo.com/features/real-time-location-sharing",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Real-time location sharing built for families"
    ],
@@ -865,13 +865,13 @@
    "meta_description": "See where your family and friends are in real time, updated every 5 seconds. HeyPolo is a privacy-first real-time location sharing app — you control what you share and when.",
    "robots": "",
    "seo_hash": "2b3b5a30dede7da12fe27c29e77b39ad13954450b28cc2dce21e6c99a6093191",
-   "text_hash": "30ddf156c5480ef56d1d78cc827ceddef75c56afb4e629ee0f9c192661f7e5ab",
-   "text_len": 5776,
+   "text_hash": "52d777d7fbcc2ec9cff398795e0d8c890b11a873089e1285ce09c23aee3c8158",
+   "text_len": 4944,
    "title": "HeyPolo: Real-Time Location-Sharing App - Private, No Always-On Tracking"
   },
   "https://heypolo.com/features/severe-weather-alerts": {
    "canonical": "https://heypolo.com/features/severe-weather-alerts",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "The weather alert app that tells your people when it matters"
    ],
@@ -880,13 +880,13 @@
    "meta_description": "HeyPolo's weather alerts notify your family when an official warning says someone in your group may be in the area of severe weather.",
    "robots": "",
    "seo_hash": "5963ca1a6de63f407904598ffff12a46afb04ffb2a2c6008a90fa71cce9b6285",
-   "text_hash": "7bc6e982d5a8c27942385fc2ff46c87251ad9480a43f9661937eb7a417917d0a",
-   "text_len": 10585,
+   "text_hash": "b221c23c4656b293a3d62093075976e9f9ca391cf4cb8efaab4fe8dd4ed07e77",
+   "text_len": 9283,
    "title": "The Severe Weather Alert App for Your Whole Family | HeyPolo"
   },
   "https://heypolo.com/features/sos-alerts": {
    "canonical": "https://heypolo.com/features/sos-alerts",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Emergency alert app with one tap SOS for families"
    ],
@@ -895,13 +895,13 @@
    "meta_description": "HeyPolo's SOS alerts send your live location to chosen contacts the moment you tap the button. See how it can keep your loved ones safe.",
    "robots": "",
    "seo_hash": "4749c14f5d0c82df0d91f9d3097014ec0e1f0a74306b2821f90d0ab1d8f70955",
-   "text_hash": "19068f32f3bb288910e7439fdfb00bb6f616f1c8dff470d01b38e85d2cbb4d7d",
-   "text_len": 13690,
+   "text_hash": "0c60a1c0bfb019815f4a6b5a3767578b2144d33bc55b7ca543fd0c9737d9f3a3",
+   "text_len": 12670,
    "title": "Tap & Slide SOS Alerts That Reach The Right People | HeyPolo"
   },
   "https://heypolo.com/for": {
    "canonical": "https://heypolo.com/for",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location-Sharing App for People You Care About"
    ],
@@ -910,13 +910,13 @@
    "meta_description": "Stay connected without constant tracking. HeyPolo lets you share your location on your terms — with family or friends. One subscription covers everyone.",
    "robots": "",
    "seo_hash": "bf79a4df98f737cdefde0346857f1aac18ec076fea17d23a43db1dbdc307bd0b",
-   "text_hash": "c802339f7834d2d072dd50364bcb49bee416e194fe0abd5aeff2a32575f1f5a6",
-   "text_len": 7411,
+   "text_hash": "619a04f4f3b9239618a02c613c4483afb94162ceb9f9622245c92c80d94f8c75",
+   "text_len": 6540,
    "title": "HeyPolo: Private Location Sharing for Families & Friends"
   },
   "https://heypolo.com/for/caregivers": {
    "canonical": "https://heypolo.com/for/caregivers",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location Sharing for Caregivers of Loved Ones Prone to Wandering"
    ],
@@ -925,13 +925,13 @@
    "meta_description": "A consent-based way to keep an eye out for someone you care for: arrival alerts, low-battery warnings and one-tap SOS, with sharing they control too.",
    "robots": "",
    "seo_hash": "8c320cdb03d1e589c2109abfe0f6ce0dfecf2bb4366e306a5c313c47228b7997",
-   "text_hash": "fc1a65667c48800b999dd482ca168fc3b7c31db915709bdfd548bcc8fea4c4e5",
-   "text_len": 7212,
+   "text_hash": "17d003f3accb289ce45eb57996e7a7ead99871a8b74363131d7c292e7e3ae50e",
+   "text_len": 6356,
    "title": "Location Sharing for Caregivers and Carers"
   },
   "https://heypolo.com/for/couples": {
    "canonical": "https://heypolo.com/for/couples",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location Sharing for Couples, Both Ways"
    ],
@@ -940,13 +940,13 @@
    "meta_description": "Share your location with your partner without feeling watched: exact spot or general area, timed windows, and private mode either of you can switch on.",
    "robots": "",
    "seo_hash": "b90a7147304f2ad85f4aff81a72a6caed4c9504274133392a4cb14342108862c",
-   "text_hash": "7e6b36daa37639e84cfc4966d002533bdba511e9264bffd4cd4ee767f1473a1e",
-   "text_len": 7015,
+   "text_hash": "c876de6da0c5a001994670c423dc545a4041f47be402223491b4155e05e21983",
+   "text_len": 6159,
    "title": "Location Sharing for Couples, On Your Own Terms"
   },
   "https://heypolo.com/for/elderly": {
    "canonical": "https://heypolo.com/for/elderly",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location sharing for elderly parents"
    ],
@@ -955,13 +955,13 @@
    "meta_description": "HeyPolo lets elderly parents share their location on their own terms: exact spot, general area, or private mode. Arrival alerts, low battery alerts and one-tap SOS, one plan for the whole family.",
    "robots": "",
    "seo_hash": "2724bb1ba88b4d442489e417eb9570a569ec3e2e7e59b723313bc50e25898141",
-   "text_hash": "aaee25beeab4ad3c2e3c160ddd7717fc8b8ad2481f7bc633094097036d41ca59",
-   "text_len": 7275,
+   "text_hash": "5dcc94119bbc85b0fa9f200224d36ecafc25e3b2f4203befd598999461d8dc01",
+   "text_len": 6431,
    "title": "Location Sharing App for Elderly Parents | HeyPolo"
   },
   "https://heypolo.com/for/family": {
    "canonical": "https://heypolo.com/for/family",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Family Location-Sharing App to Stay Connected"
    ],
@@ -970,13 +970,13 @@
    "meta_description": "HeyPolo is a family location-sharing app where everyone chooses what they share, exact spot or general area, and for how long. One plan covers everyone you invite.",
    "robots": "",
    "seo_hash": "cf223f0690ee68bf8d5db2f5667ab17130744618205d4a4b8112e415a469f397",
-   "text_hash": "eada00e3af5b1963e150920b829837aa479ae702b222d6324eba0c43594162af",
-   "text_len": 7192,
+   "text_hash": "9d13519e7074bab84299c2b2250f0d5a40be4af42cecf85ce931ef01ae708632",
+   "text_len": 6336,
    "title": "Family Location Sharing App Built on Consent"
   },
   "https://heypolo.com/for/friends": {
    "canonical": "https://heypolo.com/for/friends",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Share your location with friends, on your terms"
    ],
@@ -985,13 +985,13 @@
    "meta_description": "Share your location with friends on your terms: exact spot or general area, for as long as you choose. One plan covers everyone you invite, on iPhone and Android.",
    "robots": "",
    "seo_hash": "b93b7606964bc820c32a245c16438b83f96f14a765429e0884d035e25a40a3f9",
-   "text_hash": "68367f1b7460b876770172a3164d8f6470216d66a69c4b9f9e0bfa3e00b28744",
-   "text_len": 8259,
+   "text_hash": "ecdd53cb926da7521c40625d37b9379a0ebb1aef0a1096bac76d96c8e40c2d50",
+   "text_len": 7427,
    "title": "Location Sharing App for Friends, Private by Default"
   },
   "https://heypolo.com/for/kids": {
    "canonical": "https://heypolo.com/for/kids",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location Sharing That You Get to Control"
    ],
@@ -1000,13 +1000,13 @@
    "meta_description": "HeyPolo lets kids share an exact spot or a general area with the people they trust, with arrival alerts and one-tap SOS. One plan covers everyone you invite.",
    "robots": "",
    "seo_hash": "673a5804f2e06f0340027e1aab3ac9ebab61c106c1ab72ae71dc0365bb574b73",
-   "text_hash": "1ed2c0d99f3596f38c5029890f2fdbb705c1c642e2f0ac9e0a680cbccd56a1f3",
-   "text_len": 6578,
+   "text_hash": "188184fbdebfe2a34c0081d1130983f11ad7dd3a4cb52541d0b0d2500b86906c",
+   "text_len": 5722,
    "title": "Location Sharing App for Kids, Built on Consent"
   },
   "https://heypolo.com/for/parents-teens": {
    "canonical": "https://heypolo.com/for/parents-teens",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Know your teen is safe. Without them feeling watched."
    ],
@@ -1015,13 +1015,13 @@
    "meta_description": "Know your teenager got where they were going. HeyPolo lets teens control what they share, so the app stays installed and everyone stays informed.",
    "robots": "",
    "seo_hash": "776f8d35dd02d36f63486f6b417a9bd2c8a287cae33f82600bdf7934a6d3f764",
-   "text_hash": "d171242f2af4efa20c622061b0e1e0903c5e1f3135b81b6e7f76f610da0ec3eb",
-   "text_len": 7756,
+   "text_hash": "ea2a54d3d5429e905b5c54bd3a150bdd6b2ade1dc9b9852cc1696179c02f2684",
+   "text_len": 6890,
    "title": "Location Sharing for Parents of Teens, HeyPolo"
   },
   "https://heypolo.com/for/personal-safety": {
    "canonical": "https://heypolo.com/for/personal-safety",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Share Your Location Just for This Walk Home"
    ],
@@ -1030,13 +1030,13 @@
    "meta_description": "Share a walk home, set a timer, and keep one-tap SOS a thumb away. HeyPolo puts you in charge of what your people see and for how long.",
    "robots": "",
    "seo_hash": "6972aeac6aaada19d3d571fed5d06e0ac52edaed79cdbd724c42aedcf560b0f5",
-   "text_hash": "3b8b58e0ffc63f2db72fa89b9253bf37164a9a9c48a025ec3a698775805c3a67",
-   "text_len": 6842,
+   "text_hash": "7c6193c295d930c0a8bedcbd72866fbeea04d11da03108523f0e7f905ca70c9a",
+   "text_len": 5986,
    "title": "Personal Safety App With SOS and Live Sharing"
   },
   "https://heypolo.com/for/shift-workers": {
    "canonical": "https://heypolo.com/for/shift-workers",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location Sharing for Shift Workers and Late Finishes"
    ],
@@ -1045,13 +1045,13 @@
    "meta_description": "Let someone know you made it home after a late shift. Timed sharing, arrival alerts and one-tap SOS, with you deciding how much detail they see.",
    "robots": "",
    "seo_hash": "4fe0f49f7751c52548998b8145b8100f6da26d2002c7bc46ff55009b7dbe9f5b",
-   "text_hash": "8fd5758f57f14df1fa9d636c158280f2fbb0b5fff75dcba96b3724db9b519791",
-   "text_len": 6941,
+   "text_hash": "c7e3f42f3032ee8b64482378cb14a09e999f73a3ca96e0d6cd73c5b688499c9b",
+   "text_len": 6085,
    "title": "Location Sharing for Shift Workers and Late Finishes"
   },
   "https://heypolo.com/for/teen-drivers": {
    "canonical": "https://heypolo.com/for/teen-drivers",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Location Sharing for New and Teen Drivers"
    ],
@@ -1060,13 +1060,13 @@
    "meta_description": "Know your teen driver arrived. Crash detection, arrival alerts and one-tap SOS, with teens keeping control of what they share, so the app stays installed.",
    "robots": "",
    "seo_hash": "e8908936b42124f7c197dfa52fded54192e5c72943551ffe0f0c658c059dd02c",
-   "text_hash": "4326bfa32c2658119ed82f80d55221cb67baa14662049a26519d617d054804bd",
-   "text_len": 8363,
+   "text_hash": "1af0be3103ffde3e43b1f0895c82947343a6d99a6d76e29e55f9384ce214b923",
+   "text_len": 7483,
    "title": "Location Sharing for Teen Drivers and New Drivers"
   },
   "https://heypolo.com/press": {
    "canonical": "https://heypolo.com/press",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "HeyPolo press & media centre"
    ],
@@ -1075,13 +1075,13 @@
    "meta_description": "Everything journalists and media partners need — company background, brand assets, expert commentary, and press contacts. Welcome to the HeyPolo media centre.",
    "robots": "",
    "seo_hash": "307b4864378a9a55d205c2a471c723934a5950cb1bb78c2476a4bdb26118a7af",
-   "text_hash": "28b957745676551f8da4a27dcc5fd92e56fdae0ae922b3e73fbdb4d7186f1d8c",
-   "text_len": 4316,
+   "text_hash": "65bea0f3660a3122272a33c3b5f9c8a2480bfe66fae71271f8fd892027f9fa52",
+   "text_len": 3320,
    "title": "HeyPolo Press & Media Centre — Brand Assets, News & Contact"
   },
   "https://heypolo.com/pricing": {
    "canonical": "https://heypolo.com/pricing",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Always know yourfamily is safe"
    ],
@@ -1090,13 +1090,13 @@
    "meta_description": "HeyPolo offers privacy-first location sharing for families and friends. Start with a 30-day free trial and choose the best subscription plan for your peace of mind.",
    "robots": "",
    "seo_hash": "32c2e5748c911ee164287e86f8dd2753e077c17b8773121c4ae41ccce4fbd21d",
-   "text_hash": "16e6a7b88fda6f29db5f82a957a3ab6861dfae7f02de0a66ecc7a97f60788a42",
-   "text_len": 1805,
+   "text_hash": "27dc223391071d13edd4bc21081620c3adb29913f290859cff87da0ddf64c096",
+   "text_len": 997,
    "title": "How much does HeyPolo cost? Check the pricing - HeyPolo"
   },
   "https://heypolo.com/privacy-policy": {
    "canonical": "https://heypolo.com/privacy-policy",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Privacy Policy"
    ],
@@ -1105,36 +1105,36 @@
    "meta_description": "HeyPolo believes you should be in control of your privacy and personal data.",
    "robots": "",
    "seo_hash": "d3ac6f1b01d848e4884b2c557e148d627de1f6ff79f203ff61bccee625976c2d",
-   "text_hash": "3eb2a23a5f7a528d0adb281f77a32f80d5f3c8bd5a2166c4751d4d51327f1678",
-   "text_len": 29190,
+   "text_hash": "abfc9559b004ae409388a9fdd103ba5b276b9efc7de2f65c22e667f3e7a15137",
+   "text_len": 29367,
    "title": "HeyPolo | Privacy Policy"
   },
   "https://heypolo.com/terms-of-service": {
    "canonical": "https://heypolo.com/terms-of-service",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [
     "Terms of Service"
    ],
    "http_status": 200,
-   "jsonld_hash": "9f4c58997b1db43facc90781cc3fdbf1737f629f90862c5bd83f8af360d13801",
-   "meta_description": "‍The HeyPolo Service consists of our informational Website and a personal safety service accessible through our App.",
+   "jsonld_hash": "e55062fcedc7ce3f219166240ba5854d30aaa9c40a461311ab5518a059a1f3ce",
+   "meta_description": "The HeyPolo Service consists of our informational Website and a personal safety service accessible through our App.",
    "robots": "",
-   "seo_hash": "ddd5426ef7841a4ee7c53b8d83a8bf6a01cee18e310a83afb6fd8526b75574b0",
-   "text_hash": "1d7e8e06b85e29476b63843157bc1cf0efaa0873facb47dcbeef1cff8da3a80c",
-   "text_len": 29570,
+   "seo_hash": "816c1cebe4b4506cbe800e844c7e30a03cbdd00f9f5ed9acc022a80463574083",
+   "text_hash": "39986fe74229b98f8af4ca04aa4fddf5c95c7b1e261b3f15a7a83ce0b27430d0",
+   "text_len": 28616,
    "title": "HeyPolo | Terms of Service"
   },
   "https://heypolo.com/trust-center": {
    "canonical": "https://heypolo.com/trust-center",
-   "fetched_at": "2026-09-14T09:26:41Z",
+   "fetched_at": "2026-09-14T09:59:52Z",
    "h1": [],
    "http_status": 200,
    "jsonld_hash": "1b2fa21bf45cd65c83c27f0ddc0baf1e13138be36bc015873c1ac6bec69a30dc",
    "meta_description": "HeyPolo is a privacy-first location-sharing app.",
    "robots": "",
    "seo_hash": "d7fcb887631d2b384ac921cfb490e636993eff12e54ee6eb6985651d6f797f1b",
-   "text_hash": "a1ffbd21bb304478062587fa1cddbf28ec681e88977c7d6200c6510e29b05bf4",
-   "text_len": 6685,
+   "text_hash": "e015ceccae6921081d341cefa3e84651ff4dc0599d9154b6a39fae651404ebf9",
+   "text_len": 5838,
    "title": "HeyPolo Trust Center"
   }
  },

@@ -1,19 +1,9 @@
 How to Deal with School Pressure (Ages 6 to 15)
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 Family safety
 How to Deal with School Pressure: Tips That Help Ages 6–15
 Between ages 6 and 15, what moves school pressure is sleep hours, quizzing without notes, if-then plans in your child's own words, and ten minutes of writing before a big test.
@@ -21,7 +11,7 @@ Phil
 9 min read•August 26, 2026
 The homework folder came out at 7:40 on a Sunday night, and by 7:55 there were tears on the kitchen table. I have watched that exact evening happen in my own house, and the part that stayed with me was not the unfinished worksheet. It was how quickly a nine-year-old decided she was bad at school. Learning how to deal with school pressure starts long before that folder opens, in the ordinary hours around it.
 Some kids show it differently. A stomachache at 7:15 every school morning that clears up by ten. A twelve-year-old who says everything is fine and then stays up until midnight redoing an assignment nobody asked her to redo.
-School pressure between ages 6 and 15 is a predictable strain on a growing brain and a family routine. It gets lighter when you stop treating it as a private problem inside your child and start treating it as a signal the household answers together. The National Institute of Mental Health described stress in 2019 as the physical or mental response to an external cause, such as having a lot of homework. NIMH adds that learning what triggers your stress, and which coping techniques work for you, can reduce anxiety and improve daily life. Nothing here removes stress from a child's life. The aim is to make it smaller, more predictable, and less lonely.
+School pressure between ages 6 and 15 is a predictable strain on a growing brain and a family routine. It gets lighter when you stop treating it as a private problem inside your child and start treating it as a signal the household answers together. The National Institute of Mental Health as the physical or mental response to an external cause, such as having a lot of homework. NIMH adds that learning what triggers your stress, and which coping techniques work for you, can reduce anxiety and improve daily life. Nothing here removes stress from a child's life. The aim is to make it smaller, more predictable, and less lonely.
 Key takeaways
 Persistent tiredness signals school pressure earlier than falling grades do, so watch the yawns before the report card.
 The CDC's 2020 guidance sets 9 to 12 hours of sleep for ages 6 to 12 and 8 to 10 hours for ages 13 to 18.
@@ -41,28 +31,28 @@ Body: trouble falling asleep, waking early and not going back down, frequent sto
 Feelings: irritability that arrives with the school bag, tears over a task that took ten minutes last month, Sunday-evening dread, and lost interest in things they used to enjoy.
 Behavior: avoiding homework entirely, pushing it to 10 p.m., sudden perfectionism that has them rewriting a finished page, refusing school, and pulling back from friends.
 None of these mean your child is failing to cope, and none of them mean you missed something. They are the observable shape of a load that has grown faster than the routine around it.
-Tiredness deserves particular attention, even when the report card still looks fine. The CDC, summarizing American Academy of Sleep Medicine recommendations in 2020, says children aged 6 to 12 should regularly sleep 9 to 12 hours per 24 hours. Teenagers aged 13 to 18 should sleep 8 to 10 hours. The same CDC page notes that children and adolescents who do not get enough sleep are more likely to have attention and behavior problems and poorer academic performance. Dewald and colleagues found in 2010 that daytime sleepiness had the strongest relation to school performance in children and adolescents, ahead of both sleep quality and sleep duration.
+Tiredness deserves particular attention, even when the report card still looks fine. The CDC, summarizing American Academy of Sleep Medicine recommendations in 2020, says 9 to 12 hours per 24 hours. Teenagers aged 13 to 18 should sleep 8 to 10 hours. The same CDC page notes that children and adolescents who do not get enough sleep are more likely to have attention and behavior problems and poorer academic performance. Dewald and colleagues found in 2010 that daytime sleepiness had the strongest relation to school performance in children and adolescents, ahead of both sleep quality and sleep duration.
 Grades are a lagging indicator. Yawning at 4 p.m. is a live one.
 How to deal with school pressure by fixing the basics first
 Most advice on this topic goes straight to mindset and skips four unglamorous levers: sleep, movement, evening screens, and caffeine. They move more than any conversation will. Start with the body clock.
 The CDC sleep ranges above give you a target to work backward from. A ten-year-old who has to be up at 7 needs to be genuinely asleep by around 9, which means the wind-down starts closer to 8:15. Consistency matters more than the exact hour, including on weekends, because a two-hour Saturday lie-in resets the whole clock by Sunday night.
-For ages 6 to 10, a fixed order of events often does more than a fixed time: bath, then reading in dimmer light, then lights out, with you steering it. Working backwards from the wake-up time is how most of a school schedule gets built.
+For ages 6 to 10, a fixed order of events often does more than a fixed time: bath, then reading in dimmer light, then lights out, with you steering it. Working backwards from the wake-up time is how most of a gets built.
 For ages 11 to 15, the same routine works better when your child helps set it. Agreeing on a phone charging spot outside the bedroom tends to hold longer than announcing one.
-The American Academy of Pediatrics recommended in 2016 that children not sleep with devices in their bedrooms, and that families avoid screens for one hour before bedtime. The same 2016 statement notes that media use during academic tasks has negative consequences on learning. Worth knowing before you agree to homework with a phone face-up on the desk.
+The American Academy of Pediatrics recommended in 2016 that children , and that families avoid screens for one hour before bedtime. The same 2016 statement notes that media use during academic tasks has negative consequences on learning. Worth knowing before you agree to homework with a phone face-up on the desk.
 Movement is the lever parents most often skip. The CDC's 2018 physical activity guidance says children and adolescents ages 6 through 17 should do 60 minutes or more of moderate-to-vigorous activity daily, which supports brain health alongside fitness.
 An hour sounds like a lot until you count the bike ride to school, walking the dog, and whatever happens at recess. Naming the specific thing (dance, soccer practice, the scooter) works better than telling a child to exercise.
 Caffeine belongs in this list because it has quietly become a middle-school issue. The FDA noted in 2018 that caffeine can make it hard to fall asleep and can shorten deep sleep. The agency cites 400 mg per day as an amount not generally associated with dangerous negative effects in healthy adults, a figure that says nothing useful about a thirteen-year-old.
 Lunsford-Avery and colleagues found in 2022 that higher total caffeine intake in adolescents was associated with longer time to fall asleep and reduced total sleep time. Afternoon and evening drinking drove the effect.  A last-caffeine-time agreed with your teenager, rather than a ban, is the version that survives contact with a Friday.
 Study methods that give back more than the hours you put in
 Some ways of studying return far more learning per minute than others, and the two that win are not the two most children use.
-Dunlosky and colleagues reviewed ten common study techniques in 2013. They gave practice testing and distributed practice the highest utility ratings for improving student learning, while popular strategies such as highlighting and rereading did not show much promise. Cepeda and colleagues reviewed 317 experiments in 2006 and found that spreading practice across time improves later retention compared with cramming it into one block.
+Dunlosky and colleagues reviewed ten common study techniques in 2013. They gave the highest utility ratings for improving student learning, while popular strategies such as highlighting and rereading did not show much promise. Cepeda and colleagues reviewed 317 experiments in 2006 and found that spreading practice across time improves later retention compared with cramming it into one block.
 Retrieval practice means pulling the answer out of your head without looking. For an 8 to 11-year-old, that looks like you reading the spelling list aloud while they write, five minutes at breakfast, three days running. Simple index cards work well at this age because making them is part of the learning.
 For a 12 to 15-year-old, retrieval practice means working problems with the textbook shut and the worked example turned face-down, or answering past-paper questions cold before checking anything. Spacing means four twenty-minute sessions across the week instead of eighty minutes on Thursday night.
 Your job here is smaller than it feels. Help set up the cards or the calendar, then step back and let them run it badly for a while. A child who is quizzed by a hovering parent is being tested by you, and the whole benefit depends on them doing the retrieving.
 If-then plans that turn intentions into finished homework
 Time management gets talked about as a personality trait a child either has or lacks, which is both wrong and unhelpful. Liu and colleagues reported in 2026 that time management has a significant moderate positive correlation with students' learning outcomes (r = 0.250). They describe it as a self-regulatory strategy students can actively develop.
 It is learnable, and this is the age to learn it.
-The version with the best evidence behind it is almost embarrassingly simple. Wang and colleagues found in 2021 that mental contrasting with implementation intentions improved goal attainment with a small to medium effect size (g = 0.336). An implementation intention is a sentence with a trigger and an action welded together.
+The version with the best evidence behind it is almost embarrassingly simple. Wang and colleagues found in 2021 that mental contrasting with implementation intentions with a small to medium effect size (g = 0.336). An implementation intention is a sentence with a trigger and an action welded together.
 Written out for a real school week, they sound like this:
 If it is 4:00 p.m., then I have a snack and start math for 20 minutes.
 If I have been stuck on a question for more than five minutes, then I circle it and move on.
@@ -72,7 +62,7 @@ Write them with your child, in their words, and let them veto the ones they know
 For younger children, one after-school rhythm beats a written plan: snack, twenty minutes of work, then free time. For older ones, a weekly plan that schedules rest and something they actually enjoy alongside the work is the one they keep using in week three.
 A pressure first-aid kit for the ten minutes before a test
 Everything above is preventive. Sometimes your child is sitting at a desk with a knot in their stomach and a test in eight minutes, and they need something that works right now.
-Ten minutes of writing before a big test, for ages 11 and up. Your child writes down whatever they are worried about, honestly and privately, then folds the paper and puts it away unread. Ramirez and Beilock found in 2011 that a brief expressive writing assignment immediately before a high-stakes test significantly improved students' exam scores. Getting the worry onto paper frees up the working memory the test needs.
+Ten minutes of writing before a big test, for ages 11 and up. Your child writes down whatever they are worried about, honestly and privately, then folds the paper and puts it away unread. Ramirez and Beilock found in 2011 that a brief expressive writing assignment significantly improved students' exam scores. Getting the worry onto paper frees up the working memory the test needs.
 Paced breathing, any age. Breathe in slowly for a count of five, out for a count of five, for two or three minutes. Leyro and colleagues reported in 2021 that interventions with a respiratory component produced moderate to large reductions in anxiety symptoms compared with controls. Younger children copy this best if you do it with them rather than instruct them.
 Squeeze and release, at a desk or in bed. Clench both fists hard for five seconds, then let go completely and notice the difference. Repeat with shoulders up by the ears, then jaw. Harvard Health Publishing described deep breathing and progressive muscle relaxation in 2014 as simple techniques that activate the body's relaxation response.
 Brain breaks during homework. After 20 to 25 minutes of focused work, 3 to 10 minutes of standing, stretching, or walking to the kitchen. Albulescu and colleagues concluded in 2022 that micro-breaks have statistically significant but small effects on boosting vigor and reducing fatigue.
@@ -81,16 +71,16 @@ One more thing worth telling an older child directly: the racing heart before an
 The pressure that follows your child home from school
 School used to end at the school gate. Now the group chat picks up where the classroom left off, and it tends to light up right around the time your child should be winding down. A message about who said what at lunch lands at 10:40 p.m., and the whole day restarts in your child's head.
 The AAP guidance holds here too: no devices sleeping in bedrooms, and no screens for the hour before bed. Both land better as a household rule than a rule about your child, so the adults' phones charge in the kitchen as well. Agreeing on which messages can wait until morning is the part that takes a few weeks to settle.
-There is a second, quieter pressure in the evening, and it belongs to you. Your child now walks home alone, or stays late for practice, and you spend twenty minutes not quite worrying. A latchkey kid stretching that twenty minutes into two hours turns it into a daily arrangement rather than an occasional one.
+There is a second, quieter pressure in the evening, and it belongs to you. Your child now walks home alone, or stays late for practice, and you spend twenty minutes not quite worrying. A stretching that twenty minutes into two hours turns it into a daily arrangement rather than an occasional one.
 Most parents handle that by texting, and the texting is what your child experiences as pressure on top of everything else.
-Some families settle it by agreeing on location sharing for the walk and then leaving it alone entirely. The walk gets harder to leave alone once the clocks change, and darker evenings walking home are worth planning for separately.
+Some families settle it by agreeing on location sharing for the walk and then leaving it alone entirely. The walk gets harder to leave alone once the clocks change, and are worth planning for separately.
 Your child agrees to it, sees exactly what you see, and can pause it whenever.
-With HeyPolo, real-time location sharing can be set to a time window such as the school run, and it can show a general area rather than an exact address. It switches off on its own when the window ends.
+With HeyPolo, can be set to a time window such as the school run, and it can show a general area rather than an exact address. It switches off on its own when the window ends.
 Checking in and checking up look identical on a screen and feel nothing alike to a fourteen-year-old. The difference is whether they agreed to it and can stop it.
 What to expect at 6 to 10 versus 11 to 15
 Ages 6 to 10
-You carry the planning at this age, and that is appropriate rather than overprotective. Much of it is the same groundwork that goes into preparing kids for school before the first term starts.
-A predictable after-school order (snack, short work block, outside time, bath, story) does more for a seven-year-old than any conversation about managing stress, and it holds up whether you are home at 3:30 or not. A visual schedule on the fridge with pictures beats a list they have to read.
+You carry the planning at this age, and that is appropriate rather than overprotective. Much of it is the same groundwork that goes into before the first term starts.
+(snack, short work block, outside time, bath, story) does more for a seven-year-old than any conversation about managing stress, and it holds up whether you are home at 3:30 or not. A visual schedule on the fridge with pictures beats a list they have to read.
 A predictable after-school order (snack, short work block, outside time, bath, story) does more for a seven-year-old than any conversation about managing stress. A visual schedule on the fridge with pictures beats a list they have to read.
 Bedtimes are yours to set, device rules are yours to set, and breathing exercises work best when you do them alongside your child rather than assigning them. Expect to own roughly ninety percent of the structure and to keep re-owning it after every school holiday.
 Ages 11 to 15
@@ -99,12 +89,12 @@ Location sharing sits in the same category. Asking your child which situations t
 Neurodivergent children and those with learning differences often need more of everything structural: more visual support, shorter work blocks, more explicit if-then plans. If you keep noticing the same pattern across months and settings, a conversation with the school about an assessment is reasonable. Watching a pattern is useful. Guessing a diagnosis is not.
 Common responses that make school pressure worse
 Every parent reaches for at least one of these, usually at 9 p.m. on a bad night.
-Letting a child stay home on high-anxiety days. Understandable, and it works beautifully for about a week. Each skipped day makes the building slightly harder to walk into. Where the refusal traces back to a classmate or a fear of presenting, school anxiety needs its own graded return plan.
+Letting a child stay home on high-anxiety days. Understandable, and it works beautifully for about a week. Each skipped day makes the building slightly harder to walk into. Where the refusal traces back to a classmate or a fear of presenting, needs its own graded return plan.
 A partial day with a plan (arrive late, go to two classes, leave after lunch) keeps the door open in a way a full absence does not.
 Praising only the score. When "well done" only ever follows an A, your child learns that your approval is scored out of a hundred. Praising the specific thing they did (starting three days early, sticking with the problem set) points at something they control.
 Late-night cramming with a caffeinated drink. Two of the least effective study strategies stacked on top of impaired sleep. Four short sessions earlier in the week produce better recall and a calmer Thursday.
-Turning every check-in into a performance review. "Did you finish everything?" and "What did you get?" asked in the doorway teach a child that home is where the assessment continues. Asking who they sat with at lunch gets you a real conversation and, eventually, the homework information anyway. Changing what to ask after school does more here than changing when you ask.
-Moving away from pressure and toward skills is well supported. Von der Embse and colleagues found in 2018 that interventions for test anxiety beat controls, cutting test anxiety at g = −0.76 and lifting academic performance at g = 0.37. Support was strongest for behavior therapy, with promising results for cognitive-behavioral and study-skills approaches. Regehr and colleagues reported in 2013 that cognitive, behavioral, and mindfulness interventions were associated with decreased anxiety and lower cortisol in students.
+Turning every check-in into a performance review. "Did you finish everything?" and "What did you get?" asked in the doorway teach a child that home is where the assessment continues. Asking who they sat with at lunch gets you a real conversation and, eventually, the homework information anyway. Changing does more here than changing when you ask.
+Moving away from pressure and toward skills is well supported. Von der Embse and colleagues found in 2018 that beat controls, cutting test anxiety at g = −0.76 and lifting academic performance at g = 0.37. Support was strongest for behavior therapy, with promising results for cognitive-behavioral and study-skills approaches. Regehr and colleagues reported in 2013 that cognitive, behavioral, and mindfulness interventions were associated with decreased anxiety and lower cortisol in students.
 How to talk about school pressure without it becoming an interrogation
 The opening line matters more than the whole rest of the conversation. Starting with an observation rather than a question gives your child somewhere to stand.
 "I've noticed you seem wiped after school. Can we look at your evenings together?"
@@ -127,7 +117,6 @@ The load is shared or it is not managed
 A child between 6 and 15 cannot regulate a workload, a body clock, and a group chat alone. The ones who look like they are managing usually have quieter symptoms. The habits above work because they move part of the load off your child and onto the household. You set the wind-down, you both write the if-then plans, and you stop asking about grades in the doorway.
 The same principle covers the walk home. Location sharing tells you your child arrived. It says nothing about whether the test went well, and it will not survive a week if your child did not agree to it. In HeyPolo, sharing is switched on by the person being shared, runs for the window you both agreed, and stops on its own. Arrival alerts tell you they got there. Private mode lets them turn it off.
 HeyPolo gives families consent-based location sharing with time windows, general-area mode, and arrival alerts, so the school run stops being one more thing to worry about.
-Try HeyPolo with your family.
 Frequently asked questions
 How do you know if school stress is normal or something more serious?
 Duration and functioning are the two practical tests. NIMH's 2023 guidance points to two weeks of severe or distressing symptoms as the threshold for seeking professional help. A child who is stressed but still sleeping, eating, seeing friends, and attending school is usually carrying ordinary pressure. A child who has stopped doing those things needs a professional conversation.
@@ -140,53 +129,10 @@ Set up the structure and hand over the running of it. Parents get the best resul
 Is location sharing a reasonable response to worry about the school run?
 It depends entirely on consent. Sharing that a child agrees to, can see, and can pause tends to hold over time, while sharing installed without discussion damages trust and usually gets bypassed. Agreeing on a specific window, such as the walk home, keeps it narrow enough to feel reasonable to both people.
 On this page
-Key takeaways
-What school pressure actually is at this age
-Signs your child is carrying more than they can hold
-How to deal with school pressure by fixing the basics first
-Study methods that give back more than the hours you put in
-If-then plans that turn intentions into finished homework
-A pressure first-aid kit for the ten minutes before a test
-The pressure that follows your child home from school
-What to expect at 6 to 10 versus 11 to 15
-Ages 6 to 10
-Ages 11 to 15
-Common responses that make school pressure worse
-How to talk about school pressure without it becoming an interrogation
-When to bring in a professional
-The load is shared or it is not managed
-Frequently asked questions
-How do you know if school stress is normal or something more serious?
-How much sleep does a child aged 6 to 15 need on a school night?
-What is the fastest way for a child to calm down before a test?
-How to deal with school pressure without taking over a teenager's schoolwork?
-Is location sharing a reasonable response to worry about the school run?
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

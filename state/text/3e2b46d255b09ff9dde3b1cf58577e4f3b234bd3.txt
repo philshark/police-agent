@@ -1,19 +1,9 @@
 Location Not Working? How To Fix It on iPhone, Android or Windows | HeyPolo
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 App tips & guides
 Fix Location Permissions Fast on Any Device: 5 Quick Checks
 A location pin from six hours ago looks identical to one from thirty seconds ago, which is why most "why isn't this working" problems get misdiagnosed. The usual fixes are small, one permission toggle, a VPN overriding GPS, or Low Power Mode pausing updates. Full walkthrough for iPhone, Android and Windows.
@@ -42,14 +32,14 @@ You'll see three or four options depending on the app: Never, Ask Next Time, W
 If you're troubleshooting Find My or a family sharing app, check which device is set as the "From" option in Share My Location. Location sharing apps often break because the wrong device (an old iPad in a drawer, for example) is set as the reporting source.
 Test the fix in order: toggle the permission, fully close and reopen the app, restart the phone, then test outdoors.
 If none of that works, go to Settings → General → Transfer or Reset iPhone → Reset → Reset Location & Privacy.
-That last option resets every location and privacy permission to Apple's defaults without erasing photos, messages, or app data. Every app will need to ask for permission again the next time it opens. That's the goal, a clean slate instead of hunting for the one setting that's actually wrong.
+That last option  without erasing photos, messages, or app data. Every app will need to ask for permission again the next time it opens. That's the goal, a clean slate instead of hunting for the one setting that's actually wrong.
 It's the digital equivalent of clearing a jammed lock rather than replacing the whole door.
 How Do You Fix Location Permissions On Android?
 Android's location settings live in more places than iOS, which is why this is usually the platform with the most confusion. Start at Settings → Location and confirm "Use location" (sometimes labeled "Access to my location") is switched on.
 Everything else depends on that one switch.
 Next, dig into the individual app. Go to Settings → Apps → [app name] → Permissions → Location, and set it to Allowed only while in use or Allowed all the time, depending on whether the app needs to track in the background.
 A family safety app or delivery tracker typically needs the "all the time" setting to send alerts when the screen is off.
-Android also separates Approximate location, which covers roughly 3 square kilometers, from Precise, which usually narrows to around 50 meters. If an app shows you in the wrong neighborhood entirely, check whether it's stuck on Approximate when it needs Precise.
+Android also separates Approximate location, which covers  , from Precise, which usually narrows to around 50 meters. If an app shows you in the wrong neighborhood entirely, check whether it's stuck on Approximate when it needs Precise.
 Turn on Location Accuracy in your location settings menu.
 This lets the phone supplement GPS with Wi-Fi and mobile network data, which fixes a lot of "spinning wheel, no signal" situations, especially indoors.
 If an app never asked for permission properly the first time, you can often force the prompt again by using a feature that requires location, like refreshing a map or triggering an SOS alert. Android's runtime permission model is built to reissue that dialog when a location-dependent action actually happens.
@@ -59,13 +49,13 @@ Windows location problems are usually simpler than they look. Nine times out of 
 Go to Settings → Privacy & security → Location and confirm the toggle at the top is on.
 Scroll down to see which apps have location access, and flip on "Let apps access your location" for anything that needs it, including your browser.
 Check whether "Notify when apps request location" is enabled, so you can catch new requests instead of missing them silently.
-If your laptop keeps reporting an old address, such as a previous home or office, look for the Default location setting under the same menu and clear it. Windows can cache a manual location and keep using it instead of pulling live GPS or Wi-Fi data, which is the most common cause of a Windows device showing a stale address.
+If your laptop keeps reporting an old address, such as a previous home or office, look for the Default location setting under the same menu and clear it. Windows can   instead of pulling live GPS or Wi-Fi data, which is the most common cause of a Windows device showing a stale address.
 Restart any affected app after making changes, and give it a minute to pull a fresh position.
 Is The Problem Your Phone Or The Other Person's?
 Before you touch a single setting, look at the timestamp on the location pin.
 A pin that says "5 hours ago" is a completely different problem than one that says "just now" but sits in the wrong place. Stale data almost always traces back to the other device, not yours.
 Common culprits on the other person's end: Low Power Mode (which throttles background location updates on iOS), no cellular or Wi-Fi connection, Share My Location switched off, or the wrong device selected as the reporting source.
-If your teenager's phone shows an old location, don't reset your own settings first. Parents of teens run into this constantly, and the fix is usually on their end: ask them to check theirs.
+If your teenager's phone shows an old location, don't reset your own settings first.  run into this constantly, and the fix is usually on their end: ask them to check theirs.
 Have the other person open Settings and confirm Location Services (or Location) is on.
 Ask them to disable Low Power Mode or any battery saver mode, since these commonly pause background location updates.
 Have them restart the device and confirm they're signed in to the correct account.
@@ -86,8 +76,8 @@ Set most apps to While Using the App. Save Always for the handful that genuinely
 Turn on Precise Location only for apps where exact positioning actually matters, like navigation or geofenced alerts. Leaving it off for everything else saves battery and limits how much detail apps collect.
 Keep your OS and apps updated. Old software is a common, boring cause of permission bugs.
 Make sure background cellular data is allowed for apps that need to report location without Wi-Fi.
-Walk family members through sharing their location between iPhone and Android once, together, so nobody's stuck guessing later.
-If an app offers "Send Last Known Location" or arrival alerts, turn those on, especially if your kids get themselves home from school. They give you a usable data point even when live tracking briefly drops.
+Walk family members through sharing their location once, together, so nobody's stuck guessing later.
+If an app offers "Send Last Known Location" or arrival alerts, turn those on, especially if your kids . They give you a usable data point even when live tracking briefly drops.
 Which Apps Are Quietly Using Your Location In The Background?
 Most people have no idea how many apps are pulling their location while the screen is off. The check itself takes about a minute.
 On iPhone, go to Settings → Privacy & Security → Location Services and look at the icon next to each app.
@@ -133,50 +123,15 @@ Most "my family location app stopped working" situations trace back to Low Power
 It's why HeyPolo's permission prompts are built to be explicit, and arrival alerts depend on getting Always access right the first time, so families aren't left guessing.
 Want Location Sharing That Just Works For Your Family?
 HeyPolo is built around the problem covered above, location sharing that actually stays reliable instead of freezing, lagging, or quietly losing background access after an update.
-Real-time location sharing, arrival alerts when someone reaches home or school, low battery notifications, and an SOS feature that sends your precise location in an emergency all depend on one thing working correctly: permissions set up right from the start.
+, arrival alerts when someone reaches home or school, low battery notifications, and an SOS feature that sends your precise location all depend on one thing working correctly: permissions set up right from the start.
 HeyPolo asks for Always location access and Precise Location, the same settings covered in the iOS and Android sections above, so arrival alerts and SOS signals trigger accurately without you having to babysit the app.
 Unlike many location sharing apps, HeyPolo doesn't sell or share location data with advertisers, and one subscription covers your whole family group on both iOS and Android.
 If today's troubleshooting reminded you how fragile ad hoc location sharing can be, visit the HeyPolo landing page and see whether a dedicated, privacy-first setup fits your family better.
 On this page
-Quick Checklist: The Fastest Fixes To Try Right Now
-How Do You Fix Location Permissions On An iPhone?
-How Do You Fix Location Permissions On Android?
-Why Won't Location Work On Windows?
-Is The Problem Your Phone Or The Other Person's?
-When Should You Reset Location Settings Entirely?
-Preventive Settings That Stop This From Happening Again
-Which Apps Are Quietly Using Your Location In The Background?
-Could A VPN Or Spoofing App Be Breaking Your Location?
-How Do You Control Location Access In Your Browser?
-What Do The Location Icons In Your Status Bar Actually Mean?
-What Actually Matters Most When You're Troubleshooting Location
-Want Location Sharing That Just Works For Your Family?
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy

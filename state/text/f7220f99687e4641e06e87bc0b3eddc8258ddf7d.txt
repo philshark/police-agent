@@ -1,26 +1,16 @@
 Want To Remove Life360? Follow These Steps
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
 Safety Features
-Real-time location sharing Family Groups Location history Location-Based Alerts SOS Alerts Car Crash Detection Severe Weather Alerts All Features
 Who It's For
-Parents with teenagers Families Carers of ageing parents Friend groups
-Blog
-Pricing
-Log in
-Blog/
+/
 App tips & guides
 Want To Remove Life360? Follow These Steps
 Deleting your account is just the last step. To actually clear your data from Life360, you'll need to back up what you need, cut off data collection, unlink your devices, cancel your subscription, and file a deletion request first.
 Phil
 5 min read•August 16, 2026
 Life360 is a popular location-sharing app used by families and friends to stay connected.
-However, growing concerns about how location data may be collected, shared, and monetized have led some users to explore more privacy-focused alternatives.
+However, growing concerns about how location data may be collected, shared, and monetized have led some users to .
 For people who consider precise location history especially sensitive, simply trusting that an app is no longer being used may not provide enough reassurance
 Deleting your Life360 Account
 You can delete your Life360 account, but account deletion should be only one part of the process. If you want as much of your personal information as possible removed from Life360’s systems, you'll first migrate anything you need, stop further data collection, disconnect linked services and devices, cancel your paid subscription, and submit a formal data-deletion request.
@@ -61,7 +51,7 @@ Do not assume that deleting the Circle owner’s account deletes the other membe
 3. Download and migrate your personal data before deletion
 In the Life360 app, go to:
 Settings → Privacy → Additional Data Rights → Request Your Personal Information
-Life360 warns that its ordinary in-app disclosure may not include all technical information. Therefore, also email privacy@life360.com and request a complete access and portability package covering:
+Life360 warns that its ordinary in-app disclosure may not include all technical information. Therefore, also email and request a complete access and portability package covering:
 Raw location data
 Dwell or summarized location data
 Driving events and driving reports
@@ -160,7 +150,7 @@ Subscription expiration date
 Screenshots showing auto-renewal is disabled
 Deleting the app, leaving a Circle, or deleting the account does not by itself cancel the paid membership. Life360 also says that subscription cancellation normally takes effect at the next renewal date and does not automatically delete the account.
 10. Submit a formal deletion and restriction request
-Send the request through the in-app Additional Data Rights section and by email to privacy@life360.com. Using both methods creates a better record.
+Send the request through the in-app Additional Data Rights section and by email to . Using both methods creates a better record.
 Use wording such as:
 Subject: Access, portability, objection, restriction, and deletion request
 I am requesting the deletion of my Life360 account and all personal data associated with it. This request applies to my account identifiers, location history, raw location data, dwell data, driving events, movement data, device information, advertising identifiers, inferred information, saved Places, Circle information, communications, support records, marketing profiles, and information held by processors or service providers.
@@ -242,13 +232,12 @@ If the response is incomplete:
 Reply and identify each unanswered item.
 State that you are appealing the decision.
 If GDPR applies, complain to your local data-protection authority.
-If a U.S. state privacy law applies, use Life360’s appeal process and then contact your state attorney general if necessary. Life360 specifically directs denied U.S. requests to privacy@life360.com for appeal.
+If a U.S. state privacy law applies, use Life360’s appeal process and then contact your state attorney general if necessary. Life360 specifically directs denied U.S. requests to for appeal.
 Use A Better, Privacy-First, Location-Sharing app
 Moving away from Life360 involves more than uninstalling the app or pressing Delete Account.
 If any records must remain for legitimate legal purposes, ask that they be minimized, restricted from unrelated use, and automatically deleted once the applicable retention period expires.
 At HeyPolo, we believe location sharing should not require families to sacrifice control over their personal information. Privacy and security should be built into a service from the beginning, not treated as settings users must hunt down after their data has already been collected.
 Whatever alternative you choose, review its privacy practices carefully and select a service that collects only what it needs, clearly explains how information is used, and makes it easy to migrate or delete your data when you decide to leave.
-Try HeyPolo with a 30-day, Money Back Gurantee
 FAQ
 Does deleting the Life360 app delete my account?
 No. Deleting or uninstalling the app from your phone does not necessarily delete your Life360 account or the information already associated with it. To permanently close the account, use Life360’s account-deletion process and complete any required verification steps.
@@ -268,60 +257,10 @@ Where applicable, ask Life360 to notify its processors and other relevant recipi
 Does deleting one Life360 account delete the entire Circle?
 No. Each person’s account and personal data may need to be handled separately. Every Circle member who wants to leave should migrate the information they need, cancel any individual subscription, and submit their own deletion request. A parent or guardian may need to manage requests involving a child’s account.
 On this page
-Deleting your Life360 Account
-TL;DR, Delete Your Account Like this:
-Important To Know Beforehand:
-Step-by-step Life360 migration and deletion checklist
-1. Identify everything you need to migrate
-2. Migrate your family to the replacement service
-3. Download and migrate your personal data before deletion
-4. Immediately stop additional collection
-5. Opt out before deleting the account
-6. Disconnect third-party accounts
-7. Transfer, reset, or deactivate physical devices
-8. Delete unnecessary information manually
-9. Cancel the paid subscription at the billing source
-10. Submit a formal deletion and restriction request
-11. Delete the Life360 account
-12. Revoke remaining access and delete the app
-13. Verify the deletion
-14. [IMPORTANT] Follow up on retained data
-15. Escalate if necessary
-Use A Better, Privacy-First, Location-Sharing app
-FAQ
-Does deleting the Life360 app delete my account?
-Does deleting my Life360 account cancel my paid subscription?
-Should I export my Life360 data before deleting my account?
-Can Life360 retain some data after I delete my account?
-Should I turn off location access before deleting my account?
-What happens to data shared with Life360’s partners?
-Does deleting one Life360 account delete the entire Circle?
 Popular articles
 FEATURES
-Real-time location sharing
-Group location sharing
-Location sharing history
-Location-Based Alerts
-SOS Alerts
-Car Crash Detection
-Severe Weather Alerts
 FOR WHO
-Parents of teens
-Families
-Carers of ageing parents
-Friend groups
 RESOURCES
-Blog
-Help center
 COMPANY
-Pricing
-Contact us
-About us
-Press
 SOCIAL
-Facebook
-Instagram
-LinkedIn
-TikTok
 Copyright © 2026 HeyPolo. All Rights Reserved
-Terms & ConditionsPrivacy Policy
