@@ -151,6 +151,8 @@ How is HeyPolo different from a severe weather app I already have?
 Most severe weather apps are built to tell you about your own location. HeyPolo tells your group about each other's. If your mother is under a tornado warning three states away, she probably knows it already. You might not, until HeyPolo tells you.
 There's more in the app than weather alerts
 Every feature is included in the same plan, for everyone in your group.
+Who HeyPolo is for
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

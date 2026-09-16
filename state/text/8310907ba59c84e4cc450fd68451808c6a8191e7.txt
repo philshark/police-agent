@@ -86,6 +86,8 @@ Can several relatives be in the group?
 Yes, with no cap and no per-person fee. Siblings, an in-law, or a neighbour with a key can all be included for one subscription, so the load is shared.
 Is the location data sold or shared?
 No. It isn't sold, monetized, or shared with advertisers or data brokers, and it's encrypted in transit and at rest. HeyPolo comes from the team behind Surfshark, and the privacy policy is written in plain language.
+Explore HeyPolo features
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

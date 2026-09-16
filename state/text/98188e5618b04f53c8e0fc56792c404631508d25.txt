@@ -86,6 +86,8 @@ Can I set it up so sharing turns off automatically?
 Yes, that's the point of timed sharing. Set a window when you start, and sharing ends on its own so you don't have to remember to switch it off.
 Do I need my own account?
 Yes, HeyPolo goes on your own phone and you join the group with a code. Your settings are yours, not something someone else configures for you.
+Explore HeyPolo features
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

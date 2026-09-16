@@ -101,6 +101,8 @@ Is my teen's driving data sold to insurers or advertisers?
 No. Location and driving data isn't sold, monetized, or shared with advertisers or data brokers, and it's encrypted in transit and at rest.
 Is there an extra charge for driving features?
 No. There are no tiers: speed monitoring, arrival alerts and SOS are all in the single plan, and everyone you invite joins free.
+Explore HeyPolo features
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

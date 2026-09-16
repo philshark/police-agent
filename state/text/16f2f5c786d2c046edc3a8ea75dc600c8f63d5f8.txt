@@ -86,6 +86,8 @@ Is our location data sold?
 No. It isn't sold, monetized, or shared with advertisers or data brokers, and it's encrypted in transit and at rest. The privacy policy is written in plain language, at roughly an eighth-grade reading level.
 Can we keep separate groups for family and friends?
 Yes, and each group carries its own level of detail. A partner can see a street while a group chat for a weekend away sees a general area.
+Explore HeyPolo features
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

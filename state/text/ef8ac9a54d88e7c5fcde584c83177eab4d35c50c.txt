@@ -100,6 +100,7 @@ Only if you choose that. HeyPolo lets you set exact, general area or private per
 How long does switching take?
 Usually under ten minutes: download HeyPolo, create a group, invite your people, set precision, then cancel GeoZilla through your app store, not by deleting the app.
 More features
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

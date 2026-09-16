@@ -108,6 +108,8 @@ Do my friends need to be saved in my contacts?
 No. Create a group, copy the invite code at the bottom of your screen, then send that code however you normally message people. Whoever joins picks their own sharing level before anything becomes visible.
 Is location sharing with friends private?
 It can be, when the app puts sharers in charge. Choose general area or exact position, choose who sees each level, and choose the hours. Where you go travels to your chosen contacts, encrypted, and reaches nobody else.
+Explore HeyPolo features
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES

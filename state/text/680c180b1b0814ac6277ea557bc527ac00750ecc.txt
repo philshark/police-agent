@@ -137,6 +137,8 @@ Put a whole circle on one map when you're coordinating more than one person.
 Get told when someone reaches home or school instead of watching the map.
 The safety layer that sits on top of live sharing when something goes wrong.
 Look back at the last 30 days when live position isn't the question.
+Who HeyPolo is for
+How HeyPolo compares
 FEATURES
 FOR WHO
 RESOURCES
