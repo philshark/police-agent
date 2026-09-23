@@ -12,6 +12,10 @@ Jake13 drives • 2 hours • 52.5 mi
 9.4Safe driving
 +2.4
 Speeding 0
+Distracted 1
+Harsh braking 1
+Rapid acceleration 1
+Harsh cornering 0
 Trusted by
 * billed annually, VAT may apply. Renews automatically unless cancelled. HeyPolo and apply.
 Help new drivers become safer drivers
