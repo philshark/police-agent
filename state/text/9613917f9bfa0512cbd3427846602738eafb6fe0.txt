@@ -1,23 +1,23 @@
-Tap & Slide SOS Alerts That Reach The Right People | HeyPolo
+SOS App for Families | Live Location in One Tap | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-Emergency alert app with one tap SOS for families
-Tap SOS, slide to confirm, and your group knows where you are.
-Slide to send an alert with your live location
-Everyone in your group is notified together
+The SOS app that sends your family your exact location in one tap
+Tap SOS, slide to confirm, and your group knows exactly where you are.
+Sends your live location the moment you slide to confirm
+Notifies everyone in your group at the same time
 Works on iPhone and Android
-30 day money back guarantee
+30-day money-back guarantee
 🆘Mia sent an SOS, live location attachedJust now
 Families already using HeyPolo
 One subscription covers your whole family, and everyone you invite joins free. Built by the team behind Surfshark, with a 30 day money back guarantee if it isn't for you.
-From $1.99/mo, one plan for your whole family.
+From $48/year, one plan for your whole family.
 4.9 ★on App Store
 4.9 ★on Google Play
 90.7%recommended on Mumsnet
 What are SOS alerts?
-SOS alerts let anyone in a HeyPolo group send an emergency alert with a single tap and then a confirmation slide, sharing their live location with the whole group at once. It suits moments where a bit of panic sets in and you want someone to know where you are.
+An SOS alert app in one line: anyone in your HeyPolo group can send an emergency alert with a single tap and a confirmation slide, and their live location goes to the whole group at once. It's built for the moment a bit of panic sets in and you want someone to know where you are, and it works even if you're usually only sharing a general area, since an SOS always sends your exact location.
 Whoever sends an alert can see exactly who received it. No hidden recipients, nobody quietly added.
 Update frequency
 5 sec live
@@ -33,13 +33,13 @@ How one tap reaches your people
 Two sides of the same minute: the phone sending the alert, and what everyone else in the group sees a second later. Step through it at your own pace.
 Sending
 Receiving
-1Tap SOS on the map screenThe button lives one thumb away, so there's no hunting through menus or contacts when you want someone with you.SOS opened
+1Tap SOS on the map screenThe emergency button lives one thumb away, so there's no hunting through menus or contacts when you want someone with you.SOS opened
 2Slide to send, or close itThe tap only opens this screen. Nothing goes anywhere until you slide the SOS control across, so a knock in your pocket or a bag never sends an alert.Slide to call emergency
 3You can see who it goes toBefore you slide, the screen shows the people who'll get it and how many there are. You can add more from the same place.Sent to 20 people
 4Everyone you invited is told at onceYour group gets the alert in the same moment, on the lock screen, so nobody hears it second-hand.Emergency alert · now
 5Then they can actYour live location travels with the alert and keeps refreshing. Whoever's closest can drive over, someone else can call you, and if the map shows you somewhere that worries them, they can call emergency services and tell them exactly where to go.Live location attached
 A bumped button doesn't send anything
-The usual worry about an SOS button isn't whether it works, it's setting one off by accident. HeyPolo asks for a second, deliberate action before an alert leaves your phone.
+The usual worry about a panic alarm isn't whether it works, it's setting one off by accident. HeyPolo asks for a second, deliberate action before an alert leaves your phone.
 A slide, not a tapTapping SOS opens the screen. Only sliding the control sends the alert, so pockets and bags can't do it for you.
 You know who's getting itThe confirmation screen names your recipients before you send, and shows the full list afterwards.
 Worth practising onceRun through it with your group so the first real one feels familiar rather than dramatic.
@@ -63,7 +63,7 @@ Parking three blocks away at 11:40 pm is routine, and a short walk is easier wit
 Anyone she chose sees her live position immediately
 Time-limited sharing can cover just her walk, ending on its own afterward
 Comparing a consent-first emergency notification app
-Here's where HeyPolo stands, plus what's worth asking about any alternative you're weighing.
+Here's where HeyPolo stands against other location-sharing and emergency-alert apps, on the numbers that actually matter: update speed, battery drain, and who keeps control of sharing.
 AttributeHeyPoloLife360Find MyGoogle Maps
 Update interval5 sec active / 30 sec background~30 sec1–5 min1–5 min
 Location accuracy~5 m~5 m~5 m~5 m
@@ -156,22 +156,22 @@ Driving and speed alerts
 30-day money-back guarantee
 Every alert starts with your say-so
 Your location travels from your phone to people you chose, encrypted the whole way there.
-HeyPolo runs on subscriptions, which is why a panic button app can exist here without anybody profiting from where your family goes.
+HeyPolo runs on subscriptions, which is why an SOS app can exist here without anybody profiting from where your family goes.
 It behaves identically on iPhone and Android, so everyone in a group sees the same options and the same alerts.
 You decide who gets alertedGroup membership is yours to set, and nobody joins without an invitation you sent.
 You see who was notifiedSending an emergency alert shows the sender exactly which contacts received it. Nothing happens invisibly.
 Your location is never soldNever to advertisers, insurers, or data brokers. Not now, not ever.
 Sharing stops when you stop itPrivate mode pauses your position any time, and timed sharing ends by itself. Staying in a group never obliges you to be visible.
 Why families choose HeyPolo as their emergency SOS app
-Plenty of apps can push an alert. Fewer treat the person sending it as somebody with a say.
+Plenty of apps can send an alert. A family SOS app also has to work for the person sending it, at every age in the group.
 Control belongs to whoever is sharing
 Each person picks exact position or general area, chooses which groups see what, and pauses whenever they like. An admin cannot quietly widen somebody else's visibility.
 Per-group controls
 One price, however big your family gets
 One person subscribes and everybody invited joins free, across unlimited groups, so cost never discourages you from including somebody who might need help one evening.
-From $1.99/mo
+From $48/year
 Same experience on iPhone and Android
-A dad on Android and a daughter on iPhone see matching options and matching alerts. Nobody gets a lesser version, and nobody sits outside the group because of hardware.
+An SOS app for Android and iPhone alike: a dad on Android and a daughter on iPhone see matching options and matching alerts, so nobody gets a lesser version and nobody sits outside the group because of hardware.
 iOS + Android
 30-day money-back guarantee
 What people say
@@ -184,24 +184,24 @@ DJdr.jofffLithuania
 “I think this app is excellent and really recommend it. It's perfect for a family or a friend group on a trip.”
 YBYeahBunneeIreland
 Care should not feel like surveillance
-30 day money back guarantee
+30-day money-back guarantee
 SOS alerts FAQ
 What does an SOS alert do in HeyPolo?
-Tapping once sends an emergency alert with your live position to everyone in your chosen group. All members are notified together, and your position keeps updating every five seconds while you're sharing. Whoever sent that alert can see which contacts received it, so nothing travels anywhere unseen.
+Tapping once sends an emergency alert with your live position to everyone in your chosen group, even if you're usually sharing only a general area. All members are notified together, and your position keeps updating every five seconds while you're sharing. Whoever sent that alert can see which contacts received it, so nothing travels anywhere unseen.
 How do I send an emergency alert on HeyPolo?
-Tap SOS, then slide the control across to send. The screen shows who the alert will reach before you slide it. Your group receives the notification with your live position within seconds. Practising once with your family helps, especially with a grandparent or a young teen, because a button you've pressed before feels different from one you've only read about.
+Tap SOS, then slide the control across to send. The screen shows who the alert will reach before you slide it. Your group receives the notification with your live position within seconds, and you can cancel an active alert at any time if you sent it by mistake. Practising once with your family helps, especially with a grandparent or a young teen, because a button you've pressed before feels different from one you've only read about.
 What if I tap SOS by accident?
-A tap on its own sends nothing. It opens the emergency screen, and the alert only goes out when you deliberately slide the SOS control across, so a press in a pocket or a bag never reaches anyone. Close the screen and that's the end of it. If a real alert does go out and you're fine, you can tell your group straight away, and everyone who was notified sees that too.
+A tap on its own sends nothing. It opens the emergency screen, and the alert only goes out when you deliberately slide the SOS control across, so a press in a pocket or a bag never reaches anyone. Close the screen and that's the end of it. If a real alert does go out and you're fine, you can cancel it or tell your group straight away, and everyone who was notified sees that too.
 What can my group actually do when they get an alert?
 Whatever fits the moment. They can call you, message the group to work out who's nearest, drive over using your live location, ask a neighbour or a friend closer by to check on you, or call emergency services and pass on exactly where you are. Because everyone is notified together, nobody assumes someone else has it covered.
-Does a panic button app replace calling emergency services?
+Does an SOS app replace calling emergency services?
 No. Please call 911 or your local emergency number when someone needs medical, police, or fire response. HeyPolo reaches your family, not dispatchers. Both matter, and they work well together, since relatives who know your position can meet responders, unlock a door, or drive over.
-Can I use HeyPolo as a safety alarm app for an elderly parent?
-Yes, and older parents tend to accept it because control stays theirs. A single tap notifies every adult child at once, position included. Private mode lets your mother or father share nothing on ordinary afternoons while keeping that emergency button ready. Low battery alerts help too, flagging a phone that's about to go quiet.
+Can I use HeyPolo as a personal alarm app for an elderly parent?
+Yes, and it works the same whether your parent carries an Android phone or an iPhone, which matters since a personal alarm app is only useful if the person can actually manage it. Older parents tend to accept it because control stays theirs. A single tap notifies every adult child at once, position included. Private mode lets your mother or father share nothing on ordinary afternoons while keeping that emergency button ready. Low battery alerts help too, flagging a phone that's about to go quiet.
 Is HeyPolo a family locator app?
 HeyPolo is a location-sharing app, which reads differently in practice. Nobody watches anybody. Each person decides who sees them, at what precision, and for how long, and both sides of any sharing arrangement can see that it's happening. Knowing somebody got home replaces asking, without turning care into oversight.
-What is the best emergency alert app for a whole family?
-Judge candidates on three things: whether the person sharing keeps control, whether every member can raise an alert, and how pricing behaves as relatives join. HeyPolo gives sharing control to whoever is being shared with, opens one tap SOS to everybody invited, and holds one price however many people you add.
+What is the best SOS app for a whole family?
+Judge candidates on three things: whether the person sharing keeps control, whether every member can raise an alert, and how pricing behaves as relatives join. HeyPolo gives sharing control to whoever is being shared with, opens one-tap SOS to everybody invited, and holds one price however many people you add.
 How much battery does it use?
 Running in the background with sharing on, HeyPolo typically uses about as much battery as a messaging app left open, around 4% a day. Position refreshes every 5 seconds while you're watching the map and every 30 seconds when the app is closed, which is the deliberate part: constant polling is what drains most location apps.
 Related features

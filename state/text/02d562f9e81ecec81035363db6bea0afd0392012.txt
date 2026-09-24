@@ -1,21 +1,21 @@
-Location Sharing for Shift Workers and Late Finishes
+Lone Worker Safety App for Shift Workers | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-Location Sharing for Shift Workers and Late Finishes
-When there's no normal time to text 'home safe', let the app do it. Personal use between family and partners, never employer tracking.
+A lone worker safety app for shift workers and late finishes
+HeyPolo is a lone worker safety app that sends the 'home safe' text for you when there's no normal time to type it yourself, built for personal use between family and partners, never employer tracking.
 Arrival alerts are sent the moment you get home or to work
 One-tap SOS for the walk to the car or the bus stop
 Low battery alerts explain a phone that went quiet
-30 day money back guarantee
+30-day money-back guarantee
 🌙Marta got home2:14 AM
-The 'text me when you're home' problem
-Shift hours don't run on a schedule, so there's no reliable moment for a check-in text to land. When one doesn't show up, whoever's waiting doesn't know if it's a late handover, a dead phone, or just a shift running long. And twelve hours in, remembering to type anything is usually the first thing you'll forget.
+The 'let my family know I got home safe' problem
+Search for an app to let your family know you got home and most of them still expect you to remember to open one mid-shift. Shift hours don't run on a schedule, so there's no reliable moment for a check-in text to land. When one doesn't show up, whoever's waiting doesn't know if it's a late handover, a dead phone, or just a shift running long, and twelve hours in, remembering to type anything is usually the first thing you'll forget.
 HeyPolo sends the alert for you. The moment you get home, or reach work, whoever you've shared with just knows. No message required.
-You've probably spent the whole shift signed in, swiped in, tracked by something that doesn't care how you're doing. This is for those people who do, so they can stop watching the clock and go to sleep.
-Why shift workers and their families use it
-It's less about danger and more about removing one small nightly burden.
+You've probably spent the whole shift signed in, swiped in, tracked by something that doesn't care how you're doing. This is for the people who do, so they can stop watching the clock and go to sleep.
+Why shift workers choose a night shift safety app like this
+A night shift safety app doesn't need to do much. It just needs to tell the people waiting up that you're okay, whether that's after a hospital shift at 2am or closing up a bar at 3am. It's less about danger and more about removing one small nightly burden.
 Arrival alerts, no typing
 A quiet notification when you reach home or work. It fires at 6am or 2am the same way, so nobody has to guess when to expect it.
 SOS a thumb away
@@ -27,17 +27,17 @@ HeyPolo is a personal app you set up with the people you live with or love. No w
 A setup that fits an irregular week
 Three things to set once, then it runs in the background:
 1
-Set home and work
-Those two places do most of the work. Whoever's waiting gets a quiet alert when you're in the door or clocked on, so nobody's staring at a chat at 2am wondering.
+Set home and work for automatic arrival notifications
+Those two places do most of the work. Once they're set, HeyPolo notifies whoever's waiting the moment you're in the door or clocked on, working as an automatic arrival notification app so nobody's staring at a chat at 2am wondering.
 2
-Share for the journey only
-Turn it on for the drive or the walk to the bus and give it an end time. It shuts itself off once you're home, so nothing's running while you sleep off a night shift.
+Location sharing for the night shift commute only
+Turn on location sharing for the night shift commute and give it an end time. It shuts itself off once you're home, so nothing's running while you're catching up on sleep.
 3
 Choose who's actually waiting
 A partner, a housemate, a parent in another time zone. One subscription covers all of them, and everyone sees the same thing, so nobody has to be the one who asks.
 Exclusive deal
 One price, however many people are waiting up
-One person subscribes and everyone invited joins free, with no cap on members. A partner, a parent and a housemate can all get the arrival alert without the price changing. Full refund inside 30 days.
+One person subscribes and everyone invited joins free, with no cap on members. A partner, a parent, and a housemate can all get the arrival alert without the price changing. Full refund inside 30 days.
 Invite family and housemates for free
 Unlimited groups, each with its own detail level
 One subscription covers everyone you invite
@@ -72,16 +72,20 @@ One shared map, an arrival alert when you're in, and a low battery warning befor
 Frequently asked questions
 Can my employer use this to track me?
 No. HeyPolo is a personal app: you install it, you choose your group, and there's no employer account, staff roster, or workplace dashboard anywhere in it. Only the people you invite can see anything.
+Is HeyPolo a check-in app for shift workers?
+Yes. HeyPolo works as a check-in app for shift workers whose hours change week to week, sending an arrival alert automatically instead of asking you to remember a text. You still get one-tap SOS and low battery alerts in the same app, so it covers more than the check-in itself.
 Do arrival alerts work in the middle of the night?
 Yes, they're not tied to a schedule. Whoever's in your group gets the notification when you reach home or work, whether that's at 6am or 2am, so nobody has to stay up to confirm it.
 Do I have to share my location for the whole shift?
 No. Most people share for the commute and give it an end time, so it closes itself once they're in. Private mode is always available if you'd rather share nothing at all.
 What does the SOS button do on a late walk home?
 One tap sends your exact location to your group and tells them you need help, so they can ring you or head to you. It's a shortcut to the people who already care, not an emergency dispatch service.
+Is there a safety app for working late alone?
+Yes. HeyPolo works as a safety app for working late alone, whether that's the walk across an empty car park or the wait at a night stop. Turn on location sharing for that stretch, and the SOS button is a thumb away if you need your group to call you.
 How do low battery alerts help?
 They warn your group before your phone dies, so a pin that stopped moving has an obvious explanation. That's usually the difference between a shrug and a sleepless hour.
 Does everyone waiting up have to pay?
-No. One subscription covers everyone you invite, with no per-person fee and no cap on group size, so a partner, a parent and a housemate can all be included.
+No. One subscription covers everyone you invite, with no per-person fee and no cap on group size, so a partner, a parent, and a housemate can all be included.
 Will it run down my battery on a long shift?
 Updates only go out while you're sharing, and most people share for the commute rather than the whole shift, which keeps daily use modest.
 Is my location data sold?

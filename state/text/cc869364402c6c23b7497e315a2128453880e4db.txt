@@ -1,29 +1,32 @@
-Personal Safety App With SOS and Live Sharing
+Safety Check-In App: Timed Sharing & One-Tap SOS | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-Share Your Location Just for This Walk Home
-Set a window, share it with someone you trust, and it turns off by itself. No awkward ask, no app running all week.
+A safety check-in for the walk home, and everywhere else
+HeyPolo is a safety check-in app: set a window, share your location with someone you trust, and it turns off by itself when the window's up. No awkward ask, no app running all week.
 Timed sharing that ends automatically
 One-tap SOS sends your exact location to your people
 Exact spot for one person, general area for the group chat
-30 day money back guarantee
+30-day money-back guarantee
 🚶Sharing ends in 45 minJust now
-The favor that feels too big to ask for
-Asking a friend to watch your location for an hour feels like a bigger ask than it is, which is why most people skip it. Timed sharing shrinks it down: share for the walk from the station, a first date, a trail run, and it switches off on its own when the timer's up.
-Nobody has to babysit a map, and you don't have to remember to turn it off after. Precision is your call too, one person can see your exact spot while a group chat only sees the general area.
+Walking home alone doesn't have to feel like a big ask
+Asking a friend to watch your location for an hour feels like a bigger ask than it is, which is why most people skip it. As a safety app for walking home alone, HeyPolo shrinks that ask down: share for the walk from the station, a first date, a trail run, and it switches off on its own when the timer's up.
+Nobody has to babysit a map, and you don't have to remember to turn it off after. Precision is your call too: one person can see your exact spot while a group chat only sees the general area.
 One tap of the SOS feature sends your exact location to your group and tells them you need help, so someone can call you or come find you. None of this replaces knowing how to look after yourself. It just means whoever you send it to already knows where to start looking.
-Why people use HeyPolo for themselves
-Practical, low-drama, and switched on only when you want it.
+Why people in the UK use HeyPolo as their personal safety app
+Practical, low-drama, and switched on only when you want it. As a personal safety app, HeyPolo sits alongside whatever your local emergency number is. In the UK, that's 999, and this is for everything before you'd ever need to dial it.
 Sharing with an end time
 Two hours for a date, forty minutes for the walk home. Set the window when you start and it closes itself, no follow-up needed.
 SOS in one tap
 Your exact location goes to your group with a clear signal that you need help, so they can call you or head your way rather than guess.
 Different detail for different people
 Exact location for one person you trust, general area for a wider group. Private mode whenever you'd rather share nothing.
-On for an hour, not for a lifetime
-HeyPolo isn't an always-on tracker. Sharing starts when you say so, ends when you said it would, and everyone can see what you've chosen.
+Why women use HeyPolo when they're out alone
+A lot of the women who use HeyPolo aren't reacting to any one bad night, they've just decided that sharing a location for an hour is easier than not sharing it. Setting a window before a walk, a date, or a run takes the same ten seconds either way, and it means someone already knows where you were headed.
+Nothing about it assumes the worst. It's the same timed sharing and one-tap SOS everyone else on HeyPolo uses, set up the way that suits the moment you're actually in.
+Sharing switches off when you're done
+Sharing runs only while you've turned it on. It starts when you say so, ends when you said it would, and everyone can see what you've chosen.
 Three moments people actually use it for
 Same mechanism, different windows:
 1
@@ -61,31 +64,37 @@ TomasBike courier
 4.9 ★on Google Play
 Recommendedby Tom's Guide
 Our promise to you
-By the creators of Surfshark, trusted by over 4M + users worldwide
+By the creators of Surfshark, trusted by over 4M+ users worldwide
 Sharing ends when you said it would
 Your location data is never sold or monetized
-Exact, general area, or private, changed any time
+Exact, general area, or private, your choice any time
 One flat price, no per-person fees
 Cancel anytime, no lock-in
 The people who'd help already know where to start
 A timed window, a shared map and a button in your thumb's reach. Turn it on for the walk or the trip, and let it turn itself off after.
 Frequently asked questions
-Can I share for one walk instead of all the time?
-Yes, that's the main way people use it. Set a window when you start sharing, twenty minutes or three hours, and sharing ends automatically when it's up. Nothing keeps running afterwards.
+Can I share my location just for walking home?
+Yes. Sharing your location when you're walking home is the most common reason people open HeyPolo: set a window when you start, twenty minutes or three hours, and it ends automatically when the window's up. Nothing keeps running afterward.
 Do I have to give someone my exact location?
 No. General area shows the part of town you're in, which is often enough for a group chat, while one person you trust can have exact location. You set each of those separately.
 What happens when I press SOS?
 Your exact location goes to your group along with a clear signal that you need help, so they can call you or come to you. It reaches your own people rather than an emergency service, so keep local emergency numbers for what they're for.
+Is HeyPolo an emergency contact app?
+Keep your local emergency number for anything urgent enough to need one, HeyPolo's SOS works alongside it, not instead of it. One tap sends your exact location to the emergency contacts and groups you've already set up, so whoever comes to help knows where to start without you explaining it over the phone.
 Isn't it awkward asking a friend to watch my location?
 Less so when it has an end time. 'I've shared until 11' is a small, specific thing to ask, and your friend doesn't have to monitor anything, they just have it if something changes.
 Is my location data sold to anyone?
 No. It isn't sold, monetized, or shared with advertisers or data brokers, and it's encrypted in transit and at rest. That matters most for exactly these moments, which are among the most sensitive locations anyone shares.
+How does HeyPolo compare to other personal safety apps?
+It depends what you're optimizing for. HeyPolo skips the tiers and data trade-offs that come with some of the bigger names: one flat price covers everyone you invite, and your location is never sold. For a side-by-side, the comparison pages below cover HeyPolo against Find My Friends, GeoZilla, and Life360 directly.
 Does the app drain my battery on a long night out?
 Updates only go out while you're sharing, and sharing windows are usually short, which keeps use modest. Your group also gets a low battery alert before your phone dies.
 Can I use it with a group of friends rather than one person?
 Yes. Groups are unlimited and each one has its own detail level, so a housemate and a wider friend group can see different amounts of you at the same time.
 Do the people I share with have to pay?
 No. One subscription covers everyone you invite, with no per-person fee and no cap on how many people are in your groups.
+How does the safety check-in work?
+Set a window before you head out, from a walk to a flight, and share your location with the people you'd want to know. HeyPolo closes the window automatically when the time's up, so the check-in ends itself instead of you having to remember.
 Explore HeyPolo features
 How HeyPolo compares
 FEATURES

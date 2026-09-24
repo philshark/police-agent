@@ -1,4 +1,4 @@
-The Severe Weather Alert App for Your Whole Family | HeyPolo
+Weather Warning App That Alerts Your Family | HeyPolo
 Safety Features
 Who It's For
 Safety Features
@@ -8,7 +8,7 @@ When an official warning covers someone in your group, the people who love them 
 Notifies you when someone in your group is in a location with a severe weather warning
 See exactly which warning it is and how far it reaches, right on the map
 Off completely in Private Mode. Sharing is always the sender's call.
-USD 4.99USD 1.99 /moOne plan covers everyone
+$47.99/yearOne plan covers everyone
 🌪️Jordan is in a Tornado Warning ZoneJust now
 Families already using HeyPolo
 Thousands of users and a growing community around Heypolo means you join something proven. Built by the team behind Surfshark, trusted by over 4M users worldwide.
@@ -16,23 +16,23 @@ Thousands of users and a growing community around Heypolo means you join somethi
 4.9 ★on Google Play
 90.7%recommended on Mumsnet
 How HeyPolo works as a weather alert app for your whole group
-HeyPolo pulls from the same public warnings that official meteorological authorities already issue. When one of these agencies puts out a Warning, HeyPolo checks it against where the people in your group actually are, whether that's a precise location or a general area.
+HeyPolo pulls from the same public warnings that US government weather agencies already issue. When an agency puts out a Warning, HeyPolo checks it against where the people in your group actually are, whether that's a precise location or a general area.
 A Warning doesn't always mean someone's in immediate danger. Sometimes it means the roads are about to flood, or cell service is about to get patchy, the kind of thing worth knowing even when everyone ends up fine. In extreme cases, it means real danger, and that's exactly when you want to already know.
 Warning sources
-NWS, ECCC, Met Office, Meteoalarm, BoM
+US government weather agencies
 Alert trigger
 Official Warnings only
 Alert timing
-As soon as published
+Usually within a few minutes of being issued
 Alert history
-7 days
+30 days
 Platforms
 iOS, Android
 How severe weather alerts reach your group
-Four things happen without anyone opening the app. Warnings come straight from the official agencies, and matching happens in the background.
+A severe weather notification app should work without anyone opening it. Four things happen in the background: warnings come straight from the official agencies, and matching happens on its own.
 1
 An agency issues a Warning
-NWS, ECCC, the Met Office, Meteoalarm and national EU services, or the Bureau of Meteorology publishes it publicly.
+A US government weather agency publishes it publicly.
 2
 HeyPolo matches it to your group
 The warning area is checked against where your group members are, whether that's a precise pin or a general area.
@@ -63,11 +63,11 @@ A flash flood warning covers the trail right around when their signal drops.
 You get notified based on their last shared location, even after signal goes
 General-area sharing is enough for a match, so a rough trail location still counts
 A grandparent who still drives long distances
-A winter storm warning covers three hundred miles of the interstate she's already on.
+A storm warning app only earns its place if it reaches everyone who needs to know, not just the person driving through it. A winter storm warning covers three hundred miles of the interstate she's already on, and HeyPolo works as a storm alert app for you too, so you find out the moment it covers her stretch of road.
 Both of you get notified the moment the warning covers her stretch of road
 The map shows exactly where the warning starts and ends along her route
 A delivery driver working late routes
-A tornado warning goes up over the neighborhood he's mid-route through, after dark.
+A tornado alert app matters most when someone's on the move. A tornado warning goes up over the neighborhood he's mid-route through, after dark.
 Everyone in his group gets notified at once, not just him
 Arrival alerts confirm the moment he's back somewhere safe
 Privacy inside a weather warning app
@@ -84,8 +84,8 @@ Turn weather alerts off for one group without changing anything for another.
 Never sold
 Location and weather data are encrypted and never sold to advertisers, insurers, or data brokers. Never. Not now, not ever.
 Why families pick HeyPolo for weather alerts
-One HeyPolo plan covers your whole family. Weather warnings are one of the things it watches for.
-Real Warnings onlyWatches and Advisories stay quiet, so the alerts you do get are worth reading.No alert fatigue One subscription, however many peopleOne person pays, everyone else joins free, so the price doesn't climb as your group grows.From $1.99/mo Identical on iPhone and AndroidSame warnings, same timing, no platform gaps in a mixed-phone household.iOS + Android
+A weather alert app for family use has to reach more than one phone. One HeyPolo plan covers your whole family, and weather warnings are one of the things it watches for.
+Real Warnings onlyWatches and Advisories stay quiet, so the alerts you do get are worth reading.No alert fatigue One subscription, however many peopleOne person pays, everyone else joins free, so the price doesn't climb as your group grows.$47.99/year Identical on iPhone and AndroidSame warnings, same timing, no platform gaps in a mixed-phone household.iOS + Android
 Know, before you have to ask
 You choose who's in your group, what they see, and for how long.
 Families using HeyPolo as their weather emergency app
@@ -98,7 +98,7 @@ DJdr.jofff 🇱🇹
 “It's a great family tracking app, love the features.”
 OCObsoleteCat 🇱🇹
 How HeyPolo compares as a severe weather alert app
-How HeyPolo lines up against patterns common across location sharing apps.
+A severe weather alert app is only as good as the alternative, doing nothing or checking five different apps yourself. Here's how HeyPolo lines up against patterns common across location sharing apps.
 HeyPolo
 Life360
 Find My
@@ -120,7 +120,7 @@ Background battery use
 ~5%
 5–8%
 Location history retention
-7 days
+30 days
 30 days
 Timeline, user-controlled
 Live sharing without a subscription
@@ -136,17 +136,17 @@ Weather alerts FAQ
 What is a dangerous weather condition app, exactly?
 It's an app that tells you when someone you care about is in an area under an official severe weather warning, not just an app that shows you the forecast. HeyPolo checks your group's locations against real public warnings and tells you when there's a match.
 What's the best severe weather alert app for a family, not just one phone?
-That depends on what your family actually needs, which usually isn't more forecasts. It's fewer false alarms and the right people finding out fast. HeyPolo only triggers on real Warnings, and it tells both the person in the warning zone and their group. Most weather apps built for a single phone don't do the second part.
+The best severe weather alert app for a family isn't the one with the most forecasts, it's the one that tells the right people fast. That's what your family actually needs. HeyPolo only triggers on real Warnings, and it tells both the person in the warning zone and their group. Most weather apps built for a single phone don't do that second part.
 Is HeyPolo a free weather alert app?
 HeyPolo is free to download. Weather alerts come with your HeyPolo subscription, and one plan covers everyone you invite to your family, so the cost doesn't grow as your group does.
 Does HeyPolo work as a weather alert app for iPhone?
-Yes. HeyPolo is available on iOS, and weather alerts work the same way there as they do on Android.
+Yes, HeyPolo is an iPhone severe weather alert app that works exactly the same way as it does on Android. It's available on iOS, and weather alerts arrive there the same way they do on Android.
 Does the weather alert app work on Android too?
-Yes. iOS and Android get the same warnings, at the same time, with no platform gaps.
+Yes, a severe weather alert app for Android should work exactly like the iPhone version, and HeyPolo does: iOS and Android get the same warnings, at the same time, with no platform gaps.
 What counts as a severe weather warning app alert versus a regular forecast?
-A forecast is a prediction. A Warning is an official statement from an agency like the National Weather Service or the UK Met Office that severe conditions are happening or about to. HeyPolo only alerts on the second one.
+A forecast is a prediction. A Warning is an official statement from a US government weather agency that conditions are severe or about to be. HeyPolo only alerts on the second one.
 Is this a code red weather alert app?
-Some agencies label their most severe alerts "red," like the UK Met Office's Red Warning. HeyPolo doesn't rename or reinterpret any of this. Whatever the issuing agency calls a Warning is exactly what shows up in your app.
+Some agencies label their most severe alerts "red." HeyPolo doesn't rename or reinterpret any of this. Whatever the issuing agency calls a Warning is exactly what shows up in your app.
 How is HeyPolo different from a severe weather app I already have?
 Most severe weather apps are built to tell you about your own location. HeyPolo tells your group about each other's. If your mother is under a tornado warning three states away, she probably knows it already. You might not, until HeyPolo tells you.
 There's more in the app than weather alerts

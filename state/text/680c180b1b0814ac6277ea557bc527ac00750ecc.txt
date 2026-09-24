@@ -1,142 +1,90 @@
-Location-Based Alerts for Arrivals & Departures | HeyPolo
+Place Alerts: Know the Moment Someone Arrives | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-Real-time location sharing that actually feels real-time
-See where your people are the moment they move, not five minutes later.
-Live position updates every few seconds
-Battery-friendly background tracking
-Share with one person or a whole circle
-30 day money back guarantee
-What is real-time location sharing?
-Real-time location sharing is a continuous, consent-based stream of a person's position between people who have agreed to see each other. Instead of pinging someone for a one-off pin, both phones publish position updates on a schedule and HeyPolo draws them on a shared map.
-Under the hood your phone blends GPS, Wi-Fi and cell signals into a single fix, then sends it only when you've actually moved enough to matter. That's why the map keeps up on a bike ride but sits quietly while you're at your desk.
-Every stream is reciprocal and revocable. Sharing starts with an invitation, shows a persistent indicator while it's on, and stops the second either side turns it off, no lingering history in someone else's app.
+Place alerts that tell you the moment someone arrives
+Get an alert the second someone in your circle reaches home, school or work, so you're not the one refreshing a map to find out.
+Alerts for arrivals and departures, not just one direction
+Set it once for a place you both care about
+Works with one person or a whole circle
+30-day money-back guarantee
+What is a location alert app?
+A location alert app tells you when someone you're sharing with reaches or leaves a place you've both flagged, home, work, a friend's house, so you get a notification instead of opening the app to check a map. HeyPolo calls this a place alert. Pick a spot, choose who it applies to, and you'll hear about it the moment something changes there.
+It does a different job than watching someone's position move in real time. A place alert only speaks up when something actually happens, an arrival or a departure, and stays quiet the rest of the time. If you want the moving dot as well, that's the real-time location sharing feature, linked further down this page.
 🎒Jackson left SchoolJust now
-Update frequency
-3–10 sec
-Typical accuracy
-5–20 m
 History retention
 30 days
 Platforms
 iOS, Android, Web
-Battery impact
-< 4% / day
-SStella is sharing liveUpdated 2 sec ago
-How live sharing compares
-Feature-for-feature, scoped to real-time location only.
-AttributeHeyPoloLife360Find MyGlympse
-Update interval3–10 sec~30 sec1–5 min10 sec
-Works cross-platform
-Live sharing without a subscription
-Temporary timed sharing
-Per-person precision control
-Background battery use< 4% / day8–12%~5%6–9%
-Live sharing on web
-Location history included30 days30 days7 days
-HeyPolo
-Update interval
-3–10 sec
-Works cross-platform
-Live sharing without a subscription
-Temporary timed sharing
-Per-person precision control
-Background battery use
-< 4% / day
-Live sharing on web
-Location history included
-30 days
-Life360
-Update interval
-~30 sec
-Works cross-platform
-Live sharing without a subscription
-Temporary timed sharing
-Per-person precision control
-Background battery use
-8–12%
-Live sharing on web
-Location history included
-30 days
-Find My
-Update interval
-1–5 min
-Works cross-platform
-Live sharing without a subscription
-Temporary timed sharing
-Per-person precision control
-Background battery use
-~5%
-Live sharing on web
-Location history included
-7 days
-Glympse
-Update interval
-10 sec
-Works cross-platform
-Live sharing without a subscription
-Temporary timed sharing
-Per-person precision control
-Background battery use
-6–9%
-Live sharing on web
-Location history included
+SStella arrived homeJust now
+When does an arrival alert actually go out?
+An arrival alert fires when someone's phone registers that they've reached the place you set, based on their location updating in the background. There's usually a short gap between them physically arriving and the notification landing on your phone, how short depends on their connection and how their phone is checking in at that moment.
+The same goes for leaving. HeyPolo doesn't run on a stopwatch, it works off real location updates. If someone's phone loses signal right as they arrive, the alert catches up as soon as it reconnects.
+Do place alerts cover people leaving too?
+Yes. Place alerts fire on arrivals and departures, so you'll know both when someone gets somewhere and when they head out again, from the same alert you set up once.
+Set one for home and you'll hear about the school run leaving in the morning and the arrival back in the afternoon, no separate setup for each direction.
+Where do you turn on location alerts?
+You turn on a place alert from the person's profile in HeyPolo: pick the place, pick who it's for, and save it. From then on, every arrival or departure at that spot sends a notification, until you turn it off.
+Can you get an alert when someone arrives home?
+Yes, set a place alert on their home address and HeyPolo notifies you the moment they get there, no need to text and ask or watch the map yourself.
+Which family members can you set an arrival alert for?
+Anyone in your HeyPolo circle who's shared their location with you, a partner, a parent, a kid old enough to carry a phone. The alert works the same way regardless of who it's for, you're just choosing the person and the place.
+Someone who joined your circle on an invite code gets the same arrival alerts as everyone else, they just can't start a group of their own.
+Is there an alert for when someone leaves the house?
+Yes, a place alert set on home fires on departure as well as arrival, so you'll know when someone heads out, not just when they get back.
+Does HeyPolo do safe arrival notifications?
+A place alert works well for that: set one on home, a friend's place or wherever someone's headed, and you'll know they got there. It's the same feature, arrival and departure alerts, used for peace of mind after a night out, a solo walk or a long drive.
+Will I know when my child gets to school?
+You can set a place alert on the school and get notified the moment they arrive, and again when they leave in the afternoon.
+HeyPolo doesn't have a way to limit that alert to school hours only. If you only want the school run and not every trip past the building, a timed sharing window (say, 7 to 9am) is the closest workaround right now, not a dedicated schedule feature.
 Consent, in plain terms
-Nobody can see your live position unless you accepted their request first, and acceptance is per person, not per app.
-While sharing is on, a persistent indicator sits at the top of your map so it can never run quietly in the background.
-Turning it off is a single tap and takes effect immediately; the other side stops receiving updates and keeps nothing new.
+Nobody can see your position or set an alert on you unless you accepted their request first, and acceptance is per person, not per app.
+Every stream is reciprocal and revocable. Sharing starts with an invitation, shows a persistent indicator while it's on, and stops the second either side turns it off, no lingering history in someone else's app.
+Turning it off is a single tap and takes effect immediately; the other side stops receiving alerts and keeps nothing new.
 Both sides opt inSharing only starts after an explicit accept.
 You choose precisionExact position, or city-level only, per person.
-Sharing can expireSet 1 hour, 8 hours, or until you stop it.
-Stop deletes the streamNo live points remain after you end sharing.
-What people say about live sharing
-AR
-Alina R.
-“The map moves as fast as my kid does. No more refreshing and guessing.”
-MK
-Marcus K.
-“We used it across a festival weekend and my battery still made it to midnight.”
-JD
-Jess D.
-“I like that it visibly tells me when I'm sharing. Nothing runs behind my back.”
+Sharing can expireSet a window from 1 minute to 24 hours, or until you stop it.
+Stop ends the alertsNo new alerts once you end sharing.
+As featured in
 Tom's GuideSurfsharkTechRadarThe Verge
 Why choose HeyPolo
 It won't drain your phone
-Adaptive update rates mean under 4% battery a day.
+Alerts run on background location checks, not a constant stream, so they're built to be light on battery.
 Not an ad business
 We sell subscriptions, never your location data.
 No family-only lock-in
-Share with friends, roommates or a hiking group.
-No lag on the map
-Updates land in seconds, not on a refresh cycle.
+Set alerts for friends, roommates or a hiking group, not just family.
+You're not left guessing
+An alert lands as a notification. You don't have to open the app and refresh it to find out what happened.
 Nothing runs silently
 A visible indicator whenever sharing is active.
 Works on every device
-iOS, Android and web see the same live map.
-Start sharing your location in under a minute
-30 day money back guarantee
+iOS, Android and web all get the same place alerts.
+Start getting place alerts in under a minute
+30-day money-back guarantee
 Frequently asked questions
-How often does the map update?
-Every 3–10 seconds while you're moving, and less often when you're stationary to save battery.
-Can someone track me without my knowledge?
-No. Sharing requires an explicit accept from you, and a persistent indicator shows whenever it's active.
+How often do location alerts update?
+As often as your phone's location updates in the background, there's no fixed schedule down to the second. Most alerts land within a few minutes of the actual arrival or departure, depending on connection and battery settings.
+Can someone set a place alert on me without my knowledge?
+No. Alerts only work between people already sharing their location with each other, and that sharing starts with an explicit invite you accept. If it's active, you'll know, there's a persistent indicator whenever sharing is on.
 Does it work if my phone is offline?
-Your last known position stays on the map with a timestamp, and updates resume the moment you're back online.
-How much battery does it use?
-Typically under 4% per day thanks to adaptive update intervals and motion detection.
-How long is my location kept?
-Live points are transient; history is kept for 30 days on Premium and can be deleted at any time.
-Can I share for a limited time only?
-Yes, choose 1 hour, 8 hours, or until you stop it manually.
-Do both people need Premium?
-No. Real-time sharing works between any two HeyPolo accounts.
+Your last known position stays visible with a timestamp, and the arrival or departure alert fires as soon as your phone reconnects.
+Does this drain my battery?
+It shouldn't. Place alerts run on background location checks rather than a constant live stream, which is lighter than keeping a map open and refreshing it yourself.
+How long is my alert history kept?
+Your location data, including anything tied to a place alert, is processed for 30 days or until you withdraw consent, whichever comes first.
+Can I set alerts for a limited time only?
+Yes. The sharing window behind an alert can run anywhere from 1 minute up to 24 hours, or until you stop it. Close the window and alerts stop firing for that period too.
+Can I set alerts for more than one place?
+Yes, there's no limit built into the feature. Set one for home, one for school, one for work, for as many people and places as matter to you.
+Does it matter what phone the other person has?
+No, place alerts work the same way across iOS, Android and web, so it doesn't matter what anyone in your circle is carrying.
 Related features
 Put a whole circle on one map when you're coordinating more than one person.
-Get told when someone reaches home or school instead of watching the map.
-The safety layer that sits on top of live sharing when something goes wrong.
-Look back at the last 30 days when live position isn't the question.
+Watch a moving position update live on the map, for when a single arrival alert isn't the full picture you need.
+The safety layer that sits on top of place alerts when something goes wrong.
+Look back at the last 30 days when a single alert isn't the question.
 Who HeyPolo is for
 How HeyPolo compares
 FEATURES

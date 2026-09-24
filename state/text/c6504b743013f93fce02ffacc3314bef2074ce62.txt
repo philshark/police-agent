@@ -1,23 +1,23 @@
-The Location Sharing App That Respects Privacy | HeyPolo
+Share Location App | Real-Time Location Sharing | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-A location sharing app your whole family agrees to use
+Share your exact location, in real time, with the people you choose
 Know they got where they were going, without sending the third text.
 Real-time location, refreshed every 5 seconds
-Share an exact spot or just your general area
+Share an exact spot, a general area, or nothing at all
 One subscription covers everyone you invite
-30 day money back guarantee
+30-day money-back guarantee
 📍Mia is sharing liveUpdated 5 sec ago
 Families already using HeyPolo
-One person subscribes and everyone they invite joins free. Built by the team behind Surfshark, with a 30 day money back guarantee if it isn't for you.
+One person subscribes and everyone they invite joins free. Built by the team behind Surfshark, with a 30-day money-back guarantee if it isn't for you.
 From $1.99/mo, one plan for your whole family.
 4.9 ★on App Store
 4.9 ★on Google Play
 90.7%recommended on Mumsnet
 What is real-time location sharing?
-Real-time location sharing is a phone feature that sends your live position to chosen contacts as you move, updating continuously rather than showing a single pinned spot. On HeyPolo, your position refreshes every 5 seconds while sharing is on, and you can set it to end automatically after a set window instead of running until someone remembers to turn it off.
+HeyPolo is a share location app that lets the people you choose see exactly where you are right now, not an hour ago and not a rough guess. Your position refreshes every 5 seconds while sharing is on, and you decide who sees your location, how precisely, and for how long. Leave it on indefinitely, or set a window so it stops on its own.
 Most people turn it on after one specific worry repeats: a teenager heading home in the dark, a parent living an hour up the highway, a new driver on their first solo trip. Everyone in the group controls their own settings, exact location or general area, which is usually what keeps a family still using it past the first couple of weeks.
 Update frequency
 5 sec live
@@ -33,8 +33,8 @@ What happens when sharing is on
 Switch sharing on and the map keeps up with you rather than with a refresh cycle. Everything below is yours to set, per group, and yours to switch off.
 Your location updates every 5 seconds
 Every 30 seconds once the app is closed, which is where the battery savings come from.
-Choose an exact pin or general area
-Precision is a per-group setting, so parents can see the neighborhood while a friend sees the doorstep.
+Choose an exact pin, a general area, or private
+Precision is a per-group setting, so parents can see the neighborhood while a friend sees the doorstep, and private mode shows nothing at all.
 Set a window and sharing ends itself
 Cover a commute or a night out and let the timer close it without anyone remembering to.
 Private mode pauses you in one tap
@@ -44,7 +44,7 @@ A quiet notification lands instead of anyone sitting there refreshing a map.
 Everyone can see who they're sharing with
 Both sides of every arrangement are visible, so nothing runs quietly in the background.
 MMia is sharing her live locationUpdated 5 sec ago
-Where real-time location sharing helps
+A better app to share location with your family
 The worry is rarely dramatic. It lives in the gap between “leaving now” and the sound of a front door, and that gap is what this feature quietly fills. Four situations come up again and again.
 Teenagers walking home after practice
 Your kid left the sports hall twenty minutes ago and the group chat has gone quiet, which at fifteen means absolutely nothing and still keeps you standing near a window.
@@ -157,7 +157,7 @@ Driving and speed alerts
 How your location stays yours
 Family location data is exactly the kind of thing this industry has quietly resold for years. Ours goes to the people you picked and nowhere else, because HeyPolo runs on subscriptions.
 Accuracy averages about 5 metres, tighter outdoors and looser between tall buildings, and history clears itself after 7 days.
-You choose who sees whatExact location for one group, general area for another, nothing at all for a third. Settings are per group.
+You choose who sees whatExact location for one group, general area for another, private mode for a third. Settings are per group, and sharing can run indefinitely or on a timer.
 Encrypted from your phone onwardLocation travels scrambled from your device to your trusted contacts. Nobody in between can read it.
 Your location is never soldNot to advertisers, not to insurers, not to data brokers. Never. Not now, not ever.
 Sharing stops when you say stopOne tap for private mode, or a timer that closes the session for you. Nothing keeps running in the background.
@@ -169,7 +169,7 @@ Per-group controls
 One price covers everyone you invite
 One person subscribes, everyone else joins free, however many people that turns out to be.
 From $1.99/mo
-The same app on iPhone and Android
+One cross-platform app for iPhone and Android
 Half your family runs one platform, half the other. HeyPolo works the same on both, so nobody's left out.
 iOS + Android
 30-day money-back guarantee
@@ -182,9 +182,19 @@ DJdr.jofffLithuania
 OCObsoleteCatLithuania
 “I think this app is excellent and really recommend it. It's perfect for a family or a friend group on a trip.”
 YBYeahBunneeIreland
-Everyone decides what they share
-30 day money back guarantee
+Real-time location sharing, and you always know who's watching too
+30-day money-back guarantee
 Real-time location sharing FAQ
+Can I share my location in real time?
+Yes. HeyPolo is a share location app that shows the people you choose exactly where you are, with your location refreshing every 5 seconds. You stay in control of who can see you, how precisely, and for how long.
+Is a live location sharing app the same as real-time location sharing?
+They describe the same idea: your position updating continuously, not a single pin dropped an hour ago. Whether you call it a live location app or real-time location sharing, HeyPolo updates continuously, so the people you share with always see where you are.
+How do I share my real-time location permanently?
+When you start sharing in HeyPolo, you can keep it on indefinitely, or set a time window so it stops on its own. There's no hidden tracking running in the background, you decide when sharing starts and ends.
+What's the best app to share your location in real time?
+For most people, the best app to share your location is whichever one puts sharing, not surveillance, at the center. HeyPolo is built that way: everyone controls their own location, one subscription covers everyone you invite, and it works identically on iPhone and Android, a simple, private choice for families and friends.
+How do I stop real-time location sharing on HeyPolo?
+Stop any time with a single tap, or set a timer so sharing ends automatically. When the time is up, sharing stops on its own, no ghost tracking and nothing left running without you knowing.
 What is the best location sharing app for families?
 The one everybody in the household will keep installed. We built HeyPolo so each person controls their own sharing, picks exact location or general area, and can pause without leaving the group. One subscription covers unlimited members, it runs the same on iPhone and Android, and your data is never sold.
 Can I share my location in real time without giving my exact address?
@@ -204,7 +214,7 @@ HeyPolo does, with matching features across platforms. Mixed-device households a
 How much battery does it use?
 With sharing on in the background, HeyPolo uses roughly what a messaging app left open uses, about 4% a day. That climbs in weak signal areas, where the phone works harder to hold a connection, and drops if you share a general area instead of an exact spot or limit sharing to set time windows.
 How much does HeyPolo cost?
-Plans start at $1.99 a month, billed as $23.88 for the first 12 months, and VAT may apply. One person pays and everyone invited joins free, so the cost holds steady as more relatives arrive. There's a 30 day money back guarantee, and you can cancel whenever you want.
+Plans start at $1.99 a month, billed as $23.88 for the first 12 months, and VAT may apply. One person pays and everyone invited joins free, so the cost holds steady as more relatives arrive. There's a 30-day money-back guarantee, and you can cancel whenever you want.
 Related features
 Look back at shared trips from the past week, then watch the record delete itself after 7 days.
 Build separate groups for family, friends, or a weekend trip, each with its own visibility settings.

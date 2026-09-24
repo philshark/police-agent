@@ -1,27 +1,27 @@
-Location Sharing for Caregivers and Carers
+GPS App for Dementia Patient Caregivers | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-Location Sharing for Caregivers of Loved Ones Prone to Wandering
-A calm safety net you can set up in a few minutes, on your phone and theirs, without turning someone's day into something they're watched through.
-Arrival and place alerts tell you they reached somewhere familiar
+A GPS App for a Loved One Living with Dementia
+HeyPolo is a GPS app for a loved one with dementia that you set up on both phones in a few minutes, without turning their day into something they're watched through.
+Arrival alerts tell you the moment they get home or reach a familiar place
 One-tap SOS on their phone and yours
 Choose exact location or a general area, so autonomy stays intact
-30 day money back guarantee
+30-day money-back guarantee
 🏡Dad arrived homeJust now
 If you've just had a scare
-Most people find a page like this straight after a close call: a front door left open, a bus taken in the wrong direction, twenty minutes of silence that felt much longer. If that's where you are right now, next time you'll be able to find them instantly.
-HeyPolo runs on the phone your loved one already carries. You set it up together, they appear on a shared map, and you get an alert when they arrive home or reach the day centre. If they need help, one tap on SOS sends their location to everyone in the group.
-It's a safety net, not a leash. You choose how precise the sharing is, and general area is often enough.
+Most people searching for a GPS app for a dementia patient land here straight after a close call, a front door left open, a bus taken in the wrong direction, twenty minutes of silence that felt much longer. If that's where you are right now, next time you'll be able to find them instantly.
+HeyPolo runs on the phone your loved one already carries, not a separate GPS tracker to charge, pair, or lose. You set it up together, they appear on a shared map, and you get an alert when they arrive home or reach the day centre. If they need help, one tap on SOS sends their location to everyone in the group.
+You choose how precise the sharing is. Most families use general area day to day, close enough to notice if something's wrong, loose enough that nobody feels checked on.
 Why caregivers choose HeyPolo
 Built around the moments that actually matter, and around dignity the rest of the time.
-Arrival and place alerts
-A notification when they reach home, the day centre, or a relative's house. You stop refreshing the map, because the map tells you.
+Know when they get home
+A notification the moment they get home, reach the day centre, or arrive at a relative's house, so you're not the one checking in every twenty minutes. You stop refreshing the map, because the map tells you.
 One-tap SOS, both ways
 A single button sends an exact location to the group. It's simple enough to use under stress, which is the only test that counts.
-Precision you both agree on
-Exact location when it's needed, general area when it isn't. Constant exact tracking isn't the default, and independence doesn't have to be traded away for reassurance.
+See where they are, without tracking every step
+Caregivers looking for an app to track someone with dementia usually don't want a play-by-play of every step, they want to know the person's okay. HeyPolo lets you choose exact location when there's a reason and general area the rest of the time, so it doesn't turn into tracking their every move.
 A safety net, set up with them
 Everyone in the group can see what's shared and by whom, including the person being cared for. Nothing is configured behind anyone's back, and that's usually what makes it stick.
 Set it up in a few minutes, on both phones
@@ -37,7 +37,7 @@ Show them SOS once
 Point out the button together and press nothing. Knowing it's there, and that it goes to family rather than strangers, is what makes it usable later.
 Exclusive deal
 One price for everyone helping out
-Care is rarely one person. A sibling, an in-law, a neighbour who has a key, all of them can be in the group for the same price, because there's no per-person fee. Full refund inside 30 days if it isn't right.
+Care is rarely one person. Whether it's a sibling, an in-law, a paid carer, or a neighbour with a key, this is a caregiver app the whole family can use for one price, because there's no per-person fee. Full refund inside 30 days if it isn't right.
 Invite every family member and helper free
 Separate groups with their own detail levels
 One subscription covers everyone you invite
@@ -72,8 +72,8 @@ One shared map, an alert when they reach a familiar place, and a low battery war
 Frequently asked questions
 How quickly can I get this working?
 A few minutes. HeyPolo installs on the phone your loved one already carries, both of you join the same group with a code, and you add home as the first place. There's no device to order and nothing to wait for.
-Do I get an alert if they leave home?
-HeyPolo sends arrival and place alerts, so you're notified when someone reaches a place you've set, such as home or a day centre. We'd rather describe it that way honestly than promise a separate leave-the-area alarm, so plan around arrivals and the live map.
+Does HeyPolo have a wandering alert system?
+HeyPolo isn't built as a dedicated wandering alert app, and we'd rather say that upfront than oversell it. What it does have is arrival and place alerts, so you're notified when someone reaches a place you've set, such as home or a day centre, plus a live map you can check any time in between.
 Does this mean tracking someone constantly?
 It doesn't have to, and mostly it shouldn't. General area shows the part of town someone's in without following every step, and many families use that as the normal setting, moving to exact location only when there's a reason.
 What if the person I care for finds it intrusive?

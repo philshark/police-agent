@@ -1,4 +1,4 @@
-Family Location Sharing App Built on Consent
+Family Tracking App: Location Sharing You Control | HeyPolo
 Safety Features
 Who It's For
 Safety Features
@@ -8,10 +8,10 @@ One map for everyone you love, with each person deciding what they share and for
 Know your people got where they were going
 Each person picks exact location or a general area
 One plan, everyone you invite joins free
-30 day money back guarantee
+30-day money-back guarantee
 🌳Everyone is at the parkJust now
 What is a family location-sharing app?
-Families share location for the small stuff: a school pickup, a late train, checking on an aging parent who lives alone. HeyPolo is a location-sharing app for iPhone and Android, and whoever's sharing decides what gets seen.
+Families share location for the small stuff: a school pickup, a late train, checking on an aging parent who lives alone. HeyPolo is a family location app for iPhone and Android, built around sharing rather than tracking, and whoever's sharing decides what gets seen.
 Live location updates every five seconds. They choose an exact spot or a wider area, and can set sharing to run on a timer, like a school run, then switch off on its own.
 For families specifically, the extras matter: arrival alerts, low-battery warnings, one-tap SOS, and separate visibility per group, so a teenager can share a street with one parent and just a neighborhood with a sibling.
 Why should you choose HeyPolo?
@@ -22,8 +22,8 @@ Privacy is a foundation
 You control who sees your location, how precisely they see it, and when it stops. Your data is never sold.
 You're always in control
 Exact location, a general area, or private mode, changed whenever you like. Everyone in the group can see which of those is switched on.
-Both sides always see what's switched on
-Consent runs through every part of HeyPolo, including for whoever's being seen, so nobody feels they're being monitored.
+A family safety app that never watches in secret
+Search for a family safety app and a lot of what comes up runs quietly in the background. HeyPolo works the other way: consent runs through every part of it, including for whoever's being seen, so nobody feels like they're being watched without knowing.
 How to set up a location-sharing app for parents and children
 Protect your family with HeyPolo in just three easy steps:
 1
@@ -72,10 +72,10 @@ Everybody lands on one map, so a quick look tells you what three texts used to. 
 Frequently asked questions
 Is HeyPolo a family tracking app?
 Not in the sense that phrase usually carries. Everyone here can see who they share with, choose an exact spot or a general area, and pause through private mode. Both sides view the same arrangement, so relatives check in on each other rather than watching one another.
-How does HeyPolo differ from a family gps tracker?
-A family tracker is generally a device somebody else configures for another person. HeyPolo runs on phones your household already carries, and each member decides who sees them, how precisely, and for how long. Nothing needs buying beyond the subscription, and nothing stays hidden from whoever shares.
-Can I use HeyPolo as a family locator for my kids?
-Yes, with your child's agreement. Kids can share a general area on the school walk, switch to an exact spot for a trip across town, and view the group they belong to. Arrival alerts tell you they reached class without needing a reply.
+How does HeyPolo differ from a family GPS app or tracker?
+A lot of what shows up for family GPS app or family tracker searches is a device somebody else configures for another person. HeyPolo runs on phones your household already carries, and each member decides who sees them, how precisely, and for how long. Nothing needs buying beyond the subscription, and nothing stays hidden from whoever shares.
+Can I use HeyPolo as a family locator app for my kids?
+Yes, with your child's agreement. As a family locator app, HeyPolo lets kids share a general area on the school walk, switch to an exact spot for a trip across town, and view the group they belong to. Arrival alerts tell you they reached class without needing a reply.
 Does everyone I invite have to pay?
 No. A single subscription covers your entire household. Invited members join free, groups and members are unlimited, and adding a grandparent or a cousin later leaves your price exactly where it was.
 Can my teen turn off sharing?
@@ -84,6 +84,10 @@ Does HeyPolo drain the battery?
 Updates go out while somebody shares, and daily use stays modest. Low battery alerts also warn your group when a handset gets close to empty, which explains a pin that stopped moving before anyone starts wondering about it.
 Does everyone need to download the app separately?
 Yes. Each person installs HeyPolo on their own iPhone or Android phone, then joins with a group code. Setup takes a few minutes, and everybody chooses their visibility preferences while they're in there.
+What's the best family tracking app?
+That depends on what you're trading for it. Some of the best-known family tracking and family locator apps charge per person or use location data for advertising. HeyPolo charges once for the whole family, never sells location data, and nothing shares until the person carrying the phone agrees to it. See how it stacks up against Life360, GeoZilla, and Zenly in the comparisons below.
+Is there a family tracking app for iPhone and Android?
+Yes. HeyPolo works the same way on iPhone and Android, so a family tracking app doesn't mean everyone needs the same type of phone. Each person installs HeyPolo on their own device, joins with a group code, and picks what they share from there, whichever platform they're on.
 How many people can join one family group?
 There's no limit on members or groups. Households often run two, one for the people under a single roof and one for extended relatives, each carrying its own level of detail so nobody has to share more widely than they meant to.
 Explore HeyPolo features

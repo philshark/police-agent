@@ -1,21 +1,21 @@
-Location Sharing App for Kids, Built on Consent
+Find My Kids App: Location Sharing They Choose | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
 Location Sharing That You Get to Control
-Your parents can stop asking where you are, and you still get to decide how much they see.
+Search for a kids location app and most of what turns up watches everything, all the time. HeyPolo doesn't. Your parents can stop asking where you are, and you still get to decide how much they see.
 Share your exact spot, a general area, or nothing at all
 Sharing can turn off by itself after a set time
 The SOS button is yours, for when you need help fast
-30 day money back guarantee
+30-day money-back guarantee
 🏠You got home safeJust now
 Is this my parents watching me all the time?
 No. You pick what they see: your exact spot, just your general area, or private mode, where nobody sees anything at all.
 You don't have to share all day either. Turn it on for the walk home or a trip across town, and it switches off on its own when you're done. Whatever setting you choose shows up for your group too, so nothing's happening behind your back.
 When you do share, your parents get an alert once you've arrived somewhere, which cuts down on the "are you there yet" texts. HeyPolo never sells your location to anyone, and it doesn't read your messages, track your screen time, or lock you out of apps.
-Why HeyPolo isn't a spy app
-You get on with your day. It just fills in the bits your parents worry about.
+Why HeyPolo works as a kids safety app, not a spy app
+Search for a kids safety app and you'll find plenty that watch everything. HeyPolo just fills in the bits your parents worry about, nothing more.
 You choose how much is seen
 Exact spot, general area, or private mode. Nobody can change it for you, and your group always sees which one you've picked.
 It's not on all the time
@@ -24,8 +24,8 @@ There's an SOS button if you need it
 If something feels wrong, one tap tells your group where you are. That's the only part that's about trouble.
 Nothing is hidden from you
 You can always see who's in your group and what they can see of you, and they can see the same about you. No secret settings on either side.
-What it actually looks like day to day
-It's a lot less dramatic than it sounds:
+A kids location sharing app on an ordinary day
+It's a kids location sharing app, and it's a lot less dramatic than it sounds:
 1
 Your day stays your day
 School, practice, hanging out after, none of that changes. Nobody gets a running commentary on where you've been.
@@ -84,6 +84,12 @@ Is my location sold to anyone?
 No. Your location data isn't sold, monetized, or shared with advertisers or data brokers, and it's encrypted in transit and at rest. The privacy policy is written to be readable, not to be skipped.
 Can I set it up so sharing turns off automatically?
 Yes, that's the point of timed sharing. Set a window when you start, and sharing ends on its own so you don't have to remember to switch it off.
+How do people track a child's location with HeyPolo?
+Searches for ways to track a child's location on a phone land here a lot, and HeyPolo works differently from most of what comes up. Nothing about your location goes out until you say so. You choose exact, general area, or private, and whatever you pick shows up for your group too, not something switched on behind your back.
+Do I need a separate phone tracker or child location tracker app?
+No. A lot of what comes up under phone tracker for kids or child location tracker app means extra hardware or a second download. HeyPolo runs on the phone you already carry. There's no child location iPhone app to add on top, and nothing extra to buy, charge, or lose.
+What's the best child location tracking app for families?
+That depends on what you're trading for it. Some of the best-known child location tracking apps charge per person or use location data for advertising. HeyPolo charges once for the whole family, never sells location data, and nothing shares until the person carrying the phone agrees to it. See how it stacks up against Life360, Zenly, and iSharing in the comparisons below.
 Do I need my own account?
 Yes, HeyPolo goes on your own phone and you join the group with a code. Your settings are yours, not something someone else configures for you.
 Explore HeyPolo features
