@@ -1,13 +1,16 @@
 {
- "subject": "0/83 URLs changed since yesterday",
- "body_markdown": "0/83 URLs changed since yesterday\n\nSUMMARY: 0 of 83 sitemap URLs changed since yesterday (compared against the snapshot from 2026-09-28).\n\n## Changed (0)\n_None._\n## Added to sitemap (0)\n_None._\n\n## Removed from sitemap (0)\n_None._\n\n## Fetch errors (0)\n_None._\n\nSitemap: https://heypolo.com/sitemap.xml  |  URLs in sitemap: 83",
- "body_html": "<div style=\"font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#1a1a1a;font-size:14px;line-height:1.55;max-width:720px;\">\n<p style=\"font-size:15px;background:#f3f4f6;border-radius:8px;padding:12px 16px;\">&#128203; <strong>0 of 83</strong> sitemap URLs changed since yesterday (vs. the snapshot from 2026-09-28).</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Changed (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Added to sitemap (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Removed from sitemap (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Fetch errors (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<p style=\"color:#9ca3af;font-size:12px;margin-top:24px;\">Sitemap: <a href=\"https://heypolo.com/sitemap.xml\" style=\"color:#9ca3af;\">https://heypolo.com/sitemap.xml</a> &nbsp;|&nbsp; URLs in sitemap: 83</p>\n</div>",
+ "subject": "0/85 URLs changed since yesterday (+2 new)",
+ "body_markdown": "0/85 URLs changed since yesterday (+2 new)\n\nSUMMARY: 0 of 85 sitemap URLs changed since yesterday (compared against the snapshot from 2026-09-29).\n  2 new URL(s) appeared in the sitemap.\n\n## Changed (0)\n_None._\n## Added to sitemap (2)\n- https://heypolo.com/features/speed-monitoring: \"Speed Monitoring App With Speed Limit Alerts | HeyPolo\"\n- https://heypolo.com/features/driving-score: \"Driving Score App for Families and New Drivers | HeyPolo\"\n\n## Removed from sitemap (0)\n_None._\n\n## Fetch errors (0)\n_None._\n\nSitemap: https://heypolo.com/sitemap.xml  |  URLs in sitemap: 85",
+ "body_html": "<div style=\"font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#1a1a1a;font-size:14px;line-height:1.55;max-width:720px;\">\n<p style=\"font-size:15px;background:#f3f4f6;border-radius:8px;padding:12px 16px;\">&#128203; <strong>0 of 85</strong> sitemap URLs changed since yesterday (vs. the snapshot from 2026-09-29). 2 new URL(s) appeared.</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Changed (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Added to sitemap (2)</h2>\n<ul style=\"padding-left:18px;margin:6px 0;\">\n<li style=\"margin-bottom:4px;\"><a href=\"https://heypolo.com/features/speed-monitoring\" style=\"color:#1d4ed8;\">https://heypolo.com/features/speed-monitoring</a>: \"Speed Monitoring App With Speed Limit Alerts | HeyPolo\"</li>\n<li style=\"margin-bottom:4px;\"><a href=\"https://heypolo.com/features/driving-score\" style=\"color:#1d4ed8;\">https://heypolo.com/features/driving-score</a>: \"Driving Score App for Families and New Drivers | HeyPolo\"</li>\n</ul>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Removed from sitemap (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<h2 style=\"font-size:16px;margin:24px 0 4px;border-bottom:1px solid #e5e7eb;padding-bottom:6px;\">Fetch errors (0)</h2>\n<p style=\"color:#9ca3af;\">None.</p>\n<p style=\"color:#9ca3af;font-size:12px;margin-top:24px;\">Sitemap: <a href=\"https://heypolo.com/sitemap.xml\" style=\"color:#9ca3af;\">https://heypolo.com/sitemap.xml</a> &nbsp;|&nbsp; URLs in sitemap: 85</p>\n</div>",
  "changed_count": 0,
- "total": 83,
+ "total": 85,
  "changed_urls": [],
- "added": [],
+ "added": [
+  "https://heypolo.com/features/speed-monitoring",
+  "https://heypolo.com/features/driving-score"
+ ],
  "removed": [],
  "errors": [],
  "baseline": false,
- "generated_at": "2026-09-29T03:42:15Z"
+ "generated_at": "2026-09-30T03:29:46Z"
 }

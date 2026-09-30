@@ -1,0 +1,78 @@
+Speed Monitoring App With Speed Limit Alerts | HeyPolo
+Safety Features
+Who It's For
+Safety Features
+Who It's For
+A speed monitoring app where the driver decides what to share
+HeyPolo is a speed monitoring app that sends an alert to the people in your group who want to know when a driver who has chosen to share goes over the speed limit. The driver decides whether to share speed data at all, and gets a summary of the drive once they have stopped driving.
+An alert the first time a driver goes over the limit on a drive
+Tap the alert to open that driver's driving report
+The driver chooses if and when to share, and each group member chooses whether to be alerted
+Works the same on iPhone and Android, worldwide
+30-day money-back guarantee
+How does a speed alert app work?
+HeyPolo sends a speed alert the first time on a drive that the driver goes over the speed limit. The driver has to choose to share their speed data first, and each person in the group chooses whether they want to be alerted. Tapping the alert opens that driver's driving report. When the drive ends, the driver gets a summary of their own.
+1Start a group or join oneStart a group, or join one with an invite code. Anyone who joins with a code gets every feature except creating their own group and inviting other people.
+2The driver chooses to shareThe driver decides if and when to share their speed data.
+3Group members choose their alertsEach person in the group decides whether they want an alert when that driver starts to speed.
+4The alert arrivesThe first time on a drive that the driver goes over the limit, everyone who chose alerts gets a notification. Tapping it opens that driver's driving report.
+5The driver gets a summaryOnce the driver has stopped driving, they get a summary of the drive too.
+A speeding alert app only makes sense if everyone in the group knows the order of things, so here it is.
+What counts as speeding in a speed limit alert app?
+In HeyPolo, speeding means driving at a speed that local police can warn or fine you for. The limit for each road comes from local maps, and the alert works on any speed limit, so nobody has to type in a number.
+A speed limit app is only useful if its idea of speeding matches the law where the driver actually is. HeyPolo uses the limit for the road under the driver, wherever in the world that road is, and sends the alert the first time the driver goes over it on a given drive.
+Who decides what gets shared and who gets alerted?
+The driver decides. Nobody in the group gets speed alerts for a drive until the driver chooses to share their speed data, and the driver picks when. Once they do, each person in the group decides for themselves whether to be alerted when that driver starts to speed. The driver gets a summary of the drive after they have stopped.
+Each person in the group makes a separate choice. A parent may want the alert, a sibling may not, and the driver still decides whether anyone sees speed data at all.
+An alert the first time a drive goes over the limit
+The speed limit comes from local maps wherever the driver is, on iPhone and Android.
+Can speed alerts help a family talk about teen speeding?
+They can. A teenager who chooses to share speed data gives their parents the option to be alerted the first time a drive goes over the limit. The teen gets their own summary after the drive, so each of them has something concrete to talk about.
+Sharing starts with the teenager's yes, so the first conversation happens before any alert does. After that, an alert gives you one specific drive to bring up, and your teen has a summary of that drive too.
+Is HeyPolo a speed tracker app?
+If you are looking for a speed tracker app to know when someone drives over the limit, HeyPolo sends an alert the first time it happens on a drive, for drivers who have chosen to share speed data. Speed alerts sit inside a location-sharing app with arrival alerts, SOS, and low battery alerts, all under one subscription.
+Does HeyPolo work as a speed limit alert app for iPhone?
+Yes. Speed alerts work the same on iPhone and Android, and they work globally, so a group with mixed phones, or a driver in another country, gets the same alerts. The speed limit comes from local maps wherever the driver is.
+When might a speed alert not arrive?
+Speed alerts need a GPS connection and a cell tower connection. With both, alerts go out. In a long tunnel, or when a driver is stuck inside one in a traffic jam, the connection can drop for a while, so a temporary outage is expected there.
+Will everyone in the group need to pay?
+No. One person subscribes, and the people they invite join with an invite code and get every feature except creating their own group and inviting other people. Plans start around $48 a year.
+If HeyPolo is not right for you, you can ask for a refund within 30 days, whichever way you paid. You add a payment method when you subscribe.
+30-day money-back guarantee
+Which other features come with the same subscription?
+Arrival and departure alerts
+Set the places that matter, and your group knows when someone arrives or leaves.
+One-tap SOS
+One tap sends your exact location to your group, even if you were sharing a general area or in private mode.
+Low battery alerts
+Your group gets a heads-up when your phone is around 20%, so a phone that goes quiet has an explanation.
+Timed sharing and private mode
+Share for as little as one minute or as long as 24 hours in a row. Private mode shows nothing to the group while your own trip history keeps logging for you.
+Severe weather alerts
+In the US, HeyPolo sends severe weather warnings from government weather services for your immediate area. US only for now.
+FAQ
+Does the driver have to share speed data?
+No. The driver decides if and when to share their speed data. Until they do, nobody in the group gets speed alerts for their drives.
+Can I choose not to get speed alerts?
+Yes. Anyone in the group can decide for themselves whether to be alerted when a driver starts to speed.
+What does the driver see after a drive?
+A summary of the drive, once they have stopped driving.
+What happens when I tap a speed alert?
+The notification opens that driver's driving report in the app.
+How long is driving history kept?
+Driving history is kept for 30 days. Per the privacy policy, geolocation and trip data are processed for 30 days or until consent is withdrawn, whichever comes first.
+Is my speed data sold?
+No. Your location and driving data is never sold or monetized, and it is not handed to advertisers or data brokers.
+Can I cancel or get a refund?
+Yes. There is a 30-day money-back guarantee, no strings attached. On the web, the customer portal lets you turn off auto-renewal yourself, which stops the plan from renewing. To cancel and get a refund, contact support. Refunds are no questions asked as long as the payment can be verified. On mobile, you cancel through your app store's subscription settings.
+Ready to set up speed alerts for your group?
+Start a group, invite the people you drive with, and let each driver decide what to share. You have 30 days to see if it fits.
+30-day money-back guarantee
+Who HeyPolo is for
+How HeyPolo compares
+FEATURES
+FOR WHO
+RESOURCES
+COMPANY
+SOCIAL
+Copyright © 2026 HeyPolo. All Rights Reserved
