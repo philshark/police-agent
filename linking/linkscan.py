@@ -42,9 +42,9 @@ MAX_FAIL_SHARE = 0.25        # abort if more than this share of fetches fail
 
 EXCERPT_WORDS_BLOG = 1500    # stored in the cache, used for change detection
 EXCERPT_WORDS_OTHER = 150    # non-blog link targets only need a short summary
-SCORING_EXCERPT_WORDS = 450  # what Claude reads for each article being scored
-FORWARD_CANDIDATES = 20      # pages an article could link out to, per article
-REVERSE_CANDIDATES = 12      # older articles that could link to a new article
+SCORING_EXCERPT_WORDS = 350  # what Claude reads for each article being scored
+FORWARD_CANDIDATES = 15      # pages an article could link out to, per article
+REVERSE_CANDIDATES = 10      # older articles that could link to a new article
 MAX_CHANGED_PER_RUN = 10     # guard against dynamic page content
 CHANGE_RATIO = 0.85          # text similarity below this counts as "changed"
 DEFAULT_BACKFILL_LIMIT = 15
@@ -412,6 +412,12 @@ def main():
                "fetched_at": now_iso()}
         if is_blog:
             rec["outlinks"] = sorted({lk for lk, _ in ex["links"] if lk != k})
+            anchors = {}
+            for lk, at in ex["links"]:
+                at = at[:80]
+                if lk != k and at and at not in anchors.setdefault(lk, []):
+                    anchors[lk].append(at)
+            rec["anchors"] = anchors
         pages[k] = rec
 
     if len(failures) > MAX_FAIL_SHARE * len(order):
@@ -453,11 +459,43 @@ def main():
                             " ".join(words_of(rec["excerpt"])[:n])])
     vecs = build_vectors(docs)
 
-    def cand(k, sim, n_words):
+    # Site-wide link stats, so the report can vary anchors and favour pages that get few links.
+    inbound, anchors_in_use = Counter(), {}
+    for k in blog_keys:
+        if k not in pages:
+            continue
+        for lk in pages[k].get("outlinks", []):
+            inbound[lk] += 1
+        for lk, ats in pages[k].get("anchors", {}).items():
+            for at in ats:
+                anchors_in_use.setdefault(lk, Counter())[at.lower()] += 1
+
+    def best_passage(source_key, target_key):
+        """The sentence in the source text that overlaps most with the target's key terms.
+        Gives Claude (and the reader) a real spot to place the link. Empty if nothing fits."""
+        text = pages[source_key]["excerpt"]
+        top = sorted(vecs[target_key].items(), key=lambda kv: -kv[1])[:25]
+        weights = dict(top)
+        best, best_score = "", 0.0
+        for sent in re.split(r"(?<=[.!?])\s+", text):
+            if not 40 <= len(sent) <= 400:
+                continue
+            sc = sum(weights.get(t, 0.0) for t in set(tokens(sent)))
+            if sc > best_score:
+                best, best_score = sent, sc
+        return best[:260] if best_score >= 0.15 else ""
+
+    def cand(k, sim, n_words, text_key=None, target_key=None):
         r = pages[k]
-        return {"url": r["url"], "type": r["type"], "title": r["title"] or r["h1"],
-                "summary": " ".join(words_of(summary_of(r, n_words))[:n_words + 15]),
-                "similarity": round(sim, 3)}
+        c = {"url": r["url"], "type": r["type"], "title": r["title"] or r["h1"],
+             "summary": " ".join(words_of(summary_of(r, n_words))[:n_words + 15]),
+             "similarity": round(sim, 3), "inbound_links": inbound.get(k, 0),
+             "anchors_in_use": [a for a, _ in anchors_in_use.get(k, Counter()).most_common(4)]}
+        if text_key:
+            # forward: text from the article, terms from the target page.
+            # reverse: text from the older article, terms from the new article.
+            c["passage"] = best_passage(text_key, target_key)
+        return c
 
     articles = []
     for k in blog_keys:
@@ -471,13 +509,13 @@ def main():
         entry = {"url": rec["url"], "reason": reasons[k], "title": rec["title"], "h1": rec["h1"],
                  "meta": rec["meta"], "excerpt": " ".join(words_of(rec["excerpt"])[:SCORING_EXCERPT_WORDS]),
                  "existing_internal_links": len(linked),
-                 "forward_candidates": [cand(t, s, 35) for s, t in fwd[:FORWARD_CANDIDATES]],
+                 "forward_candidates": [cand(t, s, 35, text_key=k, target_key=t) for s, t in fwd[:FORWARD_CANDIDATES]],
                  "reverse_candidates": []}
         if reasons[k] == "new" and mode == "weekly":
             rev = [(cosine(vecs[k], vecs[s]), s) for s in blog_keys
                    if s != k and s not in reasons and s in pages and k not in set(pages[s].get("outlinks", []))]
             rev.sort(reverse=True)
-            entry["reverse_candidates"] = [cand(s, v, 40) for v, s in rev[:REVERSE_CANDIDATES]]
+            entry["reverse_candidates"] = [cand(s, v, 40, text_key=s, target_key=k) for v, s in rev[:REVERSE_CANDIDATES]]
         articles.append(entry)
 
     # 5. Health checks
