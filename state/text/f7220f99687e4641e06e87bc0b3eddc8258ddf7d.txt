@@ -11,7 +11,8 @@ Phil
 5 min read•August 16, 2026
 Life360 is a popular location-sharing app used by families and friends to stay connected.
 However, growing concerns about how location data may be collected, shared, and monetized have led some users to .
-For people who consider precise location history especially sensitive, simply trusting that an app is no longer being used may not provide enough reassurance
+For people who consider precise location history especially sensitive, simply trusting that an app is no longer being used may not provide enough reassurance.
+Use the code REMOVELIFE360 at HeyPolo's checkout to save 70% when you buy the annual plan
 Deleting your Life360 Account
 You can delete your Life360 account, but account deletion should be only one part of the process. If you want as much of your personal information as possible removed from Life360’s systems, you'll first migrate anything you need, stop further data collection, disconnect linked services and devices, cancel your paid subscription, and submit a formal data-deletion request.
 You should also ask Life360 to identify any information it must retain for legal purposes, explain why it is being retained, and delete it when the applicable retention period ends.
@@ -25,6 +26,7 @@ Raw location data: approximately 30 days.
 “Dwell” location data: up to 18 months.
 These are Life360’s operational retention periods, not legal minimums, and the guidelines do not say they apply only to paid accounts.
 GDPR applies primarily based on where you are located and where the processing occurs, not simply because you mention GDPR. If GDPR does not apply, use the same request under your applicable U.S. state privacy law. Life360 currently recognizes access, portability, correction, deletion, opt-out, and appeal rights under numerous U.S. state laws.
+Switch from Life360 to a better alternative: Use the code REMOVELIFE360 at HeyPolo's checkout to save 70% when you buy the annual plan
 Step-by-step Life360 migration and deletion checklist
 1. Identify everything you need to migrate
 Before deleting anything, make a list of the information and functionality you want to migrate:
@@ -233,11 +235,13 @@ Reply and identify each unanswered item.
 State that you are appealing the decision.
 If GDPR applies, complain to your local data-protection authority.
 If a U.S. state privacy law applies, use Life360’s appeal process and then contact your state attorney general if necessary. Life360 specifically directs denied U.S. requests to for appeal.
+Switch from Life360 to a better alternative: Use the code REMOVELIFE360 at HeyPolo's checkout to save 70% when you buy the annual plan
 Use A Better, Privacy-First, Location-Sharing app
 Moving away from Life360 involves more than uninstalling the app or pressing Delete Account.
 If any records must remain for legitimate legal purposes, ask that they be minimized, restricted from unrelated use, and automatically deleted once the applicable retention period expires.
 At HeyPolo, we believe location sharing should not require families to sacrifice control over their personal information. Privacy and security should be built into a service from the beginning, not treated as settings users must hunt down after their data has already been collected.
 Whatever alternative you choose, review its privacy practices carefully and select a service that collects only what it needs, clearly explains how information is used, and makes it easy to migrate or delete your data when you decide to leave.
+Switch from Life360 to a better alternative: Use the code REMOVELIFE360 at HeyPolo's checkout to save 70% when you buy the annual plan
 FAQ
 Does deleting the Life360 app delete my account?
 No. Deleting or uninstalling the app from your phone does not necessarily delete your Life360 account or the information already associated with it. To permanently close the account, use Life360’s account-deletion process and complete any required verification steps.
