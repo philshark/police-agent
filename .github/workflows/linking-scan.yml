@@ -1,0 +1,59 @@
+name: heypolo linking scan
+
+on:
+  schedule:
+    # Sunday 21:00 UTC, a few hours before the Monday routine reads the result.
+    - cron: "0 21 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "auto = weekly if a cache exists, otherwise first backfill batch"
+        type: choice
+        default: auto
+        options: [auto, weekly, backfill]
+      offset:
+        description: "Backfill only: skip this many articles"
+        default: "0"
+      limit:
+        description: "Backfill only: how many articles to include in this batch"
+        default: "15"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: heypolo-linking
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scanner
+        env:
+          MODE: ${{ inputs.mode || 'auto' }}
+          OFFSET: ${{ inputs.offset || '0' }}
+          LIMIT: ${{ inputs.limit || '15' }}
+        run: python linking/linkscan.py --mode "$MODE" --offset "$OFFSET" --limit "$LIMIT"
+
+      - name: Commit results
+        if: success()
+        run: |
+          git config user.name "heypolo-linking-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add linking/data
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "linking scan $(date -u +%F)"
+            for i in 1 2 3; do
+              git pull --rebase -q && git push && break
+              sleep 5
+            done
+          fi
