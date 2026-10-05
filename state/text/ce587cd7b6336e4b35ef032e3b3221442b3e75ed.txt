@@ -18,7 +18,7 @@ Most want the number first. Get the number, then get the rest of the rule, becau
 How many passengers can a new driver have
 No single nationwide passenger number applies to in the United States.
 Your state's limit comes out of four things read together: the license stage,  , the ages of the passengers, and the state's written exceptions.
-License stage sets the baseline, since a learner's permit and a provisional license carry different rules in most states.
+License stage sets the baseline, since a learner's permit and a provisional license carry different in most states.
 Time held matters because passenger limits often relax after a set number of months. Passenger age matters because states count only passengers under a stated age, not every body in the car. Exceptions come last, and they are where families most often get caught out, since immediate family and a supervising adult are treated differently from state to state.
 Adult first-time drivers sit in a different position. Many state passenger restrictions apply to drivers below a stated age or to anyone in a provisional stage. A 27-year-old who just passed the test may face no limit at all.
 Graduated licensing decides which rule your teen is under
@@ -49,9 +49,9 @@ Does a missed turn prompt a calm next-exit correction, or a reaction that betray
 Does the seat-belt and phone agreement hold when you're not watching?
 And can your teen actually tell a friend when they're being distracting? (which is harder than it sounds at 16)
 Families who want often start with one passenger on a familiar daytime route, even where state law would permit more.A short drive to a friend's house your teen has driven to twenty times gives you something to review together. A carload heading somewhere new after dark does not.
-HeyPolo speed alerts let you know if a young driver is going considerably faster than expected, which gives a family conversation something concrete to work from instead of turning every drive into a report card.
+let you know if a young driver is going considerably faster than expected, which gives a family conversation something concrete to work from instead of turning every drive into a report card.
 Driving with friends for new drivers works better with an agreed check-in
-The plan that holds up is the one your teen helped write. Before the first trip with friends, families generally settle four things: who is riding, where they are going, when they expect to arrive, and what happens if the plan changes. Agreeing that a change of destination gets a message before the car moves saves the version where you find out at 11 p.m.
+The plan that holds up is the one your teen helped write. Before the first trip with friends, families generally settle four things in a : who is riding, where they are going, when they expect to arrive, and what happens if the plan changes. Agreeing that a change of destination gets a message before the car moves saves the version where you find out at 11 p.m.
 Repeated arrival texts are the part most families end up hating. A parent asks, a teen answers while driving or ignores it, and the same exchange repeats the following weekend. Location sharing set to a time window closes that loop, provided your teen is the one who switches it on and the sharing ends when the trip does. In HeyPolo, sharing is switched on by the person being shared, they can set an end time, and private mode pauses it.
 With HeyPolo, your teen can and switch to private mode afterward, so a Friday night check-in does not turn into permanent tracking.
 What to settle before the first trip with friends

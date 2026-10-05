@@ -19,7 +19,7 @@ HeyPolo works on both iPhone and Android, which makes it the most straightforwar
 It goes further than just compatibility. It's a privacy-first location-sharing app where every person controls exactly how, when, and with whom they share their location.
 Updates refresh continuously too, so you're seeing rather than a stale pin from ten minutes ago. If you just want to check where someone's been rather than watching live, you can glance back at.
 You can be visible to some people in your household and invisible to others, share your exact spot or just a general area, perfect for balancing security with wanting to stay connected with your family.
-You can also set place alerts: get notified when someone arrives at or leaves a location, without opening the app to check. And if someone needs help, they can send an SOS to their chosen emergency contacts directly from the app. And if someone needs help, they can send an SOS to their chosen emergency contacts directly from the app, the same kind of feature worth building into an that covers more than just severe weather.
+You can also set : get notified when someone arrives at or leaves a location, without opening the app to check. And if someone needs help, they can send an to their chosen emergency contacts directly from the app. And if someone needs help, they can send an SOS to their chosen emergency contacts directly from the app, the same kind of feature worth building into an that covers more than just severe weather.
 Location sharing instructions on HeyPolo
 Download HeyPolo on iPhone or Android. One person pays for the subscription. Everyone else joins for free.
 Create a group or invite all your contacts

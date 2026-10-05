@@ -19,6 +19,7 @@ You should also ask Life360 to identify any information it must retain for legal
 The following step-by-step guide explains how to migrate away from Life360 while reducing the amount of personal data that remains on its servers.
 TL;DR, Delete Your Account Like this:
 Migrate service → export data → stop collection → opt out → disconnect partners and devices → cancel subscription → submit formal deletion request → delete account → revoke permissions → uninstall → verify and follow up.
+- What You Need To Know
 Important To Know Beforehand:
 A paid Life360 account does not create a blanket legal requirement for Life360 to retain all your data for a fixed period. Some limited records, such as transaction, tax, fraud-prevention, dispute, or legal-claim records, may need to remain, but Life360 does not publish a specific retention period for every category. Its current policy says retention varies according to purpose, legal obligations, disputes, audits, legal defenses, and legitimate interests.
 Life360’s law-enforcement guidelines say it generally retains:
@@ -238,7 +239,7 @@ If a U.S. state privacy law applies, use Life360’s appeal process and then con
 Switch from Life360 to a better alternative: Use the code REMOVELIFE360 at HeyPolo's checkout to save 70% when you buy the annual plan
 Use A Better, Privacy-First, Location-Sharing app
 Moving away from Life360 involves more than uninstalling the app or pressing Delete Account.
-If any records must remain for legitimate legal purposes, ask that they be minimized, restricted from unrelated use, and automatically deleted once the applicable retention period expires.
+If any records must remain for legitimate legal purposes, ask that they be minimized, restricted from unrelated use, and automatically deleted once the applicable retention period expires. See our to learn more
 At HeyPolo, we believe location sharing should not require families to sacrifice control over their personal information. Privacy and security should be built into a service from the beginning, not treated as settings users must hunt down after their data has already been collected.
 Whatever alternative you choose, review its privacy practices carefully and select a service that collects only what it needs, clearly explains how information is used, and makes it easy to migrate or delete your data when you decide to leave.
 Switch from Life360 to a better alternative: Use the code REMOVELIFE360 at HeyPolo's checkout to save 70% when you buy the annual plan
