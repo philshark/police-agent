@@ -40,9 +40,9 @@ If you are choosing a safe driver app for someone who has just started driving, 
 Will riding as a passenger change my driving score?
 By default, HeyPolo does not distinguish a driver from a passenger, so a ride in someone else's car (an Uber, say) can register driving events. You can mark yourself as a passenger for that trip. The risky driving event still shows up, and it does not count against your score, which keeps the score a record of your own driving.
 Does the driving score cost extra?
-The driving score is part of the HeyPolo plan, which starts around $48 a year. Someone who joins your group with an invite code gets every feature, driving score included, except creating a group of their own and inviting other people. A payment method is required upfront, and a 30-day money-back guarantee covers you whatever you paid with and wherever you bought it.
+The driving score is part of the HeyPolo plan, which starts at $3.99 a month billed annually. Someone who joins your group with an invite code gets every feature, driving score included, except creating a group of their own and inviting other people. A payment method is required upfront, and a 30-day money-back guarantee covers you whatever you paid with and wherever you bought it.
 Invited members get every feature except creating their own group and inviting others
-Starting around $48 a year
+From $3.99 a month billed annually
 30-day money-back guarantee
 Our promise to you
 Your driving and location data is never sold or monetized
@@ -57,7 +57,7 @@ Frequently asked questions
 Does a safe driving score mean I'm a safe driver?
 A safe driving score in HeyPolo is a rating of five habits: speeding, braking, acceleration, cornering, and phone use. A higher score tells you those habits are improving. It says nothing about the road ahead, and HeyPolo does not promise anyone a safe drive.
 What's the best safe driving app for a family?
-That depends on what you want from it. HeyPolo scores each trip from 1–10 on speeding, braking, acceleration, cornering, and phone use, measures you against your own past scores, and leaves it to the driver to decide who sees the result. A weekly report explains what shaped the week, and the plan starts around $48 a year. If you want feedback a driver has agreed to, HeyPolo is built for that.
+That depends on what you want from it. HeyPolo scores each trip from 1–10 on speeding, braking, acceleration, cornering, and phone use, measures you against your own past scores, and leaves it to the driver to decide who sees the result. A weekly report explains what shaped the week, and the plan starts at $3.99 a month billed annually. If you want feedback a driver has agreed to, HeyPolo is built for that.
 Can someone see my driving score without me knowing?
 No. Anyone in a group can see your score only after you decide to share it with that group.
 Does HeyPolo detect crashes as well?

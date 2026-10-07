@@ -36,7 +36,7 @@ Yes. Speed alerts work the same on iPhone and Android, and they work globally, s
 When might a speed alert not arrive?
 Speed alerts need a GPS connection and a cell tower connection. With both, alerts go out. In a long tunnel, or when a driver is stuck inside one in a traffic jam, the connection can drop for a while, so a temporary outage is expected there.
 Will everyone in the group need to pay?
-No. One person subscribes, and the people they invite join with an invite code and get every feature except creating their own group and inviting other people. Plans start around $48 a year.
+No. One person subscribes, and the people they invite join with an invite code and get every feature except creating their own group and inviting other people. Plans start at $3.99 a month billed annually, or $11.99 month to month.
 If HeyPolo is not right for you, you can ask for a refund within 30 days, whichever way you paid. You add a payment method when you subscribe.
 30-day money-back guarantee
 Which other features come with the same subscription?

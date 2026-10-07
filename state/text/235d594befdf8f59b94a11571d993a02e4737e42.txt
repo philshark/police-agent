@@ -14,20 +14,20 @@ How long you'll use it
 1mo2mo3mo6mo1yr2yr3yr4yr5yr
 monthly billingannual billing
 Life360 · gold
-$203.88 total
+$169.22 total
 for 1 year
 Per month
-$16.99
+$14.10
 Billing
-Billed monthly
+Billed annually
 HeyPolo
-$71.88 total
+$47.88 total
 for 1 year
 Per month
-$5.99
+$3.99
 Billing
-Billed monthly
-You save $132.00 over 1 year with HeyPolo
+Billed annually
+You save $121.34 over 1 year with HeyPolo
 Both apps charge one flat price per group, not per person. HeyPolo's flat rate covers unlimited members at no extra cost; Life360's Silver, Gold and Platinum memberships cover everyone in your Circle (up to 99 members) at one price too. Life360 annual pricing shown here is estimated from their advertised discount and should be verified at checkout.
 Stay connect, without being sold to whoever's paying for it
 Your data is never sold
@@ -59,7 +59,7 @@ Arrival alerts tell you Mum got home, and weather warnings tell you a heatwave i
 Carers of neurodiverse people
 Sharing only happens with consent, SOS is one tap away, and nobody's day turns into surveillance.
 Anyone leaving Life360
-Most popular doesn't always mean the best. Try HeyPolo free for 30 days.
+Most popular doesn't always mean the best. Backed by a 30-day money-back guarantee.
 Compare features
 Both apps cover live location, alerts and history. Here's where they actually differ.
 FeatureHeyPolo Life360
@@ -96,6 +96,7 @@ Unlimited groups on one subscription
 Every feature on a single tier
 Free trial
 30-day money-back guarantee
+30-day money-back guarantee
 Platforms & support
 iOS and Android
 Built by an established privacy company
@@ -108,7 +109,7 @@ It depends on your priorities. If you want insurance-style extras like roadside 
 Will I lose features by switching from Life360?
 The features most people actually use come across: real-time location sharing, location-based notifications, location history, car crash notifications, SOS alerts, severe weather warnings, private groups and driving speed monitoring. What you leave behind are Life360's insurance add-ons.
 How much does HeyPolo cost compared with Life360?
-HeyPolo is a single plan at $3.99/month billed annually ($47.88 upfront), or $5.99 month to month, and it covers your entire group. Life360's paid tiers start around $7.99/month and are generally priced per member, so a family on a higher tier adds up quickly.
+HeyPolo is a single plan at $3.99/month billed annually ($47.88 upfront), or $11.99 month to month, and it covers your entire group. Life360's paid tiers start around $7.99/month and are generally priced per member, so a family on a higher tier adds up quickly.
 Can someone check my location without me knowing?
 On Life360, yes, circle members can view your location with no notification. On HeyPolo, sharing is consent-based and you choose your own precision: exact position, general area, or private.
 How long does switching take?

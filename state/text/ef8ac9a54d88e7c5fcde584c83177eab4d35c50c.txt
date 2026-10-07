@@ -49,7 +49,7 @@ Everyone's findable, nobody's the product, and we never sell your location to ad
 Shift workers
 Finishing at 2am and walking to the car alone, someone you trust can see you get there, and an SOS alert is one tap away.
 Anyone leaving GeoZilla
-Flat price, clear cancellation, 30-day money-back guarantee. Try HeyPolo free for 30 days.
+Flat price, clear cancellation, 30-day money-back guarantee.
 Compare features
 GeoZilla covers most of the same safety ground, so the real differences are in data handling and how the plans are structured.
 FeatureHeyPolo GeoZilla
@@ -79,6 +79,7 @@ One flat price for the whole groupGeoZilla's Family Plan covers the owner's fami
 Every feature on a single tierGeoZilla splits Free and Premium
 Free trial
 30-day money-back guarantee
+30-day money-back guarantee
 Platforms and support
 iOS and Android
 Built by an established privacy companyHeyPolo is built by Surfshark
@@ -92,7 +93,7 @@ Its policy states data is not sold, but the same policy discloses sharing locati
 Is HeyPolo more reliable than GeoZilla?
 GeoZilla reviewers frequently report random logouts, tracking that silently stops and delayed locations. HeyPolo is built and maintained by a company whose core product is this app, and support is included on every plan.
 How much does HeyPolo cost?
-One plan, $3.99/month billed annually ($47.88 upfront) or $5.99 month to month, covering everyone you invite across unlimited groups. No trial trapdoor and no tier upgrades.
+One plan, $3.99/month billed annually ($47.88 upfront) or $11.99 month to month, covering everyone you invite across unlimited groups. No trial trapdoor and no tier upgrades.
 Will I lose features by switching from GeoZilla?
 The everyday ones come across: live location, place alerts, location history, driving speed monitoring, crash notifications and SOS. You also gain severe weather warnings and general-area sharing.
 Can someone see my exact location all the time?

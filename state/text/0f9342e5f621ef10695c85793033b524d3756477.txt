@@ -40,7 +40,7 @@ $24.99/mo
 Adds ID theft and stolen funds cover, 50 miles of towing and credit monitoring.
 Better and cheaper
 HeyPolo, one plan
-$5.99/mo
+$11.99/mo
 HeyPolo covers everything you picked, for your whole group, at a lower price than the Life360 plan highlighted above. Unlimited place alerts, live location, SOS and crash detection are all on the only plan there is.
 HeyPolo covers the location side at a lower price, but not everything you picked. Emergency dispatch, roadside cover, ID theft protection, driver reports and a month of history are Life360 features.
 Everything you picked is in the free plan.
@@ -126,7 +126,7 @@ Data partnerships off by default
 Plain-English privacy policy
 AES-256 at rest, TLS in transitNot statedNot stated
 Plans and pricing
-Monthly price$0$9.99 to $24.99$5.99
+Monthly price$0$9.99 to $24.99$11.99
 Covers the whole group on one bill
 Member cap99 per Circle99 per CircleUnlimited
 Unlimited groups
@@ -135,7 +135,7 @@ Try before you commitFree forever7-day free trial30-day money-back guarantee
 Where HeyPolo is the better buy
 HeyPolo costs less than Life360's cheapest paid tier
 Life360's paid tiers are priced around an assistance bundle. If what you want is the location app, you are paying for towing and credit monitoring to get 30 days of history.
-HeyPolo is $5.99 a month, or $3.99 a month billed annually at $47.88 upfront. That is less than Silver at $9.99, and it includes unlimited place alerts, which Life360 keeps behind Gold at $16.99.
+HeyPolo is $11.99 a month, or $3.99 a month billed annually at $47.88 upfront. That is less than Silver at $9.99, and it includes unlimited place alerts, which Life360 keeps behind Gold at $16.99.
 Location history is 7 days, the same as Silver, at a lower price than Silver. Gold is the tier that gives you a full month, and if looking back further than a week matters to you, that is a real reason to pay Life360.
 One person pays and everyone they invite joins free, across unlimited groups and unlimited members. There is one plan, so the price you see now is the price at any group size.
 Everything in the price is a location or safety feature
@@ -160,7 +160,7 @@ Home and school, and then you are out of alerts. Unlimited places on HeyPolo, on
 Parents of teen drivers
 Crash notifications and speed alerts as standard. If you want a dispatcher on the line as well, Life360 Silver does that and HeyPolo does not.
 Anyone quoted Gold for features they wanted from Silver
-30 days of history and unlimited places sit behind $16.99 a month at Life360. Both are included at $5.99.
+30 days of history and unlimited places sit behind $16.99 a month at Life360. Both are included at $11.99.
 Shift workers
 Finishing at 2am and walking to the car alone, someone you trust can see you get there, and SOS is one tap away.
 Friend groups
@@ -189,7 +189,7 @@ Life360 announced in January 2022 that it would stop selling precise location da
 Can someone check my location on Life360 without me knowing?
 Yes. Circle members can view your location and you get no notification. HeyPolo is consent-based and you pick your own precision per person: exact position, general area, or private.
 How much does HeyPolo cost compared with Life360?
-HeyPolo is one plan at $3.99 a month billed annually ($47.88 upfront), or $5.99 month to month, covering your whole group. Life360's cheapest paid tier is $9.99 a month.
+HeyPolo is one plan at $3.99 a month billed annually ($47.88 upfront), or $11.99 month to month, covering your whole group. Life360's cheapest paid tier is $9.99 a month.
 Will I lose anything switching from Life360 to HeyPolo?
 Three things. Emergency dispatch, where a 24/7 operator responds to a crash or an SOS and can send an ambulance. The assistance bundle on Gold and Platinum: roadside, towing, ID theft cover and credit monitoring. And a full month of location history, since HeyPolo keeps 7 days rather than 30. Everything else comes across, and precision control and scheduled sharing are things Life360 does not offer on any tier.
 How long does switching take?
