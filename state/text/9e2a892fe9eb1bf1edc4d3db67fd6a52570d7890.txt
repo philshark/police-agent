@@ -101,6 +101,7 @@ How long we keep it
 Your email address, the content of the email letter, the date and time of the email letter sent.
 Legal basis for the processing of personal data is your consent or our legitimate interest to conduct marketing activities.
 We will process your information until we receive your opt-out request.
+Additionally, to assist you with your order, we may send an email if a purchase remains incomplete. This is based on our legitimate interest in enhancing your experience with us and helping you resolve any order-related issues.
 To stop receiving our marketing emails, you can either click the "unsubscribe" link at the bottom of any email or send an opt-out request to support@heypolo.com. If you have more than one email address in our system, you will need to unsubscribe each one to be fully removed.
 To ensure you receive our Services properly, we will ask for your separate consent to send you push notifications. These notifications will be related to your use of the Service or that of your group members. You can always turn off push notifications in your device settings.
 1.8. To facilitate your communication with our customer support team and handle any inquiries you submit:
