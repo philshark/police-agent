@@ -9,7 +9,7 @@ OtoZen is built for US parents of new drivers. HeyPolo is built for families whe
 If you're weighing up an OtoZen alternative, here's how they compare.
 At a glance
 OtoZenHeyPolo
-Price$49.99 to $64.99/yr (promo)$3.99/mo billed annually, or $11.99 monthly
+Price$49.99 to $64.99/yr (promo)$7.99/mo billed annually, or $19.99 monthly
 MembersUp to 4 or 8Unlimited
 Crash detectionUS onlyYes
 Severe weather alertsNoYes
@@ -96,7 +96,7 @@ We couldn't verify it. OtoZen's website lists USD, CAD, GBP, AUD, NZD and INR pr
 Does OtoZen crash detection work outside the United States?
 No. OtoZen's Help Center says crash detection and professional emergency dispatch are available only within the United States. Outside the US, its SOS notifies only your OtoZen connections.
 How much does OtoZen cost?
-On otozen.com, Family (up to 4) is $49.99 a year and Family Plus (up to 8) $64.99 a year, shown as 50% off. The UK App Store lists £69.99 and £99.99 a year. HeyPolo is $47.88 a year for unlimited people.
+On otozen.com, Family (up to 4) is $49.99 a year and Family Plus (up to 8) $64.99 a year, shown as 50% off. The UK App Store lists £69.99 and £99.99 a year. HeyPolo is $95.88 a year for unlimited people.
 Does OtoZen sell my data?
 OtoZen says your data is never sold to third parties. Its Google Play data safety label says the app may share app activity and device IDs with third parties. HeyPolo never sells your location and analytics partners never receive it.
 Is OtoZen a Life360 alternative?

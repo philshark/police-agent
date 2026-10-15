@@ -9,7 +9,7 @@ Google Maps is a great way to share an ETA with someone. It was never built as a
 HeyPolo keeps the live map and adds the alerts that matter when something goes wrong.
 At a glance
 Google MapsHeyPolo
-PriceFree$3.99/mo billed annually, or $11.99 monthly
+PriceFree$7.99/mo billed annually, or $19.99 monthly
 Place alertsUp to 5 per personUnlimited
 SOS and crash alertsNoneSent to your group
 GroupsOne person at a timeUnlimited private groups

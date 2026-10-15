@@ -93,7 +93,7 @@ Its policy states data is not sold, but the same policy discloses sharing locati
 Is HeyPolo more reliable than GeoZilla?
 GeoZilla reviewers frequently report random logouts, tracking that silently stops and delayed locations. HeyPolo is built and maintained by a company whose core product is this app, and support is included on every plan.
 How much does HeyPolo cost?
-One plan, $3.99/month billed annually ($47.88 upfront) or $11.99 month to month, covering everyone you invite across unlimited groups. No trial trapdoor and no tier upgrades.
+One plan, $7.99/month billed annually ($95.88 upfront) or $19.99 month to month, covering everyone you invite across unlimited groups. No trial trapdoor and no tier upgrades.
 Will I lose features by switching from GeoZilla?
 The everyday ones come across: live location, place alerts, location history, driving speed monitoring, crash notifications and SOS. You also gain severe weather warnings and general-area sharing.
 Can someone see my exact location all the time?
