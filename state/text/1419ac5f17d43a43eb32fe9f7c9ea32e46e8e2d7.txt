@@ -1,23 +1,23 @@
-Group Location Sharing for Family and Friends | HeyPolo
+Group Location Sharing App for Family and Friends | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
 A group location app built for families and friends
-Know everyone reached where they were going, without sending a single “where are you?” text.
+A group location app and shared map for your family or friends so you can skip the ‘where are you?’ texts.
 Unlimited groups, unlimited invited members
 Exact location or general area, each person's call
 One subscription covers everybody you invite
 30-day money-back guarantee
-👨‍👩‍👧4 people sharing in FamilyUpdated 5 sec ago
-Families already sharing in groups
+👨‍👩‍👧4 people sharing in the group ‘fam’Updated 5 sec ago
+Families and friends already sharing in HeyPolo groups
 One person subscribes and everyone they invite joins free. Built by the team behind Surfshark, with a 30-day money-back guarantee if it isn't for you.
 $19.99/month or $7.99/month billed annually, one plan for your whole family.
 4.9 ★on App Store
 4.9 ★on Google Play
 90.7%recommended on Mumsnet
 What is group location sharing?
-Group location sharing means a small circle of people you invite can see each other's whereabouts in one place, with every member deciding what they show and for how long. Whether you call it a group location app or a location sharing groups app, HeyPolo works the same way: a group of people, one shared map, and everyone choosing their own visibility.
+Group location sharing puts everyone in a small invited circle on one shared map. You might also hear it called a family map app, a family circle app or location sharing circles. Each member decides whether the group sees their exact location, a general area or nothing at all.
 A group on HeyPolo begins when one person creates it and passes round a join code. From there, each member picks their own visibility for that circle: exact location refreshing every 5 seconds, a general area instead of a precise pin, a time window that closes itself, or private mode. Nobody lands on the map by accident, and everybody can see who's sharing what.
 Parents of phone-age kids lean on this. So do adult children checking in on a parent who lives alone, households with a new driver, and friends splitting up at a festival.
 Update frequency
@@ -30,7 +30,7 @@ Platforms
 iOS, Android
 Battery impact
 ~4% / day
-How group sharing works on HeyPolo
+How location sharing groups work on HeyPolo
 One person starts the circle, everybody else joins with a code, and from there each member sets their own terms. Nothing about a group is decided for you.
 Create a group and invite people by code
 Name the circle, copy the join code, and send it to whoever belongs in it.
@@ -45,7 +45,7 @@ Cover a night out or a drive and let the window close itself.
 Private mode pauses you, membership stays
 You remain in the circle, your position simply stops going out.
 FFamily, 4 members sharingUpdated 5 sec ago
-Where a group earns its place
+The best situations to use a group location app
 A shared location group proves itself in small moments: a bus home, a first solo drive, a Sunday when nobody picks up for an hour, and a meeting point four friends somehow cannot find.
 Teenagers heading out on their own
 Friday evening, two buses, and a phone she'll check when she remembers.
@@ -59,8 +59,8 @@ A new driver on a longer trip
 First solo drive to a friend's place two towns over.
 Arrival alerts tell you he made it, with no verdict on how he drove
 He picks his own setting for that circle and can pause whenever
-A friend group location app for festival weekends
-Four people, one festival, and a wristband queue that split everyone up, exactly when a friend group location app earns its keep.
+A friend group location app for festivals and road trips
+Share exact location for a few hours and let it end on its own. Unlimited groups keep your friends separate from your family.
 Exact location for a few hours, ending on its own when the timer runs out
 Unlimited groups keep festival friends separate from family, on one plan
 How HeyPolo compares with typical group location apps
@@ -155,9 +155,8 @@ Arrival and departure alerts
 SOS and emergency alerts
 Driving and speed alerts
 30-day money-back guarantee
-Privacy underneath every group
-HeyPolo runs on subscriptions, so your family's whereabouts pay for nothing else. Location travels from a member's phone straight to the people they picked, scrambled on the way so nobody in the middle can read it.
-Accuracy averages about 5 metres, tighter outdoors and looser between tall buildings, and history clears itself after 7 days.
+How HeyPolo keeps group locations private
+Locations are sent directly to the people a member picked and encoded in transit, so nobody in the middle can read them. Members see who is sharing, your location data is safe and never sold, and history clears itself after 7 days.
 You choose what each group seesSettings work per circle, so your hiking friends and your parents can see different things.
 Your location is never soldNot to advertisers, not to insurers, not to data brokers. Never. Not now, not ever.
 Sharing stops when you say stopOne tap ends it. Or set a window and let it close on its own.
@@ -186,24 +185,22 @@ OCObsoleteCatLithuania
 Your family's location stays in your family
 30-day money-back guarantee
 Group location sharing FAQ
-What is the best group location sharing app for families?
+What is the best group location app for families?
 HeyPolo is our pick, and we'd say so even on a page we didn't write. Every member controls their own sharing, which is what keeps a family circle installed past the first month. Exact location or general area, per-group settings, private mode, and one subscription covering everybody invited. Available on iPhone and Android.
-How do I create a group on HeyPolo?
+How do I create a location sharing group?
 Open the app, tap the group icon at the top of your home screen, then select Create group. Name the circle, choose your role, and adjust your visibility preferences for it. Copy the code at the bottom of that screen and send it to family or friends. Later, tap Add people inside any circle to invite more.
-Can I share location with a group without showing my exact spot?
-Yes. General-area sharing shows roughly where you are instead of pinning you precisely, and it works per group, so one circle can see the neighborhood while another sees the street. Teenagers and young adults tend to prefer this setting, and older parents often do too. Switch between exact and general whenever you like.
-Is a group tracking app the same as group location sharing?
+What is the difference between a group tracking app and group location sharing?
 A group tracking app and group location sharing solve for different people. A tracking app is usually built around the person watching, while sharing puts the choice with the person being seen. On HeyPolo, a group works as checking in: you decide who sees you, how precisely, and when it ends.
-Does HeyPolo go by other names, like a family map app or location sharing circles?
-Yes. People search for this feature under plenty of names, and they all point at the same thing here. Call it a family map app, a family group map app, or a shared map app for family, and you land on the same shared map with everyone's dot, refreshing every 5 seconds on iPhone and Android alike. Others call it a family circle app, location sharing circles, or a shared location map app; the name changes, the feature doesn't. One group, joined by invite, with each person choosing their own visibility.
-Is there an app to see where everyone is at once?
+Is a family map app the same as group location sharing?
+Yes. Family map app, family circle app, location sharing circles and shared location map app all describe a group of invited people on one map, where each person controls what they share.
+Is there an app to see where everyone is on one map?
 Yes. Open HeyPolo and every group you belong to shows on one map, each person's dot updating every 5 seconds while they have the app open. You're not hunting through separate messages or apps to find one person; everyone who's chosen to share for that circle is already there. Switch between your family group and a friend group without leaving the map.
-Can I use one app to track multiple family members?
-One HeyPolo group covers your whole family, so you're not paying per person or juggling a separate app for each relative. Add as many family members as you like to a single circle, and each one sets their own visibility, exact location, general area, or private mode. You see everyone's status in one place instead of checking in with each person separately.
-How many days of location history are kept?
-Seven. You can look back at where someone has been over the past week without leaving live tracking running all day, and after 7 days that data is removed entirely.
-Do I need a separate subscription for each family member?
-No. One person subscribes, then everybody they invite uses the full app free, including arrival alerts, low-battery alerts, and SOS. Your cost holds steady as relatives get added, so there's no per-person math to redo each time. Cancel any time, and 30 days of money-back cover sits behind the annual plan.
+Is there an app to track multiple family members?
+Yes. One group can hold the whole family, and each member chooses their own sharing setting, so everyone is on the map by choice.
+Does HeyPolo work as a family map app on iPhone?
+Yes. HeyPolo works on iPhone and Android, so everyone in the family can join whichever phone they use.
+How do I share my location with friends?
+Create a group and share the join code. Each friend chooses what to share, including exact location for a set window of time.
 Related features
 See where someone is right now, refreshing every 5 seconds, for as long as they chose.
 Look back at shared routes and arrival times, with everything deleted automatically after 7 days.

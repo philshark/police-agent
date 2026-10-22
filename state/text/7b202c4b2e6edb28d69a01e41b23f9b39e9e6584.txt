@@ -1,24 +1,23 @@
-Real-Time Location Sharing for Families | HeyPolo
+Live Location Sharing App for Families | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
-An app to share your location, without anyone watching in secret
+A live location sharing app where you decide who sees you
 Know they got where they were going, without sending the third text.
-Real-time location, refreshed every 5 seconds
+Live location, refreshed every 5 seconds while the app is open
 Share an exact spot, a general area, or nothing at all
 One subscription covers everyone you invite
 30-day money-back guarantee
 📍Mia is sharing liveUpdated 5 sec ago
-Families already using HeyPolo
+Families already using HeyPolo as their app to share location
 One person subscribes and everyone they invite joins free. Built by the team behind Surfshark, with a 30-day money-back guarantee if it isn't for you.
 From $4.99/month, one plan for your whole family.
 4.9 ★on App Store
 4.9 ★on Google Play
 90.7%recommended on Mumsnet
 What is real-time location sharing?
-HeyPolo is a share location app that lets the people you choose see exactly where you are right now, not an hour ago and not a rough guess. Your position refreshes every 5 seconds while sharing is on, and you decide who sees your location, how precisely, and for how long. Leave it on indefinitely, or set a window so it stops on its own.
-Most people turn it on after one specific worry repeats: a teenager heading home in the dark, a parent living an hour up the highway, a new driver on their first solo trip. Everyone in the group controls their own settings, exact location or general area, which is usually what keeps a family still using it past the first couple of weeks.
+Real-time location sharing lets the people you choose see where you are right now, with your position refreshing every 5 seconds while the app is open. HeyPolo is a live location sharing app, so you decide who sees you, how precisely and for how long. Leave sharing on, or set a window and it stops on its own.
 Update frequency
 5 sec live
 Typical accuracy
@@ -30,8 +29,8 @@ iOS, Android
 Battery impact
 ~4% / day
 What happens when sharing is on
-Switch sharing on and the map keeps up with you rather than with a refresh cycle. Everything below is yours to set, per group, and yours to switch off.
-Your location updates every 5 seconds
+Turn on sharing in this live location sharing app and the map keeps up with you. Every setting below is yours to set per group, and yours to switch off.
+Your location updates every 5 seconds with the app open
 Every 30 seconds once the app is closed, which is where the battery savings come from.
 Choose an exact pin, a general area, or private
 Precision is a per-group setting, so parents can see the neighborhood while a friend sees the doorstep, and private mode shows nothing at all.
@@ -44,8 +43,8 @@ A quiet notification lands instead of anyone sitting there refreshing a map.
 Everyone can see who they're sharing with
 Both sides of every arrangement are visible, so nothing runs quietly in the background.
 MMia is sharing her live locationUpdated 5 sec ago
-A better app to share location with your family
-The worry is rarely dramatic. It lives in the gap between “leaving now” and the sound of a front door, and that gap is what this feature quietly fills. Four situations come up again and again.
+A better app to share location with family
+The worry is rarely dramatic. It lives in the gap between "leaving now" and the sound of a front door, and that gap is what this feature fills. Four situations come up again and again.
 Teenagers walking home after practice
 Your kid left the sports hall twenty minutes ago and the group chat has gone quiet, which at fifteen means absolutely nothing and still keeps you standing near a window.
 See them leave the field and reach your street, without asking
@@ -62,8 +61,8 @@ Partners, friends, and late commutes
 Sharing one journey home beats broadcasting your evening, and a share my location app should let you draw that line yourself.
 Turn on sharing for a single commute, then let the timer close it
 Anyone can pause without dropping out or explaining themselves
-HeyPolo compared with a typical location app
-Where a consent-first location app and a conventional one part ways, feature by feature.
+How HeyPolo compares with other live location sharing apps
+Feature by feature, how a consent-first live location sharing app compares with the usual options.
 AttributeHeyPoloLife360Find MyGoogle Maps
 Update interval5 sec active / 30 sec background~30 sec1–5 min1–5 min
 Location accuracy~5 m~5 m~5 m~5 m
@@ -155,21 +154,21 @@ SOS and emergency alerts
 Driving and speed alerts
 30-day money-back guarantee
 How your location stays yours
-Family location data is exactly the kind of thing this industry has quietly resold for years. Ours goes to the people you picked and nowhere else, because HeyPolo runs on subscriptions.
-Accuracy averages about 5 metres, tighter outdoors and looser between tall buildings, and history clears itself after 7 days.
+Your location goes to the people you picked and nowhere else. HeyPolo runs on subscriptions, so your data is never sold.
+History clears itself after 7 days.
 You choose who sees whatExact location for one group, general area for another, private mode for a third. Settings are per group, and sharing can run indefinitely or on a timer.
 Encrypted from your phone onwardLocation travels scrambled from your device to your trusted contacts. Nobody in between can read it.
-Your location is never soldNot to advertisers, not to insurers, not to data brokers. Never. Not now, not ever.
+Your location is never soldNot to advertisers, insurers or data brokers.
 Sharing stops when you say stopOne tap for private mode, or a timer that closes the session for you. Nothing keeps running in the background.
 Why families choose HeyPolo
-Plenty of apps can put a dot on a map. The harder part is building something a teenager, a college student, and a grandparent will each keep installed six months later. Three decisions shape how HeyPolo works.
+A live location sharing app only works for a family if a teenager, a college student and a grandparent all keep it installed six months later. Three decisions shape how HeyPolo works.
 Consent is the default setting
 Nobody sees you until you choose to share, and you hold every dial: exact location or general area, which groups see what, when it switches off.
 Per-group controls
 One price covers everyone you invite
 One person subscribes, everyone else joins free, however many people that turns out to be.
 From $4.99/month
-One cross-platform app for iPhone and Android
+A cross platform location sharing app for iPhone and Android
 Half your family runs one platform, half the other. HeyPolo works the same on both, so nobody's left out.
 iOS + Android
 30-day money-back guarantee
@@ -182,37 +181,31 @@ DJdr.jofffLithuania
 OCObsoleteCatLithuania
 “I think this app is excellent and really recommend it. It's perfect for a family or a friend group on a trip.”
 YBYeahBunneeIreland
-Real-time location sharing, and you always know who's watching too
+A live location sharing app that shows you who you're sharing with
 30-day money-back guarantee
 Real-time location sharing FAQ
 Can I share my location in real time?
-Yes. HeyPolo is a share location app that shows the people you choose exactly where you are, with your location refreshing every 5 seconds. You stay in control of who can see you, how precisely, and for how long.
+Yes. HeyPolo is a live location sharing app, so the people you choose can see where you are, with your location refreshing every 5 seconds while the app is open. You decide who sees you, how precisely and for how long. Keep sharing on indefinitely, or set a time window and it stops on its own.
 Is a live location sharing app the same as real-time location sharing?
-They describe the same idea: your position updating continuously, not a single pin dropped an hour ago. Whether you call it a live location app or real-time location sharing, HeyPolo updates continuously, so the people you share with always see where you are.
-How do I share my real-time location permanently?
-When you start sharing in HeyPolo, you can keep it on indefinitely, or set a time window so it stops on its own. There's no hidden tracking running in the background, you decide when sharing starts and ends.
-What's the best app to share your location in real time?
-For most people, the best app to share your location is whichever one puts sharing, not surveillance, at the center. HeyPolo is built that way: everyone controls their own location, one subscription covers everyone you invite, and it works identically on iPhone and Android, a simple, private choice for families and friends.
-How do I stop real-time location sharing on HeyPolo?
-Stop any time with a single tap, or set a timer so sharing ends automatically. When the time is up, sharing stops on its own, no ghost tracking and nothing left running without you knowing.
-What is the best location sharing app for families?
-The one everybody in the household will keep installed. We built HeyPolo so each person controls their own sharing, picks exact location or general area, and can pause without leaving the group. One subscription covers unlimited members, it runs the same on iPhone and Android, and your data is never sold.
+Yes. A live location app and real-time location sharing describe the same thing: your position updating continuously, not a single pin dropped an hour ago.
+What is the best live location sharing app for families?
+The best app to share location is the one everybody in the household keeps installed. HeyPolo lets each person control their own sharing, pick exact location or a general area, and pause without leaving the group. One subscription covers everyone you invite, it works the same on iPhone and Android, and your data is never sold.
+Is there a cross platform location sharing app that works between iPhone and Android?
+Yes. HeyPolo is a cross platform location sharing app with the same features on iPhone and Android, so mixed-device households can share with each other. Download it from the App Store or Google Play, create a group, then send the invite code to whoever you want in it.
 Can I share my location in real time without giving my exact address?
 Yes. General area sharing shows roughly where you are instead of pinning you to a doorstep, and you can set it separately for every group. Your parents might see the neighborhood while a close friend sees the exact spot. Switch between levels whenever the situation changes.
-Is a location sharing app the same as a tracking app?
-Search results file them together, though they work differently. Products sold as a tracking app or locator app are designed around the person watching. HeyPolo hands the controls to whoever is sharing, so they set the detail level, the audience, and the stop time, and both sides can see the arrangement.
 How do I stop sharing my location on HeyPolo?
-Tap private mode and sharing pauses immediately, while you stay in your groups. You can also set a window at the start, for a commute or a night out, and sharing closes itself when the time runs out. Nothing lingers in the background afterward.
+Tap private mode and sharing pauses straight away while you stay in your groups. You can also set a window at the start, such as a commute or a night out, and sharing ends on its own when the time runs out.
+Is a location sharing app the same as a tracking app?
+In HeyPolo, the person sharing sets the detail level, the audience and the stop time, and both sides can see the arrangement. Apps sold as tracking or locator apps tend to put the controls with whoever is looking.
 Can someone see my location without me knowing?
 No. Sharing begins only when you switch it on, and every person you're sharing with is visible to you inside the app. Consent works in both directions on HeyPolo, so nobody appears on a map they didn't agree to join.
 How often does my position update, and how accurate is it?
 Every 5 seconds while the app is open and you're watching the map, and every 30 seconds when it's closed or minimised. That slower background interval is deliberate, since checking every few seconds around the clock is what drains most location-sharing apps. Accuracy averages around 5 metres, tighter outdoors with a clear view of the sky and looser indoors, underground, or between tall buildings.
-How many days of location history are kept?
-Seven. You can look back at where someone has been over the past week without leaving live tracking running all day, and after 7 days that data is removed entirely.
-Is there an app to know where your family is that works on both iPhone and Android?
-HeyPolo does, with matching features across platforms. Mixed-device households are normal, and built-in phone sharing usually stops at the platform boundary. Download it from the App Store or Google Play, create a group, then share the invite code with whoever you'd like in it.
 How much battery does it use?
 With sharing on in the background, HeyPolo uses roughly what a messaging app left open uses, about 4% a day. That climbs in weak signal areas, where the phone works harder to hold a connection, and drops if you share a general area instead of an exact spot or limit sharing to set time windows.
+How many days of location history are kept?
+Seven. You can look back at where someone has been over the past week without leaving live tracking running all day, and after 7 days that data is removed entirely.
 How much does HeyPolo cost?
 Plans start at $7.99 a month billed annually, or $19.99 month to month, and VAT may apply. One person pays and everyone invited joins free, so the cost holds steady as more relatives arrive. There's a 30-day money-back guarantee, and you can cancel whenever you want.
 Related features

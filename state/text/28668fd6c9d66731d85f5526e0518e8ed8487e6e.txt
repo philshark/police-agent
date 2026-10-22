@@ -13,14 +13,19 @@ What is a driving score and what does it mean?
 A driving score is a rating of how you drove on a trip. In HeyPolo it runs from 1–10, and a higher number means better driving. Speeding, braking, acceleration, cornering, and phone use all feed into it. Each trip is compared with your own past scores, and other people in your group do not factor in.
 A driver score works as a running record of your habits behind the wheel. One trip gives you a number, and a week of trips gives you a pattern you can act on.
 HeyPolo built the score to help each driver improve, using the collective experience of the people in their group. Shaming has no part in it.
-Which driving behaviors count toward the score?
+Which driving behaviors affect your driving score?
 HeyPolo works as a driving behavior app that looks at five things on every trip: speeding, braking, acceleration, cornering, and phone use. Each one contributes to that trip's score, and the trip scores roll up into your weekly average. Together they give a fuller picture of a drive than speed alone.
 Speeding
-Braking
-Acceleration
-Cornering
+Going over the limit now and then lowers a trip's score, and doing it on drive after drive brings your weekly average down.
+Harsh braking
+Stopping hard once to avoid trouble is fine. Braking hard on most drives usually means following too closely, and it lowers your score over time.
+Harsh acceleration
+Pulling away hard from lights or junctions across several drives adds up and pulls your weekly score lower.
+Fast cornering
+Taking turns and bends too quickly on a regular basis counts against your score, even when nothing goes wrong.
 Phone use
-Your weekly report shows which factors moved your week, so you can see where a lower week came from and what a better one looked like.
+Picking up your phone while the car is moving lowers a trip's score, and a habit of it shows up clearly in your weekly report.
+Your weekly report shows which factors influenced your driving score the most, so you can see what to change to get a better score. Harsh braking or acceleration is sometimes the safest option, and your report notes these one-off events when they happen. When they show up week after week, they start to pull your score down.
 Where does a good driving score fall in the 1–10 range?
 110
 The driving score range runs from 1 to 10, and higher is better. HeyPolo measures you against your own past scores and not against other people in your group, so a good score is one that holds steady or climbs for you. Someone else's eight does not change what your six means.

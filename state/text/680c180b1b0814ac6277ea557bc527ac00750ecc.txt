@@ -1,17 +1,17 @@
-Place Alerts: Know the Moment Someone Arrives | HeyPolo
+Location Alerts App: Know When Someone Arrives | HeyPolo
 Safety Features
 Who It's For
 Safety Features
 Who It's For
 Place alerts that tell you when someone arrives, and when they head off
-Get an alert when someone in your circle reaches home, and another when they leave school, work or a place your family knows well, so you know they're on their way without refreshing a map.
+A location alert app that notifies you when someone in your group leaves or arrives somewhere, so you can worry less.
 Departure alerts when someone leaves a place you've marked
 Arrival alerts when they get where they're going
 Set it once for one person or a whole circle
 30-day money-back guarantee
 What is a location alert app?
-A location alert app tells you when someone you're sharing with reaches or leaves a place you've both flagged, home, work, a friend's house, so you get a notification instead of opening the app to check a map. HeyPolo calls this a place alert. Pick a spot, choose who it applies to, and you'll hear about it when they get there and again when they set off.
-It does a different job than watching someone's position move in real time. A place alert only speaks up when something actually happens, and a departure matters as much as an arrival: it tells you someone has left school or the office and is now on the move, so you know to expect them. If you want the moving dot as well, that's the real-time location sharing feature, linked further down this page.
+A location alert app notifies you when someone you’re sharing with arrives at or leaves a place you’ve both flagged, such as home, work or a friend’s house. HeyPolo’s place alerts, sometimes called location-based alerts, work as both arrival and departure alerts, so you get a location notification instead of checking the map.
+You can set up place alerts without sharing your exact location, and the people you choose still get a notification when you leave or arrive home
 🎒Jackson left SchoolJust now
 Update frequency
 3–10 sec
@@ -23,7 +23,7 @@ Platforms
 iOS, Android, Web
 Battery impact
 < 4% / day
-SStella left schoolJust now
+SStella got to trainingJust now
 How it works
 When does an arrival alert actually go out?
 Step 1
@@ -35,9 +35,8 @@ A real background update, no stopwatch involved.
 Step 3
 You get the alert
 Usually a short gap, depending on their connection.
-An arrival alert fires when someone's phone registers that they've reached the place you set, based on their location updating in the background. There's usually a short gap between them physically arriving and the notification landing on your phone, how short depends on their connection and how their phone is checking in at that moment.
-The same goes for leaving. HeyPolo doesn't run on a stopwatch, it works off real location updates. If someone's phone loses signal right as they arrive, the alert catches up as soon as it reconnects.
-Where do you turn on location alerts?
+An arrival alert fires when someone's phone registers that they've reached the place you set, based on their location updating in the background.
+How do you set up location alerts?
 You turn on a place alert from the person's profile in HeyPolo: pick the place, pick who it's for, and save it. From then on, every arrival or departure at that spot sends a notification, until you turn it off.
 1 Pick the place2 Pick who it's for3 Save it
 Jake left School
@@ -48,22 +47,20 @@ Departures and arrivals
 Do place alerts cover people leaving too?
 Yes. Place alerts fire on arrivals and departures, so you'll know both when someone gets somewhere and when they head out again, from the same alert you set up once.
 Set one for home and you'll hear about the school run leaving in the morning and the arrival back in the afternoon, no separate setup for each direction.
-Is there an alert for when someone leaves school, work or the house?
-Yes. Any place you mark sends a departure alert when someone leaves it. Set one on school, the office or a friend's house your family trusts, and you'll know the moment they've set off and are making their way somewhere else. That's the part of the day when a quick call or a glance at the map helps most.
 Everyday place alerts
-Where families use departure and arrival alerts
+Arrival and departure alerts for everyday family moments
 Sam arrived Home
-Can you get an alert when someone arrives home?
-Yes, set a place alert on their home address and HeyPolo notifies you the moment they get there. Pair it with a departure alert on wherever they're coming from, and you know when the trip started and when it ended.
+Know when someone gets home
+Set a place alert on their home address and HeyPolo notifies you when they arrive. Add a departure alert on work or school and you hear when they set off too, so you know when to expect them.
 Ava left Leah's
-Does HeyPolo do safe arrival notifications?
-A place alert works well for that: set one on the place they're leaving and the place they're headed, and you'll know when they set off and when they got there. It's the same feature, arrival and departure alerts, used for peace of mind after a night out, a solo walk or a long drive.
-Which family members can you set an arrival alert for?
+Safe arrival notifications for the trip home
+HeyPolo works as a safe arrival notification app. Put one place alert on where they're leaving and one on where they're headed, and you hear when they set off and when they get there, whether it's a walk home or a long drive.
+Arrival alerts for any family member
 A partner A parent A kid with a phone
-Anyone in your HeyPolo circle who's shared their location with you, a partner, a parent, a kid old enough to carry a phone. The alert works the same way regardless of who it's for, you're just choosing the person and the place.
-Someone who joined your circle on an invite code gets the same arrival alerts as everyone else, they just can't start a group of their own.
-Will I know when my child gets to school?
-You can set a place alert on the school and get notified the moment they arrive, and again when they leave in the afternoon.
+Anyone in your circle who has shared their location with you can have an arrival alert, and it works the same way for everyone. Pick the person, pick the place, and you get an alert when a family member arrives.
+Members who joined on an invite code get the same arrival alerts as everyone else. They can't start a group of their own.
+Know when your child arrives at school
+Set a place alert on the school and HeyPolo notifies you when they arrive, and again when they leave in the afternoon. It works as a school arrival alert app for any child with a phone in your circle.
 Consent, in plain terms
 Nobody can see your position or set an alert on you unless you accepted their request first, and acceptance is per person, not per app.
 Every stream is reciprocal and revocable. Sharing starts with an invitation, shows a persistent indicator while it's on, and stops the second either side turns it off, no lingering history in someone else's app.
@@ -72,8 +69,6 @@ Both sides opt inSharing only starts after an explicit accept.
 You choose precisionExact position, or city-level only, per person.
 Sharing can expireSet a window from 1 minute to 24 hours, or until you stop it.
 Stop ends the alertsNo new alerts once you end sharing.
-As featured in
-Tom's GuideSurfsharkTechRadarThe Verge
 Why choose HeyPolo
 It won't drain your phone
 Alerts run on background location checks, not a constant stream, so they're built to be light on battery.
@@ -106,6 +101,10 @@ Can I set alerts for more than one place?
 Yes, there's no limit built into the feature. Set one for school so you know when your kid heads out, one for the office so you know your partner is on the road, and one for home for when they both get in.
 Does it matter what phone the other person has?
 No, place alerts work the same way across iOS, Android and web, so it doesn't matter what anyone in your circle is carrying.
+Is there an app that warns me when someone is coming home?
+Yes. Set a departure alert on the place they're leaving, such as work or school, and HeyPolo notifies you when they set off. Add an arrival alert on home and you also know when they get in.
+Can I get an alert when someone arrives at a place other than home?
+Yes. You can set an alert on any place you mark, such as a friend's house, a campsite or an office, and choose who it applies to.
 Related features
 Put a whole circle on one map when you're coordinating more than one person.
 Follow the journey live on the map once a departure alert tells you someone has set off.
