@@ -1,123 +1,140 @@
 {
- "generated_at": "2026-10-18T22:50:38Z",
+ "generated_at": "2026-10-25T23:03:50Z",
  "mode": "weekly",
  "backfill_range": null,
- "total_blog_articles": 49,
+ "total_blog_articles": 53,
  "articles": [
   {
-   "url": "https://heypolo.com/blog/national-teen-driver-safety-week",
-   "reason": "new",
-   "title": "National Teen Driver Safety Week: HeyPolo Encourages Families to Make Safer Driving a Conversation, Not a Confrontation",
-   "h1": "National Teen Driver Safety Week: HeyPolo Encourages Families to Make Safer Driving a Conversation, Not a Confrontation",
-   "meta": "",
-   "excerpt": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel. October 2026 — Getting a driver's licence is one of the biggest milestones in a teenager's life. But while teenagers are excited about their newfound freedom, parents are often adjusting to a whole new set of worries. As National Teen Driver Safety Week takes place October 18–24, family safety app HeyPolo is encouraging parents to take an active role in helping their teenagers become safer, more confident drivers. According to the National Highway Traffic Safety Administration (NHTSA), in 2024: 2,320 people were killed in crashes involving drivers aged 15–18. 752 teenage drivers died in traffic crashes. 33% of teen passenger-vehicle drivers involved in fatal crashes were speeding. 85,947 teenage drivers aged 15–18 were injured in traffic crashes. Helping teenagers develop safer driving habits Passing a driving test is just the beginning. Developing good driving habits takes time, experience and support. HeyPolo's Driving Safety Score helps families review driving behaviours including speeding, phone use, harsh braking, rapid acceleration and cornering. Rather than using driving scores to criticise or punish young drivers, HeyPolo encourages parents to review the information with their teenagers, talk about what went well and identify areas for improvement. Families can set small, achievable goals together, such as reducing phone distractions or improving their driving score over the following month. More independence for teenagers, more reassurance for parents HeyPolo also offers crash detection, location sharing and arrival alerts, helping families stay connected as teenagers gain independence. Designed around privacy and trust, the app encourages families to agree on how and when they use safety features. The goal isn't to watch every journey. It's to give teenagers the freedom to grow into confident drivers, while giving parents some reassurance. Five ways parents can support safer teen driving Keep practising together. Continue practising in different driving conditions after your teenager passes their test. Talk about distractions. Agree on rules around phone use and passengers. Review driving habits regularly. Use driving safety information to",
-   "existing_internal_links": 0,
+   "url": "https://heypolo.com/blog/best-life360-alternatives-in-2026",
+   "reason": "changed",
+   "title": "Best Life360 Alternatives in 2026: 9 Apps Compared",
+   "h1": "Best Life360 Alternatives in 2026: 9 Apps Compared on Price and Privacy",
+   "meta": "We used 9 Life360 alternatives for a week each as paying users. Compare price, privacy, crash detection and setup, including free options.",
+   "excerpt": "If you're reading this, something about Life360 has probably stopped sitting right with you. Maybe it's the price, which went up again in 2026 for new US subscribers. Or maybe it's the headlines about where your family's location data ends up. A quick disclosure before the list: we make HeyPolo, and it's first here. We've tried to be straight about where other apps do a better job, and each entry says so. The short Live360 alternative answer For most families, HeyPolo is the closest swap for Life360. It has live location, place alerts and crash detection for $4.99 a month billed annually, and it never sells your data. If everyone in your family has an iPhone and you want something free, Apple Find My is enough. If you need a human emergency team on the other end of a crash alert, look at OtoZen. App Best for Starting price (USD) Free plan? HeyPolo Privacy-first families, couples and friends $4.99/mo, billed annually No (30-day money-back guarantee) Apple Find My All-iPhone households Free Yes Glympse Sharing one trip for an hour Free Yes OtoZen Teen drivers who need crash response $9.99/mo (family of 4) Free trial GeoZilla Driving alerts on a budget $47.99/yr Yes, limited Findmykids Kids under 12, including on a GPS watch About $2.99/mo Live location only iSharing Older relatives who want simple setup $10.99/mo or $79.99/yr Yes, limited FamiSafe Screen-time limits plus location $59.99/yr 1 device Bark Spotting risky messages and content $5/mo (Bark Jr) Trial only Life360 (for reference) Families already set up on it $9.99/mo (Silver) Yes, 2 days of history Why families are leaving Life360 The price went up. In its Q2 2026 shareholder letter, Life360 confirmed it raised US prices for new subscribers. Silver went from $7.99 to $9.99 a month, and Gold from $14.99 to $16.99. 85% of paying US families are on Gold, so $16.99 is the realistic number to compare against. The free plan still exists, but it caps you at 2 place alerts and 2 days of location history. The free plan is paid for with ads and data. According to",
+   "existing_internal_links": 19,
    "forward_candidates": [
     {
      "url": "https://heypolo.com/blog",
      "type": "blog",
      "title": "HeyPolo Blog: location Sharing Tips, Privacy Guides & Family Safety",
      "summary": "Location sharing guides for real life. How-tos, privacy tips, family safety advice, and app comparisons — written for parents, couples, and caregivers.",
-     "similarity": 0.203,
+     "similarity": 0.27,
      "inbound_links": 0,
      "anchors_in_use": [],
-     "passage": "About HeyPolo HeyPolo is a privacy-first family safety app built by the team behind Surfshark."
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
     },
     {
-     "url": "https://heypolo.com/blog/teen-driving-rules",
-     "type": "blog",
-     "title": "Best Teen Driving Rules to Set Without Crushing Independence",
-     "summary": "Discover the best teen driving rules covering curfews, passenger limits, and phone use to keep new drivers safe while building independence.",
-     "similarity": 0.203,
-     "inbound_links": 2,
-     "anchors_in_use": [
-      "teen driving restrictions",
-      "teen driver rules"
-     ],
-     "passage": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel."
-    },
-    {
-     "url": "https://heypolo.com/features/driving-score",
-     "type": "features",
-     "title": "Driving Score App for Families and New Drivers | HeyPolo",
-     "summary": "HeyPolo gives every trip a driving score from 1–10 and sends a weekly report on what shaped it. You choose who sees it. 30-day money-back guarantee.",
-     "similarity": 0.198,
-     "inbound_links": 1,
-     "anchors_in_use": [
-      "driving score"
-     ],
-     "passage": "HeyPolo's Driving Safety Score helps families review driving behaviours including speeding, phone use, harsh braking, rapid acceleration and cornering."
-    },
-    {
-     "url": "https://heypolo.com/blog/monitor-teen-driving",
-     "type": "blog",
-     "title": "Best Ways to Keep an Eye on Your Teen's Driving Without Starting a Fight",
-     "summary": "Learn how to monitor teen driving safely with agreed alerts, clear privacy boundaries, and practical tools that build trust without starting arguments.",
-     "similarity": 0.172,
+     "url": "https://heypolo.com/comparisons",
+     "type": "comparisons",
+     "title": "HeyPolo Compared With Life360, Zenly, iSharing and More",
+     "summary": "Side-by-side comparisons of HeyPolo against the best known location sharing apps, covering price, privacy and the features families actually use.",
+     "similarity": 0.242,
      "inbound_links": 0,
      "anchors_in_use": [],
-     "passage": "33% of teen passenger-vehicle drivers involved in fatal crashes were speeding."
+     "passage": "Then in 2025, the Texas Attorney General's lawsuit against Allstate and its subsidiary Arity named Life360 as one of the apps allegedly feeding location data into insurance decisions."
     },
     {
-     "url": "https://heypolo.com/blog/teen-driving-contract",
+     "url": "https://heypolo.com/comparisons/life360-free-vs-paid",
+     "type": "comparisons",
+     "title": "Life360 Free vs Paid: What You Actually Get in 2026",
+     "summary": "Life360's free plan gives you 2 days of history and 2 place alerts. Here is exactly what Silver, Gold and Platinum add, what they cost, and whether the upgrade is worth it.",
+     "similarity": 0.228,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "The free plan still exists, but it caps you at 2 place alerts and 2 days of location history."
+    },
+    {
+     "url": "https://heypolo.com/blog/best-location-sharing-apps-in-2026",
      "type": "blog",
-     "title": "Teen Driving Contract for Raising a Responsible Teenage Driver",
-     "summary": "Create a practical teen driving contract with clear rules for passengers, curfews, emergencies, and parent commitments for new solo drivers.",
-     "similarity": 0.158,
+     "title": "Best Location-Sharing Apps For iOS and Android in 2026",
+     "summary": "We tested the best location-sharing app for your family, partner, or friends so you don't have to. See how these mobile apps help you in your specific situation.",
+     "similarity": 0.213,
+     "inbound_links": 3,
+     "anchors_in_use": [
+      "choosing an app from scratch",
+      "best location sharing apps",
+      "best location-sharing apps"
+     ],
+     "passage": "Some users also notice heavier battery drain, especially on older Android phones."
+    },
+    {
+     "url": "https://heypolo.com/comparisons/google-maps-vs-life360",
+     "type": "comparisons",
+     "title": "Google Maps vs Life360: Location Sharing Compared (2026)",
+     "summary": "Life360 vs Google Maps location sharing features, pros and cons and pricing in 2026, plus a third option with safety features on one plan.",
+     "similarity": 0.196,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "In its Q2 2026 shareholder letter, Life360 confirmed it raised US prices for new subscribers."
+    },
+    {
+     "url": "https://heypolo.com/blog/heypolo-vs-life360-which-app-better-protects-your-privacy",
+     "type": "blog",
+     "title": "HeyPolo vs Life360: Which Location-Sharing App Protects Your Privacy Better?",
+     "summary": "Compare HeyPolo vs Life360 on privacy, features, pricing, and data sharing to see which app keeps your location data safer.",
+     "similarity": 0.192,
+     "inbound_links": 3,
+     "anchors_in_use": [
+      "side-by-side breakdown",
+      "life360 privacy comparison",
+      "switching providers"
+     ],
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
+    },
+    {
+     "url": "https://heypolo.com/comparisons/google-maps-location-sharing",
+     "type": "comparisons",
+     "title": "Google Maps Location Sharing vs HeyPolo: 2026 Comparison",
+     "summary": "Google Maps location sharing vs HeyPolo: compare place alerts, groups, SOS and crash alerts, privacy and price for family location sharing.",
+     "similarity": 0.179,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
+    },
+    {
+     "url": "https://heypolo.com/comparisons/findmyfriends",
+     "type": "comparisons",
+     "title": "HeyPolo vs Apple Find My: Compare Features & Pricing 2026",
+     "summary": "Apple Find My vs HeyPolo: Find My is free but Apple only. See where HeyPolo adds Android, general-area sharing and safety alerts for your group.",
+     "similarity": 0.163,
      "inbound_links": 2,
      "anchors_in_use": [
-      "create a teen driver agreement",
-      "teen driver contract"
+      "heypolo vs findmy"
      ],
-     "passage": "Demonstrate the safe driving behaviours you want your teenager to develop."
+     "passage": "If everyone in your family has an iPhone and you want something free, Apple Find My is enough."
     },
     {
-     "url": "https://heypolo.com/for/teen-drivers",
-     "type": "for",
-     "title": "Monitor Teen Driving: Location & Speed Alerts | HeyPolo",
-     "summary": "See how to monitor teen driving with arrival alerts, speed alerts, and one-tap SOS, all in one plan. 30-day money-back guarantee.",
+     "url": "https://heypolo.com/blog/share-location-between-iphone-and-android-easy-guide",
+     "type": "blog",
+     "title": "Share Location Between iPhone and Android: Easy Guide",
+     "summary": "Discover 3 simple methods to share your location between iPhone and Android and stay connected with family and friends, regardless of device.",
+     "similarity": 0.152,
+     "inbound_links": 3,
+     "anchors_in_use": [
+      "share location across devices",
+      "between iphone and android",
+      "share location across platforms"
+     ],
+     "passage": "Life360 says 46% of its paying families mix iPhone and Android, and none of them can share through Find My."
+    },
+    {
+     "url": "https://heypolo.com/blog/heypolo-vs-find-my-which-location-sharing-app-is-better",
+     "type": "blog",
+     "title": "HeyPolo vs Find My: Which Location Sharing App Is Better?",
+     "summary": "Thinking of switching from Find My? See how HeyPolo compares in terms of compatibility, features, and price. Find out which app is right for your family.",
      "similarity": 0.139,
-     "inbound_links": 6,
-     "anchors_in_use": [
-      "first solo trips begin",
-      "decide who sees a practice drive",
-      "new drivers",
-      "newly licensed driver"
-     ],
-     "passage": "With features including location sharing, arrival alerts, Driving Safety Scores and crash detection, HeyPolo helps families stay connected while respecting their independence."
-    },
-    {
-     "url": "https://heypolo.com/blog/pedestrian-safety-month",
-     "type": "blog",
-     "title": "Pedestrian Safety Month 2026 Trends And Family Walking Safety",
-     "summary": "Pedestrian Safety Month 2026 highlights why crashes are deadlier after dark. Discover vital street data and build an agreed family plan for autumn walks home.",
-     "similarity": 0.135,
      "inbound_links": 1,
      "anchors_in_use": [
-      "pedestrian safety month"
+      "heypolo versus find my"
      ],
-     "passage": "According to the National Highway Traffic Safety Administration (NHTSA), in 2024: 2,320 people were killed in crashes involving drivers aged 15–18."
-    },
-    {
-     "url": "https://heypolo.com/blog/teen-driver-safety",
-     "type": "blog",
-     "title": "Teen Driver Safety: Your Teen's First 1,500 Solo Miles | HeyPolo",
-     "summary": "See our teen driver safety guidance for the first 1,500 solo miles, with phased rules for passengers, curfews, and night driving.",
-     "similarity": 0.131,
-     "inbound_links": 6,
-     "anchors_in_use": [
-      "teen driver safety",
-      "a gradual approach to teen driver safety",
-      "keep a teen driver safe"
-     ],
-     "passage": "As National Teen Driver Safety Week takes place October 18–24, family safety app HeyPolo is encouraging parents to take an active role in helping their teenagers become safer, more confident drivers."
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
     },
     {
      "url": "https://heypolo.com/features",
      "type": "features",
      "title": "HeyPolo Location-Sharing App Features",
      "summary": "Every HeyPolo feature in one place: real-time location, alerts, groups and SOS, all under one family subscription.",
-     "similarity": 0.119,
+     "similarity": 0.115,
      "inbound_links": 4,
      "anchors_in_use": [
       "see more",
@@ -125,40 +142,557 @@
       "wide range of location-sharing features",
       "heypolo covers what most people need"
      ],
-     "passage": "With features including location sharing, arrival alerts, Driving Safety Scores and crash detection, HeyPolo helps families stay connected while respecting their independence."
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
+    },
+    {
+     "url": "https://heypolo.com/for/couples",
+     "type": "for",
+     "title": "Location Sharing App for Couples, Both Ways | HeyPolo",
+     "summary": "HeyPolo is a location sharing app for couples, mutual by default with timed windows and one flat price for both of you.",
+     "similarity": 0.113,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
+    },
+    {
+     "url": "https://heypolo.com/for",
+     "type": "for",
+     "title": "HeyPolo: Private Location Sharing for Families & Friends",
+     "summary": "Stay connected without constant tracking. HeyPolo lets you share your location on your terms — with family or friends. One subscription covers everyone.",
+     "similarity": 0.112,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "designed for everyday life"
+     ],
+     "passage": "HeyPolo: the best Life360 alternative for privacy and price HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark."
+    },
+    {
+     "url": "https://heypolo.com/features/location-sharing-history",
+     "type": "features",
+     "title": "Location History App: See Past Routes and Trips | HeyPolo",
+     "summary": "See past routes, arrival times and trips from the last 30 days, shared only with the people you choose. History deletes itself after 30 days.",
+     "similarity": 0.108,
+     "inbound_links": 9,
+     "anchors_in_use": [
+      "location history",
+      "recent location history",
+      "time-limited location sharing",
+      "heypolo gives you your child's location history"
+     ],
+     "passage": "The free plan still exists, but it caps you at 2 place alerts and 2 days of location history."
+    },
+    {
+     "url": "https://heypolo.com/blog/national-teen-driver-safety-week",
+     "type": "blog",
+     "title": "National Teen Driver Safety Week: HeyPolo Encourages Families to Make Safer Driving a Conversation, Not a Confrontation",
+     "summary": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel. October 2026 — Getting a driver's licence",
+     "similarity": 0.106,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "If you have a new driver Drivers aged 15 to 20 were 5.2% of licensed US drivers in 2024 but 9% of drivers in fatal crashes, according to NHTSA."
+    }
+   ],
+   "reverse_candidates": []
+  },
+  {
+   "url": "https://heypolo.com/blog/buying-your-kids-first-phone-without-the-regret",
+   "reason": "new",
+   "title": "Buying Your Kid's First Phone Without The Regret | HeyPolo",
+   "h1": "Buying Your Kid's First Phone Without The Regret",
+   "meta": "Buying a kid’s first phone? See how to tell when they’re ready, how much you really need to spend, and what to set up before the phone reaches their hands.",
+   "excerpt": "The call came from a number I didn’t know. It was a woman from the dental surgery next to the bus stop, and my son was sitting in her waiting room, soaked, apologising to her. The bus hadn’t come. He’d stood at the stop for forty minutes in the rain, because he had no way to tell me, and by the time he gave up and walked into the first building with a light on, I was home wondering why he was late. He was fine, and she’d been kind. I spent the next evening reading about buying a kid’s first phone. Most of the regret parents describe later comes from handing over one device that does two very different jobs. It's a way to reach each other, and it's also an open door to feeds, algorythms, an expanding social life and a few hundred interruptions a day. Separate those two jobs and the decision gets a lot simpler. Keep them together and you'll spend the next two years negotiating with a rectangle. Readiness for a kids first phone shows up in behavior before birthdays Middle school usually forces the issue. Pickup times change, activities spread across the week, and suddenly your child spends forty minutes a day somewhere you aren’t, usually on a bus or on foot. If you’re still working out what age a child can walk to school alone, the phone question usually turns up at the same time. Pew Research Center reported in 2025 that 23% of U.S. parents of children 12 and under say their child has their own smartphone, and the share jumps to 57% among parents of 11- and 12-year-olds. By 11 or 12, more than half of parents have already said yes to their kid having a phone Age on its own tells you very little. The American Academy of Pediatrics reported in 2025 that a typical first phone in the U.S. arrives around 11, based on more than 10,500 children. Plenty of 11-year-olds lose a water bottle every week, and plenty of 10-year-olds have never left a charger at a friend's",
+   "existing_internal_links": 8,
+   "forward_candidates": [
+    {
+     "url": "https://heypolo.com/blog/school-bus-safety",
+     "type": "blog",
+     "title": "School Bus Safety Habits That Start Before the Bus",
+     "summary": "School bus safety starts at the curb, not on the ride. Use behavior-based readiness checks, a stop rehearsal, and a plan for late buses and changed stops.",
+     "similarity": 0.17,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "school bus safety",
+      "a school bus routine",
+      "waiting at the bus stop",
+      "the routine at the stop"
+     ],
+     "passage": "It was a woman from the dental surgery next to the bus stop, and my son was sitting in her waiting room, soaked, apologising to her."
+    },
+    {
+     "url": "https://heypolo.com/blog/the-back-to-school-safety-plan",
+     "type": "blog",
+     "title": "Back to School Safety Plan for Walking, Buses and Cars",
+     "summary": "Back to school safety that covers the walk, the bus, teen drivers and your child's first weeks, with CDC and NHTSA guidance and check-ins you agree together.",
+     "similarity": 0.148,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "back to school safety",
+      "their back to school plan"
+     ],
+     "passage": "Save emergency contacts so they can be reached from the lock screen, then agree what your child does when a plan falls apart, like a bus that never shows."
+    },
+    {
+     "url": "https://heypolo.com/blog/latchkey-kid",
+     "type": "blog",
+     "title": "Latchkey Kid Afternoons That Feel Less Lonely",
+     "summary": "Latchkey kid afternoons go better when the routine is predictable and help is close by. See how families check readiness, agree on rules, and stay reachable.",
+     "similarity": 0.144,
+     "inbound_links": 9,
+     "anchors_in_use": [
+      "latchkey kid",
+      "lets themselves in every weekday",
+      "a 12-year-old with a key",
+      "get themselves home from school"
+     ],
+     "passage": "If you’re still working out what age a child can walk to school alone, the phone question usually turns up at the same time."
+    },
+    {
+     "url": "https://heypolo.com/blog/back-to-school-anxiety",
+     "type": "blog",
+     "title": "Back to School Anxiety and the Middle School Jump",
+     "summary": "Back to school anxiety climbs at the middle school move because so much changes at once. See what the research says and how to prepare the first week.",
+     "similarity": 0.141,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "back to school anxiety",
+      "back to school worry",
+      "new school year nerves"
+     ],
+     "passage": "Readiness for a kids first phone shows up in behavior before birthdays Middle school usually forces the issue."
+    },
+    {
+     "url": "https://heypolo.com/blog/back-to-school-checklist",
+     "type": "blog",
+     "title": "The Back to School Checklist for Managing Two Kids at Once | HeyPolo",
+     "summary": "A back to school checklist built for two kids in different grades, covering forms, health, sleep targets, supplies and two different drop offs.",
+     "similarity": 0.13,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "your back to school checklist",
+      "checklist for kids going back to school,",
+      "checklist for two kids",
+      "back to school checklist"
+     ],
+     "passage": "A refurbished phone two or three generations old does all of it, and will make you feel a lot better the first time it lands face-down on the concrete outside of school."
+    },
+    {
+     "url": "https://heypolo.com/blog/after-school-routine",
+     "type": "blog",
+     "title": "After School Routine for Working Parents That Actually Runs",
+     "summary": "Build an after school routine for working parents that starts without you, with four anchors, sample schedules for aftercare, remote work, and shift work.",
+     "similarity": 0.12,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "after-school routine",
+      "an after-school routine that holds",
+      "a predictable after-school order",
+      "after-school routine for working parents"
+     ],
+     "passage": "If you’re still working out what age a child can walk to school alone, the phone question usually turns up at the same time."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-prepare-kids-for-school",
+     "type": "blog",
+     "title": "How to Prepare Kids for School Before Day One",
+     "summary": "Rehearse the school day instead of cramming for a readiness test. Get a countdown, skills to practice, and a goodbye plan your child helps decide.",
+     "similarity": 0.118,
+     "inbound_links": 7,
+     "anchors_in_use": [
+      "preparing kids for school",
+      "prepare kids for school"
+     ],
+     "passage": "Readiness for a kids first phone shows up in behavior before birthdays Middle school usually forces the issue."
+    },
+    {
+     "url": "https://heypolo.com/blog/kids-walking-to-school",
+     "type": "blog",
+     "title": "Kids walking to school: phone and texting rules that work",
+     "summary": "Kids walking to school need clear phone rules, not a ban. Set screen-free crossings, stop-and-text check-ins, and a sharing window that ends on arrival.",
+     "similarity": 0.116,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "kids walking to school",
+      "kids walk to school",
+      "the walk to school",
+      "walking to school"
+     ],
+     "passage": "Readiness for a kids first phone shows up in behavior before birthdays Middle school usually forces the issue."
+    },
+    {
+     "url": "https://heypolo.com/blog/new-driver-how-many-passengers",
+     "type": "blog",
+     "title": "How Many Passengers Can a New Driver Have by State",
+     "summary": "How many passengers can a new driver have depends on your state and license stage. Find your rule, the curfew that goes with it, and what to agree on first.",
+     "similarity": 0.111,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "how many passengers a new driver can have",
+      "cap the number of teen passengers"
+     ],
+     "passage": "You could also choose a capped or prepaid data plan over unlimited, since a 2 GB limit caps how much video a child can stream from a park bench."
+    },
+    {
+     "url": "https://heypolo.com/blog",
+     "type": "blog",
+     "title": "HeyPolo Blog: location Sharing Tips, Privacy Guides & Family Safety",
+     "summary": "Location sharing guides for real life. How-tos, privacy tips, family safety advice, and app comparisons — written for parents, couples, and caregivers.",
+     "similarity": 0.106,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Practical tips for buying a kids first phone without overbuying The pressure to spend $700 or more on a first phone usually comes with a line you've already heard: everyone else has one."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-know-when-your-child-is-ready-to-go-out-alone",
+     "type": "blog",
+     "title": "When Should Kids Go Out Alone? A Parent's Readiness Guide",
+     "summary": "When should kids go out alone? Age 10 is only the floor. Weigh your child's skills, your route, and your state law, then start with one short trip.",
+     "similarity": 0.103,
+     "inbound_links": 8,
+     "anchors_in_use": [
+      "when kids go out alone",
+      "ready to go out alone",
+      "any other trip out alone",
+      "when kids go out alone outside the house"
+     ],
+     "passage": "If you’re still working out what age a child can walk to school alone, the phone question usually turns up at the same time."
+    },
+    {
+     "url": "https://heypolo.com/for/caregivers",
+     "type": "for",
+     "title": "GPS App for Dementia Patient Caregivers | HeyPolo",
+     "summary": "HeyPolo is a GPS app for dementia patient care, with arrival alerts, one-tap SOS, and a choice between exact or general-area sharing.",
+     "similarity": 0.095,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "I used to think a hidden app that the kid didn't see was the safer choice."
+    },
+    {
+     "url": "https://heypolo.com/blog/walk-to-school-alone",
+     "type": "blog",
+     "title": "Best Ways to Prepare Kids to Walk to School Alone",
+     "summary": "Learn how to prepare kids to walk to school alone using proven readiness checks, route planning, crossing practice, and consent-based check-ins.",
+     "similarity": 0.095,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "kid can walk to school alone"
+     ],
+     "passage": "If you’re still working out what age a child can walk to school alone, the phone question usually turns up at the same time."
+    },
+    {
+     "url": "https://heypolo.com/blog/child-independence-safety",
+     "type": "blog",
+     "title": "Child Independence Safety When You Can't Be There",
+     "summary": "Child independence & safety comes down to real risk data, your child's skills, and the law on your side. See what actually keeps them safe when you're apart.",
+     "similarity": 0.095,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "child independence and safety",
+      "child independence",
+      "how much independence to give"
+     ],
+     "passage": "Pickup times change, activities spread across the week, and suddenly your child spends forty minutes a day somewhere you aren’t, usually on a bus or on foot."
+    },
+    {
+     "url": "https://heypolo.com/blog/aging-parents-their-future",
+     "type": "blog",
+     "title": "How to Talk to Aging Parents About Their Future (and Keep It Kind)",
+     "summary": "Learn how to talk to aging parents about their future with practical scripts for driving, home care, finances, and keeping independence intact.",
+     "similarity": 0.09,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Pew found in 2025 that 81% of parents whose young child has a smartphone said being able to contact them was a major reason, but only 7% said it was so their child wouldn't feel left out."
+    }
+   ],
+   "reverse_candidates": [
+    {
+     "url": "https://heypolo.com/blog/school-bus-safety",
+     "type": "blog",
+     "title": "School Bus Safety Habits That Start Before the Bus",
+     "summary": "School bus safety starts at the curb, not on the ride. Use behavior-based readiness checks, a stop rehearsal, and a plan for late buses and changed stops.",
+     "similarity": 0.17,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "school bus safety",
+      "a school bus routine",
+      "waiting at the bus stop",
+      "the routine at the stop"
+     ],
+     "passage": "Deciding it together, before the first solo ride, usually means naming who your child calls first and who the backup is, where they wait if the bus doesn't come (the stop itself, or the fallback place you picked on the walk), which adults they're allowed to le"
+    },
+    {
+     "url": "https://heypolo.com/blog/knowing-when-your-child-is-ready-to-stay-home-alone",
+     "type": "blog",
+     "title": "What Age Can a Child Stay Home Alone? A Parent's Guide",
+     "summary": "What age can a child stay home alone? No single number settles it. See what the law says where you live, plus readiness signs you can watch for before the first trial.",
+     "similarity": 0.15,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "ready to stay home alone",
+      "whether your child is ready to stay home alone",
+      "staying at home alone",
+      "ready for time home alone"
+     ],
+     "passage": "That last one on the first list deserves more room than it usually gets."
+    },
+    {
+     "url": "https://heypolo.com/blog/the-back-to-school-safety-plan",
+     "type": "blog",
+     "title": "Back to School Safety Plan for Walking, Buses and Cars",
+     "summary": "Back to school safety that covers the walk, the bus, teen drivers and your child's first weeks, with CDC and NHTSA guidance and check-ins you agree together.",
+     "similarity": 0.148,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "back to school safety",
+      "their back to school plan"
+     ],
+     "passage": "The first morning of a new school year, my kid left eleven minutes earlier than we agreed, and I spent the next half hour looking at a phone that told me nothing."
+    },
+    {
+     "url": "https://heypolo.com/blog/latchkey-kid",
+     "type": "blog",
+     "title": "Latchkey Kid Afternoons That Feel Less Lonely",
+     "summary": "Latchkey kid afternoons go better when the routine is predictable and help is close by. See how families check readiness, agree on rules, and stay reachable.",
+     "similarity": 0.144,
+     "inbound_links": 9,
+     "anchors_in_use": [
+      "latchkey kid",
+      "lets themselves in every weekday",
+      "a 12-year-old with a key",
+      "get themselves home from school"
+     ],
+     "passage": "What a latchkey kid means today Merriam-Webster defines a latchkey child as \"a school-aged child of working parents who must spend part of the day unsupervised (as at home).\" The phrase carries an image of a key on a shoelace and a child nobody had planned for"
+    },
+    {
+     "url": "https://heypolo.com/blog/back-to-school-anxiety",
+     "type": "blog",
+     "title": "Back to School Anxiety and the Middle School Jump",
+     "summary": "Back to school anxiety climbs at the middle school move because so much changes at once. See what the research says and how to prepare the first week.",
+     "similarity": 0.141,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "back to school anxiety",
+      "back to school worry",
+      "new school year nerves"
+     ],
+     "passage": "HeyPolo's arrival alerts tell you when your child reaches school, so the new route confirms itself without a message."
+    },
+    {
+     "url": "https://heypolo.com/blog/back-to-school-checklist",
+     "type": "blog",
+     "title": "The Back to School Checklist for Managing Two Kids at Once | HeyPolo",
+     "summary": "A back to school checklist built for two kids in different grades, covering forms, health, sleep targets, supplies and two different drop offs.",
+     "similarity": 0.13,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "your back to school checklist",
+      "checklist for kids going back to school,",
+      "checklist for two kids",
+      "back to school checklist"
+     ],
+     "passage": "Buying two of the cheap, high loss items in August costs less than the emergency trip in October."
+    },
+    {
+     "url": "https://heypolo.com/blog/what-age-can-a-child-walk-to-school-alone",
+     "type": "blog",
+     "title": "What Age Can a Child Walk to School Alone",
+     "summary": "What age can a child walk to school alone? Pediatric guidance says 10, but your child's crossing habits and your actual route decide it. Assess both today.",
+     "similarity": 0.123,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "walking to school alone",
+      "what age a child can walk to school alone",
+      "a solo school walk",
+      "starts walking to school alone"
+     ],
+     "passage": "Is my child ready to walk to school alone Readiness shows up in what your child does without being prompted, and it looks much the same whether the question is a walk to school or any other trip out alone."
+    },
+    {
+     "url": "https://heypolo.com/blog/after-school-routine",
+     "type": "blog",
+     "title": "After School Routine for Working Parents That Actually Runs",
+     "summary": "Build an after school routine for working parents that starts without you, with four anchors, sample schedules for aftercare, remote work, and shift work.",
+     "similarity": 0.12,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "after-school routine",
+      "an after-school routine that holds",
+      "a predictable after-school order",
+      "after-school routine for working parents"
+     ],
+     "passage": "An agreed arrival alert can replace a manual \"I'm home\" message when a phone-age child reaches a trusted place, which suits kids who forget to text and parents who then can't concentrate."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-prepare-kids-for-school",
+     "type": "blog",
+     "title": "How to Prepare Kids for School Before Day One",
+     "summary": "Rehearse the school day instead of cramming for a readiness test. Get a countdown, skills to practice, and a goodbye plan your child helps decide.",
+     "similarity": 0.118,
+     "inbound_links": 7,
+     "anchors_in_use": [
+      "preparing kids for school",
+      "prepare kids for school"
+     ],
+     "passage": "HeyPolo's arrival alerts tell you when someone reaches the school gate, without anyone sending a message."
+    },
+    {
+     "url": "https://heypolo.com/blog/kids-walking-to-school",
+     "type": "blog",
+     "title": "Kids walking to school: phone and texting rules that work",
+     "summary": "Kids walking to school need clear phone rules, not a ban. Set screen-free crossings, stop-and-text check-ins, and a sharing window that ends on arrival.",
+     "similarity": 0.116,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "kids walking to school",
+      "kids walk to school",
+      "the walk to school",
+      "walking to school"
+     ],
+     "passage": "Not a child without a phone, and not a car drop-off."
+    }
+   ]
+  },
+  {
+   "url": "https://heypolo.com/blog/scary-car-crash-stories-wont-slow-your-teen-down",
+   "reason": "new",
+   "title": "Why Scary Crash Stories Don’t Slow a Teen Down",
+   "h1": "Why Your Scary Car Crash Stories Won’t Slow Your Teen Down",
+   "meta": "Scary crash stories don’t slow your teen down. Learn what research says does cut crash risk for a new driver and what to put in place before their first solo drive.",
+   "excerpt": "You slide your phone across the kitchen counter with a local news story open on it. Two teenagers, a wet road, 11:40 pm. The unthinkable has happened. Your kid reads about 6 words of it, groans, and says “I know, Mom,” and goes back to scrolling. The research on why this tactic doesn't work is what stopped me from doing it. In its federal crash figures for 2024, NHTSA reports that drivers aged 15 to 20 made up 9% of all drivers involved in fatal crashes. Among those killed, 53% were unbelted. In other words, fear has had plenty of chances to work, but it doesn't. Seat belts and late-night driving have been the subject of staged wrecks in school parking lots for decades, and more than half of the young drivers who died still weren’t buckled. A teenager who is driving recklessly is, in their own head, invulnerable. A story about strangers on a highway doesn’t come into the equation when the chance to 'have some fun' comes up. What you can control is the set-up around the drive. That means teen driving rules the driver has actually agreed to, fewer teenagers in the car, and a way for the driver to see their own driving. The rest of this article covers how to do each of those. Your teenager already knows texting is dangerous In a Children's Hospital of Philadelphia and State Farm survey of more than 5,000 US students in grades nine through eleven, 79% said text messaging while driving is very dangerous. CDC's national Youth Risk Behavior Survey (2018) found that 39.2% of high school students who had driven in the past 30 days had texted or emailed behind the wheel. The 2019 cycle came in at nearly the same figure, 39.0%. Nothing in those numbers suggests an information shortage. Your kid knows. CDC also reports that among 2019 high school drivers, texting while driving was about as common among students earning mostly As or Bs as among students earning mostly Cs, Ds, or Fs. A conscientious kid with good grades is not exempt, which is",
+   "existing_internal_links": 9,
+   "forward_candidates": [
+    {
+     "url": "https://heypolo.com/blog/teen-driver-safety",
+     "type": "blog",
+     "title": "Teen Driver Safety: Your Teen's First 1,500 Solo Miles | HeyPolo",
+     "summary": "See our teen driver safety guidance for the first 1,500 solo miles, with phased rules for passengers, curfews, and night driving.",
+     "similarity": 0.179,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "teen driver safety",
+      "a gradual approach to teen driver safety",
+      "keep a teen driver safe"
+     ],
+     "passage": "Your teen watches the wreck at driver ed and walks out saying the guy was an idiot, and that they’d have seen it coming from a mile away."
+    },
+    {
+     "url": "https://heypolo.com/blog/national-teen-driver-safety-week",
+     "type": "blog",
+     "title": "National Teen Driver Safety Week: HeyPolo Encourages Families to Make Safer Driving a Conversation, Not a Confrontation",
+     "summary": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel. October 2026 — Getting a driver's licence",
+     "similarity": 0.142,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "That means teen driving rules the driver has actually agreed to, fewer teenagers in the car, and a way for the driver to see their own driving."
+    },
+    {
+     "url": "https://heypolo.com/blog/teens-walking-home-on-darker-evenings",
+     "type": "blog",
+     "title": "A Parent's Guide for Teens Walking Home on Darker Evenings",
+     "summary": "Darker evenings walking home from school raise real risk for teens. See what the crash data says, which gear works after dark, and how to check in without hovering.",
+     "similarity": 0.134,
+     "inbound_links": 11,
+     "anchors_in_use": [
+      "darker evenings walking home",
+      "walking home after dark",
+      "walking home on darker evenings",
+      "once the evenings go dark"
+     ],
+     "passage": "Knowing that drinking and driving is dangerous won’t help if the only other option is walking home alone."
+    },
+    {
+     "url": "https://heypolo.com/blog/monitor-teen-driving",
+     "type": "blog",
+     "title": "Best Ways to Keep an Eye on Your Teen's Driving Without Starting a Fight",
+     "summary": "Learn how to monitor teen driving safely with agreed alerts, clear privacy boundaries, and practical tools that build trust without starting arguments.",
+     "similarity": 0.132,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "In its federal crash figures for 2024, NHTSA reports that drivers aged 15 to 20 made up 9% of all drivers involved in fatal crashes."
+    },
+    {
+     "url": "https://heypolo.com/blog",
+     "type": "blog",
+     "title": "HeyPolo Blog: location Sharing Tips, Privacy Guides & Family Safety",
+     "summary": "Location sharing guides for real life. How-tos, privacy tips, family safety advice, and app comparisons — written for parents, couples, and caregivers.",
+     "similarity": 0.127,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": ""
     },
     {
      "url": "https://heypolo.com/blog/night-driving-tips-new-driver",
      "type": "blog",
      "title": "7 Best Tips For Night Driving as a New Driver",
      "summary": "Night driving and new drivers need a plan, not a lecture. Seven steps on practice, glare, fatigue, speed, and the one check-in your family can agree on tonight.",
-     "similarity": 0.119,
-     "inbound_links": 3,
+     "similarity": 0.124,
+     "inbound_links": 4,
      "anchors_in_use": [
+      "night driving for new drivers",
       "night driving tips",
       "fatal nighttime crash rate",
       "limits on driving at night"
      ],
-     "passage": "Rather than using driving scores to criticise or punish young drivers, HeyPolo encourages parents to review the information with their teenagers, talk about what went well and identify areas for improvement."
+     "passage": "Seat belts and late-night driving have been the subject of staged wrecks in school parking lots for decades, and more than half of the young drivers who died still weren’t buckled."
+    },
+    {
+     "url": "https://heypolo.com/blog/kids-walking-to-school",
+     "type": "blog",
+     "title": "Kids walking to school: phone and texting rules that work",
+     "summary": "Kids walking to school need clear phone rules, not a ban. Set screen-free crossings, stop-and-text check-ins, and a sharing window that ends on arrival.",
+     "similarity": 0.121,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "kids walking to school",
+      "kids walk to school",
+      "the walk to school",
+      "walking to school"
+     ],
+     "passage": "CDC also reports that among 2019 high school drivers, texting while driving was about as common among students earning mostly As or Bs as among students earning mostly Cs, Ds, or Fs."
+    },
+    {
+     "url": "https://heypolo.com/blog/the-back-to-school-safety-plan",
+     "type": "blog",
+     "title": "Back to School Safety Plan for Walking, Buses and Cars",
+     "summary": "Back to school safety that covers the walk, the bus, teen drivers and your child's first weeks, with CDC and NHTSA guidance and check-ins you agree together.",
+     "similarity": 0.116,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "back to school safety",
+      "their back to school plan"
+     ],
+     "passage": "CDC also reports that among 2019 high school drivers, texting while driving was about as common among students earning mostly As or Bs as among students earning mostly Cs, Ds, or Fs."
+    },
+    {
+     "url": "https://heypolo.com/blog/what-age-can-you-drive-alone",
+     "type": "blog",
+     "title": "What Age Can You Drive Alone With a Permit by State",
+     "summary": "What age can you drive alone? A learner's permit means supervised driving. Find your state's permit age, solo age, and restrictions before the first trip.",
+     "similarity": 0.114,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "the time they have held it"
+     ],
+     "passage": "Your teenager already knows texting is dangerous In a Children's Hospital of Philadelphia and State Farm survey of more than 5,000 US students in grades nine through eleven, 79% said text messaging while driving is very dangerous."
     },
     {
      "url": "https://heypolo.com/blog/best-teen-driving-skills",
      "type": "blog",
      "title": "Best Driving Skills to Practice Before Your Teen Drives Alone",
      "summary": "Learn the essential driving skills to practice before your teen drives alone, from hazard scanning and speed choice to night driving and practice logs.",
-     "similarity": 0.117,
-     "inbound_links": 1,
+     "similarity": 0.111,
+     "inbound_links": 2,
      "anchors_in_use": [
+      "driving skills to practice before your teen drives alone",
       "driving skills and experience"
      ],
-     "passage": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel."
+     "passage": "Passengers change what a teenage driver does If context drives the risk, the most powerful piece of context is who else is in the car."
     },
     {
      "url": "https://heypolo.com/for/parents-teens",
      "type": "for",
      "title": "Teen Tracking App: Consent-Based Sharing | HeyPolo",
      "summary": "HeyPolo is the teen tracking app teenagers actually agree to, with consent-based location sharing and a 30-day money-back guarantee.",
-     "similarity": 0.117,
+     "similarity": 0.109,
      "inbound_links": 5,
      "anchors_in_use": [
       "parents of newly licensed teenagers",
@@ -166,186 +700,909 @@
       "parents and teens work out",
       "parents of teens"
      ],
-     "passage": "As National Teen Driver Safety Week takes place October 18–24, family safety app HeyPolo is encouraging parents to take an active role in helping their teenagers become safer, more confident drivers."
+     "passage": "That means teen driving rules the driver has actually agreed to, fewer teenagers in the car, and a way for the driver to see their own driving."
     },
     {
-     "url": "https://heypolo.com/blog/walk-to-school-alone",
+     "url": "https://heypolo.com/blog/rural-roads-safety",
      "type": "blog",
-     "title": "Best Ways to Prepare Kids to Walk to School Alone",
-     "summary": "Learn how to prepare kids to walk to school alone using proven readiness checks, route planning, crossing practice, and consent-based check-ins.",
-     "similarity": 0.11,
-     "inbound_links": 1,
-     "anchors_in_use": [
-      "kid can walk to school alone"
-     ],
-     "passage": "According to the National Highway Traffic Safety Administration (NHTSA), in 2024: 2,320 people were killed in crashes involving drivers aged 15–18."
-    },
-    {
-     "url": "https://heypolo.com/blog/best-family-location-sharing-routines",
-     "type": "blog",
-     "title": "Best Family Location Sharing Routines to Build Trust",
-     "summary": "Learn practical family location sharing routines that protect safety and build trust through mutual consent, adjustable precision, and clear boundaries.",
-     "similarity": 0.107,
-     "inbound_links": 0,
-     "anchors_in_use": [],
-     "passage": "More independence for teenagers, more reassurance for parents HeyPolo also offers crash detection, location sharing and arrival alerts, helping families stay connected as teenagers gain independence."
-    },
-    {
-     "url": "https://heypolo.com/for",
-     "type": "for",
-     "title": "HeyPolo: Private Location Sharing for Families & Friends",
-     "summary": "Stay connected without constant tracking. HeyPolo lets you share your location on your terms — with family or friends. One subscription covers everyone.",
+     "title": "Rural Driving Leaves Less Room for Error Than You Think",
+     "summary": "Rural driving hides its risk in an empty road. See what shrinks your margin for error, what to change before you leave, and how your family knows you arrived.",
      "similarity": 0.106,
-     "inbound_links": 1,
+     "inbound_links": 6,
      "anchors_in_use": [
-      "designed for everyday life"
+      "driving on rural roads",
+      "safety on rural roads",
+      "unlit rural stretches",
+      "risks of driving rural roads"
      ],
-     "passage": "More independence for teenagers, more reassurance for parents HeyPolo also offers crash detection, location sharing and arrival alerts, helping families stay connected as teenagers gain independence."
+     "passage": "A new driver has even less to measure themselves against, so the habit has plenty of room to grow."
+    },
+    {
+     "url": "https://heypolo.com/blog/questions-to-ask-kids-after-school",
+     "type": "blog",
+     "title": "Questions to Ask Kids After School When They Go Quiet",
+     "summary": "Questions to ask kids after school that work on a quiet teen, plus what the research says about timing, listening, and answers that worry you. Read on.",
+     "similarity": 0.089,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "questions to ask after school",
+      "what to ask after school"
+     ],
+     "passage": "Your teen reads about the two kids on the wet road at 11:40 pm."
+    },
+    {
+     "url": "https://heypolo.com/blog/school-bus-safety",
+     "type": "blog",
+     "title": "School Bus Safety Habits That Start Before the Bus",
+     "summary": "School bus safety starts at the curb, not on the ride. Use behavior-based readiness checks, a stop rehearsal, and a plan for late buses and changed stops.",
+     "similarity": 0.082,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "school bus safety",
+      "a school bus routine",
+      "waiting at the bus stop",
+      "the routine at the stop"
+     ],
+     "passage": "CDC's national Youth Risk Behavior Survey (2018) found that 39.2% of high school students who had driven in the past 30 days had texted or emailed behind the wheel."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-know-when-your-child-is-ready-to-go-out-alone",
+     "type": "blog",
+     "title": "When Should Kids Go Out Alone? A Parent's Readiness Guide",
+     "summary": "When should kids go out alone? Age 10 is only the floor. Weigh your child's skills, your route, and your state law, then start with one short trip.",
+     "similarity": 0.081,
+     "inbound_links": 8,
+     "anchors_in_use": [
+      "when kids go out alone",
+      "ready to go out alone",
+      "any other trip out alone",
+      "when kids go out alone outside the house"
+     ],
+     "passage": "The University of North Carolina’s Center for the Study of Young Drivers says some teens react against what feels like an attack on their freedom, and that is part of why fear appeals can sometimes increase unsafe behavior."
     }
    ],
    "reverse_candidates": [
-    {
-     "url": "https://heypolo.com/blog/teen-driving-rules",
-     "type": "blog",
-     "title": "Best Teen Driving Rules to Set Without Crushing Independence",
-     "summary": "Discover the best teen driving rules covering curfews, passenger limits, and phone use to keep new drivers safe while building independence.",
-     "similarity": 0.203,
-     "inbound_links": 2,
-     "anchors_in_use": [
-      "teen driving restrictions",
-      "teen driver rules"
-     ],
-     "passage": "The 2025 Teen Driver Safety National Center guidance reports that GDL laws cut 19% of non-fatal and 21% of fatal crashes among new drivers."
-    },
-    {
-     "url": "https://heypolo.com/blog/monitor-teen-driving",
-     "type": "blog",
-     "title": "Best Ways to Keep an Eye on Your Teen's Driving Without Starting a Fight",
-     "summary": "Learn how to monitor teen driving safely with agreed alerts, clear privacy boundaries, and practical tools that build trust without starting arguments.",
-     "similarity": 0.172,
-     "inbound_links": 0,
-     "anchors_in_use": [],
-     "passage": "Use a designated teen driving app to review weekly travel trends together, discussing heavy traffic spots or difficult weather conditions without turning the conversation into a courtroom trial."
-    },
-    {
-     "url": "https://heypolo.com/blog/teen-driving-contract",
-     "type": "blog",
-     "title": "Teen Driving Contract for Raising a Responsible Teenage Driver",
-     "summary": "Create a practical teen driving contract with clear rules for passengers, curfews, emergencies, and parent commitments for new solo drivers.",
-     "similarity": 0.158,
-     "inbound_links": 2,
-     "anchors_in_use": [
-      "create a teen driver agreement",
-      "teen driver contract"
-     ],
-     "passage": "A comprehensive driving contract for teenage driver safety should spell out five baseline obligations: Seatbelts for everyone: The vehicle remains in park until the driver and every passenger have buckled their seatbelts properly."
-    },
-    {
-     "url": "https://heypolo.com/blog/pedestrian-safety-month",
-     "type": "blog",
-     "title": "Pedestrian Safety Month 2026 Trends And Family Walking Safety",
-     "summary": "Pedestrian Safety Month 2026 highlights why crashes are deadlier after dark. Discover vital street data and build an agreed family plan for autumn walks home.",
-     "similarity": 0.135,
-     "inbound_links": 1,
-     "anchors_in_use": [
-      "pedestrian safety month"
-     ],
-     "passage": "Police recorded speeding in 8.1% of fatal pedestrian crashes in 2024, climbing to 11.9% on local neighborhood streets and dropping to 4.6% on expressways."
-    },
     {
      "url": "https://heypolo.com/blog/teen-driver-safety",
      "type": "blog",
      "title": "Teen Driver Safety: Your Teen's First 1,500 Solo Miles | HeyPolo",
      "summary": "See our teen driver safety guidance for the first 1,500 solo miles, with phased rules for passengers, curfews, and night driving.",
-     "similarity": 0.131,
+     "similarity": 0.179,
      "inbound_links": 6,
      "anchors_in_use": [
       "teen driver safety",
       "a gradual approach to teen driver safety",
       "keep a teen driver safe"
      ],
-     "passage": "What the numbers actually say about teen driver safety Crashes involving young drivers hurt more people than the drivers themselves."
+     "passage": "One teen passenger roughly doubles the crash death risk for 16 and 17 year-old drivers, according to Villavicencio and colleagues in 2022."
+    },
+    {
+     "url": "https://heypolo.com/blog/teen-driving-rules",
+     "type": "blog",
+     "title": "Best Teen Driving Rules to Set Without Crushing Independence",
+     "summary": "Discover the best teen driving rules covering curfews, passenger limits, and phone use to keep new drivers safe while building independence.",
+     "similarity": 0.143,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "teen driving rules",
+      "agree on rules",
+      "teen driving restrictions",
+      "teen driver rules"
+     ],
+     "passage": "The 2025 Teen Driver Safety National Center guidance reports that one passenger under 21 raises a teen driver's fatal crash risk by 44%, two passengers double it, and three or more quadruple it."
+    },
+    {
+     "url": "https://heypolo.com/blog/national-teen-driver-safety-week",
+     "type": "blog",
+     "title": "National Teen Driver Safety Week: HeyPolo Encourages Families to Make Safer Driving a Conversation, Not a Confrontation",
+     "summary": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel. October 2026 — Getting a driver's licence is one of the biggest",
+     "similarity": 0.142,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "With 2,320 people killed in crashes involving teen drivers in 2024, HeyPolo encourages parents and teenagers to review driving habits together and build safer behaviours behind the wheel."
+    },
+    {
+     "url": "https://heypolo.com/blog/teens-walking-home-on-darker-evenings",
+     "type": "blog",
+     "title": "A Parent's Guide for Teens Walking Home on Darker Evenings",
+     "summary": "Darker evenings walking home from school raise real risk for teens. See what the crash data says, which gear works after dark, and how to check in without hovering.",
+     "similarity": 0.134,
+     "inbound_links": 11,
+     "anchors_in_use": [
+      "darker evenings walking home",
+      "walking home after dark",
+      "walking home on darker evenings",
+      "once the evenings go dark"
+     ],
+     "passage": "Risk concentrates in the dark rather than spreading evenly across the day, the same window where teen driver safety research shows the newest drivers on the road are also at their most exposed."
+    },
+    {
+     "url": "https://heypolo.com/blog/monitor-teen-driving",
+     "type": "blog",
+     "title": "Best Ways to Keep an Eye on Your Teen's Driving Without Starting a Fight",
+     "summary": "Learn how to monitor teen driving safely with agreed alerts, clear privacy boundaries, and practical tools that build trust without starting arguments.",
+     "similarity": 0.132,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "A 2022 Progressive teen driver survey of 255 parents who used a driving app found that 90% discussed driving habits based on reports, and 59% rewarded or punished their teen based on that data."
     },
     {
      "url": "https://heypolo.com/blog/night-driving-tips-new-driver",
      "type": "blog",
      "title": "7 Best Tips For Night Driving as a New Driver",
      "summary": "Night driving and new drivers need a plan, not a lecture. Seven steps on practice, glare, fatigue, speed, and the one check-in your family can agree on tonight.",
-     "similarity": 0.119,
-     "inbound_links": 3,
+     "similarity": 0.124,
+     "inbound_links": 4,
      "anchors_in_use": [
+      "night driving for new drivers",
       "night driving tips",
       "fatal nighttime crash rate",
       "limits on driving at night"
      ],
-     "passage": "Why night driving and new drivers need a different plan After dark, depth perception, peripheral vision, and color recognition all drop off, and a driver has less time to spot a curve, a pedestrian, or a car drifting over the line."
+     "passage": "CDC teen driver data shows the fatal crash rate at night among drivers ages 16–19 is about three times as high as that of drivers ages 30–59 per mile driven."
     },
     {
-     "url": "https://heypolo.com/blog/best-teen-driving-skills",
+     "url": "https://heypolo.com/blog/kids-walking-to-school",
      "type": "blog",
-     "title": "Best Driving Skills to Practice Before Your Teen Drives Alone",
-     "summary": "Learn the essential driving skills to practice before your teen drives alone, from hazard scanning and speed choice to night driving and practice logs.",
-     "similarity": 0.117,
-     "inbound_links": 1,
+     "title": "Kids walking to school: phone and texting rules that work",
+     "summary": "Kids walking to school need clear phone rules, not a ban. Set screen-free crossings, stop-and-text check-ins, and a sharing window that ends on arrival.",
+     "similarity": 0.121,
+     "inbound_links": 6,
      "anchors_in_use": [
-      "driving skills and experience"
+      "kids walking to school",
+      "kids walk to school",
+      "the walk to school",
+      "walking to school"
      ],
-     "passage": "In 2021, the Governors Highway Safety Association reported that speeding was a factor in 43% of teen driver and passenger deaths in the United States between 2015 and 2019, compared with 30% for drivers 20 and older."
-    },
-    {
-     "url": "https://heypolo.com/blog/walk-to-school-alone",
-     "type": "blog",
-     "title": "Best Ways to Prepare Kids to Walk to School Alone",
-     "summary": "Learn how to prepare kids to walk to school alone using proven readiness checks, route planning, crossing practice, and consent-based check-ins.",
-     "similarity": 0.11,
-     "inbound_links": 1,
-     "anchors_in_use": [
-      "kid can walk to school alone"
-     ],
-     "passage": "In 2024, the National Highway Traffic Safety Administration reported that 72% of school-age pedestrians killed in US school-transport-related crashes from 2013 to 2022 were struck away from intersections."
-    },
-    {
-     "url": "https://heypolo.com/blog/best-family-location-sharing-routines",
-     "type": "blog",
-     "title": "Best Family Location Sharing Routines to Build Trust",
-     "summary": "Learn practical family location sharing routines that protect safety and build trust through mutual consent, adjustable precision, and clear boundaries.",
-     "similarity": 0.107,
-     "inbound_links": 0,
-     "anchors_in_use": [],
-     "passage": "Involving teenagers directly in setting up oversight features improves their willingness to participate in digital safety routines."
+     "passage": "If one of those drivers is your own teenager, the phone rule cuts both ways, and teen driver safety starts with the same habit."
     },
     {
      "url": "https://heypolo.com/blog/the-back-to-school-safety-plan",
      "type": "blog",
      "title": "Back to School Safety Plan for Walking, Buses and Cars",
      "summary": "Back to school safety that covers the walk, the bus, teen drivers and your child's first weeks, with CDC and NHTSA guidance and check-ins you agree together.",
-     "similarity": 0.104,
+     "similarity": 0.116,
      "inbound_links": 4,
      "anchors_in_use": [
       "back to school safety",
       "their back to school plan"
      ],
-     "passage": "A written parent-teen driving agreement, reviewed regularly, does more than checking a new driver's location mid-trip."
+     "passage": "Car and carpool routines, including teen drivers Car seats, boosters, and calm drop-off lines Younger kids stay in each stage until they properly fit the next one, moving from rear-facing to forward-facing to booster to seat belt."
+    },
+    {
+     "url": "https://heypolo.com/blog/what-age-can-you-drive-alone",
+     "type": "blog",
+     "title": "What Age Can You Drive Alone With a Permit by State",
+     "summary": "What age can you drive alone? A learner's permit means supervised driving. Find your state's permit age, solo age, and restrictions before the first trip.",
+     "similarity": 0.114,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "the time they have held it"
+     ],
+     "passage": "A 2010 AAA Foundation report put it plainly: \"All but four states require new drivers, under age 18, to hold a learner's permit for at least 6 months.\" During those months, they noted, \"driving is only allowed while being supervised by a licensed adult driver."
+    },
+    {
+     "url": "https://heypolo.com/blog/best-teen-driving-skills",
+     "type": "blog",
+     "title": "Best Driving Skills to Practice Before Your Teen Drives Alone",
+     "summary": "Learn the essential driving skills to practice before your teen drives alone, from hazard scanning and speed choice to night driving and practice logs.",
+     "similarity": 0.111,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "driving skills to practice before your teen drives alone",
+      "driving skills and experience"
+     ],
+     "passage": "Rehearsing strict cabin discipline during supervised driving practice prevents bad habits from forming before solo trips begin: Pre-drive configuration: require your teen to set navigation routes, select playlists, adjust climate vents, and activate driving fo"
+    }
+   ]
+  },
+  {
+   "url": "https://heypolo.com/blog/your-teen-is-learning-to-drive-from-watching-you",
+   "reason": "new",
+   "title": "Your Teen Is Learning to Drive From Watching You",
+   "h1": "Your Teen Is Learning to Drive From Watching You",
+   "meta": "Your teen is learning to drive from watching you, for 13 years before the permit. See what the research says about habits they copy, and what you can change now.",
+   "excerpt": "My daughter started calling out the yellow lights before her feet could reach the pedals. Years later I was the one in the passenger seat, on the way home from her aunt's house, and I watched her speed up for a yellow on the same stretch of road. I ever so slightly as she sped up a little farther away from the lights than I would have, but then it dawned on me - I knew exactly where she'd learned it. Your teen is learning to drive from watching you, and those lessons started long before they had a permit. Catherine McDonald of the Center for Injury Research and Prevention at Children's Hospital of Philadelphia put it plainly in 2020. \"By the time a teenager gets a learner's permit,they probably have been watching their parents drive for 13 to 14 years.\" None of it was planned. It happened on school runs and grocery trips, stuck in traffic and running late. Most of us speed up for a yellow now and then, or take a call we shouldn't. That doesn't make you a bad driver or a bad parent. It does mean the most protective thing you can do before you hand over the keys is take an honest look at your own habits, and keep looking once the license arrives. Your teen is learning to drive from watching you long before the permit New drivers don't start from scratch. They start with ten years of watching you, and every new road gets measured against that. Then formal practice starts, and you're in the passenger seat. A Safe Kids Worldwide study in 2016 found that 84% of teens and 88% of parents said practice with parents made up the biggest part of learning to drive, and 75% of teens called it the most helpful part. So you're the example and the instructor, which is a lot of responsibility for someone who's also just trying to get to work on time. Researchers put data recorders in the cars of 42 families in Virginia, so teens and their parents were driving the same",
+   "existing_internal_links": 10,
+   "forward_candidates": [
+    {
+     "url": "https://heypolo.com/blog/what-age-can-you-drive-alone",
+     "type": "blog",
+     "title": "What Age Can You Drive Alone With a Permit by State",
+     "summary": "What age can you drive alone? A learner's permit means supervised driving. Find your state's permit age, solo age, and restrictions before the first trip.",
+     "similarity": 0.178,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "the time they have held it"
+     ],
+     "passage": "\"By the time a teenager gets a learner's permit,they probably have been watching their parents drive for 13 to 14 years.\" None of it was planned."
+    },
+    {
+     "url": "https://heypolo.com/blog/teen-driving-rules",
+     "type": "blog",
+     "title": "Best Teen Driving Rules to Set Without Crushing Independence",
+     "summary": "Discover the best teen driving rules covering curfews, passenger limits, and phone use to keep new drivers safe while building independence.",
+     "similarity": 0.116,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "teen driving rules",
+      "agree on rules",
+      "teen driving restrictions",
+      "teen driver rules"
+     ],
+     "passage": "Researchers surveyed 403 parent and teen pairs about distracted driving."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-know-when-your-child-is-ready-to-go-out-alone",
+     "type": "blog",
+     "title": "When Should Kids Go Out Alone? A Parent's Readiness Guide",
+     "summary": "When should kids go out alone? Age 10 is only the floor. Weigh your child's skills, your route, and your state law, then start with one short trip.",
+     "similarity": 0.114,
+     "inbound_links": 8,
+     "anchors_in_use": [
+      "when kids go out alone",
+      "ready to go out alone",
+      "any other trip out alone",
+      "when kids go out alone outside the house"
+     ],
+     "passage": "That van is blocking my view of the crossing, so I'm covering the brake."
+    },
+    {
+     "url": "https://heypolo.com/blog/questions-to-ask-kids-after-school",
+     "type": "blog",
+     "title": "Questions to Ask Kids After School When They Go Quiet",
+     "summary": "Questions to ask kids after school that work on a quiet teen, plus what the research says about timing, listening, and answers that worry you. Read on.",
+     "similarity": 0.113,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "questions to ask after school",
+      "what to ask after school"
+     ],
+     "passage": "A Safe Kids Worldwide study in 2016 found that 84% of teens and 88% of parents said practice with parents made up the biggest part of learning to drive, and 75% of teens called it the most helpful part."
+    },
+    {
+     "url": "https://heypolo.com/blog/school-bus-safety",
+     "type": "blog",
+     "title": "School Bus Safety Habits That Start Before the Bus",
+     "summary": "School bus safety starts at the curb, not on the ride. Use behavior-based readiness checks, a stop rehearsal, and a plan for late buses and changed stops.",
+     "similarity": 0.113,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "school bus safety",
+      "a school bus routine",
+      "waiting at the bus stop",
+      "the routine at the stop"
+     ],
+     "passage": "It does mean the most protective thing you can do before you hand over the keys is take an honest look at your own habits, and keep looking once the license arrives."
+    },
+    {
+     "url": "https://heypolo.com/blog/driving-permit-at-14",
+     "type": "blog",
+     "title": "Can You Get a Permit at 14? Six States Say Yes",
+     "summary": "Can you get a permit at 14? Six US states allow it, with supervision rules attached. See the state list, the conditions, and what to check before applying.",
+     "similarity": 0.108,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "learner eligibility as early as 14"
+     ],
+     "passage": "Your teen is learning to drive from watching you, and those lessons started long before they had a permit."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-deal-with-school-pressure",
+     "type": "blog",
+     "title": "How to Deal with School Pressure (Ages 6 to 15)",
+     "summary": "How to deal with school pressure at ages 6 to 15, with sleep targets, study methods, and calm-down tools that work. Start with one small change tonight.",
+     "similarity": 0.105,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "the academic pressure that follows",
+      "school pressure kids carry home",
+      "pressure teenagers carry from school",
+      "pressure to perform"
+     ],
+     "passage": "A Safe Kids Worldwide study in 2016 found that 84% of teens and 88% of parents said practice with parents made up the biggest part of learning to drive, and 75% of teens called it the most helpful part."
+    },
+    {
+     "url": "https://heypolo.com/blog/monitor-teen-driving",
+     "type": "blog",
+     "title": "Best Ways to Keep an Eye on Your Teen's Driving Without Starting a Fight",
+     "summary": "Learn how to monitor teen driving safely with agreed alerts, clear privacy boundaries, and practical tools that build trust without starting arguments.",
+     "similarity": 0.102,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Among drivers aged 15 to 20 involved in fatal crashes in 2024, NHTSA recorded 39% of the males and 20% of the females as speeding, the highest share of any age group."
+    },
+    {
+     "url": "https://heypolo.com/blog/teen-driver-safety",
+     "type": "blog",
+     "title": "Teen Driver Safety: Your Teen's First 1,500 Solo Miles | HeyPolo",
+     "summary": "See our teen driver safety guidance for the first 1,500 solo miles, with phased rules for passengers, curfews, and night driving.",
+     "similarity": 0.101,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "teen driver safety",
+      "a gradual approach to teen driver safety",
+      "keep a teen driver safe"
+     ],
+     "passage": "A National Safety Council survey in 2015 found that 91% of parents who use their phone while driving do it with their teen in the car, and 88% see themselves as one of their teen's main driving teachers."
+    },
+    {
+     "url": "https://heypolo.com/blog/teens-walking-home-on-darker-evenings",
+     "type": "blog",
+     "title": "A Parent's Guide for Teens Walking Home on Darker Evenings",
+     "summary": "Darker evenings walking home from school raise real risk for teens. See what the crash data says, which gear works after dark, and how to check in without hovering.",
+     "similarity": 0.098,
+     "inbound_links": 11,
+     "anchors_in_use": [
+      "darker evenings walking home",
+      "walking home after dark",
+      "walking home on darker evenings",
+      "once the evenings go dark"
+     ],
+     "passage": "NHTSA recorded at least 186 teens aged 15 to 19 killed in distraction-affected crashes in 2024, about 7% of all teen traffic deaths, and police reports are thought to undercount the real number."
+    },
+    {
+     "url": "https://heypolo.com/blog/what-age-can-a-child-walk-to-school-alone",
+     "type": "blog",
+     "title": "What Age Can a Child Walk to School Alone",
+     "summary": "What age can a child walk to school alone? Pediatric guidance says 10, but your child's crossing habits and your actual route decide it. Assess both today.",
+     "similarity": 0.092,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "walking to school alone",
+      "what age a child can walk to school alone",
+      "a solo school walk",
+      "starts walking to school alone"
+     ],
+     "passage": "Your teen already knows what you do, and lectures have a poor track record with this age group anyway, which is a big part of why scary crash stories don’t slow a teen down."
+    },
+    {
+     "url": "https://heypolo.com/blog/new-driver-how-many-passengers",
+     "type": "blog",
+     "title": "How Many Passengers Can a New Driver Have by State",
+     "summary": "How many passengers can a new driver have depends on your state and license stage. Find your rule, the curfew that goes with it, and what to agree on first.",
+     "similarity": 0.092,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "how many passengers a new driver can have",
+      "cap the number of teen passengers"
+     ],
+     "passage": "From the passenger seat, it looks like what drivers do at red lights."
+    },
+    {
+     "url": "https://heypolo.com/for/parents-teens",
+     "type": "for",
+     "title": "Teen Tracking App: Consent-Based Sharing | HeyPolo",
+     "summary": "HeyPolo is the teen tracking app teenagers actually agree to, with consent-based location sharing and a 30-day money-back guarantee.",
+     "similarity": 0.088,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "parents of newly licensed teenagers",
+      "what parents and teens agree",
+      "parents and teens work out",
+      "parents of teens"
+     ],
+     "passage": "HeyPolo sends a speed alert when your teen passes a limit you’ve agreed on together, so a Sunday conversation starts from something specific instead of a general feeling that they drive too fast."
+    },
+    {
+     "url": "https://heypolo.com/blog/knowing-when-your-child-is-ready-to-stay-home-alone",
+     "type": "blog",
+     "title": "What Age Can a Child Stay Home Alone? A Parent's Guide",
+     "summary": "What age can a child stay home alone? No single number settles it. See what the law says where you live, plus readiness signs you can watch for before the first trial.",
+     "similarity": 0.084,
+     "inbound_links": 6,
+     "anchors_in_use": [
+      "ready to stay home alone",
+      "whether your child is ready to stay home alone",
+      "staying at home alone",
+      "ready for time home alone"
+     ],
+     "passage": "Your teen already knows what you do, and lectures have a poor track record with this age group anyway, which is a big part of why scary crash stories don’t slow a teen down."
+    },
+    {
+     "url": "https://heypolo.com/blog/the-worry-every-parent-of-a-teenager-knows",
+     "type": "blog",
+     "title": "How to Give Teenagers Independence Without Constant Worry",
+     "summary": "Letting teenagers become independent is hard. Learn how parents can balance safety, trust, and peace of mind without constant monitoring.",
+     "similarity": 0.082,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "teenage independence"
+     ],
+     "passage": "Put those together and almost every parent who checks a phone behind the wheel is doing it in front of the person they're teaching."
+    }
+   ],
+   "reverse_candidates": [
+    {
+     "url": "https://heypolo.com/blog/what-age-can-you-drive-alone",
+     "type": "blog",
+     "title": "What Age Can You Drive Alone With a Permit by State",
+     "summary": "What age can you drive alone? A learner's permit means supervised driving. Find your state's permit age, solo age, and restrictions before the first trip.",
+     "similarity": 0.178,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "the time they have held it"
+     ],
+     "passage": "A standard learner's permit means supervised practice with a licensed adult in the passenger seat."
+    },
+    {
+     "url": "https://heypolo.com/blog/night-driving-tips-new-driver",
+     "type": "blog",
+     "title": "7 Best Tips For Night Driving as a New Driver",
+     "summary": "Night driving and new drivers need a plan, not a lecture. Seven steps on practice, glare, fatigue, speed, and the one check-in your family can agree on tonight.",
+     "similarity": 0.126,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "night driving for new drivers",
+      "night driving tips",
+      "fatal nighttime crash rate",
+      "limits on driving at night"
+     ],
+     "passage": "If lights look distorted on every night drive, that's worth raising with a qualified eye-care professional rather than working around."
+    },
+    {
+     "url": "https://heypolo.com/blog/teen-driving-contract",
+     "type": "blog",
+     "title": "Teen Driving Contract for Raising a Responsible Teenage Driver",
+     "summary": "Create a practical teen driving contract with clear rules for passengers, curfews, emergencies, and parent commitments for new solo drivers.",
+     "similarity": 0.125,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "parent-teen driving contract",
+      "parent-teen driving agreement",
+      "create a teen driver agreement",
+      "teen driver contract"
+     ],
+     "passage": "I remember standing in the kitchen watching brake lights disappear down our street, wondering whether my worry was helping my daughter drive better or just getting in the way."
+    },
+    {
+     "url": "https://heypolo.com/blog/teen-driving-rules",
+     "type": "blog",
+     "title": "Best Teen Driving Rules to Set Without Crushing Independence",
+     "summary": "Discover the best teen driving rules covering curfews, passenger limits, and phone use to keep new drivers safe while building independence.",
+     "similarity": 0.116,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "teen driving rules",
+      "agree on rules",
+      "teen driving restrictions",
+      "teen driver rules"
+     ],
+     "passage": "Setting an arrival alert for your home address notifies you the moment your teen parks, keeping you connected during late evening drives without constant phone calls and texts Put the phone away before the car moves A phone sitting on the passenger seat invite"
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-know-when-your-child-is-ready-to-go-out-alone",
+     "type": "blog",
+     "title": "When Should Kids Go Out Alone? A Parent's Readiness Guide",
+     "summary": "When should kids go out alone? Age 10 is only the floor. Weigh your child's skills, your route, and your state law, then start with one short trip.",
+     "similarity": 0.114,
+     "inbound_links": 8,
+     "anchors_in_use": [
+      "when kids go out alone",
+      "ready to go out alone",
+      "any other trip out alone",
+      "when kids go out alone outside the house"
+     ],
+     "passage": "Four days of checking the route on a map, noticing the one crossing with the blind corner, watching the parent group chat that only lights up when somebody is running late."
+    },
+    {
+     "url": "https://heypolo.com/blog/questions-to-ask-kids-after-school",
+     "type": "blog",
+     "title": "Questions to Ask Kids After School When They Go Quiet",
+     "summary": "Questions to ask kids after school that work on a quiet teen, plus what the research says about timing, listening, and answers that worry you. Read on.",
+     "similarity": 0.113,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "questions to ask after school",
+      "what to ask after school"
+     ],
+     "passage": "Most of what parents and teens work out in these years gets settled this way, in small negotiations nobody announces."
+    },
+    {
+     "url": "https://heypolo.com/blog/school-bus-safety",
+     "type": "blog",
+     "title": "School Bus Safety Habits That Start Before the Bus",
+     "summary": "School bus safety starts at the curb, not on the ride. Use behavior-based readiness checks, a stop rehearsal, and a plan for late buses and changed stops.",
+     "similarity": 0.113,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "school bus safety",
+      "a school bus routine",
+      "waiting at the bus stop",
+      "the routine at the stop"
+     ],
+     "passage": "INFOGRAPHIC School bus age is a weaker test than watching what your child does No universal age is established by the research available here, and any page that names one is guessing."
+    },
+    {
+     "url": "https://heypolo.com/blog/driving-permit-at-14",
+     "type": "blog",
+     "title": "Can You Get a Permit at 14? Six States Say Yes",
+     "summary": "Can you get a permit at 14? Six US states allow it, with supervision rules attached. See the state list, the conditions, and what to check before applying.",
+     "similarity": 0.108,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "learner eligibility as early as 14"
+     ],
+     "passage": "A restricted permit comes with its own conditions on where and why a teenager may drive, and your state licensing agency is the place to read them rather than a summary anywhere else."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-deal-with-school-pressure",
+     "type": "blog",
+     "title": "How to Deal with School Pressure (Ages 6 to 15)",
+     "summary": "How to deal with school pressure at ages 6 to 15, with sleep targets, study methods, and calm-down tools that work. Start with one small change tonight.",
+     "similarity": 0.105,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "the academic pressure that follows",
+      "school pressure kids carry home",
+      "pressure teenagers carry from school",
+      "pressure to perform"
+     ],
+     "passage": "Learning how to deal with school pressure starts long before that folder opens, in the ordinary hours around it."
+    },
+    {
+     "url": "https://heypolo.com/blog/monitor-teen-driving",
+     "type": "blog",
+     "title": "Best Ways to Keep an Eye on Your Teen's Driving Without Starting a Fight",
+     "summary": "Learn how to monitor teen driving safely with agreed alerts, clear privacy boundaries, and practical tools that build trust without starting arguments.",
+     "similarity": 0.102,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Learning to monitor teen driving works best when you agree on a small set of meaningful alerts before the first solo trips, then use those alerts to begin conversations rather than issue verdicts."
+    }
+   ]
+  },
+  {
+   "url": "https://heypolo.com/blog/does-airplane-mode-turn-off-location-tracking",
+   "reason": "new",
+   "title": "Does Airplane Mode Turn Off Location Tracking?",
+   "h1": "Does Airplane Mode Turn Off Location Tracking",
+   "meta": "Does airplane mode turn off location tracking? It stops your phone sending data out, but the satellite receiver keeps working. See what actually changes, and what to switch off.",
+   "excerpt": "No. Airplane mode cuts everything your phone sends out wirelessly, which means calls, texts, mobile data and, by default, Wi-Fi and Bluetooth. The part that works out your position keeps going. Your phone can put itself on the map with zero bars, because satellite positioning never needed your carrier. It's accurate, too. Under the US government's standard for civil satellite positioning, good receivers have been achieving horizontal accuracy of 3 meters or better 95% of the time. Phones do worse indoors or between tall buildings, so treat three meters as the best case, and don't expect it in a parking garage. Even so, on a clear day your phone knows which side of the street you're on, airplane mode or not. Radios talk back, receivers only listen Your phone's cellular chip, Wi-Fi and Bluetooth all send as well as receive. They hold conversations with towers, routers and headphones, and those outgoing signals are what airplane mode switches off, so they can't interfere with the plane's radio equipment. GPS works the other way round. The receiver in your phone is like the FM radio in a car. It picks up signals that satellites broadcast whether anyone is listening or not, and it never sends anything back. There's nothing for airplane mode to switch off, so it leaves the receiver alone. What airplane mode does stop is the record your carrier keeps. The US Supreme Court showed how big that record gets in 2018, when it noted that wireless carriers had handed over 12,898 cell-site location points covering 127 days of one man's movements, roughly 101 points a day. That's a location point about every 15 minutes, all day, for four months. Each one was logged because his phone connected to a tower, which it does just by being switched on. Turn on airplane mode and those connections stop for as long as it stays on. That’s also why airplane mode saves so much battery. The mobile radio is one of the biggest drains on a phone, and it explains most of how location sharing affects your battery. The one place you",
+   "existing_internal_links": 6,
+   "forward_candidates": [
+    {
+     "url": "https://heypolo.com/blog",
+     "type": "blog",
+     "title": "HeyPolo Blog: location Sharing Tips, Privacy Guides & Family Safety",
+     "summary": "Location sharing guides for real life. How-tos, privacy tips, family safety advice, and app comparisons — written for parents, couples, and caregivers.",
+     "similarity": 0.181,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Does turning off location services save battery compared to airplane mode?"
+    },
+    {
+     "url": "https://heypolo.com/blog/fix-location-permissions",
+     "type": "blog",
+     "title": "Location Not Working? How To Fix It on iPhone, Android or Windows | HeyPolo",
+     "summary": "Dead location pins, GPS that won't lock, family sharing that quietly stops working. A permission-by-permission fix for iPhone, Android and Windows.",
+     "similarity": 0.161,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "How to actually stop location tracking on iPhone and Android If you want the phone to stop working out where you are, the setting you need is Location Services."
+    },
+    {
+     "url": "https://heypolo.com/for/parents-teens",
+     "type": "for",
+     "title": "Teen Tracking App: Consent-Based Sharing | HeyPolo",
+     "summary": "HeyPolo is the teen tracking app teenagers actually agree to, with consent-based location sharing and a 30-day money-back guarantee.",
+     "similarity": 0.12,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "parents of newly licensed teenagers",
+      "what parents and teens agree",
+      "parents and teens work out",
+      "parents of teens"
+     ],
+     "passage": "How to actually stop location tracking on iPhone and Android If you want the phone to stop working out where you are, the setting you need is Location Services."
+    },
+    {
+     "url": "https://heypolo.com/blog/heypolo-vs-life360-which-app-better-protects-your-privacy",
+     "type": "blog",
+     "title": "HeyPolo vs Life360: Which Location-Sharing App Protects Your Privacy Better?",
+     "summary": "Compare HeyPolo vs Life360 on privacy, features, pricing, and data sharing to see which app keeps your location data safer.",
+     "similarity": 0.096,
+     "inbound_links": 3,
+     "anchors_in_use": [
+      "side-by-side breakdown",
+      "life360 privacy comparison",
+      "switching providers"
+     ],
+     "passage": "A location-sharing app has no way to reach the internet, so it can't send an update."
+    },
+    {
+     "url": "https://heypolo.com/for/family",
+     "type": "for",
+     "title": "Family Tracking App: Location Sharing You Control | HeyPolo",
+     "summary": "HeyPolo is the family tracking app where each person decides what they share, backed by a 30-day money-back guarantee.",
+     "similarity": 0.09,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "family location-sharing app",
+      "learn more about how heypolo works for families"
+     ],
+     "passage": "If you want to share your location with family without handing over an exact pin, HeyPolo’s general-area sharing shows a neighborhood-level bubble instead, and your maps keep working."
+    },
+    {
+     "url": "https://heypolo.com/blog/child-independence-safety",
+     "type": "blog",
+     "title": "Child Independence Safety When You Can't Be There",
+     "summary": "Child independence & safety comes down to real risk data, your child's skills, and the law on your side. See what actually keeps them safe when you're apart.",
+     "similarity": 0.082,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "child independence and safety",
+      "child independence",
+      "how much independence to give"
+     ],
+     "passage": "Without mobile data, your phone can't download the satellite data that usually speeds up its first fix, so it can take longer to lock on."
+    },
+    {
+     "url": "https://heypolo.com/for/outdoors",
+     "type": "for",
+     "title": "Location Sharing App for Hiking and Outdoors | HeyPolo",
+     "summary": "If something goes wrong on the trail, let your people know fast. One-tap SOS, arrival alerts and location sharing for hikers, campers and runners. 30-day money-back guarantee.",
+     "similarity": 0.076,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "So does any SOS app that sends your position to family when you need help."
+    },
+    {
+     "url": "https://heypolo.com/for/kids",
+     "type": "for",
+     "title": "Find My Kids App: Track With Their Consent | HeyPolo",
+     "summary": "HeyPolo is the find my kids app your kid actually agrees to, with consent-based tracking and a 30-day money-back guarantee.",
+     "similarity": 0.076,
+     "inbound_links": 4,
+     "anchors_in_use": [
+      "location app for kids",
+      "the settings kids control themselves",
+      "anything kids do without you",
+      "what kids decide for themselves"
+     ],
+     "passage": "Most kids tap Allow on whatever an app asks for, and it’s far easier to start strict than to claw settings back later."
+    },
+    {
+     "url": "https://heypolo.com/blog/family-emergency-plan",
+     "type": "blog",
+     "title": "Creating A Family Emergency Plan Built on Your Phone and Paper",
+     "summary": "Build a family emergency plan that works on your phone and on paper, covering alerts, check-ins, meeting places, supplies, and recovery. Start yours today.",
+     "similarity": 0.075,
+     "inbound_links": 10,
+     "anchors_in_use": [
+      "family emergency plan",
+      "plan your family already keeps",
+      "emergency plan your family shares",
+      "in an emergency"
+     ],
+     "passage": "That's about 13 check-ins an hour from a phone sitting on a desk."
+    },
+    {
+     "url": "https://heypolo.com/comparisons",
+     "type": "comparisons",
+     "title": "HeyPolo Compared With Life360, Zenly, iSharing and More",
+     "summary": "Side-by-side comparisons of HeyPolo against the best known location sharing apps, covering price, privacy and the features families actually use.",
+     "similarity": 0.072,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Location-sharing apps, including HeyPolo, don't send a message when you switch on airplane mode."
+    },
+    {
+     "url": "https://heypolo.com/blog/parents-draw-the-line-59-would-quit-a-location-tracking-app-if-it-sold-their-data",
+     "type": "blog",
+     "title": "59% parents would quit a location-tracking app if it sold their data",
+     "summary": "Parents value privacy as much as safety, with most saying they would delete or switch location-tracking apps that sell family data, while also preferring continuous tracking that protects trust and relationships.",
+     "similarity": 0.071,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "59% of parents said they'd quit a location app",
+      "59% said they'd quit an app"
+     ],
+     "passage": "Location-sharing apps, including HeyPolo, don't send a message when you switch on airplane mode."
+    },
+    {
+     "url": "https://heypolo.com/for/friends",
+     "type": "for",
+     "title": "Location Sharing App for Friends, Private by Default",
+     "summary": "Share your location with friends on your terms: exact spot or general area, for as long as you choose. One plan covers everyone you invite, on iPhone and Android.",
+     "similarity": 0.07,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "If you want to share your location with family without handing over an exact pin, HeyPolo’s general-area sharing shows a neighborhood-level bubble instead, and your maps keep working."
+    },
+    {
+     "url": "https://heypolo.com/features/location-sharing-history",
+     "type": "features",
+     "title": "Location History App: See Past Routes and Trips | HeyPolo",
+     "summary": "See past routes, arrival times and trips from the last 30 days, shared only with the people you choose. History deletes itself after 30 days.",
+     "similarity": 0.07,
+     "inbound_links": 9,
+     "anchors_in_use": [
+      "location history",
+      "recent location history",
+      "time-limited location sharing",
+      "heypolo gives you your child's location history"
+     ],
+     "passage": "Your last known location, with the time your phone last had a mobile or Wi-Fi connection."
+    },
+    {
+     "url": "https://heypolo.com/blog/vehicle-data-transmission",
+     "type": "blog",
+     "title": "Vehicle Data Transmission and Who Sees Your Driving Data",
+     "summary": "Vehicle data transmission sends your trips to automakers, brokers, and sometimes insurers. See the full chain, then take back control of what your car shares.",
+     "similarity": 0.069,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "vehicle data transmission"
+     ],
+     "passage": "Your group sees your pin at the last place your phone had data, with a timestamp showing when the connection dropped."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-prepare-kids-for-school",
+     "type": "blog",
+     "title": "How to Prepare Kids for School Before Day One",
+     "summary": "Rehearse the school day instead of cramming for a readiness test. Get a countdown, skills to practice, and a goodbye plan your child helps decide.",
+     "similarity": 0.068,
+     "inbound_links": 7,
+     "anchors_in_use": [
+      "preparing kids for school",
+      "prepare kids for school"
+     ],
+     "passage": ""
+    }
+   ],
+   "reverse_candidates": [
+    {
+     "url": "https://heypolo.com/blog/fix-location-permissions",
+     "type": "blog",
+     "title": "Location Not Working? How To Fix It on iPhone, Android or Windows | HeyPolo",
+     "summary": "Dead location pins, GPS that won't lock, family sharing that quietly stops working. A permission-by-permission fix for iPhone, Android and Windows.",
+     "similarity": 0.161,
+     "inbound_links": 0,
+     "anchors_in_use": [],
+     "passage": "Flip Airplane Mode on and off to reset the radio connection, and confirm you actually have signal or Wi-Fi."
+    },
+    {
+     "url": "https://heypolo.com/blog/track-a-phone-offline",
+     "type": "blog",
+     "title": "How to find a phone with no internet connection | HeyPolo",
+     "summary": "A phone with no internet connection can still be found, if you set it up in advance. SMS locators, offline network tracking, and what to do the moment it's missing.",
+     "similarity": 0.131,
+     "inbound_links": 1,
+     "anchors_in_use": [
+      "track a phone offline"
+     ],
+     "passage": "None of these work if the phone is powered off, in airplane mode, or sitting in a dead zone with zero cell signal."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-does-location-sharing-affect-your-battery",
+     "type": "blog",
+     "title": "How Does Location Sharing Affect Your Battery? | HeyPolo",
+     "summary": "Location sharing drains more battery when you're moving. See test results from two identical iPhones, plus how to reduce drain on iPhone and Android.",
+     "similarity": 0.109,
+     "inbound_links": 10,
+     "anchors_in_use": [
+      "heavier battery drain",
+      "how location sharing affects your battery",
+      "what sharing costs your battery",
+      "what sharing costs a battery"
+     ],
+     "passage": "HeyPolo and Battery Life Most location-sharing apps are built for constant, always-on tracking which means they're also constantly working in the background, using GPS, sending data, and running processes your battery has to pay for."
+    },
+    {
+     "url": "https://heypolo.com/blog/heypolo-vs-life360-which-app-better-protects-your-privacy",
+     "type": "blog",
+     "title": "HeyPolo vs Life360: Which Location-Sharing App Protects Your Privacy Better?",
+     "summary": "Compare HeyPolo vs Life360 on privacy, features, pricing, and data sharing to see which app keeps your location data safer.",
+     "similarity": 0.096,
+     "inbound_links": 3,
+     "anchors_in_use": [
+      "side-by-side breakdown",
+      "life360 privacy comparison",
+      "switching providers"
+     ],
+     "passage": "Control sharing Turn location sharing on or off for individual circles."
+    },
+    {
+     "url": "https://heypolo.com/blog/child-independence-safety",
+     "type": "blog",
+     "title": "Child Independence Safety When You Can't Be There",
+     "summary": "Child independence & safety comes down to real risk data, your child's skills, and the law on your side. See what actually keeps them safe when you're apart.",
+     "similarity": 0.082,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "child independence and safety",
+      "child independence",
+      "how much independence to give"
+     ],
+     "passage": "The national data on how children are actually hurt points somewhere very specific, the developmental research points somewhere hopeful, and a growing pile of state law says your judgment counts for something."
+    },
+    {
+     "url": "https://heypolo.com/blog/family-emergency-plan",
+     "type": "blog",
+     "title": "Creating A Family Emergency Plan Built on Your Phone and Paper",
+     "summary": "Build a family emergency plan that works on your phone and on paper, covering alerts, check-ins, meeting places, supplies, and recovery. Start yours today.",
+     "similarity": 0.075,
+     "inbound_links": 10,
+     "anchors_in_use": [
+      "family emergency plan",
+      "plan your family already keeps",
+      "emergency plan your family shares",
+      "in an emergency"
+     ],
+     "passage": "The car itself is usually already sending some of that same information, speed, route, timing, back to the manufacturer on its own, a separate flow worth understanding as vehicle data transmission before you assume your phone is the only thing tracking the dri"
+    },
+    {
+     "url": "https://heypolo.com/blog/parents-draw-the-line-59-would-quit-a-location-tracking-app-if-it-sold-their-data",
+     "type": "blog",
+     "title": "59% parents would quit a location-tracking app if it sold their data",
+     "summary": "Parents value privacy as much as safety, with most saying they would delete or switch location-tracking apps that sell family data, while also preferring continuous tracking that protects trust and relationships.",
+     "similarity": 0.071,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "59% of parents said they'd quit a location app",
+      "59% said they'd quit an app"
+     ],
+     "passage": "Continuous tracking does raise a fair follow-up question about battery drain too, worth checking before you turn it on full-time."
+    },
+    {
+     "url": "https://heypolo.com/blog/vehicle-data-transmission",
+     "type": "blog",
+     "title": "Vehicle Data Transmission and Who Sees Your Driving Data",
+     "summary": "Vehicle data transmission sends your trips to automakers, brokers, and sometimes insurers. See the full chain, then take back control of what your car shares.",
+     "similarity": 0.069,
+     "inbound_links": 2,
+     "anchors_in_use": [
+      "vehicle data transmission"
+     ],
+     "passage": "Car companies selling data to insurance, and what the record shows An insurer can receive driving information through several routes, and telling them apart changes what you can do about it."
+    },
+    {
+     "url": "https://heypolo.com/blog/how-to-prepare-kids-for-school",
+     "type": "blog",
+     "title": "How to Prepare Kids for School Before Day One",
+     "summary": "Rehearse the school day instead of cramming for a readiness test. Get a countdown, skills to practice, and a goodbye plan your child helps decide.",
+     "similarity": 0.068,
+     "inbound_links": 7,
+     "anchors_in_use": [
+      "preparing kids for school",
+      "prepare kids for school"
+     ],
+     "passage": ""
+    },
+    {
+     "url": "https://heypolo.com/blog/after-school-routine",
+     "type": "blog",
+     "title": "After School Routine for Working Parents That Actually Runs",
+     "summary": "Build an after school routine for working parents that starts without you, with four anchors, sample schedules for aftercare, remote work, and shift work.",
+     "similarity": 0.067,
+     "inbound_links": 5,
+     "anchors_in_use": [
+      "after-school routine",
+      "an after-school routine that holds",
+      "a predictable after-school order",
+      "after-school routine for working parents"
+     ],
+     "passage": "Where shifts rotate anyway, the child's sequence can stay put while the adult holding it changes, which is the part most families working shifts end up leaning on."
     }
    ]
   }
  ],
  "diagnostics": {
-  "articles_scanned": 49,
-  "other_targets_scanned": 37,
+  "articles_scanned": 53,
+  "other_targets_scanned": 38,
   "mode": "weekly",
   "fetch_failures": [],
-  "average_words": 2341,
+  "average_words": 2336,
   "articles_under_300_words": [],
   "articles_with_no_body_links": [
-   "https://heypolo.com/blog/national-teen-driver-safety-week",
    "https://heypolo.com/blog/aging-parents-their-future",
    "https://heypolo.com/blog/monitor-teen-driving",
    "https://heypolo.com/blog/walk-to-school-alone",
    "https://heypolo.com/blog/best-teen-driving-skills"
   ],
   "containers_used": {
-   "article": 49
+   "article": 53
   },
   "links_to_urls_missing_from_sitemap": [
    {
@@ -355,22 +1612,54 @@
   ],
   "sample_extractions": [
    {
-    "url": "https://heypolo.com/blog/national-teen-driver-safety-week",
-    "words": 447,
+    "url": "https://heypolo.com/blog/best-life360-alternatives-in-2026",
+    "words": 3007,
     "container": "article",
-    "body_links": []
+    "body_links": [
+     "https://heypolo.com/blog/how-does-location-sharing-affect-your-battery",
+     "https://heypolo.com/blog/parents-draw-the-line-59-would-quit-a-location-tracking-app-if-it-sold-their-data",
+     "https://heypolo.com/blog/remove-life360",
+     "https://heypolo.com/comparisons/apple-find-my",
+     "https://heypolo.com/comparisons/bark",
+     "https://heypolo.com/comparisons/findmykids",
+     "https://heypolo.com/comparisons/geozilla",
+     "https://heypolo.com/comparisons/isharing",
+     "https://heypolo.com/comparisons/life-360",
+     "https://heypolo.com/comparisons/life360-vs-apple-find-my",
+     "https://heypolo.com/comparisons/life360-vs-find-my-kids",
+     "https://heypolo.com/comparisons/otozen"
+    ]
    },
    {
-    "url": "https://heypolo.com/blog/aging-parents-their-future",
-    "words": 1883,
+    "url": "https://heypolo.com/blog/buying-your-kids-first-phone-without-the-regret",
+    "words": 2584,
     "container": "article",
-    "body_links": []
+    "body_links": [
+     "https://heypolo.com/blog/family-emergency-plan",
+     "https://heypolo.com/blog/knowing-when-your-child-is-ready-to-stay-home-alone",
+     "https://heypolo.com/blog/scary-car-crash-stories-wont-slow-your-teen-down",
+     "https://heypolo.com/blog/what-age-can-a-child-walk-to-school-alone",
+     "https://heypolo.com/blog/your-teen-is-learning-to-drive-from-watching-you",
+     "https://heypolo.com/features/group-location-sharing",
+     "https://heypolo.com/features/location-based-alerts",
+     "https://heypolo.com/for/kids"
+    ]
    },
    {
-    "url": "https://heypolo.com/blog/monitor-teen-driving",
-    "words": 1701,
+    "url": "https://heypolo.com/blog/scary-car-crash-stories-wont-slow-your-teen-down",
+    "words": 2769,
     "container": "article",
-    "body_links": []
+    "body_links": [
+     "https://heypolo.com/blog/new-driver-how-many-passengers",
+     "https://heypolo.com/blog/teen-driving-contract",
+     "https://heypolo.com/blog/teen-driving-rules",
+     "https://heypolo.com/blog/your-teen-is-learning-to-drive-from-watching-you",
+     "https://heypolo.com/features/crash-detection",
+     "https://heypolo.com/features/driving-score",
+     "https://heypolo.com/features/location-based-alerts",
+     "https://heypolo.com/features/speed-monitoring",
+     "https://heypolo.com/for/teen-drivers"
+    ]
    }
   ],
   "warnings": []
