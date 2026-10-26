@@ -16,7 +16,7 @@ The research on why this tactic doesn't work is what stopped me from doing it.
 In its  , NHTSA reports that drivers aged 15 to 20 made up 9% of all drivers involved in fatal crashes. Among those killed, 53% were unbelted.
 In other words, fear has had plenty of chances to work, but it doesn't.
 Seat belts and late-night driving have been the subject of staged wrecks in school parking lots for decades, and more than half of the young drivers who died still weren’t buckled. A teenager who is driving recklessly is, in their own head, invulnerable. A story about strangers on a highway doesn’t come into the equation when the chance to 'have some fun' comes up.
-What you can control is the set-up around the drive. Set limits the driver has agreed to, keep extra teenagers out of the car, and give the driver a way to see their own driving.
+What you can control is the set-up around the drive. That means the driver has actually agreed to, fewer teenagers in the car, and a way for the driver to see their own driving.
 The rest of this article covers how to do each of those.
 Your teenager already knows texting is dangerous
 In a Children's Hospital of Philadelphia and State Farm survey of more than 5,000 US students in grades nine through eleven, 79% said text messaging while driving is very dangerous. CDC's national Youth Risk Behavior Survey (2018) found that 39.2% of high school students who had driven in the past 30 days had texted or emailed behind the wheel. The 2019 cycle came in at nearly the same figure, 39.0%.
@@ -73,7 +73,7 @@ The crash data follows the same shape. The AAA Foundation for Traffic Safety’s
 In other words, every extra friend in the car adds to the odds.
 Speeding tells the same story. In the foundation’s review of fatal crashes involving 16- and 17-year-old drivers, speeding was present in 30% of crashes with no teen passengers and 48% with three or more.
 The back seat can also work in your favor. A passenger aged 35 or older cuts the driver’s risk of death by 62% and the risk of any police-reported crash by 46%.
-So for the first few months, make the rule: no more than 2 friends in the car. Ride along yourself whenever you can, or send another adult.
+So for the first few months, keep it to one teen passenger at most, and check where you live, because many states set that limit by law. Ride along yourself whenever you can, or send another adult.
 for home, school, or work tell you when your newest driver got where they're going without anyone texting. HeyPolo sends them automatically.
 Structure lowers crash risk more than warnings do
 Your involvmentin your teen's driving is measurable.
@@ -85,7 +85,9 @@ twice as likely to wear seat belts
 And this is compared with teens whose parents were less involved. Rules without the warmth were not the version that produced those results.
 The same research found that teens who were the primary driver of a vehicle were twice as likely to have crashed as teens who shared a car with family.
 Sharing the family car means a short exchange before every drive about where and who with. You might find that exchange does more for the first six months than any conversation you plan in advance.
-A written drivers agreement is the other instrument with trial evidence behind it. In randomized trials of the Checkpoints program with 658 parent-teen pairs, Simons-Morton and colleagues found parents who received the program were three times more likely to adopt and keep a parent-teen driving agreement.
+It also puts your teen in the passenger seat on the days you drive, watching how you handle a yellow light or a buzzing phone. They’re as much as from their own hours behind the wheel.
+A written is the other tool with trial evidence behind it.
+In randomized trials of the Checkpoints program with 658 parent-teen pairs, Simons-Morton and colleagues found parents who received the program were three times more likely to adopt and keep a parent-teen driving agreement.
 The agreement limits night driving, teen passengers, and bad-weather driving, then loosens as the driver gains experience.
 Feedback a new driver can use on their own
 The hardest stretch starts the week the supervised hours end.
@@ -94,9 +96,10 @@ Nothing about a classroom video addresses that transition. Being in contact duri
 Federal field studies suggest what kind of contact helps. In a NHTSA study of 60 newly licensed teens in rural Iowa and suburban Maryland (2016), unsafe driving events per 1,000 miles in the feedback groups were 66% lower by the end of the study than during the baseline period.
 Across two related studies summarized by NHTSA in 2018, teens who got feedback on their own driving, paired with weekly reports to parents, averaged 6.1 unsafe events per 1,000 miles against 35.3 for teens with no feedback.
 What makes feedback usable is who owns it.
-A new driver who can look at their own trip and see where they were moving faster than they meant to has something to practice. A grade delivered by a parent on a Sunday evening gives them something to argue with instead. HeyPolo sends speed alerts when an agreed limit gets passed, and shows the driver their own driving score and trip replay. tells the whole group at once after a serious collision, so nobody hears it secondhand.
+A new driver who opens their own and sees where they were moving faster than they meant to has something to practice. A grade delivered by a parent on a Sunday evening gives them something to argue with instead.A grade delivered by a parent on a Sunday evening gives them something to argue with instead. HeyPolo sends  when your teen passes a limit you’ve agreed on, and shows the driver their own score and trip replay.
+tells the whole group at once after a serious collision, so nobody hears it secondhand.
 None of that promises a year without a dented bumper, and no app can. What it gives you is a way to stop auditioning tragedies at the dinner table. Your teen keeps control of what they share and can pause it. You find out they reached the parking lot, and if something serious happens, you and everyone else in the group hear quickly enough to call, or to drive.
-, crash detection, and driving scores are included in every HeyPolo plan, with the driver seeing their own progress first. Try it for 30 days.
+HeyPolo’s comes with every plan, including speed alerts, crash detection and driving scores, and the driver sees their own progress first. Try it for 30 days.
 FAQ
 Why do graphic driver-ed crash videos fail to deter teens?
 Graphic videos tend to produce stress rather than learning. NHTSA's 2019 peer-to-peer guide states that crash images and re-enactments paralyze audiences, elevate stress and anxiety, and produce only short-term effects on behavior. Adolescents also deflect the message, concluding that the tragedy shown belongs to careless strangers rather than to themselves or their friends.

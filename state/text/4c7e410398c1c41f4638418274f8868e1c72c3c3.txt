@@ -1,179 +1,226 @@
-Best Life360 Alternatives - 5 Options For Families in 2026
+Best Life360 Alternatives in 2026: 9 Apps Compared
 Safety Features
 Who It's For
 Safety Features
 Who It's For
 /
 Location sharing
-Best Life360 Alternatives - 5 Options For Families in 2026
-Life360 is a popular location-sharing app known for its comprehensive and advanced features, but it might not be the best fit for everyone. Some find it too costly and overwhelming for everyday use. Others want a more privacy-friendly option, especially with reports that Life360 allegedly shares and sells user data to third parties.
+Best Life360 Alternatives in 2026: 9 Apps Compared on Price and Privacy
+Leaving Life360? We used nine alternatives for a week each as paying customers and compared price, privacy, crash detection and setup. See which app fits your family, from free options like Apple Find My to driving apps like OtoZen, and exactly where each falls short.
 Phil
-6 min read•August 14, 2026
-If you’re looking for a better balance of privacy, functionality, and ease of use, this guide rounds up the best Life360 alternatives out there. If privacy is important to you, you'll also see what data each of these apps collect, so you can make a more informed decision about who you share your data with.
-TL;DR: Best Alternative to Life360:
-HeyPolo has been mentioned in reddit threads, parenting communities and privacy groups as being the best alternative to Life360. Its ease of use, combined with the fact it's built by the team at SurfShark, one of the biggest VPNs and data privacy comapnies, means that it's winning over the exact users Life360 keeping losing - the ones who want to know where their loved ones aer, without a third-party knowing, too.
-If you're planning to use one of these alternatives, make sure to , too.
-What are location-sharing apps?
-Location-sharing apps let you share your with other people through your phone or other devices. Most people use these apps to stay connected with family and friends, coordinate plans, or make sure that loved ones are safe and sound.
-These apps usually use signals like GPS (Global Positioning System), Wi-Fi, and mobile networks to pinpoint where you are and show it on a map. Here’s how they work:
-You turn on location sharing in the app.
-You choose who you want to share your location with.
-Your device updates your location in the background.
-The app sends that data to the servers.
-The app shows your location on a map.
-Beyond just showing real-time location, many modern location-sharing apps now include additional features like places and arrival alerts, emergency notifications, precision control, and even driving insights.
-Why people are leaving Life360
-While Life360 works well for some users, others feel it falls short in certain areas. Let’s run through the main reasons people start exploring alternatives to Life360.
-Privacy and data sharing concerns
-Life360 collects location data to run features like live location, place alerts, location history, and driving insights. This is pretty standard for location-sharing apps. But what raises concerns is how that data is reportedly used beyond those core features, and by companies other than Life360. The company has faced criticism and lawsuits over its privacy and data handling practices.
-Here are a few examples:
-Alleged selling of precise location data
-According to , Life360 reportedly shared precise location data of millions of users with data brokers. Those brokers then sold it on to third parties, including hedge funds, advertising companies, and government agencies.
-That kind of practice is exactly why , according to our own survey.
-Life360 has since said it would move away from selling precise geolocation data toward “aggregated” data analytics instead.
-Allstate Privacy Lawsuit
-In a 2025 Texas Attorney General lawsuit against insurance company Allstate and its subsidiary Arity, Life360 is named as one of the apps that allegedly used Arity’s tracking technology to collect location data.
-Allstate then used this data for underwriting decisions like renewing policies, raising rates, or denying coverage.
-Data Breach Incidents
-In 2024, a hacker by exploiting a flaw in its login API.
-Just months later, Life360 detected unauthorized access to a Tile customer support platform in a separate breach.
-Both incidents exposed names, addresses, emails, and phone numbers.
-Excess tracking and feature overload
-If you’re just looking for a simple way to stay connected or get peace of mind, Life360 can be a little too overwhelming. Many reddit users explain that the continious updates and detailed visibility make it feel more controlling, or surveillance like, which can sometimes create unnecessary pressure and make everyday movement and routines feel overly monitored.
-Plus, for families with young children or elderly relatives, some of its more advanced features like driving analytics may not get much use. For them, these extra features simply make the app more complex rather than more useful.
-Higher cost
-Life360 does offer a free plan, but it comes with some serious limitations. The ones you’ll likely feel most are the caps on place alerts (only up to two locations) and location history (limited to just two days).
-Additionally, the more advanced, and appealing, features like driving insights, crime reports, and emergency dispatch require a paid subscription. And if you want the full set of features like disaster response, medical assistance, travel support, and credit monitoring, you’ll need the highest-tier plan which is a whopping USD $250 a year.
-We've broken down , if that comparison is what you came here for.
-Best Life360 alternatives - our top picks
-Life360 isn’t the only option out there. If you find it’s not the for your needs, check out these Life360 alternatives that bring different strengths to the table.
-1 - HeyPolo. The Privacy-First Alternative.
-HeyPolo is a privacy-first location-sharing app that prioritizes consent and flexibility. You and your loved ones have full control over what gets shared, when it’s shared, and who can see it.
-The app is built around being a , helping you see someone's for past movements and .
-As a result, it's a great fit for families, couples, and friends who want to stay connected in a way that feels reassuring rather than intrusive.
-Pros:
-Real-time location: see where your loved ones are right now, with location data that refreshes every 5 seconds;
-Precision control: choose whether to share your exact location for accuracy or a general area for more privacy;
-Customizable alerts: receive notifications when your connections arrive at or leave places, update their status, or call for help in an emergency;
-Unlimited groups: set up as many groups as you want for family, friends, colleagues, or anyone else to stay connected, get peace of mind, plan meetups, or simply stay in sync;
-Flexible sharing: decide when to start or stop sharing your location, whether it’s 24/7 for peace of mind, a short period for temporary visibility, or just once for special occasions;
-Trip history: view your connections’ recent activity when you want reassurance about their whereabouts and safety, with data automatically deleted after 7 days;
-No data selling: built by the same team behind Surfshark, HeyPolo doesn’t share, monetize, or sell your location data without your consent
-One subscription covers all: pay just once and invite family, partners, friends, or anyone else you want to stay connected with, without worrying about per-person fees.
-Cons:
-No parental controls: HeyPolo focuses on location sharing and doesn’t offer features for parents to manage a child’s activity or device use;
-HeyPolo is available from $3.99/mo when billed annually. There’s a 30-day money-back guarantee, giving you ample time to try it risk-free and see if it’s right for you.
-What data does HeyPolo Collect?
-Precise GPS location, latitude/longitude, and location history, kept for as long as the account is active plus 2 years after last login
-Account info: email, name, group code, role, emergency contacts, kept on the same active-plus-2-years basis
-Motion and fitness data (speed, direction, accuracy) used to detect transport mode, kept until you withdraw consent
-Payment data: partial card numbers, expiry, transaction amounts, billing country, kept for 10 years for tax and fraud purposes
-Device data: OS version, device model, IP address, advertising IDs, shared with Firebase Analytics, AppsFlyer, Meta and Google for analytics and ad targeting
-States it does not sell, rent, lease, or trade personal data, but it does share it with those analytics and ad partners
-2 - iSharing. A Lean, No-Frills Option
-If you’re in the market for a lean, no-frills location-sharing app with basic features, iSharing is an option worth considering. It’s best suited for families with young children, elderly relatives, or anyone who just wants to stay connected without complicated setups, advanced features, or tricky settings getting in the way.
-Pros:
-Streamlined experience: with a quick setup, minimalistic interface, and pared-down features, it’s easy for older or less tech-savvy users to manage and navigate;
-Seamless sharing: share your location via SMS, email, or social media with family members and friends who don’t have the iSharing app;
-One-tap panic alert: instantly notify your trusted contacts with your timestamped location and surrounding audio if you’re in an emergency;
-Driving behavior reports: review insights like speeding, phone use, harsh braking, and rapid acceleration — especially useful if your family has new drivers or seniors;
-Cons:
-Free plan limitations: the free plan is very limited and is only useful for getting a basic idea of iSharing’s service;
-Feature restrictions: many features — including place, driving, and emergency alerts as well as location history — are either restricted or only available on Gold or Platinum plans;
-Location inaccuracy: some users on the App Store and Google Play report delays and inaccuracies in location updates;
-Less flexible: compared to apps like Life360 and HeyPolo, iSharing offers fewer controls, such as no options to set exact, approximate, or temporary location sharing.
-iSharing has one free plan and three paid plans starting from $3.99/mo. Paid subscriptions include a 7-day free trial.
-What data does iSharing Collect?
-GPS, WiFi, and cell-tower location, retained only "as long as reasonable" to run the service, plus a de-identified copy kept for analytics
-Registration info: name, email, phone, photo, billing details, deleted when you delete your account
-Contacts list, accessed for friend-matching, not retained after the check runs
-Messages between members, not retained after delivery
-Device identifiers (IDFA, Google Ad ID), IP address, carrier and device model, retention unspecified
-Shares data with named third parties including Outlogic, Weplan Analytics, Opensignal and CellRebel for purposes that include "disease prevention" and location trend research, alongside standard advertising and analytics use
-3 - Find My. The Dedicated Apple and iOS Option
-Find My is a built-in app on Apple devices that pulls double duty: it lets you share your location with people you trust and helps you find lost devices. It’s a popular option for users who want simple location sharing within the Apple ecosystem.
-Pros:
-Ready to use: there’s no need to download a separate app or create another account, making it easy for older family members, young kids, or anyone who isn’t comfortable with technology to share their location;
-Precision Finding: if both you and your connection have iOS 15 or later, you can pinpoint each other’s exact location down to just a few feet;
-Location alerts: get notified when your partner leaves for work, your child arrives at school, or your parent gets home safely;
-Privacy protection: your and your loved ones’ location data is encrypted on Apple’s servers and only kept for 24 hours;
-Dual purpose: works for both people and devices — one app to help you keep up with family members as well as your iPhone, iPad, AirTag, and more.
-Cons:
-Apple-only: Find My is designed for Apple devices, which can be limiting if your family or friend groups use a mix of Android and iPhone;
-Fewer safety features: the app is fairly lightweight and doesn’t include extras like driving insights, crash detection summaries, and emergency alerts;
-Limited controls: you don’t get more advanced controls like approximate location sharing or temporary sharing boundaries, which you’ll often see in dedicated apps like Life360 and HeyPolo.
-Find My is included for free on Apple devices. You don’t need to pay to access its location-sharing features.
-What data does FindMy Collect?
-Current device location, deleted after 24 hours
-Account and device details: Apple Account info, device identifiers, AirTag/AirPods serial numbers
-Locations shared with people you've chosen to share with, and anonymized crowdsourced location pings from the wider Find My network
-Apple says it can only see your location if a friend you're sharing with actively requests it (and only on pre-iOS 17 systems)
-No third-party data sale; retention periods for account-level data beyond the 24-hour location window aren't specified in Apple's policy
-4 - Life360
-Even as you’re looking at Life360 alternatives, it helps to know what Life360 offers so you can compare more easily. The app is particularly popular among families who want continuous location sharing along with a wide range of safety and driving-related features.
-Pros:
-Place Alerts: receive notifications when someone arrives at or leaves specific locations, making it easy to know where everyone is without constantly checking in;
-No Show Alerts: get notified if your loved one doesn’t make it to where they’re expected — whether that’s school, the office, or home;
-Driving-focused features: Life360 offers a full set of road safety features such as driver reports, crash detection, and roadside assistance, available on certain plans;
-Tile tracker integration: after acquiring Tile, Life360 now goes beyond location sharing and helps you find lost items as well.
-Cons:
-Data sharing concerns: the company has faced lawsuits alleging it shared or sold user data to third parties, including data brokers, insurance firms, and advertising companies;
-Increased battery consumption: some users, especially those on older devices or Android, notice likely because the app keeps GPS running in the background;
-Paywalled features: most of Life360’s key features are reserved for paid plans, with many only available if you upgrade to the highest tiers.
-Life360 offers a free location-sharing plan, along with two paid plans starting at $5.99/mo. All paid plans come with a 7-day free trial.
-5 - GeoZilla. The Driving Orientated Alternative
-GeoZilla is often mentioned alongside apps like Life360, as it offers a fairly similar set of features but focusses a lot on driving performance, training and alerts.
-It'll appeal to users who want an all-in-one family safety solution and don’t mind paying a bit more for it.
-Pros:
-Place alerts: GeoZilla notifies you when your loved one arrives or leaves a place, so you can stay updated without multiple texts or constant check-ins;
-Driver coaching: uses your phone’s motion sensors to pick up dangerous driving behavior like phone use, speeding, or aggressive driving to encourage safer driving habits;
-Cross-platform compatibility: GeoZilla works on both iOS and Android, and you can also pair it with GPS trackers to keep up with both your loved ones and personal items.
-Cons:
-Reliability issues: some users report delayed or lagging updates, inaccurate readings, and sudden jumps in locations;
-Erratic notifications: users have complained about GeoZilla’s notifications being inconsistent, including missed, duplicated, irregular, or mistimed alerts;
-Higher pricing: GeoZilla’s entry-level plan is quite a bit more expensive at USD $79 for a year, compared to other Life360 alternatives.
-GeoZilla offers both free and paid subscriptions, with paid plans starting at $14.99/mo. There’s no money-back guarantee, but you can request a refund within 30 days of purchase if there are reported technical bugs with the app.
-What data does GeoZilla Collect?
-Continuous GPS/WiFi/cell-tower location while logged in, described as being erased after a "reasonable" service period with no fixed timeline given
-Identity data on the whole family group: names, birth dates, emails, phone numbers, photos of both the account holder and any children added
-Device identifiers (UDID, IDFA, Google Ad ID), IP address, carrier, browsing and click-stream data
-In-app messages between family members
-States it does not sell customer lists or personal data, though it shares limited access with analytics and hosting vendors and will hand data to law enforcement on legal request
-6 - FamiSafe. The Option to Also Manage Screentime
-FamiSafe is an all-in-one family safety app that includes location sharing. It's a popular alternative to Life360 for parents who want more visibility into their child's overall wellbeing, and not just their location. Parents juggling two kids' schedules at once may find it easier to start with a before adding a monitoring app on top.
-Pros:
-Desktop version: use the app in your preferred browser on your desktop or tablet.
-Driving reports: get detailed insights into your teen’s driving, including top and average speeds, total distance, and driving patterns, so you can help them build safer driving habits over time;
-Comprehensive parental control: combines multiple tools like screen time management, app blocking, content filtering, and activity monitoring, all in one app.
-Cons:
-Potentially intrusive: the large number of tools and detailed insights may feel like surveillance to your child and create a sense of being constantly monitored;
-Glitches and bugs: some parents note that FamiSafe’s location-sharing feature occasionally glitches or shows incorrect movement;
-Device slowdown: the app may cause lag, freezing, or general performance issues on both your phone and your child’s phone.
-FamiSafe offers a single paid plan with three billing options: monthly, quarterly, or yearly. Prices start at $4.99/mo.
-If you want to try the app before committing, it has a 3-day free trial.
-What data does Famisafe Collect?
-Location data, device model, OS, IP address, installed apps, browser history, and driving information
-Clipboard data, which the policy says "may" be collected, read, and shared with third parties for referral tracking
-Usage data: app launches, feature use, page clicks, crash reports
-Billing and identity info: name, email, phone, address, payment card details
-Shared with Wondershare subsidiaries in China, Canada, Japan and Hong Kong, plus Google Analytics, Facebook, LinkedIn and AdWords for advertising
-States it doesn't sell or rent data for promotional purposes; general data is kept 60 days after contract termination, newsletter data for 3 years, comments up to 5 years
-Apps like Life360 Comparison Table:
-How the main location-sharing apps stack up on price, platform support and privacy.
-Which app is right for you?
-The best Life360 alternative depends on what you need and how you intend to use the location-sharing app. Families with young kids or elderly relatives may appreciate iSharing and Find My’s ease of use. GeoZilla can be a solid choice for families looking for a safety-focused app. Meanwhile, FamiSafe may appeal to parents who want full parental controls.
-For couples, families, friend groups, and anyone who cares about privacy and consent, HeyPolo is a versatile and balanced option that lets you share on your own terms.
-FAQ
-Is GeoZilla better than Life360?
-No, GeoZilla isn’t exactly better than Life360. Both apps offer similar core location-sharing functionalities, with a strong focus on safety and driving-related features. But each has its own strengths and drawbacks.
-Life360 is generally more feature-rich, though it has raised concerns about data sharing. GeoZilla, on the other hand, offers excellent cross-platform support and works with GPS trackers like wearables, but comes with a higher price tag.
-Why is Life360 falling?
-Life360 isn’t necessarily falling, but more people are starting to explore alternatives for a few reasons.
-On the privacy front, Life360 has received some backlash over how it handles user data. At the same time, the app may feel too excessive and complex for those who just want simple location sharing. And since a lot of its features sit behind paywalls, the cost can add up pretty quickly.
-Does Life360 have any competitors?
-Yes, Life360 has a number of competitors. Apps like HeyPolo, iSharing, Find My, GeoZilla, and FamiSafe are all solid alternatives to Life360, each offering different takes on location sharing.
-What app is safer than Life360?
-It depends on what you mean by “safer.” Generally, HeyPolo is considered a more privacy-oriented alternative to Life360. Built by the Surfshark cybersecurity team, it doesn’t sell your location data, use it for advertising, or share it without your consent.
+6 min read•October 22, 2026
+If you're reading this, something about Life360 has probably stopped sitting right with you.
+Maybe it's the price, which went up again in 2026 for new US subscribers. Or maybe it's the headlines about where your family's location data ends up.
+A quick disclosure before the list: we make HeyPolo, and it's first here. We've tried to be straight about where other apps do a better job, and each entry says so.
+The short Live360 alternative answer
+For most families, HeyPolo is the closest swap for Life360. It has live location, place alerts and crash detection for $4.99 a month billed annually, and it never sells your data.
+If everyone in your family has an iPhone and you want something free, Apple Find My is enough.
+If you need a human emergency team on the other end of a crash alert, look at OtoZen.
+App
+Best for
+Starting price (USD)
+Free plan?
+Privacy-first families, couples and friends
+$4.99/mo, billed annually
+No (30-day money-back guarantee)
+Apple Find My
+All-iPhone households
+Free
+Yes
+Glympse
+Sharing one trip for an hour
+Free
+Yes
+OtoZen
+Teen drivers who need crash response
+$9.99/mo (family of 4)
+Free trial
+GeoZilla
+Driving alerts on a budget
+$47.99/yr
+Yes, limited
+Findmykids
+Kids under 12, including on a GPS watch
+About $2.99/mo
+Live location only
+iSharing
+Older relatives who want simple setup
+$10.99/mo or $79.99/yr
+Yes, limited
+FamiSafe
+Screen-time limits plus location
+$59.99/yr
+1 device
+Bark
+Spotting risky messages and content
+$5/mo (Bark Jr)
+Trial only
+Life360 (for reference)
+Families already set up on it
+$9.99/mo (Silver)
+Yes, 2 days of history
+Why families are leaving Life360
+The price went up. In its , Life360 confirmed it raised US prices for new subscribers. Silver went from $7.99 to $9.99 a month, and Gold from $14.99 to $16.99. 85% of paying US families are on Gold, so $16.99 is the realistic number to compare against.
+The free plan still exists, but it caps you at 2 place alerts and 2 days of location history.
+The free plan is paid for with ads and data. According to the same letter, around 80% of Life360's US users can be shown ads, and ad revenue hit $22.0 million in the quarter, up 315% on the year. Its "other revenue" also grew 25% to $11.6 million, mostly from selling what its filings call aggregated, non-personally identifiable data. A new Subscription Tracker feature, which you have to opt into, gives the company a view of your finances for personalized offers.
+In other words, if you're not paying for Life360, your attention and your data are funding it.
+The privacy track record. In 2021, that Life360 sold precise location data to data brokers, which Life360 later said it would stop doing. In 2024, a flaw in its login API . Then in 2025, the Texas Attorney General's lawsuit against Allstate and its subsidiary Arity named Life360 as one of the apps allegedly feeding location data into insurance decisions.
+That's the kind of thing parents don't forgive. In our own survey, if it sold their data.
+It does too much. For a family that just wants to know everyone got home, crime reports, credit monitoring and constant upsells get in the way. Some users also notice , especially on older Android phones.
+How we evaluated these apps like Live360
+Several people on our team used each app for a week as paying customers. We set up a group, invited each other and created another group just for our family members and used it for real things like school pickups and late drives home.
+We scored each one on how easy it was to set up and get people into a group, and how useful it was day to day once the novelty wore off.
+Then we read every privacy policy, tried to delete our own data, and checked what each company says it does with what it collects.
+1. HeyPolo: the best Life360 alternative for privacy and price
+HeyPolo is a location-sharing app for families, couples and friend groups, built by the team behind Surfshark. It covers what most people actually use Life360 for, from live location and place alerts to crash detection. It does that without ads, and without your data being sold to anyone.
+What you get:
+that refreshes every 5 seconds
+Exact or approximate location, your choice, and sharing for 24/7, a set time or just once
+when people arrive or leave, plus in an emergency
+, speed alerts and a driving score that coaches new drivers on their own progress
+(US only)
+Unlimited for family, friends or anyone else, and one subscription covers everyone you invite
+Built for a conversation, instead of a default
+According to the , 96% of US parents who track their adult child's location say the child knows about it. Only 54% gave them the option to say no. The researchers put it well: tracking "may be viewed as a default rather than a negotiated decision."
+HeyPolo is built for the other version of that talk.
+Each person picks whether to share an exact or approximate location and for how long.
+There's no way to install it on someone's phone without them knowing.
+Sit down with your teen, open the app together, and let them choose their settings. Care without control works better when they're part of it.
+What happens to your data
+Trips are visible in the app for 7 days, stay on our servers for 31 days, and are then deleted. Account details are kept while your account is active, plus 2 years, or until you ask us to remove them.
+We share some data with AppsFlyer and Firebase so we can measure how the app is used. It can't be traced back to you, it isn't used for ad targeting, and we never sell it.
+Where it falls short
+HeyPolo has no parental controls. You can't block apps or set screen-time limits, so if that's what you need, FamiSafe or Bark are a better fit (see below). Location history is also shorter than Life360 Gold's 30 days.
+Price: $4.99 a month, billed annually, with a 30-day money-back guarantee.
+Note: Once you've switched, . Uninstalling the app doesn't do it for you.
+If you're paying for Gold mainly for crash detection and unlimited place alerts, HeyPolo covers both for less than a third of the price. We've gone deeper in our .
+8 other Life360 alternatives, sorted by best use case
+If you want something free
+2. Apple Find My
+App Store rating: 2.8 out of 5 (about 18,000 ratings)
+If everyone in your family has an iPhone, Find My is already installed and free. You get live location and arrive or leave alerts, and Apple deletes your location after 24 hours.
+What we liked
+Setup took no time, because there's nothing to download or sign up for.
+Locations are encrypted, and Apple says it doesn't sell them.
+What we didn't
+It's Apple-only. Life360 says 46% of its paying families mix iPhone and Android, and none of them can share through Find My.
+We didn't find the alerts easy to tune, and reviewers also complain about locations drifting while someone stands still.
+There's no location history, driving feature or SOS in the app.
+Read our or .
+Price: free.
+3. Glympse
+App Store rating: 4.8 out of 5 (about 49,000 ratings)
+Glympse shares your location through a link that expires after a set time, or when you arrive. The person you send it to opens it in a browser, so they don't need the app.
+What we liked
+It was the quickest way we found to share one trip with someone outside the family app.
+When the timer runs out, the share ends.
+What we didn't
+Shares max out at four hours, and longtime users say a recent update stopped sharing whenever Glympse isn't open on screen.
+It has no place alerts, no history and no always-on family sharing.
+In the Mott Poll, 25% of parents said they check their adult child's location during a rideshare or taxi trip.
+That's the test we didn't get to run: a college student sending one Glympse link from the back of an Uber at 1 a.m., and nothing else all week. We think plenty of 19-year-olds would take that deal.
+Price: .
+If you have a new driver
+Drivers aged 15 to 20 were 5.2% of licensed US drivers in 2024 but 9% of drivers in fatal crashes, according to . That's why crash detection keeps so many families on Life360.
+4. OtoZen
+App Store rating: 4.6 out of 5 (491 ratings)
+OtoZen is a driving safety app first. It has automatic crash detection with a 24/7 emergency response team for eligible US users, speed alerts tied to the road's limit and texting-while-driving warnings.
+What we liked
+Speed alerts show where your teen sped and by how much, which gives you something specific to talk about.
+The student driver log exports a PDF for the DMV. We didn't find that in any other app here.
+What we didn't
+Most of the value lives in the car. If your teen isn't driving yet, you're paying for features you won't use.
+Family members' location history and drive reports are kept for 3 months. We'd rather that were shorter.
+A week wasn't long enough to see that log do its real job. Learners in most states must record supervised hours before their test, and plenty of families still do it on paper.
+Our bet is that over a full permit period, it's the feature parents of a 15-year-old would use most.
+Read our .
+Price: , $12.99 a month for up to 8.
+5. GeoZilla
+App Store rating: 4.5 out of 5 (about 51,000 ratings)
+GeoZilla is the closest match to Life360's feature set, with place alerts, location history, an SOS button and driver coaching.
+It also pairs with GPS trackers for kids who don't have a phone yet.
+What we liked
+The alert settings go deeper than most apps here, so you can choose which places and which people trigger what.
+What we didn't
+On a highway drive, location updates came several seconds apart. At that speed it left gaps of several hundred yards between points on the map, so we rarely knew exactly where the car was.
+Reviewers describe the same lag, short trips logged as hundreds of miles, and refunds that were hard to get after the 3-day trial.
+It asks for names, birth dates and photos of every family member, children included, though it says it doesn't sell personal data.
+Read our .
+Price: $9.99 to $14.99 a month, or $47.99 a year.
+If your kids are young
+23% of US children aged 12 and under have their own smartphone, according to .
+For the rest, a GPS watch is usually the first device.
+6. Findmykids
+App Store rating: 4.7 out of 5 (about 24,000 ratings)
+Findmykids is built for primary-school kids, on a phone or a compatible GPS watch. It has place alerts, an SOS button and a loud signal for finding a phone at the bottom of a school bag.
+What we liked
+Location history is the feature parents praise most in reviews, and we can see why.
+It runs on a watch, so a child doesn't need a phone to be on the family map.
+What we didn't
+Premium includes "sound around," which switches on the child's microphone so a parent can listen in. We weren't comfortable with it. If you turn it on, tell your child first.
+EDITOR'S NOTE: Take this feature into consideration if you're not living with the other parent of your child - it has the potential to break some privacy laws
+After a 7-day trial, only live location stays free.
+We'd most like to test it on a 7-year-old with a watch and no phone, walking from school to an after-school sport or activity. That's the gap it was built for, and we think it would handle it well.
+Read our or .
+Price: around , with annual and lifetime options.
+7. iSharing
+App Store rating: 4.8 out of 5 (about 36,000 ratings)
+iSharing is simple to set up, which makes it a good pick for older relatives. You can send your location by text or email to people who don't have the app, and the panic button shares your location along with a short audio recording.
+What we liked
+The free version handles basic live location properly, which isn't true of every free plan here.
+Ghost mode lets anyone hide their location for a while.
+What we didn't
+Reviewers report "left home" alerts firing while they sit in the same room.
+Most alerts and history sit behind Gold, and some history views ask you to watch an ad first.
+Its privacy policy names data partners including Outlogic, the broker formerly called X-Mode, which the in 2024.
+One of us has a dad who won't give up his flip phone. He's our first test for iSharing's text sharing next time, because someone who'll never install an app is exactly who it's for.
+Read our .
+Price: Gold is $10.99 a month or $79.99 a year.
+If screen time or online safety is the real worry
+8. FamiSafe
+App Store rating: 4.1 out of 5 (about 4,400 ratings)
+FamiSafe is a parental control app with location built in. It blocks apps, filters content, sets screen-time limits and gives you driving reports for teens.
+What we liked
+The content blocking is thorough. Reviewers who need a phone properly locked down say it does that job.
+What we didn't
+Setup was a struggle on our developer's son's iPhone, which is nearly eight years old. That's a common first phone for a 10 to 12 year old, and a family app that fights with it is frustrating.
+We found that the support was email-only support and had trouble uninstalling it.
+Its policy says it may collect clipboard data, and it shares data with Wondershare companies in China, Canada, Japan and Hong Kong.
+Price: , with a free plan for 1 device.
+9. Bark
+App Store rating: 4.3 out of 5 (about 36,000 ratings)
+On its Premium plan, Bark scans your child's texts, email and social apps for signs of bullying, predators or self-harm, and alerts you when something looks wrong. Both plans include location check-ins.
+What we liked
+Parents on our team say its alerts started conversations they'd never have had otherwise.
+Set up was intense, but support was there the entire way.
+What we didn't
+iPhone setup is fiddly, and scans can need the child's passcode, which us parents felt it got the usage off on the wrong foot.
+It can over-flag. My grandma's harmless comment marked as bullying - which, depending on how many shandy's she's had, is arguable.
+As a day-to-day location app, it's thin.
+To be honest, a week isn't enough to judge Bark, because it earns its price the one time it catches something real. We'd like to see it through a new middle schooler's first term, where we'd expect it to be most useful.
+Read our .
+Price: .
+Which Life360 alternative should you choose?
+Start with the reason you're leaving, and pick the app that fixes that one thing.
+All iPhones, and you don't want to pay: Apple Find My.
+A teen who just got their license: HeyPolo for everyday sharing with crash detection, or OtoZen if you want an emergency team and a DMV log.
+A child under 12 with a watch: Findmykids.
+Screen time or online safety is the real problem: FamiSafe or Bark, alongside a location app.
+Everyone else: HeyPolo.
+That last group is most families, couples and friend groups. If you want live location, place alerts and crash detection for less than Life360 Gold, with no ads and no data sold, HeyPolo is the one to try. You've got 30 days to change your mind.
+Life360 alternatives: FAQ
+What is the best alternative to Life360?
+For most families, HeyPolo. It covers live location, place alerts, SOS and crash detection for $4.99 a month billed annually, and one subscription covers everyone you invite. It doesn't show ads or sell your data.
+Is there a free app like Life360?
+Yes. Apple Find My is free for families who all use iPhones. Glympse is free for sharing your location for a set time. GeoZilla, iSharing and Life360 itself have free plans, but they hold back alerts and history.
+Which Life360 alternatives work on both iPhone and Android?
+HeyPolo, OtoZen, GeoZilla, Findmykids, iSharing, FamiSafe, Bark and Glympse all work across both. Apple Find My only works between Apple devices, which rules it out for mixed families.
+Does any Life360 alternative have crash detection?
+Yes. HeyPolo and OtoZen both detect crashes automatically and alert your group. OtoZen adds a 24/7 emergency response team for eligible US users.
+Does Life360 sell your data?
+Life360 says it no longer sells precise location data. Its 2026 filings show it still earns revenue from selling aggregated, non-personally identifiable data, and around 80% of its US users can be shown ads.
+How do I switch my family from Life360 to another app?
+Set up the new app first and get everyone into the group. Then cancel your Life360 subscription, and . Deleting the app from your phone leaves your account and history in place.
 On this page
 Popular articles
 FEATURES

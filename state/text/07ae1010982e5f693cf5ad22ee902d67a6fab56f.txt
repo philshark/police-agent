@@ -17,13 +17,15 @@ Most of the regret parents describe later comes from handing over one device tha
 Separate those two jobs and the decision gets a lot simpler. Keep them together and you'll spend the next two years negotiating with a rectangle.
 Readiness for a kids first phone shows up in behavior before birthdays
 Middle school usually forces the issue.
-Pickup times change, activities spread across the week, and suddenly your child spends forty minutes a day somewhere you aren't. Pew Research Center reported in 2025 that 23% of U.S. parents of children 12 and under say their child has their own smartphone, and the  among parents of 11- and 12-year-olds.
+Pickup times change, activities spread across the week, and suddenly your child spends forty minutes a day somewhere you aren’t, usually on a bus or on foot. If you’re still working out , the phone question usually turns up at the same time.
+Pew Research Center reported in 2025 that 23% of U.S. parents of children 12 and under say their child has their own smartphone, and the among parents of 11- and 12-year-olds.
 By 11 or 12, more than half of parents have already said yes to their kid having a phone
 Age on its own tells you very little. The American Academy of Pediatrics reported in 2025 that a typical first phone in the U.S. arrives around 11, based on more than 10,500 children. Plenty of 11-year-olds lose a water bottle every week, and plenty of 10-year-olds have never left a charger at a friend's house.
 Watch two things instead.
 The first is whether your child keeps track of a backpack, a house key and a charger without a reminder every day.
 The second is how they handle a no.
-A child who accepts a boundary without three rounds of negotiation will handle phone rules the same way, because phone rules are just more boundaries. Think about the last house key you handed over, and how long it lasted.
+A child who accepts a boundary without three rounds of negotiation will handle phone rules the same way, because phone rules are just more boundaries.
+Think about the last house key you handed over, and how long it lasted. If you’ve already worked out  , you’ve been through most of this test. A kid who can manage a key and a quiet afternoon on their own usually manages a phone too.
 The same Pew survey found that 68% of parents think a child should be at least 12 before getting their own smartphone, so a lot of parents buying at 10 are going against their own instinct.
 If that's you, you're in good company. After-school logistics don't care what anyone believes.
 Practical tips for buying a kids first phone without overbuying
@@ -54,7 +56,7 @@ Add approved contacts and limit calls and texts to that list, so unknown numbers
 Require your passcode for every app download and in-app purchase.
 Turn off every notification except calls and texts from approved contacts.
 Show your child how to block and report in any app they do have, and have them practice once.
-Save emergency contacts so they can be reached from the lock screen.
+Save emergency contacts so they can be reached from the lock screen, then agree what your child does when a plan falls apart, like a bus that never shows. A short covers who they call and where they wait.
 Notifications matter more than you'd think. Common Sense Media tracked a week of real phone use in 2023 and found the , with more than half getting them overnight.
 Across a 16-hour day, that's about 15 interruptions an hour, before homework even starts. Cutting that back before day one is a lot easier than explaining later why the buzzing has to stop.
 Gaming is where a lot of parents get caught out
@@ -64,11 +66,13 @@ Thorn's 2024 research found that 83% of 9- to 12-year-olds use Roblox and 39% us
 In the same research, 33% of boys aged 9 to 12 reported an online sexual interaction, up 15 points from 2023, mostly being sent sexual messages or asked for images.
 Thorn points out that one year of data doesn't make a trend and the group is small. Even so, open the chat settings in every game your child plays and treat them as seriously as an Instagram ban.
 I've changed my mind about location. I used to think a hidden app that the kid didn't see was the safer choice.
-The C.S. Mott Children's Hospital National Poll reported in 2026 that among parents who share location with their 18- to 25-year-old children, 96% say their child knows about it, though only half were given a way to opt out. Location sharing tends to last for years, well past the age when secrecy makes any sense, so start it in the open, with your child able to see exactly what's shared. HeyPolo is built that way, so your child can confirm they're at a friend's house without feeling watched.
-With HeyPolo, your , and the alert reaches your whole family group at once with live location. One person pays, everyone joins free.
+The C.S. Mott Children's Hospital National Poll reported in 2026 that among parents who share location with their 18- to 25-year-old children, 96% say their child knows about it, though only half were given a way to opt out. Location sharing tends to last for years, well past the age when secrecy makes any sense, so start it in the open, with your child able to see exactly what's shared. HeyPolo’s is built that way, so your child can confirm they’re at a friend’s house without feeling watched.
+With HeyPolo, your child taps SOS and slides to send, and the alert reaches everyone at once with their live location. The whole family sits on one , so whoever’s closest can go. One person pays, everyone joins free.
 Charge the phone outside the bedroom
 Bedtime settings get negotiated, extended and eventually worked around.
-A physical rule holds up better. Every phone in the house, yours included, goes on charge in the kitchen or living room an hour before lights out and stays there until morning.
+A physical rule holds up better.
+Every phone in the house, yours included, goes on charge in the kitchen or living room an hour before lights out and stays there until morning. The “yours included” part matters more than it sounds.
+Kids pick up phone habits by watching you for years before anyone sits them down for a talk. It works the same way in the car, where  long before the permit arrives.
 The research here is observational, so it shows a link and can't prove cause.
 A 2025 study in Pediatrics by Barzilay and colleagues, covering 10,588 U.S. children,  to 1.62 times the odds of not getting enough sleep and 1.31 times the odds of depression, compared with children who didn't own one.
 The U.S. Surgeon General's 2023 advisory found that nearly one in three adolescents use screens until midnight or later on a typical weekday. In a class of 30, that's about ten kids still on a screen at midnight on a school night. The advisory recommends keeping devices away for at least an hour before bed and through the night.
@@ -76,7 +80,8 @@ A preteen who wakes up to a buzz at 1 am loses sleep they can't get back, and th
 Pew found in 2024 that 72% of U.S. teens say they often or sometimes feel peaceful without their phone. Your child may grumble about the kitchen counter and still sleep better for it.
 Write an agreement that loosens as your child grows
 A family phone agreement works best as something you both understand, without a list of penalties.
-Cover the everyday stuff: school rules, meals, homework, overnight charging, and what happens when a group chat turns nasty.
+Threats and worst-case stories wear off fast at this age. Researchers who study new drivers found that an agreement your teenager helped write changes behavior more than warnings do, and that .
+Your phone agreement should cover the everyday stuff: school rules, meals, homework, overnight charging, and what happens when a group chat turns nasty.
 Pew reported in 2024 that 38% of parents and 38% of teens argue about phone time at least sometimes, and plenty of those arguments start with "you never said I couldn't."
 So say it, in writing.
 Then build in the loosening.
@@ -89,7 +94,7 @@ In other words, most kids deal with it on their own and never tell anyone.
 If your child thinks their phone disappears the moment they report a problem, they have every reason to keep quiet, and no control can fix silence.
 So tell them before the box is even opened that telling you about something will never cost them the phone.
 The phone you hand over in September will mostly get used for ordinary things, like running late, needing a ride or asking if dinner can wait. Keep it good at those things and narrow everywhere else, and it won't become the thing you argue about.
-Location sharing your child switches on, arrival alerts that answer the pickup question before anyone types it, and an SOS that reaches everyone at once give you something to act on without making you the household's watcher.
+Location sharing your child switches on gives you something to act on without making you the household’s watcher. Add and the pickup question gets answered before anyone types it, and if something goes wrong, the SOS reaches everyone at once.
 None of it means nothing will go wrong. It means you'll both know sooner.
 FAQ
 What is the best age to get a child their first phone?
