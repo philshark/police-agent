@@ -32,7 +32,7 @@ HeyPolo
 iPhone and Android on the same map
 Crash, SOS and severe weather alerts on one plan
 Exact, general-area or private sharing, which neither offers
-$7.99/mo billed annually, location never sold
+$5.99/mo billed annually, location never sold
 Life360 vs Find My iPhone features compared
 The main Life360 vs Apple Find My differences, row by row, with HeyPolo alongside so you can see where a third option fits.
 FeatureLife360Apple Find MyHeyPolo
@@ -73,7 +73,7 @@ Find My. Apple says it keeps your location for up to 24 hours and doesn't use it
 Can Life360 and Find My work together?
 Yes, they run independently, but you'd be managing two apps. HeyPolo puts iPhone and Android users on one map with one set of alerts.
 How much does the Life360 app cost vs Find My?
-Find My is free. Life360 is free with limits, then $9.99, $16.99 or $24.99 a month in the US. HeyPolo is $7.99/month billed annually or $19.99 month to month.
+Find My is free. Life360 is free with limits, then $9.99, $16.99 or $24.99 a month in the US. HeyPolo is $5.99/month billed annually.
 More features
 How HeyPolo compares
 FEATURES

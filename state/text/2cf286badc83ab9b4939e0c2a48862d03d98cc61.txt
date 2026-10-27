@@ -9,7 +9,7 @@ Kids grow up. Location sharing should grow with them.
 FindMyKids is built for watching a young child. HeyPolo is built for teens and whole families sharing on equal terms, with no listening in.
 At a glance
 FindMyKidsHeyPolo
-PriceFree, Premium from $2.99/mo$7.99/mo billed annually, or $19.99 monthly
+PriceFree, Premium from $2.99/mo$5.99/mo billed annually
 SharingOne way, parent watches childTwo-way, consent-based
 Remote listeningYes, paid minutesNever
 Crash and weather alertsNoYes
@@ -86,7 +86,7 @@ FindMyKids vs HeyPolo questions
 Is FindMyKids free?
 There's a free tier with basic location, SOS, chat and two geofences. Listening minutes and fuller features need Premium.
 How much does FindMyKids cost per month and per year?
-FindMyKids' own blog lists $2.99 a month, $16.99 a year or $25.99 for life. Users report paying more, including $5.99 a month and €46 to €50 a year, so check the price in your store. HeyPolo is $7.99/month billed annually or $19.99 month to month.
+FindMyKids' own blog lists $2.99 a month, $16.99 a year or $25.99 for life. Users report paying more, including $5.99 a month and €46 to €50 a year, so check the price in your store. HeyPolo is $5.99/month billed annually.
 Is FindMyKids safe to use?
 FindMyKids says it complies with GDPR and COPPA and holds a kidSAFE Seal. Privacy experts have raised concerns about its remote listening feature. HeyPolo has no listening feature and never sells location.
 How do I cancel a FindMyKids subscription?

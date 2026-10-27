@@ -97,7 +97,7 @@ These are early results from one iPhone model, and each test ran once. Drain wil
 Choosing a Location Sharing App That's Mindful of Battery
 The biggest battery difference between apps is how they decide when to check your location. On-demand apps like Find My only look up your location when someone asks for it, which saves battery and leaves you without trips or history.
 check whenever you're moving, so they cost more battery on the move and give your group a fuller picture of the day.
-If you're comparing apps that share location while you move, check whether they stop using GPS when you're still. HeyPolo does, which is why our stationary test phone used almost no extra battery. HeyPolo also lets you choose : your exact location, only the place you're at, or nothing while private mode is on. Your trips and come from the same background checks, so they need Always Allow switched on.
+If you're comparing apps that share location while you move, check whether they stop using GPS when you're still. HeyPolo does, which is why our stationary test phone used almost no extra battery. HeyPolo also lets you choose : your exact location, only the place you're at, or nothing while private mode is on. Your trips and come from the same background checks, so they need .
 Battery performance varies by device, operating system version and how you use your phone. Our tests used one iPhone model, so treat the numbers as a rough guide for your own phone.
 If you're deciding between specific apps rather than just settings, we've also compared directly.
 Conclusion

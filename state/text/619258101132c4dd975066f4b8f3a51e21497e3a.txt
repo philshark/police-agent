@@ -75,7 +75,7 @@ Watches and Advisories don't trigger anything. You hear from HeyPolo when a warn
 Built for the people who aren't there
 The person in the warning zone has probably already seen a government alert. HeyPolo notifies everyone else in the group, who wouldn't otherwise know.
 One plan, the whole family
-Weather alerts come with the same HeyPolo subscription that covers everyone you invite, from $4.99 a month.
+Weather alerts come with the same HeyPolo subscription that covers everyone you invite, from $5.99 a month.
 Respects Private Mode
 If someone isn't sharing their location, HeyPolo doesn't know where they are, so it sends no alert about them.
 Where a severe weather alert app helps most
@@ -165,9 +165,9 @@ HeyPolo sends an alert for National Weather Service warnings, including Tornado 
 Where do HeyPolo's weather alerts work?
 Weather alerts cover people located in the United States, including Alaska, Hawaii and Puerto Rico, and use National Weather Service warnings. If someone in your group is in the US and in a warning area, everyone in the group is notified, wherever each person is based. HeyPolo sends no weather alerts for locations outside the US.
 Is HeyPolo a free severe weather alert app?
-HeyPolo is free to download. Weather alerts come with your HeyPolo subscription, from $4.99 a month, and one plan covers everyone you invite, so the cost stays the same as your group grows.
+HeyPolo is free to download. Weather alerts come with your HeyPolo subscription, from $5.99 a month, and one plan covers everyone you invite, so the cost stays the same as your group grows.
 How much does HeyPolo cost, and what does it include?
-Plans start from $4.99 a month, and one subscription covers everyone you invite. Weather alerts are included, along with SOS, arrival alerts, general-area sharing and low battery alerts.
+Plans start from $5.99 a month, and one subscription covers everyone you invite. Weather alerts are included, along with SOS, arrival alerts, general-area sharing and low battery alerts.
 Can I use HeyPolo as a severe weather alert app when I travel?
 Yes, anywhere in the United States. If a warning covers where you are, the people in your group are notified, and if one covers someone in your group, you are. HeyPolo sends no weather alerts for locations outside the US.
 Is there a severe weather alert app for an aging family member?

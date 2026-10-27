@@ -31,7 +31,7 @@ Sold precise location data to brokers until 2022, per The Markup
 HeyPolo
 SOS, crash notifications and severe weather warnings on one plan
 Unlimited place alerts and 7 days of history
-$7.99/mo billed annually for everyone you invite
+$5.99/mo billed annually for everyone you invite
 Location never sold to advertisers, brokers or insurers
 Life360 vs Google Maps location sharing features
 Every row below compares Google location sharing vs Life360 on what each app actually offers, with HeyPolo alongside for reference.
@@ -59,13 +59,13 @@ A third option
 Life360 vs Google location sharing in 2026: or neither?
 If you're choosing between free-but-thin and safe-but-tiered, HeyPolo sits in between. It has the safety features Life360 puts on Gold, at a price much closer to free, from a company that makes its money from subscriptions.
 Crash notifications, SOS and severe weather warnings on every plan
-$95.88 a year, against $16.99 a month for Life360 Gold
+$71.88 a year, against $16.99 a month for Life360 Gold
 Unlimited place alerts, where Google Maps stops at 5 per person
 Exact, general-area or private sharing, which neither app offers
 30-day money-back guarantee
 Google Maps location sharing vs Life360 questions
 Which is better, Life360 or Google Maps?
-Google Maps is better for free, casual sharing and web access. Life360 is better for safety features like crash detection, if you pay for Gold. HeyPolo gives you crash, SOS and weather alerts on one plan at $7.99/month billed annually.
+Google Maps is better for free, casual sharing and web access. Life360 is better for safety features like crash detection, if you pay for Gold. HeyPolo gives you crash, SOS and weather alerts on one plan at $5.99/month billed annually.
 Is Google Maps location sharing as accurate as Life360?
 Both use your phone's location. The bigger difference in Life360 vs location sharing in Maps is reliability reports: Google Maps users describe sharing silently stopping and locations going stale when updates are switched off. HeyPolo refreshes every 5 seconds during real-time sharing.
 Can Google Maps send arrival alerts like Life360?

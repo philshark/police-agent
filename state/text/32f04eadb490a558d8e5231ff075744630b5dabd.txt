@@ -18,7 +18,7 @@ When families establish predictable boundaries, digital tools support independen
 Key takeaways
 Location tools display a device's reported coordinates rather than proving an individual's immediate physical wellbeing.
 In a 2026 University of Michigan survey, 96% of tracking parents stated their young adult knew about location tracking, but only 54% offered an opt-out choice.
-Limiting location precision to general areas reduces the feeling of unwanted surveillance during routine activities.
+Limiting location precision to general areas reduces the feeling of during routine activities.
 Involving teenagers directly in setting up oversight features improves their willingness to participate in digital safety routines.
 Mutual sharing among parents and older children reframes location check-ins as cooperative family logistics.
 Relying on automated place alerts prevents the anxiety associated with constantly refreshing a map screen.
@@ -26,7 +26,7 @@ Conducting permission audits every few months ensures digital boundaries adapt a
 1. Agree on the purpose before anyone shares: location sharing with family
 A location tool works best when every family member understands the exact problem it solves.
 Unspoken assumptions create immediate tension.
-One person might view an open map as ordinary logistics, while another experiences it as a lack of confidence in their judgment. Before anyone turns on location sharing with family, sit down together and name the specific situations where sharing helps. Common examples include solo walks after dark, long drives in winter weather, or late commutes from an after-school job.
+One person might view an open map as ordinary logistics, while another experiences it as a lack of confidence in their judgment. Before anyone turns on location sharing with family, sit down together and name the specific situations where sharing helps. Common examples include , long drives in winter weather, or late commutes from an after-school job.
 Agree on clear boundaries during that initial conversation:
 Who has permission to view the location pin
 What events trigger the start and end of a sharing window
@@ -55,7 +55,7 @@ While specific caregiving situations involving young children or vulnerable rela
 5. Choose the moments when you’ll check your family location sharing app
 Opening a map repeatedly throughout the afternoon rarely brings calm. When parents check a screen out of vague restlessness, every normal delay or slow data refresh can look like an emergency.
 Establishing agreed checking triggers keeps a family location sharing app from feeding unnecessary worry. Agree to check the map only when an expected arrival time passes, an automated alert fails to trigger, or someone sends an emergency signal.
-Automated place alerts eliminate the urge to keep refreshing a screen. Setting a geofence around school, home, or work delivers a simple notification when someone arrives safely.
+eliminate the urge to keep refreshing a screen. Setting a geofence around school, home, or work delivers a simple notification when someone arrives safely.
 The University of Michigan  noted that while 95% of tracking parents said location sharing helped them worry less, 23% reported that it sometimes left them more anxious than reassured.
 If a reported location looks unexpected, send a quick message or place a call before reacting, remembering that the screen reflects device connectivity rather than verified human behavior.
 6. Review the agreement as independence changes

@@ -88,7 +88,7 @@ Frequently asked questions
 How can I monitor my teenager's driving?
 Add HeyPolo and set the places you care about: school, practice, home. You'll get an arrival alert automatically, and speed alerts you can review together once a week, so you're finding out how the drive went instead of tracking it in real time.
 Does HeyPolo have crash detection?
-We're not claiming that here. What's live today is arrival alerts, speed alerts, and a one-tap SOS that sends an exact location to your group.
+Yes. HeyPolo uses the motion sensors already inside the phone to recognize the sudden forces of a crash, such as a hard impact, fast deceleration, or a rollover. The driver gets 60 seconds to confirm they're okay, and if there's no response, an alert with their live location goes to everyone in your group.
 How does HeyPolo compare with Life360 for driving, and which is the best app to track teen driving?
 Life360's paid tiers have a more built-out driving package. HeyPolo offers speed alerts without selling location data, precision control over what's shared, and one flat family price instead of a per-tier upgrade. Which one's best depends on whether you want more driving detail or fewer strings attached to your data.
 Won't speed monitoring feel like being spied on?

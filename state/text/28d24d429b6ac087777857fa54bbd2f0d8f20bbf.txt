@@ -51,7 +51,7 @@ Not live. A family member or app can't see you moving, because the phone can't s
 What does a location-sharing app show when your phone is in airplane mode?
 Your last known location, with the time your phone last had a mobile or Wi-Fi connection. Your group sees you as offline or paused, and nothing updates until you reconnect.
 Can 911 find me if my phone is on airplane mode?
-Calling 911 overrides airplane mode on current iPhone and Android phones and reconnects to the nearest tower. How accurate your location is depends on the phone, the terrain and the local dispatch center, so it isn't guaranteed to be precise. [CHECK BEFORE PUBLISHING]
+Calling 911 overrides airplane mode on current iPhone and Android phones and reconnects to the nearest tower. How accurate your location is depends on the phone, the terrain and the local dispatch center, so it isn't guaranteed to be precise.
 Does airplane mode turn off GPS navigation on Google Maps or Apple Maps?
 No. The GPS receiver keeps working, so the blue dot still follows you. What you lose is new map data. Without a connection, the app can't download new areas, so download your maps before you go offline.
 Does turning off location services save battery compared to airplane mode?

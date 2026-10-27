@@ -55,7 +55,7 @@ FeatureHeyPoloFamio
 Real-time location & arrival alerts
 SOS with your location
 Crash detection & driving reports Driving mode¹
-Billing1, 12 or 24 monthsWeekly plans¹
+BillingAnnuallyWeekly plans¹
 Location data never sold
 Built by a privacy companyMakers of Surfshark
 ¹ Based on Famio's App Store listing (US), Oct 2026. Comparison based on publicly available information — verify before publishing.
@@ -63,7 +63,7 @@ How it works
 Set up in minutes
 1
 Choose your plan
-1, 12 or 24 months. One plan covers your whole family.
+Billed annually. One plan covers your whole family.
 2
 Download HeyPolo
 Available on iPhone and Android. Sign in with the account you just made.
@@ -119,7 +119,7 @@ FAQ
 Questions, answered
 Still unsure? .
 How is HeyPolo different from Famio?
-HeyPolo adds crash detection and driving reports, is billed for 1, 12 or 24 months (never weekly), and is built by the makers of Surfshark — your location is never sold.
+HeyPolo adds crash detection and driving reports, is billed annually (never weekly), and is built by the makers of Surfshark — your location is never sold.
 Can I switch my family over easily?
 Yes. Download HeyPolo, create your family group and invite everyone. It takes a few minutes.
 Does one plan cover everyone?

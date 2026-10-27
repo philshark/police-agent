@@ -78,7 +78,7 @@ Using HeyPolo, per-group controls , and the person sharing can switch to private
 Back to the driving school page and the DMV site
 The mismatch between what the driving school in Little Rock posts and what the Arkansas DMV site says is the normal state of this topic, and you can resolve it in about ten minutes on your own state agency's site.
 Confirm the age, confirm what has to be passed or completed first, and agree with your teenager on how supervision will work during the months of practice that follow. Six states start at 14. All of them expect an adult in the passenger seat for a good while after that.
-tell you a car reached the place it was going.Speed alerts flag a number, not a verdict on how your teenager drove, and neither one replaces the supervised hours your state requires.
+tell you a car reached the place it was going. flag a number, not a verdict on how your teenager drove, and neither one replaces the supervised hours your state requires.
 HeyPolo has arrival alerts for saved places and speed alerts for young drivers, so you know a practice drive ended where it was meant to.
 FAQ
 At what age can you get your permit?
@@ -90,7 +90,7 @@ Eligibility begins when an applicant meets the state's minimum age and its appli
 When can you get your learner's permit?
 Alaska, Arkansas, Iowa, Kansas, North Dakota, and South Dakota set 14 as the minimum age. Other states commonly begin later, and some allow driver education coursework to start before the permit age.
 At what age can you get a permit?
-The range runs from 14 in the six states named above to 15 in Texas and 15 and a half in California. [CHECK BEFORE PUBLISHING]
+The range goes from 14 in the six states named above to 15 in Texas and 15 and a half in California.
 Can you drive alone with a permit at 14?
 No. NHTSA defines the learner stage as supervised driving with a fully licensed driver. Each state sets who qualifies as a supervisor and what additional restrictions apply.
 Does starting driver education mean you have a permit?
