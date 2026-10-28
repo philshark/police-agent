@@ -1,8 +1,12 @@
 App para Monitorear a Conductores Adolescentes , Velocidad y Reportes | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 Manejo seguro para toda la familia
 Ayuda a los conductores nuevos a manejar más seguro.
 Monitoreo de velocidad, uso del celular al manejar, detección de choques y una calificación de manejo para quienes te preocupan al volante.
@@ -132,8 +136,10 @@ Todos los planes tienen garantía de reembolso de 30 días. Si HeyPolo no es par
 Ayuda a los conductores nuevos a manejar más seguro.
 Un solo plan para toda tu familia. Garantía de reembolso de 30 días.
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

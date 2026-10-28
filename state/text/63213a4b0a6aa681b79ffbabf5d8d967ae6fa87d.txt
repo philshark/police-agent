@@ -1,8 +1,12 @@
 Location Sharing App for Friends, Private by Default
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A friend locator app that only works with their say-so
 See where your people are on one live map, for as long as everyone agrees to share and not a minute longer.
 Know your friend got home
@@ -111,8 +115,10 @@ It can be, when the app puts sharers in charge. Choose general area or exact pos
 Explore HeyPolo features
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

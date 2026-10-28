@@ -1,8 +1,12 @@
 App para Compartir Ubicación en Familia , Sabe que Llegaron Bien | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 La app familiar que cuida tu privacidad
 Sabe que llegaron bien, sin tener que preguntar.
 “Avísame cuando llegues”, ahora es automático. Ubicación en tiempo real y avisos de llegada para todos los tuyos. Un solo plan para toda la familia.
@@ -137,8 +141,10 @@ Todos los planes tienen garantía de reembolso de 30 días. Si HeyPolo no es par
 Sabe que llegaron bien, sin tener que preguntar.
 Un solo plan para toda tu familia. Garantía de reembolso de 30 días.
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

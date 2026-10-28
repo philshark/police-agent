@@ -1,8 +1,12 @@
 Severe Weather Alert App for US Families | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 The severe weather alert app that tells your people when it matters
 When an official warning covers someone in your group, the people who love them find out within minutes.
 Notifies you when someone in your group is in a location with a severe weather warning
@@ -179,8 +183,10 @@ Every feature is included in the same plan, for everyone in your group.
 Who HeyPolo is for
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

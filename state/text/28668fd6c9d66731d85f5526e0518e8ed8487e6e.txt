@@ -1,8 +1,12 @@
 Driving Score App for Families and New Drivers | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A driving score you own, and a group that helps you raise it
 HeyPolo gives every trip a driving score from 1–10, so you can see how you drive and choose who else sees it. It is built for anyone who drives and for anyone with a loved one on the road, especially a new driver.
 A 1–10 score for every trip
@@ -73,8 +77,10 @@ Is my driving data sold?
 No. Your driving and location data is never sold or monetized.
 Explore HeyPolo features
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

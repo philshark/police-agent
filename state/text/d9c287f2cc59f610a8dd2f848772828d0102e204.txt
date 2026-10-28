@@ -1,8 +1,12 @@
 HeyPolo Location-Sharing App Features
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 HeyPolo's family safety app features
 HeyPolo has a wide range of features to keep you informed about the safety of those nearest and dearest to you.
 One person pays, everyone else joins
@@ -48,8 +52,10 @@ Message us in live chat inside the app, or email support@heypolo.com. Real peopl
 How do I delete my HeyPolo account?
 Go to Settings, then Account, and choose Delete account. Your profile, groups and location history are removed. If you'd rather we do it for you, email support@heypolo.com.
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

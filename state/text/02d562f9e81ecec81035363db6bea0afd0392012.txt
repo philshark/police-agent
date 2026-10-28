@@ -1,8 +1,12 @@
 Lone Worker Safety App for Shift Workers | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A lone worker safety app for shift workers and late finishes
 HeyPolo is a lone worker safety app that sends the 'home safe' text for you when there's no normal time to type it yourself, built for personal use between family and partners, never employer tracking.
 Arrival alerts are sent the moment you get home or to work
@@ -93,8 +97,10 @@ No. It isn't sold, monetized, or shared with advertisers or data brokers, and it
 Explore HeyPolo features
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

@@ -1,8 +1,12 @@
 Speed Monitoring App With Speed Limit Alerts | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A speed monitoring app where the driver decides what to share
 HeyPolo is a speed monitoring app that sends an alert to the people in your group who want to know when a driver who has chosen to share goes over the speed limit. The driver decides whether to share speed data at all, and gets a summary of the drive once they have stopped driving.
 An alert the first time a driver goes over the limit on a drive
@@ -71,8 +75,10 @@ Start a group, invite the people you drive with, and let each driver decide what
 Who HeyPolo is for
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

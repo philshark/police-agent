@@ -1,8 +1,12 @@
 Group Location Sharing App for Family and Friends | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A group location app built for families and friends
 A group location app and shared map for your family or friends so you can skip the ‘where are you?’ texts.
 Unlimited groups, unlimited invited members
@@ -209,8 +213,10 @@ Pause your own sharing whenever you want while staying part of every circle you'
 Who HeyPolo is for
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

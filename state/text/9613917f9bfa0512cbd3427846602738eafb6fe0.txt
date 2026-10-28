@@ -1,8 +1,12 @@
 SOS App for iPhone and Android | Family Emergency Alerts | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 The SOS app that sends your family your exact location
 Tap SOS, slide to send, and everyone in your group sees where you are.
 Your live location goes out the moment you slide to send
@@ -213,8 +217,10 @@ A heads-up for parents of new drivers when a trip goes over the speed limit you 
 Look back over the last seven days of shared trips. After that, they're deleted.
 Who HeyPolo is for
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

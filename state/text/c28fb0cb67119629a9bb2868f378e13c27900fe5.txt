@@ -1,8 +1,12 @@
 App de Emergencia SOS , Un Toque Envía tu Ubicación | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 Alertas SOS con un solo toque
 Ayuda de emergencia con un solo toque.
 Un solo toque envía tu ubicación exacta a quienes pueden ayudarte. Sin escribir, sin explicar, sin esperar.
@@ -130,8 +134,10 @@ Por ahora la app y el pago están en inglés. La app es muy visual y fácil de u
 Ayuda de emergencia con un solo toque.
 Un solo plan para toda tu familia. Garantía de reembolso de 30 días.
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

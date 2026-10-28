@@ -1,8 +1,12 @@
 Live Location Sharing App for Families | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A live location sharing app where you decide who sees you
 Know they got where they were going, without sending the third text.
 Live location, refreshed every 5 seconds while the app is open
@@ -216,8 +220,10 @@ One tap sends an emergency alert with live location to every person in the group
 Who HeyPolo is for
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

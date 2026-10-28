@@ -1,8 +1,12 @@
 HeyPolo Trust Center
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 HeyPolo Trust Center
 HeyPolo is committed to building a trusted, privacy-first app for location sharing. We understand the concerns surrounding location data, so we built an app for care without control. Every aspect of the product revolves around consent, boundaries, and safety, ensuring your data remains yours.
 What people are saying about HeyPolo
@@ -70,8 +74,10 @@ To contact HeyPolo customer support, send an email to . Our support team is alwa
 How do I delete my HeyPolo account?
 To delete your HeyPolo account, open your HeyPolo app, tap on Settings in the bottom right corner, select Account, and Delete account. You can also contact our customer support at and they will delete your account for you.
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

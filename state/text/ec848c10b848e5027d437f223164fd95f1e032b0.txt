@@ -1,8 +1,12 @@
 Car Crash Detection App — Alerts Your Family Automatically | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 Automatic crash detection
 If there's a crash, we alert your family.
 Automatic crash detection sends your location to the people who need to know — even if you can't reach your phone.
@@ -130,8 +134,10 @@ No. HeyPolo alerts your family with your exact location. In a life-threatening e
 If there's a crash, we alert your family.
 One plan for your whole family. 30-day money-back guarantee.
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

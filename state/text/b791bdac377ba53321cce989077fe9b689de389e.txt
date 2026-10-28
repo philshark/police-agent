@@ -1,8 +1,12 @@
 Family Tracking App: Location Sharing You Control | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A family locator app that lets your family choose what to share
 One map for everyone you love, with each person deciding what they share and for how long.
 Know your people got where they were going
@@ -93,8 +97,10 @@ There's no limit on members or groups. Households often run two, one for the peo
 Explore HeyPolo features
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings

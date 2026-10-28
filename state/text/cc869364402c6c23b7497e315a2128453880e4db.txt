@@ -1,8 +1,12 @@
 Safety Check-In App: Timed Sharing & One-Tap SOS | HeyPolo
-Safety Features
+Features
+Driving
 Who It's For
-Safety Features
+Compare
+Features
+Driving
 Who It's For
+Compare
 A safety check-in for the walk home, and everywhere else
 HeyPolo is a safety check-in app: set a window, share your location with someone you trust, and it turns off by itself when the window's up. No awkward ask, no app running all week.
 Timed sharing that ends automatically
@@ -98,8 +102,10 @@ Set a window before you head out, from a walk to a flight, and share your locati
 Explore HeyPolo features
 How HeyPolo compares
 FEATURES
+DRIVING FEATURES
 FOR WHO
-RESOURCES
+COMPARE
 COMPANY
 SOCIAL
-Copyright © 2026 HeyPolo. All Rights Reserved
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings
