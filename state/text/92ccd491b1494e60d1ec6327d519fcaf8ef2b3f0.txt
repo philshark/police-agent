@@ -1,12 +1,35 @@
+Features
+Driving
+Who It's For
+Compare
+Features
+Driving
+Who It's For
+Compare
+Popular articles
+FEATURES
+DRIVING FEATURES
+FOR WHO
+COMPARE
+COMPANY
+SOCIAL
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings
+Features
+Driving
+Who It's For
+Compare
+Features
+Driving
+Who It's For
+Compare
+FEATURES
+DRIVING FEATURES
+FOR WHO
+COMPARE
+COMPANY
+SOCIAL
 How Does Location Sharing Affect Your Battery? | HeyPolo
-Features
-Driving
-Who It's For
-Compare
-Features
-Driving
-Who It's For
-Compare
 /
 App tips & guides
 How Does Location Sharing Affect Your Battery?
@@ -126,11 +149,15 @@ Does running two location apps at once drain battery twice as fast?
 Probably not twice as fast, but it does use more. Your phone limits how often apps get a location and can share one GPS reading between them, but each app still sends its own data, and sending data uses battery.
 On this page
 Popular articles
-FEATURES
-DRIVING FEATURES
-FOR WHO
-COMPARE
-COMPANY
-SOCIAL
-Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
-Cookie settings
+6 min read
+Phil
+October 22, 2026
+7 min read
+Phil
+September 29, 2026
+9 min read
+Phil
+August 17, 2026
+5 min read
+Sinead
+June 3, 2026
