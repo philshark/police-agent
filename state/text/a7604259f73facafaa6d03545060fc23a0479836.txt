@@ -24,75 +24,66 @@ FOR WHO
 COMPARE
 COMPANY
 SOCIAL
-HeyPolo Family Privacy and Safety Offer
-HeyPolo
-Exclusive offer: 67% OFF
-Family Safety that respects your privacy
-From $3.99/month for your whole family
-4.7 ★ on App Store4.9 ★ on Google Play
-30 day money back guarantee We never sell your data
-40 MPH
-Grandma arrived at Dr. Reynolds
-15 min ago
-“A privacy-first location tracker that puts control back in your hands... lets families stay connected without constant surveillance.”
+You Share Your Location With Family. Who Else Is Seeing It? | HeyPolo
+You Share Your Location With Family. Who Else Is Seeing It?
+Some of the most popular family safety apps have made millions from location data. Here's how it works, and how to check yours in two minutes.
+By the HeyPolo Team · November 2026 · 4 min read
+It's 8.30 AM. You open the app, see the little dot pull up at school, and breathe out. Your kid made it.
+That dot feels private. It's just you, your family, and a map.
+But for some apps, that dot is also a product. Every pickup, every doctor's appointment, every evening at a friend's house becomes a data point. And in the location data business, data points are sold.
+QUICK CHECK
+Do you know if your family's location app sells your data?
+Yes, I've checkedNo, I'm not sureWe use a free app
+Good on you. Most parents never do. Keep reading to see what we found in one of the most popular apps, and how HeyPolo does things differently.
+Honestly, most people aren't. It's usually buried in the fine print. Keep reading to learn how to check in two minutes, and how HeyPolo keeps it private.
+Worth a closer look, then. Free apps have to make money somehow, and often it's from your data. Here's what that looks like, and how HeyPolo avoids it.
+How a "free" app pays its bills
+Building a location app costs money: servers, maps, engineers. When the app is free, the money has to come from somewhere else. Often, that somewhere is your data.
+There is a that buys, packages and resells people's movements. Its customers include advertisers, investors and, in some reported cases, government contractors.
+Apps usually say the data is "de-identified." That sounds safe. In practice, it often means names and phone numbers are removed, while the precise coordinates and the phone's advertising ID stay in. Privacy researchers note that an advertising ID can follow you across apps and situations, which can make it a better identifier than a name ( ).
+And a location history is hard to make anonymous. The place a phone sleeps every night is usually home. The place it spends weekdays is usually school or work.
+The Life360 case
+Life360 is one of the best-known family tracking apps. In December 2021, the nonprofit newsroom reported that it was selling data on kids' and families' whereabouts to roughly a dozen data brokers.
+According to that investigation:
+Buyers included brokers such as X-Mode, Cuebiq, SafeGraph and Allstate's Arity.
+In 2020, Life360 made $16 million from selling location data, nearly 20% of its revenue that year, plus another $6 million from its Arity partnership.
+Two former employees said the company did not fuzz, aggregate or reduce the precision of the data it sold.
+Life360's CEO told The Markup that data is an important part of the business model that keeps the core app free.
+A month later, Life360 said it would stop selling precise location data to most of those brokers. It kept selling precise data to Arity and aggregated data to Placer.ai ( ).
+What its own policy says today
+Life360's current is plain about it. It opens one section with:
+“We may sell your sensitive personal data.”
+It says the company licenses information, including precise geolocation, to select business partners for their own advertising and monetization. The notice also says Life360 does not do this with data from anyone it knows is under 18.
+It stays on unless you opt out in the app's Privacy & Security settings or block tracking at the phone level. In 2023 alone, Life360 received about 1.47 million verified requests to opt out of the sale of personal information, according to the same notice.
+Advertising is now a growth plan
+Life360 is building a full advertising business. In its , the company said it acquired Fantix to launch location-based "Place Ads." In January 2026 it closed the purchase of Nativo, which it describes as a full-stack advertising platform.
+In its and , the company calls its first-party location data central to that opportunity. It also says advertising revenue could one day rival subscriptions.
+Why it matters once the data leaves the app
+Once location data is sold, the app that collected it no longer controls where it goes next.
+Take X-Mode, one of the brokers The Markup named as a Life360 buyer in 2021. In January 2024, the banned X-Mode and its successor Outlogic from selling sensitive location data. It was the FTC's first settlement of its kind with a data broker.
+The FTC said:
+The raw data X-Mode sold was tied to mobile advertising IDs and was not anonymized. It could match a phone to the places it visited.
+That data could reveal visits to medical and reproductive health clinics, places of worship and domestic abuse shelters.
+Until May 2023, the company had no policy to remove sensitive locations from the data it sold.
+It sold location data to hundreds of clients, from real estate and finance to government contractors.
+The FTC's case did not claim Life360's data was part of any specific harm. But it shows how far a location trail can travel, and what it can say about a family: where you live, where the kids go to school, which doctor you see, where you spend Sunday mornings.
+3 questions to ask about your family's tracking app
+How does it make money? If it's free and there's no clear subscription, your data may be paying the bill.
+What does the privacy policy say about "selling," "sharing" or "licensing" location? Search the policy for those three words. "De-identified" doesn't mean untraceable.
+Is sharing on by default? Look in the app's privacy settings for a "Do Not Sell or Share" switch. If you have to find it to turn it off, it was on.
+Want a family location app that never sells your data?
+A different model: you pay, so your data doesn't have to
+That's the idea behind , a family location app from the team behind Surfshark, the VPN and privacy company.
+makes money one way: a subscription. That means there's no reason to sell your family's location, and it doesn't. You get the safety features families rely on, without the data trade.
+Real-time location sharing for the whole family, on iPhone and Android
+Arrival and departure alerts, so you know when they get to school or home
+SOS alerts for emergencies
+Auto-stop timers, so sharing ends when you want it to
+Driving safety with crash detection and a driving score for new drivers
+“A privacy-first location tracker that puts control back in your hands.”
 TechRadar
-Help new drivers
-become safer drivers
-HeyPolo’s driving safety features help families understand how new drivers are doing on the road, with a Driving Safety Score, driving insights and crash detection for every trip.
-Speed Monitoring. See how fast they’re driving
-Phone Use While Driving. See if they are distracted during a drive
-Crash Detection. HeyPolo detects serious car crashes
-Driving Safety Score. See how safely they drive with a safety score based on their driving behaviour
-9.4Safe driving
-+2.4
-Speeding0
-Distracted1
-Harsh braking1
-Rapid acceleration1
-Harsh cornering0
-Why families
-choose HeyPolo
-HeyPoloLife360Apple Find My
-Connections / groupsUnlimitedUp to 99Apple-only
-Device supportiOS & AndroidiOS & AndroidApple only
-PrivacyNo data soldData soldNo data sold
-Real-time location sharing
-Auto stop sharing (timers) Limited
-Arrival / departure alerts
-Safety alerts (SOS / emergencies)
-Driving behaviour
-Money-back guarantee(30 days) n/a
-Get your family
-set up in minutes
-1
-Download HeyPolo
-Available on iPhone and Android.
-2
-Create your family group
-Add the people you want to stay connected with.
-3
-Invite your family for free
-One subscription covers your whole family. No per-person fees.
-30 day money back guarantee
-Perfect for staying in touch with my older kid without overstepping
-CaseyStay at home mom
-Finally, an app that isn't creepy. I can share the general area I'm in and keep my parents happy
-SophieCollege student
-The app is so easy to use, everyone in the family, even grandma, can use it
-RobSales representative
-It gives me great peace of mind to know where my loved ones are without having to check in all the time
-DanielleReal estate agent
-So easy to use, my whole family got it set up in minutes
-KarenPhotographer
-Finally a location app that gives me peace of mind without the pressure of tracking
-DavidEvent organizer
-Love knowing my son is okay, without having to message him
-JamesConstruction manager
-4.7 ★ on App Store
-30-day money-back guarantee
-4.9 ★ on Google Play
-Trusted by families worldwide
-Built by the team behind Surfshark
-Ready to get started
-with HeyPolo?
-30 day money back guarantee
+Exclusive offer for readers: 75% off
+One subscription covers your whole family, from $2.99 a month. No per-person fees, and a 30-day money-back guarantee if it's not right for you.
+30-day money-back guarantee · We never sell your data
+4.7 ★ on App Store4.9 ★ on Google Play
+HeyPolo never sells your data · 75% off
