@@ -1,0 +1,69 @@
+Features
+Who It's For
+Compare
+Features
+Who It's For
+Compare
+FEATURES
+DRIVING FEATURES
+FOR WHO
+COMPARE
+COMPANY
+SOCIAL
+Copyright © 2026 HeyPolo / Surfshark. All rights reserved.
+Cookie settings
+Features
+Who It's For
+Compare
+Features
+Who It's For
+Compare
+FEATURES
+DRIVING FEATURES
+FOR WHO
+COMPARE
+COMPANY
+SOCIAL
+Car Insurance Went Up With No Tickets? Check Your Apps | HeyPolo
+Car Insurance Went Up With No Tickets? Check Your Apps
+Lawsuits say popular apps, including the family location app Life360, quietly collected driving data that ended up with insurers. Here's how it works.
+By the HeyPolo Team · November 2026 · 3 min read
+You installed a location sharing app to see when your kids get home. You probably didn't expect it to have anything to do with your car insurance bill.
+But according to two lawsuits against Allstate, a and a , apps like Life360, one of the most popular family location apps, were collecting how people drive (their speed, braking and phone use) and that data was used to price insurance.
+And driving data does move prices. One careful Seattle driver saw his premium jump 21% in 2022 after his driving data landed in a broker's report that eight insurers had checked (The New York Times, via ).
+Looking for a location sharing app that never sells your data?
+QUICK CHECK
+Do you know which apps on your phone share how you drive?
+Yes, I've checkedI don't think any doNo idea
+Nice work. Most people never look. Keep reading to see what lawsuits say some popular apps were sharing, and how HeyPolo handles your data differently.
+It's easy to assume that. But some family location, gas price and rewards apps have been named in lawsuits over driving data. Keep reading to see which ones, and how HeyPolo keeps your data private.
+You're not alone. This kind of sharing is usually buried in the fine print. Keep reading to learn how it works and how to check, and why HeyPolo never sells your data.
+Why location sharing apps are the perfect data source
+A location sharing app has permission to track your phone all day, every day. That's what makes it useful for families. It's also what makes it valuable to data companies.
+With the right software built in, an app like Life360 can tell when you're driving, how fast you go, how hard you brake and whether you pick up your phone. That turns into a driving score, and driving scores can be sold to insurers. Per Reuters, the federal case alleges Allstate tracked exactly these things through apps including Life360.
+The catch: a phone can't always tell whether you were driving or just a passenger.
+What the lawsuits say
+In January 2025, and its data company Arity. According to the lawsuit:
+Allstate paid app developers millions of dollars to build Arity's tracking software into their apps.
+Apps named include the family location app Life360, plus GasBuddy, Fuel Rewards and Allstate's own Routely.
+The data covered more than 45 million Americans and was allegedly used to raise premiums or deny coverage, and sold to other insurers.
+In March 2026, a federal judge ruled that a separate class action combining 15 lawsuits. Drivers there also allege their records included trips where they were only passengers.
+Allstate disputes the claims and says people share driving data through these apps only after a clear notice and an explicit opt-in. Both cases are ongoing.
+Check your apps in 2 minutes
+Open your location sharing app's privacy settings. Look for "driving data," "driving insights," "sharing with partners" or "Do Not Sell or Share," and switch it off.
+Request your driving report. Consumer reporting companies like LexisNexis and Verisk must give you a free copy of the file they keep on you. It shows whether driving data is on your record.
+Choose an app that doesn't sell your data. The simplest fix is a location app whose business doesn't depend on what it collects.
+Want a location sharing app that never sells your data?
+A location sharing app that isn't a data pipeline
+is a family location app from the team behind Surfshark, the VPN and privacy company. It's paid for by a subscription, not by advertisers, data brokers or insurers, so it never sells your family's location or driving data.
+Real-time location sharing for the whole family, on iPhone and Android
+Arrival and departure alerts, so you know when they reach school or get home
+Crash detection and a driving score for new drivers, shared only with your family
+Auto-stop timers, so sharing ends when you want it to
+“A privacy-first location tracker that puts control back in your hands.”
+TechRadar
+Exclusive offer for readers: 75% off
+One subscription covers your whole family, from $2.99 a month. No per-person fees, and a 30-day money-back guarantee.
+30-day money-back guarantee · We never sell your data
+4.7 ★ on App Store4.9 ★ on Google Play
+HeyPolo never sells your data · 75% off
